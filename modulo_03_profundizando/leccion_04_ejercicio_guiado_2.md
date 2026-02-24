@@ -1,34 +1,27 @@
 # Ejercicio guiado 2
 
-### Objetivos
-- Familiarizarse con la optimización de código Python.
-- Aprender a utilizar listas y diccionarios de forma eficiente.
+## Objetivos
+- Familiarizarse con la manipulación de listas y diccionarios en Python.
+- Aprender a utilizar bucles anidados para procesar datos complejos.
 
-### Contenido
-En esta lección profundizaremos en técnicas para optimizar el rendimiento del código Python. Es crucial entender cómo manejar datos estructurados de manera eficiente, especialmente cuando se trabaja con grandes volúmenes de información. Las listas y diccionarios son fundamentales en la programación Python, pero su uso no siempre es óptimo si no se comprenden completamente sus características y limitaciones.
+## Contenido
+En esta lección profundizaremos en el manejo avanzado de listas y diccionarios, dos estructuras de datos fundamentales en Python. Veremos cómo manipular estos objetos utilizando diversas funciones incorporadas y métodos propios de cada tipo de dato. Además, exploraremos la utilización de bucles anidados para procesar datos más complejos, como listas de diccionarios o viceversa.
 
-Un aspecto importante a considerar es la elección entre usar una lista o un diccionario dependiendo del tipo de operación que se vaya a realizar. Las listas son ideales para operaciones de búsqueda lineal, mientras que los diccionarios ofrecen acceso rápido a elementos mediante claves, lo cual puede ser crucial en aplicaciones donde la velocidad es un factor determinante.
+Para ilustrar estas técnicas, trabajaremos con un conjunto de datos que representa información sobre estudiantes, donde cada estudiante tiene varios atributos como nombre, edad y notas en diferentes materias. A través del uso de bucles anidados y funciones de Python, aprenderemos a recorrer esta estructura de datos para realizar cálculos estadísticos o extraer información específica.
 
-### Ejercicio
-Dado el siguiente código:
+## Ejercicio
+Dado el siguiente conjunto de datos representando estudiantes:
 
 ```python
-def contar_palabras(texto):
-    palabras = texto.split()
-    frecuencia = {}
-    for palabra in palabras:
-        if palabra in frecuencia:
-            frecuencia[palabra] += 1
-        else:
-            frecuencia[palabra] = 1
-    return frecuencia
-
-texto = "Este es un ejemplo de un texto para contar las palabras. Este texto tiene varias palabras repetidas y algunas no."
-print(contar_palabras(texto))
+estudiantes = [
+    {"nombre": "Juan", "edad": 18, "notas": [5, 6, 7]},
+    {"nombre": "María", "edad": 19, "notas": [4, 8, 9]},
+    {"nombre": "Carlos", "edad": 20, "notas": [3, 7, 8]}
+]
 ```
 
-Optimice el código anterior para mejorar su eficiencia, considerando la utilización adecuada de listas y diccionarios.
+Desarrolla un programa que calcule el promedio de notas de cada estudiante y devuelva una lista con los nombres de los estudiantes junto con sus respectivos promedios.
 
-### Resumen
-- Se aprendió a evaluar la elección entre usar listas o diccionarios según las operaciones necesarias.
-- Se optimizó un código existente para contar el número de ocurrencias de cada palabra en un texto, mejorando su eficiencia.
+## Resumen
+- Se aprendió a manipular listas y diccionarios en Python.
+- Se exploró la utilización de bucles anidados para procesar datos complejos.
