@@ -1,16 +1,11 @@
 # Diseño del proyecto
 
-Objetivos
-- Comprender los pasos fundamentales del diseño de proyectos en Python.
-- Identificar las etapas críticas para planificar un proyecto real.
+- Diseñar un flujo de trabajo básico para la implementación de un proyecto en Python.
+- Identificar y definir las necesidades del cliente o problema a resolver.
 
-Contenido
-En esta lección, se explorará el proceso de diseño de proyectos utilizando Python. Se enfatizará la importancia de definir claramente objetivos y requisitos antes de comenzar a codificar. Los estudiantes aprenderán a crear diagramas de flujo y esquemas para organizar su proyecto y facilitar la comunicación con otros miembros del equipo. Además, se discutirá cómo evaluar las necesidades del usuario final y cómo seleccionar las herramientas y bibliotecas más apropiadas para el proyecto.
+En esta lección se abordará el diseño inicial de un proyecto en Python, enfocándose en comprender los requisitos y estructurar el flujo de trabajo. Se explicarán las etapas clave para identificar las necesidades del cliente o el problema que se desea resolver con la aplicación o script en Python. Los estudiantes aprenderán a crear un diagrama de flujo básico y una especificación de requisitos mínimos, lo cual es fundamental antes de comenzar a codificar.
 
-Ejercicio
-Diseña un pequeño sistema de gestión de inventario utilizando Python. Primero, define los requisitos básicos del sistema, como la capacidad de agregar, eliminar y actualizar productos en el inventario. Luego, crea un diagrama de flujo que muestre cómo se interactúa con el sistema. Finalmente, escribe una breve descripción de las bibliotecas o frameworks que considerarías usar para implementar este proyecto.
+Ejercicio: El estudiante deberá identificar un problema específico (puede ser personal o de otra fuente) que pueda resolver con Python. Posteriormente, debe crear un diagrama de flujo básico y una lista de requisitos mínimos para este proyecto. Este ejercicio ayudará al estudiante a practicar la identificación del problema y el diseño inicial del proyecto.
 
-Resumen
-- Identificar claramente los requisitos y objetivos del proyecto.
-- Utilizar diagramas de flujo para organizar y planificar la lógica del programa.
-- Seleccionar las herramientas adecuadas para el desarrollo del proyecto.
+- Crear un diagrama de flujo básico.
+- Especificar los requisitos mínimos necesarios para el proyecto.
