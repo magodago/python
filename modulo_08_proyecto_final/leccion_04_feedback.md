@@ -1,12 +1,10 @@
 # Feedback
 
-- El estudiante comprenderá cómo solicitar y recibir feedback constructivo sobre su proyecto final de Python.
-- Aprenderá a implementar los comentarios recibidos para mejorar la calidad del código y la funcionalidad del proyecto.
+- El estudiante comprenderá cómo proporcionar y recibir feedback constructivo sobre su proyecto final de Python.
+- El estudiante aprenderá a evaluar los aspectos técnicos y funcionales del código, así como las mejores prácticas en programación y diseño de software.
 
-Para esta lección, los estudiantes deben prepararse para presentar sus proyectos finales y recibir feedback tanto oral como escrito. El objetivo es que comprendan cómo el feedback puede ser una herramienta valiosa para su aprendizaje continuo en Python. Se les recomendará que tomen nota de los comentarios recibidos y reflexionen sobre cómo pueden aplicarlos a futuros proyectos.
+El objetivo principal de esta lección es que el estudiante adquiera habilidades para dar y recibir feedback constructivo, lo cual es fundamental para mejorar su proyecto final de Python. A través de ejemplos y discusiones grupales, se explorarán los aspectos técnicos y funcionales del código, así como las mejores prácticas en programación y diseño de software. Se enfatizará la importancia de ser claro, específico y constructivo al proporcionar feedback.
 
-Ejercicio: Los estudiantes deberán presentar sus proyectos finales ante la clase, luego recibirán feedback tanto de sus compañeros como del profesor. Posteriormente, deben escribir una breve reflexión en la que resuman los comentarios recibidos y expliquen cómo planean implementarlos para mejorar su proyecto.
+Ejercicio: El estudiante recibirá un código Python que ha sido desarrollado por otro compañero del curso. Deberá analizar el código, identificar áreas de mejora y proporcionar feedback constructivo sobre las mejores prácticas que se podrían aplicar para mejorar la calidad y eficiencia del código.
 
-Resumen:
-- Los estudiantes aprenderán a manejar el feedback constructivamente.
-- Se enfatizará la importancia de aplicar los comentarios recibidos para mejorar el código y la funcionalidad del proyecto.
+Resumen - Se destacará la importancia del feedback en el proceso de aprendizaje y desarrollo de habilidades de programación. - Los estudiantes aprenderán a evaluar aspectos técnicos y funcionales del código, así como a aplicar mejores prácticas en programación y diseño de software.
