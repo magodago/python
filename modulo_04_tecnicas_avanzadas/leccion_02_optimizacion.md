@@ -1,41 +1,15 @@
 # Optimizacion
 
-### Objetivos
-- Comprender las técnicas de optimización en Python para mejorar la eficiencia del código.
-- Implementar algoritmos de optimización en programas prácticos.
+- Optimizar el rendimiento de los programas Python mediante la utilización eficiente de estructuras de datos.
+- Implementar técnicas de programación funcional para mejorar la eficiencia y legibilidad del código.
 
-### Contenido
-La optimización es crucial para mejorar el rendimiento y eficiencia de los programas escritos en Python. Una de las técnicas más efectivas es el uso de comprensiones de listas, que permiten crear listas de manera concisa y eficiente. Por ejemplo:
+Python es una potente herramienta que, al ser interpretada, necesita optimizaciones específicas para mejorar su rendimiento. Para abordar esto, se pueden utilizar varias estrategias. Una de ellas implica el uso adecuado de estructuras de datos como listas, diccionarios y conjuntos, seleccionando la más apropiada según las necesidades del programa. Por ejemplo, si se necesita acceder a elementos por clave, un diccionario es preferible a una lista. Además, comprender cómo Python maneja el reciclaje de memoria para estas estructuras puede optimizar el uso de recursos.
 
-```python
-# Sin comprensión de lista
-nueva_lista = []
-for i in range(10):
-    nueva_lista.append(i * 2)
-
-# Con comprensión de lista
-nueva_lista = [i * 2 for i in range(10)]
-```
-
-Además, el uso de decoradores como `lru_cache` puede acelerar significativamente la ejecución de funciones recursivas o que realizan cálculos intensivos. Por ejemplo:
-
-```python
-from functools import lru_cache
-
-@lru_cache(maxsize=32)
-def fib(n):
-    if n < 2:
-        return n
-    return fib(n-1) + fib(n-2)
-
-print(fib(30))
-```
-
-Estas técnicas permiten reducir el tiempo de ejecución y la complejidad del código, lo que resulta en un mejor rendimiento general.
+El segundo objetivo es familiarizarse con técnicas de programación funcional que pueden mejorar la eficiencia del código. Esto incluye el uso de funciones lambda y map/reduce para procesar listas de manera más eficiente, así como comprender cómo Python maneja las funciones como objetos y su uso en combinación con otras estructuras de datos.
 
 ### Ejercicio
-Escribe una función que calcule los primeros 50 números de la secuencia de Fibonacci utilizando comprensiones de listas. Luego, implementa la misma función usando el decorador `lru_cache` para optimizar el cálculo. Mide y compara el tiempo de ejecución de ambas versiones.
+Escribe un programa que calcule la suma de los primeros 1000 números pares utilizando una lista comprehension y luego usando map/reduce. Compara el rendimiento de ambos métodos utilizando `timeit` para ver cuál es más eficiente en tu entorno local.
 
 ### Resumen
-- La utilización de comprensiones de listas puede mejorar significativamente la eficiencia del código.
-- El uso del decorador `lru_cache` ayuda a acelerar funciones recursivas o intensivas en cálculos.
+- Seleccionar las estructuras de datos adecuadas según la necesidad del programa.
+- Utilizar técnicas de programación funcional como map/reduce y funciones lambda para mejorar la eficiencia.
