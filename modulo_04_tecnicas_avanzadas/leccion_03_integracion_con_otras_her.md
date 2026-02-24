@@ -1,11 +1,21 @@
 # Integracion con otras herramientas
 
-- Integrar Python con bases de datos SQL para automatizar tareas de análisis y manipulación de datos.
-- Utilizar bibliotecas externas como NumPy y Pandas junto con Python para realizar operaciones complejas en conjuntos de datos.
+### Objetivos
+- Comprender cómo integrar Python con otras herramientas de análisis de datos como NumPy y Pandas.
+- Aprender a utilizar bibliotecas externas para mejorar la funcionalidad de los programas en Python.
 
-Python, siendo un lenguaje de programación versátil, puede integrarse eficazmente con otras herramientas y tecnologías. En esta lección, se explorará cómo Python puede conectarse a bases de datos SQL utilizando módulos como `sqlite3` para bases locales o `psycopg2` para PostgreSQL, entre otros. Además, se profundizará en el uso de bibliotecas como NumPy y Pandas, que proporcionan funcionalidades avanzadas para el manejo y análisis de datos, permitiendo a los estudiantes realizar operaciones complejas con facilidad.
+### Contenido
+La integración de Python con otras herramientas es crucial para potenciar su capacidad de análisis y procesamiento de datos. En este módulo, se explorará cómo combinar Python con bibliotecas como NumPy y Pandas, que son fundamentales para el manejo eficiente de grandes conjuntos de datos. NumPy proporciona una estructura de array multidimensional y funciones matemáticas avanzadas, mientras que Pandas ofrece estructuras de datos más complejas y operaciones de manipulación de datos. A través del uso de estas bibliotecas, los estudiantes aprenderán a realizar tareas como la importación y exportación de datos, el procesamiento de datos en gran escala y la realización de análisis estadísticos.
 
-Para practicar, los alumnos deberán escribir un script Python que conecte a una base de datos SQL local, realice consultas y manipule la información recuperada utilizando Pandas. El objetivo es familiarizarlos con el flujo de trabajo desde la conexión hasta la visualización de resultados en forma de tablas o gráficos.
+Además, se presentarán ejemplos prácticos sobre cómo integrar Python con otras herramientas externas, como la utilización de la biblioteca Matplotlib para la visualización de datos. Esto permitirá a los estudiantes comprender mejor cómo Python puede ser una parte integral de un flujo de trabajo de análisis de datos más amplio.
 
-- Conexión a bases de datos SQL desde Python.
-- Uso de NumPy y Pandas para análisis de datos complejos.
+### Ejercicio
+Implemente un programa en Python que:
+1. Cargue un conjunto de datos desde un archivo CSV utilizando Pandas.
+2. Realice una transformación simple en los datos (por ejemplo, calcular el promedio de ciertas columnas).
+3. Utilice Matplotlib para visualizar los resultados obtenidos.
+
+### Resumen
+- Se destacará la importancia de integrar Python con otras herramientas para mejorar su funcionalidad.
+- Los estudiantes aprenderán a utilizar NumPy y Pandas para manejar datos eficientemente.
+- El ejercicio práctico permitirá aplicar conocimientos sobre la visualización de datos.
