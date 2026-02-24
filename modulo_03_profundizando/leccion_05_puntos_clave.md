@@ -1,13 +1,11 @@
 # Puntos clave
 
-- Comprender la utilización avanzada de decoradores en Python.
-- Implementar y aplicar context managers para mejorar la gestión de recursos.
+- Dominar la utilización de listas y diccionarios para manejo de datos complejos.
+- Implementar funciones recursivas y comprensión de listas para optimizar código.
 
-La lección se centrará en el uso avanzado de decoradores y la implementación de context managers, herramientas fundamentales que permiten mejorar la funcionalidad y eficiencia del código. Los decoradores son una forma elegante de modificar o extender las funciones existentes sin alterar su estructura original. En esta lección se explorará cómo crear y aplicar decoradores personalizados para tareas como el control de acceso, el registro de actividad o la medición de tiempo de ejecución.
+Las listas y los diccionarios son estructuras de datos fundamentales en Python que permiten el manejo eficiente de datos complejos. Las listas son colecciones ordenadas y mutables de elementos, mientras que los diccionarios son colecciones desordenadas de pares clave-valor. Estas estructuras facilitan la manipulación de grandes conjuntos de datos y permiten acceso rápido a información mediante claves específicas.
 
-Los context managers son clases que implementan los métodos `__enter__` y `__exit__`, lo que permite manejar recursos en un bloque de código de manera eficiente. Esta lección enseñará cómo crear y usar context managers para gestionar recursos como archivos o conexiones a bases de datos, asegurando su correcto cierre al finalizar el bloque.
+Para practicar, escribe una función que use comprensión de listas para filtrar números primos de una lista dada y otra función recursiva que calcule el factorial de un número. Asegúrate de incluir comentarios en tu código para explicar su funcionamiento.
 
-Para practicar, los estudiantes deberán desarrollar un decorador que mida el tiempo de ejecución de una función y otro que registre las llamadas a otra función. Además, se les pedirá que implementen un context manager para gestionar la apertura y cierre de archivos, asegurándose de que el archivo se cierra correctamente incluso si ocurren errores durante su uso.
-
-- Crear y aplicar decoradores personalizados.
-- Implementar y usar context managers para la gestión de recursos.
+- Comprender la utilidad de las listas y diccionarios.
+- Implementar funciones recursivas y comprensión de listas.
