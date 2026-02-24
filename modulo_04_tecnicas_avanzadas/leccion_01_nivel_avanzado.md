@@ -1,11 +1,17 @@
 # Nivel avanzado
 
-- Dominar la optimización de código mediante el uso de decoradores y comprensiones de listas.
-- Implementar técnicas avanzadas para manejo eficiente de excepciones y errores en programas Python.
+### Objetivos
+- Familiarizar al estudiante con la optimización de código utilizando técnicas avanzadas de Python.
+- Introducir conceptos como la programación funcional y su aplicación en soluciones complejas.
 
-Python es un lenguaje de programación versátil que permite a los desarrolladores implementar soluciones complejas con una sintaxis clara. En este nivel avanzado, se enfatiza la optimización del código mediante el uso de decoradores y comprensiones de listas. Los decoradores son una forma elegante de modificar funcionalidades de funciones o métodos sin alterar su estructura original, lo que permite reutilizar código y mejorar la legibilidad. Las comprensiones de listas ofrecen un modo conciso para crear listas basadas en secuencias existentes, lo que puede mejorar significativamente el rendimiento del programa.
+### Contenido
+La lección se centrará en el uso de técnicas avanzadas para mejorar la eficiencia y legibilidad del código. Se explorarán herramientas como la programación funcional, que permite manipular datos de manera más flexible y concisa. Se explicarán conceptos clave como las funciones lambda, map(), filter() y reduce(). Estas herramientas permiten trabajar con secuencias de datos de forma eficiente sin necesidad de bucles explícitos, lo cual puede mejorar significativamente el rendimiento del código.
 
-Para ejemplificar esto, los estudiantes deberán optimizar un script que procesa grandes cantidades de datos utilizando comprensiones de listas y decoradores personalizados. El ejercicio consiste en escribir una función decoradora que mide el tiempo de ejecución de diferentes partes del código y aplicarla a una comprensión de lista que filtra números primos de una lista grande.
+Además, se discutirá la optimización de código mediante la utilización de decoradores para modificar comportamientos de funciones y clases. Se mostrarán ejemplos prácticos donde los decoradores pueden ser utilizados para loggear, medir tiempos de ejecución o implementar comportamientos de cache.
 
-- Comprender la implementación efectiva de decoradores para medir rendimiento.
-- Utilizar comprensiones de listas para mejorar la eficiencia del procesamiento de datos.
+### Ejercicio
+Escriba una función que calcule el factorial de un número utilizando `reduce()` junto con una función lambda. Luego, utilice un decorador personalizado para loggear la entrada y salida de esta función. Pruebe su solución con varios valores y verifique que los resultados sean correctos.
+
+### Resumen
+- Se aprendió a utilizar técnicas funcionales como `map()`, `filter()` y `reduce()` para manipular datos eficientemente.
+- Se introdujo el uso de decoradores para mejorar la reutilización y mantenibilidad del código.
