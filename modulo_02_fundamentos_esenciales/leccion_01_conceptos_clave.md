@@ -2,20 +2,33 @@
 
 ## Objetivos
 - Comprender los conceptos fundamentales de Python.
-- Familiarizarse con la sintaxis básica y estructuras de datos.
+- Familiarizarse con la sintaxis básica y las características esenciales del lenguaje.
 
 ## Contenido
-En esta lección, se explorarán los conceptos esenciales que forman parte del lenguaje de programación Python. Se iniciará con una introducción a la sintaxis básica, incluyendo cómo escribir y ejecutar un programa simple en Python. Posteriormente, se profundizará en el uso de variables y tipos de datos primitivos, así como en las operaciones aritméticas y lógicas más comunes.
+Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis clara y concisa lo hace ideal para principiantes en programación. Las variables en Python son dinámicas, lo que significa que no se necesita declarar el tipo de dato al asignar un valor a una variable; Python determina el tipo automáticamente.
 
-Además, se presentarán las estructuras de datos más utilizadas en Python, como listas y diccionarios, junto con sus métodos y operaciones típicas. Estos conceptos son cruciales para cualquier programador que desee dominar el uso de Python eficientemente.
+Las estructuras de control básicas incluyen if-elif-else y bucles for y while, permitiendo la ejecución condicional del código y la iteración sobre secuencias. Las funciones en Python son objetos de primera clase, lo que significa que pueden ser asignadas a variables, pasadas como argumentos a otras funciones y retornadas como valores.
 
 ## Ejercicio
-Escribe un programa simple en Python que realice lo siguiente:
-1. Solicite al usuario ingresar su nombre.
-2. Almacene ese nombre en una variable llamada `nombre`.
-3. Imprima un mensaje de saludo personalizado, como "¡Hola, [nombre]! ¿Cómo estás?"
+Escribe un programa simple que solicite al usuario su nombre y edad, luego imprima un mensaje personalizado. Utiliza una función para pedir el nombre y otra para calcular si la persona es mayor de edad (21 años o más).
+
+```python
+def obtener_nombre():
+    return input("Por favor, introduce tu nombre: ")
+
+def es_mayor_de_edad(edad):
+    return edad >= 21
+
+nombre = obtener_nombre()
+edad = int(input("Introduce tu edad: "))
+
+if es_mayor_de_edad(edad):
+    print(f"¡{nombre}, eres mayor de edad!")
+else:
+    print(f"Lo siento, {nombre}. Aún no eres mayor de edad.")
+```
 
 ## Resumen
-- Sintaxis básica y primeros pasos con Python.
-- Variables, tipos de datos primitivos y operaciones aritméticas y lógicas.
-- Estructuras de datos básicas: listas y diccionarios.
+- Python es un lenguaje de programación interpretado y de alto nivel.
+- Las variables en Python son dinámicas y la sintaxis es clara.
+- Las funciones son objetos de primera clase y se pueden utilizar como cualquier otro objeto.
