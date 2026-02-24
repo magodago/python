@@ -1,18 +1,11 @@
 # Checklist final
 
-- Mejorar la capacidad del estudiante para identificar y resolver problemas comunes en Python.
-- Optimizar el rendimiento de programas Python mediante técnicas y herramientas adecuadas.
+- Mejorar la eficiencia y optimización del código escrito en Python.
+- Identificar y corregir posibles errores o problemas de rendimiento en programas de Python.
 
-Python es un lenguaje de programación versátil, pero como cualquier otro sistema informático, puede presentar problemas que deben ser abordados. Para garantizar la eficiencia y funcionalidad del código, es crucial tener en cuenta varios aspectos al desarrollar programas Python. En este checklist final, se revisan los puntos más importantes a considerar para asegurar un desempeño óptimo.
+En esta lección final sobre troubleshooting y rendimiento, se abordará un checklist que los estudiantes deben seguir para asegurarse de que su código Python esté funcionando correctamente y de manera eficiente. El checklist incluirá pasos como la revisión de la sintaxis, el uso adecuado de estructuras de control, la gestión de memoria, la optimización del uso de bucles y funciones, así como la utilización de bibliotecas y módulos para mejorar el rendimiento.
 
-1. **Verificación de sintaxis**: Antes de ejecutar cualquier script, es fundamental comprobar la sintaxis del código. Los errores de sintaxis pueden ser fáciles de detectar con herramientas como PyLint o Flake8, que proporcionan feedback sobre posibles problemas y mejoras en el código.
+El ejercicio propuesto es que los estudiantes deben seleccionar un programa Python previamente escrito por ellos o proporcionado en clase. Deben realizar una revisión exhaustiva utilizando el checklist y documentar cada paso del proceso, incluyendo las correcciones realizadas y las mejoras aplicadas para optimizar el rendimiento.
 
-2. **Uso eficiente de memoria**: Python puede ser lento si no se maneja adecuadamente la memoria. Algunas técnicas clave incluyen liberar recursos innecesarios, utilizar listas en lugar de diccionarios para datos estáticos, y evitar ciclos innecesarios que consuman muchos recursos.
-
-3. **Optimización del rendimiento**: Para mejorar el rendimiento, se puede recurrir a la utilización de bibliotecas como NumPy o Pandas para operaciones matemáticas intensivas. Además, la implementación de algoritmos eficientes y la minimización de llamadas a funciones innecesarias pueden contribuir significativamente.
-
-4. **Pruebas unitarias**: Es crucial realizar pruebas unitarias para asegurar que cada parte del código funcione correctamente. Las bibliotecas como pytest facilitan la creación y ejecución de estas pruebas, lo que ayuda a identificar problemas temprano en el proceso de desarrollo.
-
-Ejercicio: El estudiante debe seleccionar un programa Python previamente desarrollado y aplicar los puntos del checklist final para optimizar su rendimiento. Deben documentar cada paso realizado y las mejoras observadas en el código.
-
-- Puntos clave: Verificación sintáctica, gestión eficiente de la memoria, optimización del rendimiento mediante bibliotecas y algoritmos, pruebas unitarias.
+- Los estudiantes aprenderán a utilizar un checklist sistemático para resolver problemas de Python.
+- Se enfatizará la importancia de la optimización en el código para mejorar el rendimiento.
