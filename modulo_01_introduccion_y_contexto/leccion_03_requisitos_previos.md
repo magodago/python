@@ -1,11 +1,11 @@
 # Requisitos previos
 
 - Comprender los requisitos previos necesarios antes de comenzar a aprender Python.
-- Identificar las habilidades y conocimientos básicos que se requieren para iniciarse con la programación en Python.
+- Identificar las habilidades y conocimientos básicos que facilitan la adquisición del lenguaje de programación.
 
-Python es una potente herramienta de programación versátil utilizada en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, entre otros. Antes de sumergirse en el estudio de este lenguaje, es importante tener un cierto nivel de familiaridad con conceptos básicos de programación, como la sintaxis y estructuras de control (bucles, condicionales), así como conocimientos sobre variables y tipos de datos. Aunque Python tiene una curva de aprendizaje relativamente suave, contar con estas habilidades previas facilitará el proceso de adquisición del lenguaje.
+En esta lección, se explorará el panorama general de Python, destacando su versatilidad y amplia gama de aplicaciones. Se presentarán los requisitos previos recomendados para iniciarse en el aprendizaje de este lenguaje, incluyendo conocimientos básicos de programación y familiaridad con conceptos fundamentales como variables, estructuras de datos y control de flujo. Estos elementos servirán de base para facilitar una comprensión más profunda y rápida del funcionamiento de Python.
 
-Para practicar estos conceptos básicos, se recomienda que los estudiantes intenten escribir un pequeño programa que solicite al usuario ingresar su nombre y edad, luego imprima una frase personalizada. Este ejercicio permitirá a los alumnos aplicar sus conocimientos sobre entrada de datos, variables y operaciones con números.
+Para practicar, los estudiantes deberán realizar un breve cuestionario sobre sus conocimientos previos en programación. El cuestionario constará de preguntas básicas sobre variables, operadores aritméticos y estructuras condicionales, con la finalidad de identificar áreas de fortaleza y posibles áreas de mejora.
 
-- Familiaridad con conceptos básicos de programación.
-- Capacidad para escribir un programa simple en Python.
+- Identificar los conceptos previos necesarios para aprender Python.
+- Realizar un breve cuestionario sobre conocimientos previos en programación.
