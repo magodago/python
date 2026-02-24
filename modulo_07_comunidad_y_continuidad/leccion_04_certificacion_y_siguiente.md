@@ -1,11 +1,11 @@
 # Certificacion y siguiente nivel
 
-- Comprender los requisitos y beneficios de la certificación en Python.
-- Explorar las posibilidades de desarrollo profesional después de obtener la certificación.
+- Comprender los pasos y recursos necesarios para obtener la certificación en Python.
+- Explorar las oportunidades de aprendizaje continuo después de obtener la certificación.
 
-En esta lección sobre "Certificación y siguiente nivel" del módulo "Comunidad y continuidad", se abordará el valor de obtener una certificación en Python, destacando cómo puede mejorar tu perfil profesional y abrir nuevas oportunidades. Se explicarán los diferentes tipos de certificaciones disponibles, su importancia en el mercado laboral y las habilidades específicas que son evaluadas durante la certificación. Además, se discutirá cómo una certificación puede servir como punto de partida para avanzar a niveles más altos de conocimiento y responsabilidad en proyectos de Python.
+En esta lección, se abordará el proceso de obtención de una certificación en Python, destacando la importancia de esta certificación en el ámbito laboral y profesional. Se discutirá cómo elegir entre diferentes tipos de certificaciones disponibles, como la certificación de Python Institute o la certificación oficial de Google para Python. Además, se explorará la importancia de mantenerse actualizado con las últimas tendencias y tecnologías en Python a través de cursos avanzados, workshops, y participación en proyectos open source.
 
-Para practicar, los estudiantes deberán buscar información sobre las certificaciones oficiales de Python ofrecidas por organizaciones reconocidas. Deben identificar al menos tres certificaciones relevantes, describir brevemente cada una y evaluar cómo podrían beneficiarse personalmente de obtener alguna de ellas.
+Para practicar estos conceptos, los estudiantes deberán elegir una certificación en Python que les interese y elaborar un plan detallado para obtenerla. Este plan debe incluir el estudio necesario, la preparación para las pruebas, y cómo mantenerse actualizados con nuevas tecnologías después de obtener la certificación.
 
-- Comprender la relevancia de la certificación en el mercado laboral.
-- Identificar las habilidades evaluadas durante la certificación.
+- Entender los beneficios de obtener una certificación en Python.
+- Crear un plan personalizado para obtener una certificación y mantenerse actualizado.
