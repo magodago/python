@@ -1,11 +1,11 @@
 # Diagnostico
 
-- Comprender los métodos básicos de diagnóstico y depuración en Python.
-- Identificar y corregir errores comunes en el código.
+- Comprender los métodos básicos de diagnóstico de errores en Python.
+- Identificar y corregir problemas comunes relacionados con rendimiento en programas de Python.
 
-Python es un lenguaje de programación versátil que, aunque tiene una sintaxis relativamente sencilla, puede presentar problemas de rendimiento y errores que requieren diagnóstico. Para mejorar la eficiencia del código y resolver problemas, es crucial conocer cómo identificar y corregir estos errores. Los métodos básicos incluyen el uso de herramientas de depuración internas como `pdb`, la implementación de pruebas unitarias con `unittest` o `pytest`, y la utilización de perfiles de rendimiento para analizar la eficiencia del código.
+La lección se centrará en el diagnóstico de errores y problemas de rendimiento en el lenguaje de programación Python. Se explicarán técnicas para identificar errores comunes, como excepciones no manejadas o bucles infinitos, y cómo utilizar herramientas de depuración integradas en los entornos de desarrollo populares. Además, se discutirán métodos para optimizar el rendimiento de las aplicaciones Python, incluyendo la selección adecuada de estructuras de datos y algoritmos.
 
-Para ilustrar estos conceptos, los estudiantes deberán corregir un pequeño script que calcula la suma de los primeros 1000 números enteros. El código inicial tiene varios errores, incluyendo problemas de sintaxis y lógicos. Los alumnos deben identificar y corregir estos errores utilizando las herramientas mencionadas.
+Para practicar estos conceptos, los estudiantes deberán identificar y corregir un conjunto de errores en un código Python proporcionado. El ejercicio consistirá en analizar el código, ejecutarlo para observar los resultados inesperados, depurar el código utilizando un entorno de desarrollo integrado (IDE) y finalmente optimizar la solución para mejorar su eficiencia.
 
-- Familiarizarse con el uso de `pdb` para depurar scripts.
-- Implementar pruebas unitarias básicas para asegurar que el código funcione correctamente.
+- Familiaridad con técnicas de diagnóstico de errores.
+- Capacidad para optimizar el rendimiento de programas Python.
