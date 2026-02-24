@@ -1,32 +1,15 @@
 # Despliegue
 
-- Entender los conceptos básicos de despliegue web para aplicaciones Python.
-- Aprender a configurar un servidor local utilizando Flask o Django.
+- Entender los conceptos básicos de despliegue de aplicaciones Python.
+- Aprender a utilizar un entorno virtual y herramientas de gestión de paquetes para preparar la aplicación antes del despliegue.
 
-## Contenido
-En esta lección del módulo Proyectos reales, nos enfocaremos en el despliegue de nuestras aplicaciones Python. El despliegue es crucial para que nuestro código funcione eficientemente en entornos externos a nuestra máquina de desarrollo. Usaremos Flask y Django como frameworks web para demostrar cómo configurar un servidor local. Flask es una herramienta ligera y flexible, ideal para proyectos pequeños o prototipos rápidos. Por otro lado, Django ofrece características más avanzadas y estándares robustos, perfecto para aplicaciones de mayor complejidad.
+Para el despliegue de una aplicación Python, es crucial tener en cuenta varios aspectos clave. En primer lugar, se recomienda el uso de un entorno virtual para aislar las dependencias de la aplicación de las del sistema operativo. Esto asegura que la aplicación funcione correctamente incluso si otros proyectos o aplicaciones utilizan versiones diferentes de los mismos paquetes. Además, es importante utilizar herramientas como `pip` y `virtualenv` (o `venv` en Python 3.3+) para gestionar las dependencias del proyecto.
 
-Para configurar el servidor local con Flask, primero instalaremos las dependencias necesarias a través del archivo `requirements.txt`. Luego, creamos un simple archivo `app.py` que define nuestro servidor web. Usando comandos como `flask run`, podremos ejecutar nuestra aplicación en un servidor local y verla funcionar en el navegador.
+En segundo lugar, se deben preparar los archivos necesarios para el despliegue, como el archivo `requirements.txt`, que lista todas las dependencias de la aplicación, y el archivo `setup.py`, que define cómo instalar la aplicación. Estos archivos facilitan el proceso de despliegue en diferentes entornos.
 
-## Ejercicio
-Configura un proyecto Flask básico siguiendo los siguientes pasos:
-1. Crea un nuevo directorio para tu proyecto.
-2. Instala Flask usando pip: `pip install flask`.
-3. Crea un archivo `app.py` con el siguiente contenido:
-   ```python
-   from flask import Flask
+### Ejercicio
+Despliega una pequeña aplicación Python en un servidor local utilizando un entorno virtual. Primero, crea un entorno virtual y asegúrate de que las dependencias especificadas en `requirements.txt` se instalan correctamente. Luego, configura un archivo `setup.py` para la aplicación e implementa el despliegue.
 
-   app = Flask(__name__)
-
-   @app.route('/')
-   def hello_world():
-       return '¡Hola, mundo!'
-
-   if __name__ == '__main__':
-       app.run()
-   ```
-4. Ejecuta tu aplicación con `flask run` y verifica que funcione en el navegador.
-
-## Resumen
-- Se aprendió a configurar un servidor local para una aplicación Flask.
-- Se destacó la importancia del despliegue en el ciclo de vida de un proyecto Python.
+### Resumen
+- El uso de entornos virtuales es crucial para garantizar la consistencia y seguridad del despliegue.
+- Los archivos `requirements.txt` y `setup.py` son fundamentales para preparar la aplicación antes del despliegue.
