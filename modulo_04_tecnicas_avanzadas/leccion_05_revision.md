@@ -1,15 +1,31 @@
 # Revision
 
 ## Objetivos
-- Analizar y optimizar el uso de decoradores en Python.
-- Implementar técnicas avanzadas de programación funcional.
+- Comprender y aplicar técnicas avanzadas de programación en Python.
+- Analizar y optimizar código existente utilizando métodos de programación funcional.
 
 ## Contenido
-En esta lección, profundizaremos en las capacidades más avanzadas que ofrece Python para mejorar la eficiencia y legibilidad del código. Los decoradores son una herramienta poderosa que permite modificar el comportamiento de funciones o métodos sin alterar su estructura original. Además, introduciremos técnicas de programación funcional, como la utilización de funciones lambda y comprensión de listas, para abordar problemas complejos de manera más concisa.
+En esta lección, se revisará el uso de funciones lambda y comprensión de listas para mejorar la eficiencia del código. Se explorará cómo estas técnicas pueden ser utilizadas en situaciones donde el rendimiento es crítico. Además, se discutirá la importancia de la programación funcional en Python y cómo se puede aplicar para resolver problemas complejos de manera más concisa y legible.
+
+Se analizarán ejemplos prácticos donde se compara el uso de funciones lambda con funciones normales, demostrando ventajas como la reducción del código y la mejora de la velocidad de ejecución. También se revisará cómo las listas comprehension pueden ser utilizadas para filtrar y transformar datos en una sola línea, lo que puede resultar en un código más limpio y eficiente.
 
 ## Ejercicio
-Implementa un decorador que mide el tiempo de ejecución de una función y lo imprima en consola. Luego, aplica este decorador a al menos tres funciones diferentes: una que calcule la suma de los primeros 1000 números naturales, otra que genere una lista con los cuadrados de los primeros 50 números y una tercera que realice una operación recursiva para calcular el factorial de un número.
+Reescribe el siguiente código utilizando funciones lambda y comprensión de listas:
+
+```python
+# Código original
+def squares(nums):
+    result = []
+    for num in nums:
+        result.append(num * num)
+    return result
+
+numbers = [1, 2, 3, 4]
+print(squares(numbers))
+```
+
+Utiliza funciones lambda y comprensión de listas para reescribir la función `squares` y mostrar los resultados.
 
 ## Resumen
-- Los decoradores son herramientas esenciales para modificar funcionalidades de funciones o métodos.
-- La programación funcional, con técnicas como las funciones lambda y la comprensión de listas, permite abordar problemas complejos de manera más concisa.
+- Las funciones lambda y las listas comprehension son herramientas poderosas que pueden mejorar el rendimiento del código.
+- La programación funcional en Python puede ayudar a resolver problemas complejos de manera más concisa y legible.
