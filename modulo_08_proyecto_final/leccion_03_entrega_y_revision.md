@@ -1,17 +1,11 @@
 # Entrega y revision
 
-Objetivos
-- Entender los aspectos importantes a considerar durante la entrega y revisión del proyecto final.
-- Desarrollar habilidades para proporcionar y recibir comentarios constructivos sobre el código Python.
+- Entender los criterios de evaluación del proyecto final.
+- Practicar la presentación y defensa oral del proyecto desarrollado.
 
-Contenido
-Durante esta lección, se enfocará en el proceso de entrega y revisión del proyecto final. Se discutirá cómo prepararse adecuadamente para la entrega, incluyendo la documentación clara y la presentación del código. También se abordarán técnicas efectivas para recibir y procesar los comentarios de los compañeros y el instructor, con el fin de mejorar la calidad del trabajo final.
+En esta lección se abordará el proceso de entrega y revisión del proyecto final, enfocándose en dos aspectos cruciales: los criterios de evaluación y la presentación efectiva. Es importante que comprendas qué elementos serán evaluados para poder optimizar tu rendimiento. Además, aprenderás técnicas para presentar y defender oralmente tu trabajo, lo cual es fundamental para una buena calificación.
 
-Se resaltarán aspectos importantes como la importancia de la claridad en la comunicación, la comprensión mutua durante las revisiones grupales, y la utilización de herramientas colaborativas para facilitar el proceso. Se explicará cómo los comentarios constructivos pueden ser valiosos tanto para el aprendizaje individual como para el desarrollo del equipo.
+Para practicar estos aspectos, realiza una simulación de entrega del proyecto final ante un grupo de compañeros. Selecciona a tres colegas que actuarán como evaluadores ficticios y presenta tu proyecto, siguiendo la estructura de presentación que se ha discutido en clase. Trata de responder a cualquier pregunta o crítica con calma y profesionalidad.
 
-Ejercicio
-Practique la entrega y revisión de un proyecto final simulado en grupo. Cada estudiante presentará su proyecto, seguido por una sesión de revisiones en grupo donde se intercambiarán comentarios constructivos sobre el código utilizado, las prácticas de documentación y otros aspectos relevantes del trabajo.
-
-Resumen
-- Se destacó la importancia de prepararse adecuadamente para la entrega y revisión.
-- Se enfatizó la necesidad de comunicación clara y la capacidad de recibir y procesar comentarios constructivos.
+- Familiarizarse con los criterios de evaluación.
+- Practicar la defensa oral del trabajo.
