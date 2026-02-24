@@ -1,18 +1,15 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos fundamentales de Python.
-- Familiarizarse con la sintaxis básica y estructuras de control.
+- Comprender los conceptos básicos de Python.
+- Familiarizarse con la sintaxis y estructura del lenguaje.
 
 ## Contenido
-En esta lección se introducirá a los estudiantes en los conceptos esenciales de Python, un lenguaje de programación de alto nivel que se destaca por su claridad y simplicidad. Se explicará cómo Python utiliza indentación para delimitar bloques de código, distinguiéndose de otros lenguajes que utilizan llaves o paréntesis. Además, se explorarán las variables y tipos de datos básicos en Python, incluyendo enteros, flotantes, cadenas y booleanos, ilustrando cómo se declaran y se manipulan.
-
-Se presentará también la estructura condicional `if-elif-else`, que permite tomar decisiones basadas en condiciones. Se proporcionarán ejemplos prácticos de cómo usar estas estructuras para resolver problemas simples, como verificar si un número es par o impar.
+Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis clara y concisa facilita el desarrollo de programas complejos sin sacrificar la legibilidad. Los fundamentos clave incluyen variables, tipos de datos básicos (como enteros, cadenas y flotantes), operadores aritméticos y lógicos, y estructuras de control como condicionales (`if`, `elif`, `else`) y bucles (`for`, `while`). Estas herramientas forman la base sobre las cuales se construyen programas más avanzados.
 
 ## Ejercicio
-Escribe un programa simple en Python que solicite al usuario ingresar su edad y determine si la persona es menor de 18 años, mayor igual a 18 pero menor de 65, o mayor o igual a 65. Utiliza la estructura condicional `if-elif-else` para mostrar diferentes mensajes según la categoría de edad.
+Escribe un programa simple que solicite al usuario su nombre y edad, luego imprima una frase de saludo personalizado. Utiliza variables para almacenar el nombre y la edad ingresados por el usuario, y asegúrate de manejar los tipos de datos adecuadamente (por ejemplo, convertir la entrada del usuario a un tipo numérico si es necesario).
 
 ## Resumen
-- Python utiliza indentación para delimitar bloques de código.
-- Se introdujeron variables y tipos de datos básicos en Python.
-- Las estructuras condicionales permiten tomar decisiones basadas en condiciones.
+- Python es un lenguaje interpretado con una sintaxis clara.
+- Los fundamentos incluyen variables, tipos de datos básicos y estructuras de control.
