@@ -1,12 +1,13 @@
 # Conclusiones
 
-- Consolidar los conocimientos adquiridos durante el curso de Python.
-- Aplicar los conceptos aprendidos para la resolución de problemas complejos mediante un proyecto final.
+- Concluye el proyecto final de Python, reflejando la aplicación práctica de los conceptos estudiados.
+- Analiza las fortalezas y debilidades del código desarrollado, identificando áreas para mejorar o optimizar.
 
-En esta lección final del módulo sobre Proyecto Final, se enfatizará la importancia de integrar todos los aspectos teóricos y prácticos estudiados durante el curso. Se discutirá cómo aplicar estructuras de datos avanzadas, programación orientada a objetos, manejo de excepciones, y optimización de código en un proyecto real. Se resaltarán las mejores prácticas para la documentación del código y la presentación de resultados.
+En esta lección, se revisarán los aspectos más relevantes del proyecto final de Python. Se discutirá cómo se aplicaron los conceptos teóricos a una situación práctica, permitiendo un análisis detallado del desempeño del código desarrollado. Se explorará la eficiencia y legibilidad del código, así como su capacidad para resolver el problema propuesto. Además, se identificarán áreas donde el proyecto puede ser mejorado o optimizado, proporcionando recomendaciones específicas para futuros proyectos.
 
-Para este ejercicio final, los alumnos deberán desarrollar una aplicación que permita gestionar una biblioteca digital. La aplicación debe incluir funcionalidades como el registro de usuarios, búsqueda de libros por título o autor, préstamo y devolución de libros, y generación de informes estadísticos sobre la actividad de prestatarios. Los estudiantes deben utilizar los conceptos aprendidos para estructurar su código de manera eficiente y modular.
+Para practicar estos conceptos, los estudiantes deberán presentar una presentación breve de 5-7 minutos sobre sus conclusiones del proyecto final. La presentación debe incluir un resumen general del proyecto, las decisiones técnicas tomadas y los resultados obtenidos. Los estudiantes también deben identificar al menos dos aspectos que podrían mejorar en futuros proyectos.
 
-Los puntos clave a resumir son:
-- Integración efectiva de todos los conceptos estudiados.
-- Uso adecuado de buenas prácticas en programación y documentación.
+Los puntos clave a recordar son:
+- El análisis detallado de la implementación del proyecto.
+- La identificación de áreas para mejora y optimización.
+- La presentación de conclusiones y aprendizajes obtenidos.
