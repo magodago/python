@@ -1,12 +1,13 @@
 # Mantenimiento
 
-- Comprender los conceptos básicos de mantenimiento de código en Python.
-- Identificar y corregir errores comunes para mejorar la calidad del código existente.
+- Aprender a realizar pruebas de unidad y integración en proyectos Python.
+- Comprender la importancia del control de versiones mediante Git para mantener proyectos.
 
-El mantenimiento de código es una parte crucial del desarrollo de software, especialmente cuando se trata de proyectos a largo plazo. En este módulo, se enfatizará la importancia de mantener el código bien documentado y organizado, lo cual facilita su comprensión y modificación futura. Se abordarán técnicas como la revisión de código, la detección de errores utilizando herramientas de depuración y pruebas unitarias, y la optimización del rendimiento del programa.
+En esta lección se abordará cómo garantizar que un proyecto Python funcione correctamente a lo largo del tiempo. Se tratarán las técnicas de pruebas, desde pruebas unitarias hasta pruebas de integración, y cómo implementarlas en el flujo de trabajo de desarrollo. Además, se explicará la importancia de utilizar Git para controlar y documentar los cambios realizados en el código, facilitando así el mantenimiento del proyecto.
 
-Para practicar estos conceptos, los alumnos deberán realizar una revisión de un código existente que implementa una calculadora básica en Python. El objetivo es identificar posibles errores o áreas de mejora en el código y proponer soluciones para mejorar su calidad. Los estudiantes deben documentar sus hallazgos y presentar un informe resumido con las correcciones realizadas.
+El objetivo es que los estudiantes puedan asegurarse de que su software siga funcionando correctamente incluso después de realizar modificaciones o añadir nuevas funcionalidades. Se proporcionará un ejemplo práctico donde se creará una aplicación sencilla y se implementarán pruebas unitarias e integración para garantizar la calidad del código.
 
-- Mejorar la documentación del código.
-- Identificar y corregir errores en el código existente.
-- Proporcionar una revisión detallada y propuestas de mejora.
+Ejercicio: Crear un proyecto simple con Git y realizar pruebas unitarias e integración utilizando bibliotecas como `unittest` o `pytest`. Documentar los cambios realizados en cada commit y explicar cómo se pueden revertir si es necesario.
+
+- Comprender el uso de pruebas para mantener la calidad del código.
+- Aprender a utilizar Git para controlar versiones y documentar cambios.
