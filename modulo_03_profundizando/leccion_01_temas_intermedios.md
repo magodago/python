@@ -1,11 +1,16 @@
 # Temas intermedios
 
-- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
-- Aprender a trabajar con context managers para gestionar recursos eficientemente.
+- Comprender la utilización avanzada de las listas y diccionarios.
+- Implementar funciones recursivas y comprensión de listas.
 
-Python es un lenguaje de programación versátil que ofrece características avanzadas para mejorar la eficiencia y claridad del código. En esta lección, profundizaremos en dos temas intermedios: decoradores y context managers. Los decoradores son una forma elegante de modificar funcionalidades existentes sin alterar su estructura interna. Por ejemplo, podrás crear un decorador que mide el tiempo de ejecución de una función o añade loggear a otra. Context managers, por otro lado, permiten administrar recursos de manera eficiente, asegurando que se liberan correctamente cuando ya no son necesarios. Usualmente, esto se hace utilizando la instrucción `with`, que garantiza la ejecución de bloques de código antes y después del bloque principal.
+El tema intermedio de esta lección se centra en el uso avanzado de colecciones en Python, particularmente listas y diccionarios. Las listas son una estructura fundamental para almacenar múltiples elementos en una sola variable, permitiendo operaciones complejas como la comprensión de listas que facilitan la creación y manipulación de datos. Los diccionarios, por otro lado, ofrecen un método eficiente de mapeo clave-valor, lo cual es útil para almacenar información no lineal.
 
-Ejercicio: Crea un decorador que muestre el tiempo de ejecución de una función. Luego, aplica este decorador a diferentes funciones matemáticas para medir su rendimiento. Además, escribe un context manager que maneje archivos, asegurándose de que se cierran correctamente después de su uso.
+Para ejemplificar estos conceptos, se explorará cómo utilizar comprensiones de listas para filtrar y transformar datos en una sola línea de código. También se profundizará en la manipulación de diccionarios, incluyendo el uso de métodos como `get`, `setdefault` y `items()`. Además, se presentarán ejemplos prácticos que combinan ambas estructuras para resolver problemas complejos.
 
-- Decoradores permiten modificar funcionalidades sin alterar el código base.
-- Context managers facilitan la gestión eficiente de recursos como archivos o conexiones a bases de datos.
+### Ejercicio
+Escribe una función que tome una lista de números enteros y devuelva un diccionario donde las claves sean los números y los valores sean sus cuadrados. Utiliza comprensión de listas para generar la lista de cuadrados y luego conviertela en un diccionario.
+
+### Resumen
+- Se profundizará en el uso avanzado de listas y diccionarios.
+- Se explorará la comprensión de listas y su aplicación práctica.
+- Se aprenderá a manipular diccionarios para acceder, modificar y recorrer sus elementos.
