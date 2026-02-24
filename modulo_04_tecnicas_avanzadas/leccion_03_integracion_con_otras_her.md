@@ -1,20 +1,13 @@
 # Integracion con otras herramientas
 
-### Objetivos
-- Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
-- Aprender a utilizar bibliotecas de visualización como Matplotlib para crear gráficos interactivos.
+- Integrar Python con bibliotecas de análisis de datos como Pandas y NumPy para mejorar la eficiencia del procesamiento.
+- Aplicar técnicas avanzadas de integración entre Python y bases de datos SQL utilizando SQLAlchemy.
 
-### Contenido
-En esta lección, se explorará la integración de Python con otras poderosas herramientas de análisis de datos y visualización. Se comenzará con una revisión rápida de Pandas y NumPy, destacando cómo estas bibliotecas facilitan el manejo y procesamiento de datos en Python. Posteriormente, se profundizará en la utilización de Matplotlib para generar gráficos y visualizaciones interactivas que pueden ser integrados en aplicaciones más complejas.
+Python es una potente herramienta que puede ser combinada con otras tecnologías para ampliar sus capacidades. En esta lección, se explorará cómo integrar Python con bibliotecas especializadas como Pandas y NumPy, que son fundamentales en el análisis de datos. Estas bibliotecas permiten manipular y analizar grandes volúmenes de datos de manera eficiente, mejorando significativamente la productividad del programador.
 
-Se discutirá cómo combinar estos componentes para crear scripts eficientes y visualizaciones dinámicas, ilustrando con ejemplos prácticos. Se explorará también la importancia de estas herramientas en el flujo de trabajo de un científico de datos, desde la limpieza y preparación de datos hasta su análisis y presentación.
+Además, se aprenderá a utilizar SQLAlchemy para interactuar con bases de datos SQL desde Python. Esta herramienta proporciona una capa de abstracción que facilita la conexión entre Python y diferentes sistemas de gestión de bases de datos, permitiendo realizar consultas complejas y manejar transacciones de manera sencilla.
 
-### Ejercicio
-Crea un script Python que:
-1. Genere una serie de datos aleatorios utilizando NumPy.
-2. Utilice Pandas para manipular y analizar estos datos (por ejemplo, calculando estadísticas descriptivas).
-3. Cree un gráfico de líneas interactivos con Matplotlib que muestre la evolución temporal de los datos generados.
+Para practicar estos conceptos, los estudiantes deberán escribir un script en Python que utilice Pandas para cargar un conjunto de datos, realizar análisis básicos y guardar los resultados en una base de datos SQL utilizando SQLAlchemy. Este ejercicio permitirá a los estudiantes ver la integración en acción y comprender mejor cómo aprovechar las capacidades de Python junto con otras herramientas.
 
-### Resumen
-- Integración eficiente de Python con herramientas como Pandas y NumPy mejora significativamente el procesamiento de datos.
-- La combinación de estas bibliotecas con Matplotlib permite crear visualizaciones interactivas que son esenciales para la presentación de datos.
+- Integración eficiente entre Python y Pandas/NumPy para análisis de datos.
+- Uso de SQLAlchemy para interactuar con bases de datos SQL desde Python.
