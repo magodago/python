@@ -1,11 +1,15 @@
 # Rendimiento y metricas
 
-## Contenido
-En esta lección sobre rendimiento y métricas de Python, se explorará cómo medir y optimizar la eficiencia del código. Se aprenderá a utilizar herramientas como `timeit`, `cProfile` y `memory_profiler` para analizar el tiempo de ejecución y el consumo de memoria de diferentes partes del programa. También se discutirá la importancia de elegir estructuras de datos adecuadas y algoritmos eficientes para mejorar el rendimiento general.
+Objetivos
+- Comprender las métricas de rendimiento más comunes en Python.
+- Aprender a medir y optimizar el rendimiento de código Python.
 
-## Ejercicio
-Implemente un script que calcule los primeros 100 números de Fibonacci utilizando dos métodos: recursivo y iterativo. Utilice `timeit` para medir la velocidad de ambos métodos y compare los resultados. Luego, utilice `cProfile` para analizar el perfil de rendimiento de cada implementación.
+Contenido
+En esta lección se explorarán conceptos clave relacionados con el rendimiento del código escrito en Python. Se aprenderá sobre diferentes métricas utilizadas para evaluar la eficiencia y velocidad de ejecución, como tiempo de ejecución, uso de memoria y frecuencia de llamadas a funciones. También se discutirá cómo utilizar herramientas integradas de Python, como el módulo timeit, cProfile y el panel de rendimiento de PyCharm para analizar y optimizar el código.
 
-## Resumen
-- Se utilizarán herramientas como `timeit`, `cProfile` y `memory_profiler` para evaluar el rendimiento del código.
-- Es crucial elegir estructuras de datos y algoritmos adecuados para optimizar la eficiencia.
+Ejercicio
+Implementar un algoritmo de búsqueda en una lista grande de números generados aleatoriamente. Utilice la función `timeit` para medir el tiempo de ejecución inicial. Luego, optimice el algoritmo utilizando técnicas como la eliminación de bucles anidados innecesarios o la utilización de funciones más eficientes y, nuevamente, mida el tiempo de ejecución final para comparar los resultados.
+
+Resumen
+- Se destacó la importancia de medir y optimizar el rendimiento del código Python.
+- Se presentaron herramientas útiles como `timeit`, `cProfile` y el panel de rendimiento de PyCharm.
