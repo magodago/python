@@ -1,10 +1,11 @@
 # Checklist final
 
-- Analizar y corregir problemas comunes en la ejecución de programas Python.
-- Optimizar el rendimiento de los scripts para mejorar su eficiencia.
+- Mejorar la eficiencia del código escrito por los alumnos.
+- Identificar y corregir posibles errores o problemas de rendimiento en programas Python.
 
-En esta lección final sobre troubleshooting y rendimiento, se revisarán los aspectos más importantes para identificar y solucionar problemas comunes en Python. Se abordarán temas como la depuración efectiva utilizando herramientas internas del lenguaje, así como el uso de bibliotecas externas como `pdb` o `logging`. También se discutirá cómo optimizar el código para mejorar su rendimiento, incluyendo técnicas como la reducción de la complejidad algorítmica y la gestión eficiente de recursos.
+En esta lección final sobre troubleshooting y rendimiento, se revisará un conjunto de pautas y herramientas que ayudarán a los estudiantes a identificar y solucionar problemas comunes en sus programas Python. Se abordarán aspectos como la optimización del código, el uso eficiente de estructuras de datos, la gestión adecuada de recursos y la utilización de bibliotecas para mejorar el rendimiento.
 
-Para practicar estos conceptos, los estudiantes deben corregir un programa que realiza operaciones matemáticas complejas. El objetivo es identificar posibles errores y mejorar su rendimiento sin sacrificar la funcionalidad del código. Los pasos a seguir incluyen revisar el código para identificar posibles problemas de sintaxis o lógica, luego utilizar herramientas de depuración para corregir estos errores y finalmente optimizar el código para que sea más eficiente.
+Para practicar estos conceptos, los estudiantes deberán analizar un programa Python que realiza operaciones matemáticas complejas. Deberán identificar posibles áreas de mejora en términos de eficiencia y rendimiento, y aplicar las técnicas aprendidas para optimizar el código. El objetivo es que comprendan cómo evaluar la calidad del rendimiento de sus programas y cómo implementar soluciones prácticas.
 
-Los puntos clave a retener son la importancia de la depuración efectiva y la optimización del rendimiento en Python, así como la utilización de las herramientas adecuadas para abordar problemas comunes.
+- Mejorar la eficiencia y rendimiento del código.
+- Aplicar un checklist para identificar problemas comunes en Python.
