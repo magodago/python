@@ -1,17 +1,22 @@
 # Integracion con otras herramientas
 
-- Integrar Python con bases de datos SQL para automatizar la gestión de datos.
-- Utilizar bibliotecas como NumPy y Pandas para procesamiento de datos avanzado.
+## Objetivos
+- Comprender cómo integrar Python con otras herramientas de análisis de datos como Pandas y NumPy.
+- Aprender a utilizar bibliotecas externas en proyectos Python utilizando módulos y paquetes.
 
-Python es una potente herramienta que puede integrarse fácilmente con otras tecnologías para ampliar su funcionalidad. En esta lección, aprenderemos a conectar Python con bases de datos SQL utilizando módulos como `sqlite3` o `psycopg2`. Esto nos permitirá realizar consultas, insertar y actualizar registros de manera eficiente. Además, veremos cómo utilizar bibliotecas como NumPy y Pandas para manipular grandes volúmenes de datos numéricos y estructurados, lo que es esencial en el análisis de datos.
+## Contenido
+La integración de Python con otras herramientas de análisis de datos es crucial para potenciar el poder de procesamiento y manipulación de datos. En esta lección, se explorará cómo utilizar Pandas y NumPy, dos bibliotecas populares en el ecosistema de Python, para mejorar la eficiencia y funcionalidad del código. Pandas proporciona estructuras de datos flexibles y operaciones rápidas para manipular datos tabulares, mientras que NumPy ofrece una amplia gama de funciones matemáticas y operaciones numéricas. A través de ejemplos prácticos, se demostrará cómo importar estas bibliotecas en un script Python, así como cómo utilizar sus funcionalidades para realizar tareas complejas de análisis de datos.
 
-Para practicar estos conceptos, los estudiantes deberán realizar un ejercicio donde se conecten a una base de datos SQL local utilizando Python. Tendrán que diseñar e implementar un script que realice las siguientes tareas:
-1. Conectarse a la base de datos.
-2. Crear una tabla si no existe.
-3. Insertar registros en la tabla.
-4. Realizar consultas y mostrar los resultados.
+## Ejercicio
+Ejemplo: Cargar un conjunto de datos desde una URL y calcular la media de una columna específica utilizando Pandas y NumPy.
 
-Este ejercicio permitirá consolidar el conocimiento adquirido sobre la integración entre Python y bases de datos, así como sobre el manejo avanzado de datos con NumPy y Pandas.
+1. Importa las librerías Pandas y NumPy.
+2. Utiliza Pandas para cargar los datos desde una URL en un DataFrame.
+3. Selecciona una columna específica del DataFrame.
+4. Calcula la media de esa columna usando NumPy.
+5. Imprime el resultado.
 
-- Integración con bases de datos SQL para automatización.
-- Uso de NumPy y Pandas en procesamiento de datos.
+## Resumen
+- Pandas ofrece estructuras de datos robustas y operaciones eficientes para manipular datos tabulares.
+- NumPy proporciona funciones matemáticas y operaciones numéricas que se integran bien con Pandas.
+- La integración de estas bibliotecas en proyectos Python mejora significativamente la capacidad de análisis de datos.
