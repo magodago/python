@@ -1,30 +1,27 @@
 # Ejercicio guiado 2
 
-Objetivos
-- Familiarizar al estudiante con la utilización de listas y diccionarios en Python.
-- Introducir el uso de bucles anidados para manipulación de datos complejos.
+## Objetivos
+- Familiarizar a los estudiantes con la manipulación de listas en Python.
+- Desarrollar habilidades para la resolución de problemas mediante programación.
 
-Contenido
-En esta lección profundizaremos en la manipulación de estructuras de datos más avanzadas, como las listas y los diccionarios. Aprenderemos a utilizar estos tipos de datos para almacenar y organizar información de manera eficiente. Además, exploraremos cómo combinar bucles anidados con estas estructuras para realizar operaciones complejas sobre conjuntos de datos.
+## Contenido
+En esta lección, profundizaremos en el manejo de listas y su aplicación práctica. Las listas son una estructura fundamental en Python que permite almacenar múltiples elementos de diferentes tipos. Aprenderemos a crear listas, acceder a sus elementos, modificarlos y realizar operaciones comunes como la búsqueda y la eliminación de elementos.
 
-Por ejemplo, podríamos tener una lista de diccionarios donde cada diccionario contiene información detallada sobre un libro (título, autor, género). Usando bucles anidados, podríamos recorrer esta lista y extraer información específica o realizar cálculos basados en los datos del conjunto.
+Para ilustrar estos conceptos, trabajaremos con un ejemplo práctico: una lista de frutas que se actualizará según las operaciones realizadas. Esto permitirá a los estudiantes comprender cómo manipular datos en Python de manera eficiente.
 
-Ejercicio
-Dado el siguiente código base:
+## Ejercicio
+Dado el siguiente código inicial:
 
 ```python
-libros = [
-    {"titulo": "Cien años de soledad", "autor": "Gabriel García Márquez", "género": "Realismo mágico"},
-    {"titulo": "1984", "autor": "George Orwell", "género": "Ciencia ficción"}
-]
-
-# Tu tarea es:
-# 1. Recorrer la lista de libros
-# 2. Imprimir el título y autor de cada libro en un formato legible
-
-# Aquí debes completar tu código
+frutas = ["manzana", "banana", "naranja"]
 ```
 
-Resumen
-- Se aprendió a trabajar con listas y diccionarios para almacenar y manipular datos.
-- Se exploró cómo usar bucles anidados para procesar conjuntos de datos complejos.
+Realiza lo siguiente:
+1. Imprime la segunda fruta de la lista.
+2. Agrega "pera" al final de la lista y muestra la lista actualizada.
+3. Elimina la primera fruta de la lista y muestra la lista resultante.
+4. Crea una nueva lista con las frutas que contienen la letra 'a' y muestra esta lista.
+
+## Resumen
+- Las listas en Python son muy versátiles para almacenar múltiples elementos.
+- Se pueden realizar diversas operaciones como agregar, eliminar y acceder a elementos de una lista.
