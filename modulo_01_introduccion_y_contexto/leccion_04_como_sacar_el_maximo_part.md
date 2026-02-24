@@ -1,12 +1,11 @@
 # Como sacar el maximo partido
 
-- Dominar las características básicas de Python.
-- Comprender cómo elegir la herramienta adecuada para diferentes tareas.
+- Entender los fundamentos de Python y su importancia en la programación moderna.
+- Identificar las características principales que hacen a Python un lenguaje versátil y fácil de aprender.
 
-En esta lección sobre cómo sacar el máximo partido a Python, exploraremos los fundamentos del lenguaje y cómo aprovechar sus capacidades. Aprenderemos a seleccionar las estructuras de datos más apropiadas según el problema que se quiera resolver, desde listas hasta diccionarios, pasando por conjuntos y tuplas. Además, veremos cómo utilizar funciones y métodos para manipular datos de manera eficiente, y cómo optimizar nuestro código para mejorar su rendimiento.
+Python es uno de los lenguajes de programación más populares debido a su sintaxis clara y legible, lo que facilita la escritura y mantenimiento del código. Su amplia comunidad de desarrolladores y una gran cantidad de bibliotecas disponibles hacen de Python un excelente elección para proyectos de todo tipo, desde desarrollo web hasta análisis de datos e inteligencia artificial. En esta lección, se explorarán los fundamentos de Python y cómo aprovechar sus características para resolver problemas de manera eficiente.
 
-Para practicar, los alumnos deberán desarrollar un programa que procese una lista de números y devuelva el mayor, el menor y la media aritmética. Deberán elegir entre usar bucles o funciones integradas de Python según consideren más adecuado.
+Para practicar estos conceptos, los estudiantes deberán escribir un programa que solicite al usuario ingresar una lista de números separados por comas, luego procese esa entrada para calcular e imprimir el número más grande ingresado. Este ejercicio permitirá a los alumnos familiarizarse con la entrada de datos, manejo de cadenas y conversión de tipos de datos en Python.
 
-- Seleccionar las estructuras de datos apropiadas.
-- Utilizar funciones y métodos eficientemente para manipular datos.
-- Optimizar el código para mejorar su rendimiento.
+- Familiaridad con las características básicas de Python.
+- Capacidad para manipular entradas del usuario y realizar operaciones simples.
