@@ -1,14 +1,16 @@
 # Diseño del proyecto
 
-- Diseñar un flujo de trabajo básico utilizando diagramas de flujo y pseudocódigo.
-- Identificar las necesidades del proyecto y definir los requisitos funcionales y no funcionales.
+Objetivos
+- Comprender los pasos fundamentales para diseñar un proyecto de Python.
+- Identificar y definir claramente las necesidades del cliente o problema a resolver.
 
-El diseño del proyecto es crucial para asegurar que el código final sea eficiente, fácil de mantener y cumpla con las expectativas del usuario. En esta lección, se enseñará a los estudiantes cómo utilizar diagramas de flujo y pseudocódigo para visualizar la lógica del programa antes de comenzar a escribir el código en Python. Esto ayudará a identificar posibles problemas o áreas de mejora desde un inicio.
+Contenido
+El diseño de un proyecto en Python es crucial para garantizar que el código final sea eficiente, funcional y fácil de mantener. En esta lección, aprenderás cómo identificar las necesidades del cliente o del problema que se desea resolver. Para hacer esto, debes seguir estos pasos: 1) Reunión inicial con el cliente para entender sus requisitos; 2) Definición clara del problema a resolver; 3) Establecimiento de objetivos y metas específicos; 4) Creación de un flujo de trabajo o diagrama de flujo para visualizar los pasos necesarios. Estos pasos te ayudarán a estructurar tu proyecto desde el principio, lo que facilitará la programación posterior.
 
-Los requisitos del proyecto deben ser claros y detallados, incluyendo tanto los requisitos funcionales (lo que debe hacer) como no funcionales (cómo debe hacerlo). Los estudiantes aprenderán a definir estos requisitos basándose en el problema que están resolviendo. Por ejemplo, si se está desarrollando un programa para gestionar inventarios de una tienda, los requisitos funcionales podrían incluir la capacidad de agregar, eliminar y actualizar productos, mientras que los no funcionales podrían implicar garantizar que el programa sea fácil de usar y funcione sin errores.
+Ejercicio
+Diseña un proyecto simple en Python: una aplicación que permita a los usuarios gestionar tareas pendientes. Define las necesidades del usuario y crea un flujo de trabajo básico para este proyecto. Describe cómo se interaccionaría con la aplicación (por ejemplo, añadir, eliminar o listar tareas).
 
-Ejercicio: Los estudiantes deben diseñar un flujo de trabajo básico para un programa que permita a los usuarios registrar sus tareas diarias. Deben crear un diagrama de flujo y pseudocódigo para este programa, identificando los requisitos funcionales (como la capacidad de agregar, eliminar y marcar tareas como completadas) y no funcionales (como la interfaz amigable y la velocidad de respuesta).
-
-Resumen:
-- Utilizar diagramas de flujo y pseudocódigo para planificar el diseño del proyecto.
-- Definir claramente los requisitos funcionales y no funcionales del proyecto.
+Resumen
+- Identificar claramente las necesidades del cliente o problema es fundamental.
+- El diseño inicial ayuda a estructurar el proyecto desde el principio.
+- Crear un flujo de trabajo visual facilita la comprensión y planificación del proyecto.
