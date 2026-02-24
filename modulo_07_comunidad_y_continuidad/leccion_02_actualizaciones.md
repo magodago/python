@@ -1,11 +1,11 @@
 # Actualizaciones
 
-- Los alumnos aprenderán sobre las actualizaciones de Python y cómo mantenerse informado sobre ellas.
-- Comprenderán la importancia de actualizar regularmente para aprovechar las nuevas funcionalidades y mejoras de rendimiento.
+- Los alumnos aprenderán a seguir las actualizaciones de Python y sus implicaciones en el desarrollo.
+- Comprenderán la importancia de mantenerse al día con nuevas características y mejoras del lenguaje.
 
-Python es un lenguaje de programación dinámico que se actualiza regularmente, incorporando nuevas características y corrigiendo posibles errores. Es fundamental mantenerse al tanto de estas actualizaciones para seguir utilizando la versión más reciente del lenguaje, lo cual puede mejorar significativamente el rendimiento y ofrecer acceso a nuevas funcionalidades. Para estar informado sobre las actualizaciones, los desarrolladores pueden suscribirse a listas de correo electrónico oficiales de Python, seguir canales en redes sociales o visitar regularmente el sitio web oficial del lenguaje.
+En esta lección, se explorará cómo los desarrolladores pueden estar informados sobre las últimas actualizaciones de Python. Se explicarán los canales oficiales como la página web oficial de Python y el repositorio GitHub, así como otros recursos como blogs especializados y foros de discusión. Además, se discutirá cómo estas actualizaciones afectan a los proyectos en desarrollo y por qué es crucial adaptarse a las nuevas versiones del lenguaje.
 
-### Ejercicio
-Investigue y registre tres nuevas características introducidas en la última versión mayor de Python. Presente su hallazgo en un breve informe junto con una explicación de cómo podría ser útil para proyectos de programación comunes.
+Para este ejercicio, los alumnos deberán seleccionar una versión reciente de Python (por ejemplo, la versión 3.10) y analizar las novedades presentadas en comparación con la versión anterior más ampliamente utilizada (como la 3.9). Se les pedirá que identifiquen al menos tres características nuevas o mejoradas y expliquen cómo podrían aplicar estas mejoras a sus propios proyectos.
 
-- Los puntos clave son: importancia de las actualizaciones, maneras de estar al tanto y práctica de investigación sobre nuevas características.
+- Los alumnos entenderán los canales oficiales para seguir las actualizaciones de Python.
+- Aprenderán sobre la relevancia de adaptarse a las nuevas versiones del lenguaje.
