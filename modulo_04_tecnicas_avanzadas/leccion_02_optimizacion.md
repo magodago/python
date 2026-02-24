@@ -1,13 +1,15 @@
 # Optimizacion
 
-- Optimizar el rendimiento de los programas Python mediante la utilización eficiente de estructuras de datos.
-- Implementar técnicas de programación funcional para mejorar la eficiencia y legibilidad del código.
+Objetivos
+- Comprender y aplicar técnicas de optimización para mejorar la velocidad y eficiencia del código Python.
+- Implementar algoritmos de optimización en programas prácticos.
 
-El objetivo principal de esta lección es enseñar a los estudiantes cómo optimizar su código Python para mejorar su rendimiento. Para lograr esto, se explorará el uso adecuado de estructuras de datos como listas, diccionarios y conjuntos, así como la implementación de funciones puras y la utilización de decoradores para mejorar la eficiencia del código.
+Contenido
+En esta lección, se explorará cómo optimizar el rendimiento de los programas escritos en Python. Se abordarán conceptos como la reducción de la complejidad temporal y espacial, la utilización eficiente de estructuras de datos y la implementación de técnicas específicas para mejorar la velocidad de ejecución. Se discutirá también cómo utilizar el módulo `timeit` para medir el tiempo de ejecución de diferentes partes del código y cómo aplicar pruebas de rendimiento utilizando herramientas como `cProfile`.
 
-Se discutirá cómo las estructuras de datos apropiadas pueden reducir el tiempo de ejecución y aumentar la legibilidad del código. Se proporcionará un ejemplo práctico donde se compara el uso de listas con el uso de diccionarios para realizar búsquedas en un conjunto grande de datos.
+Ejercicio
+Implemente un programa que calcule los primeros 100 números de Fibonacci. Primero, escriba una versión simple utilizando recursión. Luego, optimice el código para minimizar la complejidad temporal y espacial. Compare el tiempo de ejecución antes y después de la optimización usando `timeit`. Finalmente, explore si hay un método más eficiente para calcular los números de Fibonacci.
 
-Ejercicio: Optimice un script que busca coincidencias en una lista muy larga utilizando diferentes estructuras de datos y mide el tiempo de ejecución. Compare los resultados obtenidos con cada estructura de datos y explique por qué se observan diferencias en el rendimiento.
-
-- Estructuras de datos adecuadas pueden mejorar significativamente el rendimiento.
-- Uso efectivo de funciones puras y decoradores puede optimizar la eficiencia del código.
+Resumen
+- Se aprendió a aplicar técnicas de optimización en Python.
+- Se realizó una comparación entre versiones no optimizadas y optimizadas del cálculo de Fibonacci.
