@@ -1,15 +1,15 @@
 # Checklist final
 
-- Revisar y optimizar el código para mejorar su rendimiento.
-- Identificar y corregir posibles errores o bugs que puedan afectar la eficiencia del programa.
+- Mejorar la capacidad del estudiante para identificar y resolver problemas comunes en Python.
+- Optimizar el rendimiento de programas Python mediante técnicas básicas.
 
-En esta lección final de Troubleshooting y Rendimiento, se enfatiza en la importancia de realizar un exhaustivo chequeo final antes de considerar un proyecto Python como completo. Es crucial revisar el código no solo desde una perspectiva funcional, sino también desde una óptica que maximice su eficiencia y rendimiento.
+Python es un lenguaje de programación versátil, pero como cualquier otro sistema, puede presentar problemas que afectan su funcionamiento. Para garantizar que los estudiantes sean capaces de manejar situaciones inesperadas y optimizar sus programas, se ha preparado este checklist final. Este documento servirá tanto para detectar errores comunes durante la programación, como para mejorar el rendimiento general del código.
 
-Se recomienda a los estudiantes utilizar herramientas como `timeit` para medir el tiempo de ejecución del código en diferentes escenarios, y `cProfile` para analizar la eficiencia del programa. Además, se debe revisar la utilización de recursos como memoria y CPU, asegurándose de que no haya fugas de memoria o procesos innecesarios que puedan deteriorar el rendimiento a largo plazo.
+El checklist incluirá preguntas y tareas específicas que los estudiantes deben completar en cada paso de su desarrollo de software Python. Estas tareas pueden variar desde verificar la sintaxis correcta hasta optimizar bucles y funciones. Al finalizar este módulo, los estudiantes deberán ser capaces de aplicar estas técnicas para resolver problemas comunes y mejorar el rendimiento de sus programas.
 
-### Ejercicio
-Implementa un programa en Python que calcule los primeros 1000 números primos. Utiliza `timeit` para medir el tiempo de ejecución del código y `cProfile` para analizar su eficiencia. A continuación, optimiza tu código considerando posibles mejoras en la lógica y estructura del programa, y repite los pasos de medición y análisis.
+Para practicar, los estudiantes deben revisar un código Python que realiza una serie de operaciones matemáticas complejas y optimizarlo siguiendo las pautas del checklist. El objetivo es que identifiquen posibles errores y mejoren la eficiencia del código para que se ejecute más rápido.
 
-### Resumen
-- Utilizar herramientas de medición y análisis como `timeit` y `cProfile`.
-- Optimizar el código para mejorar su eficiencia y rendimiento.
+Los puntos clave a recordar son:
+- La importancia de revisar regularmente el código.
+- La utilización de técnicas específicas para optimizar el rendimiento.
+- La capacidad de identificar y corregir problemas comunes en Python.
