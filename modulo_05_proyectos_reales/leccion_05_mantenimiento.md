@@ -3,10 +3,9 @@
 - Comprender los conceptos básicos de mantenimiento de código en Python.
 - Identificar y corregir errores comunes en programas existentes.
 
-El mantenimiento de código es una parte crucial del desarrollo de software. En este módulo, se enfocará en la importancia de mantener el código bien organizado y documentado para facilitar futuras modificaciones o mejoras. Se explorarán técnicas como la revisión de código, la gestión de versiones con Git, y la documentación efectiva utilizando docstrings. Estos métodos no solo ayudan a preservar la calidad del software, sino que también facilitan el trabajo en equipo.
+El mantenimiento de código es una parte crucial del desarrollo software, especialmente cuando se trata con proyectos largos o que requieren actualizaciones frecuentes. En el contexto de Python, esto implica no solo la corrección de errores (bugs) sino también la optimización y adaptación del código a nuevas necesidades o cambios en los requisitos del proyecto. Es fundamental que los programadores tengan una mentalidad de mantenimiento desde el principio para facilitar futuras actualizaciones y mejoras.
 
-Para practicar estos conceptos, los estudiantes deberán realizar una revisión de código de un programa existente que realicen anteriormente. Deberán identificar áreas de mejora y corregir errores, documentando sus cambios con docstrings adecuadas. Este ejercicio no solo refuerza la importancia del mantenimiento sino también las habilidades prácticas necesarias para implementarlo.
+Para ilustrar estos conceptos, consideremos un programa simple que calcula la media de una lista de números. El ejercicio consiste en identificar y corregir posibles errores en el código proporcionado, optimizar su rendimiento y adaptarlo a nuevas funcionalidades solicitadas por los usuarios.
 
-- Mejorar la calidad del código existente.
-- Documentar eficazmente el código mediante el uso de docstrings.
-- Implementar técnicas de revisión y gestión de versiones.
+- Comprender la importancia del mantenimiento en proyectos Python.
+- Practicar la corrección y optimización de código existente.
