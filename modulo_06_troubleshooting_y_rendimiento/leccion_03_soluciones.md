@@ -1,12 +1,14 @@
 # Soluciones
 
-## Contenido
-En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán estrategias efectivas para identificar y resolver errores comunes y mejorar la eficiencia del código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) y `logging` para depurar y monitorear el comportamiento del programa durante su ejecución. También se discutirá la importancia de la selección adecuada de algoritmos y estructuras de datos, así como técnicas para optimizar el código mediante la minimización de operaciones innecesarias y la utilización eficiente de recursos.
+Contenido
 
-## Ejercicio
-Implementa un programa que calcule la suma de los primeros 1000 números naturales. Inicialmente, utiliza un bucle `for` tradicional. Luego, optimiza el código utilizando una fórmula matemática directa para calcular la suma sin necesidad de iteraciones. Mide y compara el tiempo de ejecución de ambas versiones del programa.
+En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán estrategias efectivas para identificar y corregir errores comunes en el código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) y `logging` para depurar programas y registrar información útil durante la ejecución. Además, se discutirá el uso de métricas de rendimiento y perfiles de tiempo de ejecución con `cProfile` para optimizar el código y mejorar su eficiencia.
 
-## Resumen
-- Se aprendió a utilizar herramientas como `pdb` y `logging` para depurar y monitorear el código.
-- Se destacó la importancia de elegir algoritmos y estructuras de datos apropiados para optimizar el rendimiento.
-- Se practicó la optimización del código mediante la eliminación de operaciones innecesarias.
+Ejercicio
+
+Desarrolla un programa en Python que calcule la suma de los primeros 1000 números enteros. Implementa una función que muestre la suma y la duración del tiempo de ejecución utilizando `timeit`. Luego, utiliza `cProfile` para analizar el rendimiento del código y optimiza el programa si es necesario.
+
+Resumen
+
+- Se aprendió a utilizar herramientas como `pdb` y `logging` para depurar y registrar información durante la ejecución.
+- Se utilizó `cProfile` para analizar el rendimiento y optimizar el código.
