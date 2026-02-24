@@ -1,14 +1,12 @@
 # Feedback
 
-- El estudiante aprenderá a recibir y proporcionar feedback constructivo sobre proyectos de Python.
-- El estudiante comprenderá la importancia del feedback en el desarrollo de habilidades de programación y colaboración.
+- El estudiante comprenderá cómo solicitar y recibir feedback constructivo sobre su proyecto final de Python.
+- Aprenderá a implementar los comentarios recibidos para mejorar la calidad del código y la funcionalidad del proyecto.
 
-El feedback es un componente crucial para el crecimiento personal y profesional, especialmente en el ámbito de la programación. En este módulo final, se enfocará en cómo proporcionar y recibir feedback constructivo sobre proyectos de Python. El objetivo principal es promover una cultura de retroalimentación positiva que ayude a mejorar no solo los proyectos individuales sino también las habilidades de trabajo en equipo.
+El objetivo principal de esta lección es que el estudiante adquiera habilidades en la recepción y análisis de feedback, lo cual es crucial para el desarrollo personal y profesional. El feedback no solo ayuda a identificar errores o áreas de mejora en el código, sino también fomenta una mentalidad de aprendizaje continuo.
 
-Para ello, se recomienda seguir un proceso estructurado: identificar lo que funciona bien y qué podría mejorarse, proporcionar ejemplos concretos, y finalmente ofrecer sugerencias para el desarrollo futuro. El feedback debe ser objetivo y respetuoso, enfocándose en los aspectos técnicos y no en las personas.
+Para esta lección, los estudiantes deberán presentar sus proyectos finales a un grupo de pares y recibir comentarios constructivos. Posteriormente, cada estudiante deberá elaborar un informe detallado sobre cómo ha implementado los feedbacks recibidos para mejorar su proyecto. Este ejercicio permitirá a los estudiantes practicar la recepción crítica y el análisis constructivo, habilidades valiosas en cualquier campo de desarrollo.
 
-Ejercicio:
-El estudiante recibirá un proyecto de Python previamente desarrollado por otro compañero del curso. Deberá analizarlo, identificar áreas de mejora y proporcionar feedback constructivo siguiendo el proceso mencionado. Posteriormente, recibirán una respuesta al feedback para perfeccionar su habilidad en la recepción y procesamiento de retroalimentación.
-
-- Se practicará la entrega de feedback constructivo.
-- Se fomentará el uso de técnicas de retroalimentación para mejorar proyectos de Python.
+Puntos clave:
+- Importancia del feedback en el proceso de aprendizaje.
+- Estrategias para implementar efectivamente los comentarios recibidos.
