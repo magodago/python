@@ -1,11 +1,13 @@
 # Criterios de evaluacion
 
-- Comprender los criterios de evaluación que se utilizarán para el proyecto final de Python.
-- Identificar cómo se evaluarán las habilidades técnicas y la resolución de problemas del código desarrollado.
+- Comprender y aplicar los criterios de evaluación para el proyecto final de Python.
+- Desarrollar habilidades en la autoevaluación y retroalimentación constructiva.
 
-El objetivo principal de esta lección es proporcionar a los estudiantes una comprensión clara sobre los criterios de evaluación que se aplicarán en el proyecto final de Python. Se abordará no solo cómo se evaluará la funcionalidad y eficiencia del código, sino también aspectos como la claridad del diseño, la documentación y la capacidad para resolver problemas complejos. Esto permitirá a los estudiantes prepararse adecuadamente y entregar un proyecto que cumpla con las expectativas establecidas.
+En esta lección se abordarán los criterios de evaluación que guiarán la calificación del proyecto final de Python. Es crucial que comprendas estos criterios para poder planificar, implementar y presentar tu proyecto de manera efectiva. Los criterios se dividen en tres áreas principales: funcionalidad, diseño y documentación.
 
-Para el ejercicio práctico, los estudiantes deben revisar el proyecto final que han desarrollado hasta ahora y evaluarlo según los criterios proporcionados en esta lección. Deben identificar áreas de mejora y hacer anotaciones detalladas sobre cómo podrían mejorar su código para cumplir con las expectativas de evaluación.
+La funcionalidad evalúa cómo bien el programa cumple con los requisitos especificados. Se considerará la corrección del código, la eficiencia y la capacidad para resolver problemas planteados. El diseño abarca la estructura y organización del código, la modularización y la utilización de buenas prácticas de programación. Finalmente, la documentación evalúa el nivel de detalle en los comentarios, la explicación clara de las funcionalidades y la presentación de resultados.
 
-- Entender los criterios de evaluación para el proyecto final.
-- Identificar áreas de mejora en el propio trabajo basándose en esos criterios.
+Para practicar, realiza una autoevaluación de un código Python simple que resuelve un problema matemático básico. Evalúa tu propio trabajo según los criterios mencionados: ¿Cómo se comporta el programa? ¿Está bien estructurado y documentado?
+
+- Comprender los criterios de evaluación.
+- Aplicar la autoevaluación a un código simple.
