@@ -1,11 +1,17 @@
 # Entrega y revision
 
-- Los estudiantes presentarán su proyecto final de Python a la clase.
-- Los compañeros y el profesor proporcionarán comentarios constructivos para mejorar las habilidades de programación y el desarrollo del proyecto.
+Objetivos
+- Entender los pasos necesarios para la entrega de un proyecto final en Python.
+- Aprender a recibir y dar feedback constructivo durante la revisión del código.
 
-Para esta lección, los estudiantes deberán preparar una demostración breve de su proyecto final en Python. Esta demostración debe incluir un resumen del problema que se aborda, la implementación de soluciones utilizando conceptos avanzados de Python, como clases, herencia y decoradores, y cómo el código cumple con los requisitos establecidos en el inicio del curso. Además, deben estar listos para responder preguntas sobre su proyecto y recibir críticas constructivas.
+Contenido
+Durante esta lección, se enfocará en el proceso de entrega y revisión del proyecto final. Es crucial que los estudiantes comprendan cómo presentar su trabajo de manera profesional y clara. Esto incluye la preparación de un informe detallado sobre las funcionalidades implementadas y cualquier desafío enfrentado durante el desarrollo del proyecto. Además, se discutirá cómo recibir críticas constructivas y utilizarlas para mejorar el código y la documentación.
 
-Después de la presentación, los estudiantes recibirán retroalimentación detallada sobre sus proyectos, lo que les permitirá identificar áreas de mejora y aplicar esos conocimientos en futuros trabajos. La retroalimentación se basará en el cumplimiento del plan original, la eficiencia del código y la capacidad para resolver problemas complejos.
+Los estudiantes aprenderán a evaluar el trabajo de sus compañeros de manera objetiva, proporcionando comentarios que no solo señalen errores o mejoras necesarias, sino también reconozcan los avances significativos en el desarrollo del proyecto. Este proceso fomenta un ambiente colaborativo y promueve la mejora continua.
 
-- Los estudiantes presentarán sus proyectos.
-- Se proporcionará retroalimentación constructiva sobre los mismos.
+Ejercicio
+Implemente una función en Python que calcule el promedio de una lista de números enteros. Luego, pida a sus compañeros de clase que revisen su código, proporcionando al menos tres comentarios constructivos sobre cómo se puede mejorar la eficiencia o claridad del código. Asegúrese de incluir un informe breve junto con su código, explicando el propósito y funcionamiento de la función.
+
+Resumen
+- Se enfatiza en la importancia de la documentación clara y profesional.
+- Los estudiantes deben aprender a recibir críticas constructivas para mejorar su trabajo.
