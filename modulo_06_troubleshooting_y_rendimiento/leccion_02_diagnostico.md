@@ -1,15 +1,26 @@
 # Diagnostico
 
-Objetivos
-- Identificar y diagnosticar problemas comunes en la ejecución de programas Python.
-- Mejorar la eficiencia y rendimiento del código a través de técnicas básicas de diagnóstico.
+- Comprender los métodos básicos de diagnóstico y depuración en Python.
+- Identificar y resolver problemas comunes relacionados con el rendimiento del código.
 
-Contenido
-En esta lección, se abordarán los pasos esenciales para diagnosticar problemas en el código Python. Comenzaremos con la interpretación de errores y mensajes de excepción, aprendiendo a leer y comprender estos mensajes para identificar dónde y cuándo ocurren las fallas. Posteriormente, se explorará cómo utilizar herramientas como `pdb` (Python Debugger) para realizar una depuración paso a paso del código. Estos métodos permitirán al estudiante localizar y corregir errores de manera más efectiva.
+Python es un lenguaje de programación versátil que, aunque fácil de aprender, puede presentar desafíos cuando se trata de optimizar su rendimiento o solucionar errores. Un buen diagnóstico es fundamental para mejorar la eficiencia y la calidad del código. Algunas técnicas comunes incluyen el uso de herramientas integradas como `pdb` (Python Debugger) para depurar código, así como la utilización de módulos como `cProfile` para analizar el rendimiento.
 
-Ejercicio
-Implemente un programa simple en Python que genere un error de división por cero. Luego, use `pdb` para depurar el código y encontrar dónde se produce el error. Registre los pasos de la depuración y cómo corrigió el problema.
+Para practicar estos conceptos, los estudiantes deben identificar y corregir un error en el siguiente fragmento de código. El objetivo es mejorar su eficiencia y ver cómo se pueden utilizar las herramientas mencionadas para resolver problemas:
 
-Resumen
-- Se aprendió a identificar y comprender errores en Python.
-- Se practicó la utilización del debugger `pdb` para mejorar la capacidad de diagnóstico y corrección de errores.
+```python
+def suma_listas(lista1, lista2):
+    resultado = []
+    for i in range(len(lista1)):
+        resultado.append(lista1[i] + lista2[i])
+    return resultado
+
+lista1 = [1, 2, 3]
+lista2 = [4, 5]
+
+print(suma_listas(lista1, lista2))
+```
+
+El código anterior tiene un error que impide su correcto funcionamiento. Los estudiantes deben identificar el problema y corregirlo, luego utilizar `pdb` para depurar el código y `cProfile` para analizar su rendimiento.
+
+- Identificar y corregir errores en el código.
+- Utilizar herramientas de depuración y análisis de rendimiento como `pdb` y `cProfile`.
