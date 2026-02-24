@@ -1,25 +1,20 @@
 # Revision
 
-- Dominar la utilización de decoradores para mejorar la funcionalidad de las funciones.
-- Aprender a implementar y utilizar métodos de ordenación avanzados como quicksort y mergesort.
+## Objetivos
+- Consolidar la comprensión de los bucles y estructuras condicionales avanzadas.
+- Aprender a utilizar funciones recursivas y decoradores.
 
-En esta lección revisamos técnicas avanzadas en Python, enfocándonos en el uso de decoradores y métodos de ordenación. Los decoradores son una característica poderosa que permite modificar o extender las funcionalidades de funciones y clases sin alterar su estructura original. A través de ejemplos prácticos, veremos cómo implementar y aplicar diferentes tipos de decoradores para resolver problemas comunes en el desarrollo de software.
+## Contenido
+En esta lección de técnicas avanzadas en Python, se revisará el uso de bucles y estructuras condicionales más complejas. Se profundizará en la utilización de bucles `for` anidados y comprensiones de lista para manipular datos de manera eficiente. Además, se explorarán las condiciones complejas utilizando operadores lógicos y sentencias `if-elif-else` avanzadas.
 
-Además, exploramos algoritmos de ordenación avanzados como quicksort y mergesort, que ofrecen mejor rendimiento en comparación con métodos básicos. Estudiamos la implementación de estos algoritmos desde cero y discutimos su complejidad y适用的场景
+Se abordará también el tema de funciones recursivas, mostrando ejemplos prácticos en los que estas son particularmente útiles, como la generación de números de Fibonacci o la búsqueda en árboles binarios. Se explicarán cómo evitar bucles infinitos y manejar correctamente las condiciones de término.
 
-在继续之前，我注意到您提供的内容中包含了一些不完整的句子和语法错误。为了确保信息的准确性和完整性，我会对内容进行调整和完善：
-
-- Dominar la utilización de decoradores para mejorar la funcionalidad de las funciones.
-- Aprender a implementar y utilizar métodos de ordenación avanzados como quicksort y mergesort.
-
-En esta lección revisamos técnicas avanzadas en Python, enfocándonos en el uso de decoradores y métodos de ordenación. Los decoradores son una característica poderosa que permite modificar o extender las funcionalidades de funciones y clases sin alterar su estructura original. A través de ejemplos prácticos, veremos cómo implementar y aplicar diferentes tipos de decoradores para resolver problemas comunes en el desarrollo de software.
-
-Además, exploramos algoritmos de ordenación avanzados como quicksort y mergesort, que ofrecen mejor rendimiento en comparación con métodos básicos. Estudiamos la implementación de estos algoritmos desde cero y discutimos su complejidad y eficiencia para entender cómo mejorar el desempeño del código.
+Finalmente, se introducirá el concepto de decoradores en Python, mostrando su utilidad para modificar funcionalidades existentes sin alterar el código fuente original. Se proporcionará un ejemplo práctico de un decorador que mide el tiempo de ejecución de una función.
 
 ## Ejercicio
-Implemente un decorador personalizado que mida el tiempo de ejecución de una función y lo imprima en consola. Luego, utilícelo en diferentes funciones matemáticas para observar su comportamiento.
+Escribe una función recursiva que calcule la suma de los primeros `n` números pares y otra función que utilice un decorador para medir cuánto tiempo tarda en ejecutarse. Combina ambos conceptos en un solo programa donde, al llamar a la función recursiva, se muestre el tiempo que ha tardado en calcular la suma.
 
 ## Resumen
-- Comprender la funcionalidad y aplicaciones de los decoradores.
-- Implementar algoritmos de ordenación avanzados como quicksort y mergesort desde cero.
-- Medir el rendimiento del código utilizando decoradores personalizados.
+- Se profundiza en bucles y estructuras condicionales avanzadas.
+- Se aprende sobre funciones recursivas y su aplicación práctica.
+- Se introduce el uso de decoradores para modificar funcionalidades existentes.
