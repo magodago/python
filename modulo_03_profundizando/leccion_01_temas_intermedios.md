@@ -1,48 +1,28 @@
 # Temas intermedios
 
-- Entender la utilización de decoradores en Python.
-- Aprender a trabajar con módulos y paquetes externos.
+- Comprender la utilización de decoradores y su aplicación práctica.
+- Familiarizarse con las excepciones y manejo de errores en Python.
 
-Python nos ofrece una gran flexibilidad gracias a sus decoradores, que son funciones que toman otra función como argumento y permiten modificar su comportamiento sin cambiar su definición original. Los decoradores son útiles para agregar funcionalidades comunes a múltiples funciones de manera concisa. Por ejemplo, podríamos crear un decorador para medir el tiempo de ejecución de una función:
+En esta lección profundizaremos en dos temas intermedios esenciales: los decoradores y el manejo de excepciones. Los decoradores son una característica poderosa que permite modificar o extender la funcionalidad de funciones, métodos o clases sin alterar su código original. En Python, se utilizan con la sintaxis `@decorador` antes de la definición de una función. Por ejemplo:
 
 ```python
-import time
-
-def timer_decorator(func):
-    def wrapper(*args, **kwargs):
-        start_time = time.time()
-        result = func(*args, **kwargs)
-        end_time = time.time()
-        print(f"Tiempo de ejecución: {end_time - start_time} segundos")
-        return result
+def mi_decorador(func):
+    def wrapper():
+        print("Antes de ejecutar la función")
+        func()
+        print("Después de ejecutar la función")
     return wrapper
 
-@timer_decorator
-def ejemplo_funcion():
-    # Código de la función
-    pass
+@mi_decorador
+def hola_mundo():
+    print("¡Hola, mundo!")
 
-ejemplo_funcion()
+hola_mundo()
 ```
 
-Para trabajar con módulos y paquetes externos, es crucial entender cómo importar y utilizar funcionalidades de bibliotecas como NumPy o Pandas. Por ejemplo, para usar NumPy en un proyecto, primero necesitamos instalarlo si no está disponible en nuestro entorno:
+El manejo de excepciones es crucial para desarrollar software robusto. Python proporciona una serie de excepciones predefinidas y permite definir nuestras propias excepciones heredando de la clase `Exception`. El uso adecuado de bloques `try`, `except`, `else` y `finally` ayuda a manejar errores de forma controlada, mejorando la experiencia del usuario y la estabilidad del programa.
 
-```bash
-pip install numpy
-```
+Ejercicio: Implementa un decorador que mide el tiempo de ejecución de una función y muestra el resultado en consola. Luego, aplica este decorador a diferentes funciones matemáticas para observar cómo funciona.
 
-Luego, podemos importarlo en Python y usar sus funciones directamente:
-
-```python
-import numpy as np
-
-# Crear un array de numpy
-array = np.array([1, 2, 3])
-
-print(array)
-```
-
-Este código muestra cómo trabajar con NumPy para crear y manipular arrays.
-
-- Decoradores permiten modificar el comportamiento de funciones sin alterar su definición original.
-- Los módulos y paquetes externos como NumPy pueden ser importados e integrados en proyectos Python.
+- Comprender cómo funcionan los decoradores.
+- Familiarizarse con la implementación y uso del manejo de excepciones.
