@@ -1,22 +1,22 @@
 # Integracion con otras herramientas
 
-## Objetivos
-- Comprender cómo integrar Python con otras herramientas de análisis de datos como Pandas y NumPy.
-- Aprender a utilizar bibliotecas externas en proyectos Python utilizando módulos y paquetes.
+### Objetivos
+- Comprender cómo integrar Python con otras herramientas de desarrollo y análisis.
+- Aprender a utilizar bibliotecas externas y servicios web en proyectos de Python.
 
-## Contenido
-La integración de Python con otras herramientas de análisis de datos es crucial para potenciar el poder de procesamiento y manipulación de datos. En esta lección, se explorará cómo utilizar Pandas y NumPy, dos bibliotecas populares en el ecosistema de Python, para mejorar la eficiencia y funcionalidad del código. Pandas proporciona estructuras de datos flexibles y operaciones rápidas para manipular datos tabulares, mientras que NumPy ofrece una amplia gama de funciones matemáticas y operaciones numéricas. A través de ejemplos prácticos, se demostrará cómo importar estas bibliotecas en un script Python, así como cómo utilizar sus funcionalidades para realizar tareas complejas de análisis de datos.
+### Contenido
+La integración de Python con otras herramientas es crucial para ampliar su funcionalidad y potencial. Python puede interactuar con una variedad de sistemas y aplicaciones mediante la utilización de bibliotecas externas o servicios web. Por ejemplo, se pueden integrar bases de datos SQL como MySQL o PostgreSQL a través del módulo `sqlite3` o `psycopg2`. Además, Python puede consumir APIs RESTful para acceder a datos en tiempo real desde servidores remotos.
 
-## Ejercicio
-Ejemplo: Cargar un conjunto de datos desde una URL y calcular la media de una columna específica utilizando Pandas y NumPy.
+Para ilustrar esto, se explorará cómo crear un script que conecte con una base de datos SQL y realice consultas básicas. También se presentará el uso de bibliotecas como `requests` para realizar solicitudes HTTP y trabajar con APIs externas.
 
-1. Importa las librerías Pandas y NumPy.
-2. Utiliza Pandas para cargar los datos desde una URL en un DataFrame.
-3. Selecciona una columna específica del DataFrame.
-4. Calcula la media de esa columna usando NumPy.
-5. Imprime el resultado.
+### Ejercicio
+Elabora un script Python que:
+1. Conecte a una base de datos MySQL.
+2. Realice una consulta SQL para recuperar los registros de una tabla específica.
+3. Muestra los resultados en la consola.
+4. Utiliza la biblioteca `requests` para hacer una solicitud GET a una API pública (por ejemplo, OpenWeatherMap) y muestra el clima actual de una ciudad determinada.
 
-## Resumen
-- Pandas ofrece estructuras de datos robustas y operaciones eficientes para manipular datos tabulares.
-- NumPy proporciona funciones matemáticas y operaciones numéricas que se integran bien con Pandas.
-- La integración de estas bibliotecas en proyectos Python mejora significativamente la capacidad de análisis de datos.
+### Resumen
+- Python puede integrarse con diversas herramientas y servicios externos mediante módulos y bibliotecas.
+- Se pueden conectar a bases de datos SQL y consumir APIs web para obtener y procesar datos en tiempo real.
+- El ejercicio práctico permitirá al estudiante aplicar estos conceptos en una práctica real.
