@@ -1,15 +1,20 @@
 # Optimizacion
 
-Objetivos
-- Comprender y aplicar técnicas de optimización para mejorar la velocidad y eficiencia del código Python.
-- Implementar algoritmos de optimización en programas prácticos.
+### Objetivos
+- Comprender las técnicas de optimización para mejorar el rendimiento del código Python.
+- Implementar estrategias de optimización en programas de Python utilizando bibliotecas y herramientas adecuadas.
 
-Contenido
-En esta lección, se explorará cómo optimizar el rendimiento de los programas escritos en Python. Se abordarán conceptos como la reducción de la complejidad temporal y espacial, la utilización eficiente de estructuras de datos y la implementación de técnicas específicas para mejorar la velocidad de ejecución. Se discutirá también cómo utilizar el módulo `timeit` para medir el tiempo de ejecución de diferentes partes del código y cómo aplicar pruebas de rendimiento utilizando herramientas como `cProfile`.
+### Contenido
+Las técnicas de optimización son fundamentales para mejorar la eficiencia y velocidad de los programas Python. Una parte crucial es la comprensión de cómo el intérprete maneja las operaciones, especialmente en bucles y estructuras de datos. Para ello, se puede utilizar la biblioteca `timeit` para medir el tiempo de ejecución y identificar los puntos críticos del código. Además, el uso de listas por comprensión y funciones generadoras puede optimizar el manejo de grandes conjuntos de datos, ya que son más eficientes en términos de memoria y velocidad.
 
-Ejercicio
-Implemente un programa que calcule los primeros 100 números de Fibonacci. Primero, escriba una versión simple utilizando recursión. Luego, optimice el código para minimizar la complejidad temporal y espacial. Compare el tiempo de ejecución antes y después de la optimización usando `timeit`. Finalmente, explore si hay un método más eficiente para calcular los números de Fibonacci.
+Para mejorar la eficiencia al manipular estructuras de datos complejas, se recomienda utilizar `cProfile` para analizar las llamadas a función y identificar los puntos donde se pierde tiempo. Esto permite optimizar el código de manera específica, ya que puede mostrar qué partes del programa son más lentas.
 
-Resumen
-- Se aprendió a aplicar técnicas de optimización en Python.
-- Se realizó una comparación entre versiones no optimizadas y optimizadas del cálculo de Fibonacci.
+Además, la utilización de módulos como NumPy y Pandas ofrece ventajas significativas en términos de rendimiento, especialmente para operaciones matemáticas y manipulación de datos. Estos módulos están optimizados bajo el capó y permiten realizar operaciones más rápidas que las implementadas con listas o diccionarios estándar.
+
+### Ejercicio
+Dado un conjunto de números enteros, utiliza `cProfile` para analizar el tiempo de ejecución de dos versiones del mismo programa: una que itera sobre la lista original y otra que utiliza NumPy. Compara los tiempos de ejecución y explica cuáles son las diferencias observadas.
+
+### Resumen
+- Utiliza herramientas como `timeit` para medir el rendimiento.
+- Implementa técnicas específicas, como listas por comprensión y funciones generadoras.
+- Analiza el código con `cProfile` para identificar áreas de mejora.
