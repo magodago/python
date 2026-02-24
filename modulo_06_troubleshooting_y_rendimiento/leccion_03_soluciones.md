@@ -1,18 +1,11 @@
 # Soluciones
 
-### Objetivos
-- Identificar y resolver problemas comunes en Python.
-- Mejorar la eficiencia del código para optimizar su rendimiento.
+## Contenido
+En esta lección sobre soluciones de problemas y optimización del rendimiento en Python, se abordarán técnicas para identificar y corregir errores comunes, así como estrategias para mejorar la eficiencia del código. Se explorará cómo utilizar herramientas internas de Python, como los módulos `pdb` (Python Debugger) y `time`, para depurar programas y medir su rendimiento. Además, se discutirá el uso de listas comprehensives y funciones generadoras en lugar de bucles for tradicionales para optimizar la ejecución del código.
 
-### Contenido
-En esta lección se abordarán varios aspectos clave relacionados con el diagnóstico y solución de problemas, así como la optimización del rendimiento en Python. Se explorará cómo identificar errores comunes a través de mensajes de error y trazas de pila, y se proporcionarán estrategias para corregirlos. Además, se analizará cómo mejorar el desempeño del código mediante técnicas como la minimización de operaciones innecesarias, la utilización eficiente de estructuras de datos y la optimización de bucles.
+## Ejercicio
+Implementa un programa que calcule la suma de los primeros 1000 números pares utilizando listas comprehensives. Luego, compara el rendimiento de esta implementación con una versión que utiliza un bucle for tradicional. Utiliza el módulo `time` para medir el tiempo de ejecución de ambas versiones y explica tus resultados.
 
-Se explicará también cómo utilizar herramientas de depuración integradas en los entornos de desarrollo para facilitar la identificación y resolución de problemas. Se proporcionarán ejemplos prácticos que permitirán al estudiante aplicar estos conocimientos a situaciones reales, mejorando así su capacidad para resolver problemas complejos y optimizar el rendimiento del código.
-
-### Ejercicio
-Implementa una función en Python que calcule la suma de los primeros 100 números pares. Inicialmente, escribe un código simple pero poco eficiente, luego identifica posibles mejoras y refactoriza el código para optimizar su rendimiento. Mide el tiempo de ejecución antes y después del refactoring e interpreta los resultados.
-
-### Resumen
-- Se aprendió a identificar y corregir errores comunes en Python.
-- Se aplicaron técnicas para mejorar la eficiencia y el rendimiento del código.
-- Se practicó la optimización del desempeño mediante la refactorización de un ejemplo práctico.
+## Resumen
+- Se aprendió a utilizar herramientas internas como `pdb` y `time` para depurar y optimizar código.
+- Se discutieron técnicas para mejorar la eficiencia del rendimiento, como el uso de listas comprehensives y funciones generadoras.
