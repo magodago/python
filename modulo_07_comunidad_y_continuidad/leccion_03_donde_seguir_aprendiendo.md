@@ -1,11 +1,15 @@
 # Donde seguir aprendiendo
 
-- Los alumnos aprenderán sobre recursos online y comunitarios disponibles para continuar su aprendizaje de Python.
-- Comprenderán la importancia de participar en comunidades de programadores para mejorar sus habilidades y conocimientos.
+- Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
+- Los estudiantes identificarán la importancia de la comunidad Python y cómo participar activamente en ella.
 
-El contenido de esta lección se centra en proporcionar a los estudiantes una guía detallada sobre dónde pueden seguir aprendiendo Python después de completar el curso. Se discutirán plataformas educativas como Coursera, Udemy y edX, que ofrecen cursos avanzados y especializados. También se explorará la importancia de foros y comunidades como Stack Overflow y Reddit para resolver dudas y aprender con otros programadores. Los estudiantes aprenderán a utilizar repositorios de GitHub para colaborar en proyectos y mejorar sus habilidades prácticas.
+El objetivo principal de esta lección es que los estudiantes comprendan que el aprendizaje de Python no se limita a la finalización del curso actual. Hay una gran cantidad de recursos disponibles para profundizar en conocimientos, resolver problemas y aprender nuevas técnicas. La comunidad Python es vital para este proceso, ya que proporciona apoyo continuo, oportunidades para colaborar en proyectos y acceso a expertos en el campo.
 
-Para el ejercicio, los alumnos deberán seleccionar dos plataformas educativas online mencionadas y crear una lista comparativa de los cursos disponibles que se ajusten a su nivel actual y aspiraciones futuras. Deben incluir información sobre la duración del curso, costos (si es aplicable), temas cubiertos y opiniones de otros estudiantes si están disponibles.
+Los estudiantes explorarán diferentes plataformas como Stack Overflow, GitHub, y Foros de Discusión de Python, donde pueden encontrar soluciones a problemas comunes, compartir conocimientos e interactuar con otros programadores. Además, se les recomendará la lectura de documentación oficial, libros electrónicos gratuitos y cursos en línea para mantenerse actualizados sobre las últimas tendencias y herramientas.
 
-- Los recursos online son valiosos para el aprendizaje continuo.
-- La participación en comunidades de programadores puede ser muy beneficiosa.
+Ejercicio: Los estudiantes deben seleccionar tres recursos o plataformas recomendados y describir brevemente cómo pueden ser útiles para su aprendizaje futuro. Deben presentar sus respuestas en una tabla con columnas tituladas "Recursos", "Descripción" y "Uso".
+
+Puntos clave:
+- Existen múltiples recursos disponibles para continuar aprendiendo Python.
+- La comunidad Python es fundamental para el crecimiento personal como programador.
+- Es importante mantenerse actualizado y participar activamente en la comunidad.
