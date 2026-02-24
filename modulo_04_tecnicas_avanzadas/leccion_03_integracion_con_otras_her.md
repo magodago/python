@@ -1,22 +1,22 @@
 # Integracion con otras herramientas
 
 ### Objetivos
-- Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
-- Aprender a utilizar bibliotecas gráficas como Matplotlib para visualización de datos.
+- Comprender cómo integrar Python con otros lenguajes de programación utilizando interfaces de programación de aplicaciones (APIs).
+- Aprender a utilizar bibliotecas externas en proyectos Python y optimizar el rendimiento del código.
 
 ### Contenido
-En esta lección, profundizaremos en la integración de Python con otras herramientas y bibliotecas que amplían significativamente su funcionalidad. En primer lugar, exploraremos cómo combinar Python con Pandas, una poderosa librería para el análisis de datos, permitiendo operaciones eficientes sobre conjuntos de datos complejos. A continuación, veremos cómo utilizar NumPy, otra biblioteca fundamental para el procesamiento numérico en Python, para realizar cálculos matemáticos avanzados y manipulaciones de matrices. Finalmente, introduciremos Matplotlib, una herramienta esencial para la visualización de datos, mostrando cómo crear gráficas detalladas y personalizadas.
+La integración de Python con otras herramientas es crucial para aprovechar su versatilidad en diversos entornos. Este módulo se centra en la utilización de APIs y la integración con otros lenguajes de programación, permitiendo a los desarrolladores crear soluciones complejas que combinan las fortalezas de Python con otras tecnologías. Además, se explorará cómo importar bibliotecas externas para extender el funcionamiento del código y mejorar su eficiencia, lo cual es fundamental en proyectos de gran escala.
+
+La integración con APIs puede realizarse a través de llamadas HTTP o utilizando módulos como `requests` que facilitan la comunicación entre diferentes servicios. Por otro lado, la importación de bibliotecas externas se logra mediante el uso del administrador de paquetes `pip`, permitiendo al estudiante añadir y gestionar dependencias con facilidad.
 
 ### Ejercicio
-Implemente un programa que cargue un conjunto de datos utilizando Pandas, realice operaciones básicas como filtrado y agrupación, y luego use Matplotlib para generar una gráfica de dispersión. Los pasos a seguir son:
-
-1. Importe las bibliotecas necesarias: Pandas y Matplotlib.
-2. Cargue un conjunto de datos desde un archivo CSV.
-3. Filtre los datos para incluir solo registros que cumplan ciertas condiciones (por ejemplo, temperaturas superiores a 30 grados).
-4. Agrupe los datos por una columna específica y calcule el promedio.
-5. Cree una gráfica de dispersión utilizando Matplotlib con los datos filtrados.
+Desarrolla un script Python que utilice una API de terceros para obtener datos meteorológicos y los visualice en una gráfica utilizando la biblioteca matplotlib. El ejercicio debe incluir:
+1. La importación de las bibliotecas necesarias.
+2. La configuración de la API key si es necesario.
+3. La realización de una llamada a la API para obtener datos meteorológicos de una ciudad específica.
+4. La visualización de dichos datos en un gráfico.
 
 ### Resumen
-- Integración eficiente de Python con Pandas para análisis de datos.
-- Uso de NumPy para cálculos matemáticos avanzados.
-- Creación de visualizaciones detalladas con Matplotlib.
+- Se aprende a integrar Python con otras herramientas mediante APIs y bibliotecas externas.
+- El uso de `requests` facilita la comunicación entre diferentes servicios.
+- La importación de bibliotecas mejora el rendimiento y funcionalidad del código.
