@@ -1,11 +1,13 @@
 # Optimizacion
 
-- Optimizar código Python para mejorar la eficiencia y velocidad de ejecución.
-- Utilizar herramientas integradas como `timeit` y `cProfile` para medir y optimizar el rendimiento.
+- Optimizar el rendimiento de los programas Python mediante la utilización eficiente de estructuras de datos.
+- Implementar técnicas de programación funcional para mejorar la eficiencia y legibilidad del código.
 
-Python es un lenguaje de programación versátil, pero al desarrollar aplicaciones complejas, puede surgir la necesidad de mejorar la eficiencia del código. En esta lección se explorará cómo utilizar técnicas avanzadas para optimizar el rendimiento de los programas Python. Se aprenderán a utilizar las herramientas integradas `timeit` y `cProfile`, que permiten medir el tiempo de ejecución y analizar el perfil del programa, respectivamente. Estos instrumentos son fundamentales para identificar secciones del código que pueden optimizarse.
+El objetivo principal de esta lección es enseñar a los estudiantes cómo optimizar su código Python para mejorar su rendimiento. Para lograr esto, se explorará el uso adecuado de estructuras de datos como listas, diccionarios y conjuntos, así como la implementación de funciones puras y la utilización de decoradores para mejorar la eficiencia del código.
 
-Para practicar estos conceptos, los estudiantes deberán realizar un análisis detallado de un script Python proporcionado por el profesor. Deberán utilizar `timeit` para medir el tiempo de ejecución inicial y luego implementar al menos tres técnicas de optimización aprendidas en la lección. Al finalizar, volverán a medir el tiempo de ejecución utilizando `timeit` para comprobar si se han logrado mejorar los tiempos.
+Se discutirá cómo las estructuras de datos apropiadas pueden reducir el tiempo de ejecución y aumentar la legibilidad del código. Se proporcionará un ejemplo práctico donde se compara el uso de listas con el uso de diccionarios para realizar búsquedas en un conjunto grande de datos.
 
-- Utilización efectiva de `timeit` y `cProfile`.
-- Implementación de técnicas de optimización basadas en el análisis del perfil del programa.
+Ejercicio: Optimice un script que busca coincidencias en una lista muy larga utilizando diferentes estructuras de datos y mide el tiempo de ejecución. Compare los resultados obtenidos con cada estructura de datos y explique por qué se observan diferencias en el rendimiento.
+
+- Estructuras de datos adecuadas pueden mejorar significativamente el rendimiento.
+- Uso efectivo de funciones puras y decoradores puede optimizar la eficiencia del código.
