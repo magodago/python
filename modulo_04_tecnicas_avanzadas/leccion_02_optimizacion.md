@@ -2,17 +2,19 @@
 
 ### Objetivos
 - Comprender y aplicar técnicas de optimización para mejorar la eficiencia del código Python.
-- Implementar algoritmos de optimización en proyectos prácticos.
+- Implementar algoritmos de optimización en programas de ejemplo.
 
 ### Contenido
-La optimización en Python es crucial para manejar grandes volúmenes de datos o realizar cálculos intensivos sin caer en el rendimiento limitado. Un aspecto fundamental es la comprensión del uso eficiente de las estructuras de datos y las funciones. Por ejemplo, al trabajar con listas, se puede preferir el uso de `numpy` arrays para operaciones matemáticas, ya que estos son más rápidos debido a su implementación en C y su capacidad para realizar operaciones vectorizadas. Además, la minimización del uso innecesario de bucles for y la aplicación de funciones puras pueden mejorar significativamente el rendimiento.
+La optimización es crucial para mejorar el rendimiento de los programas Python, especialmente cuando se trabaja con grandes conjuntos de datos o procesos intensivos. Para lograr esta meta, se pueden emplear diversas técnicas que abordan desde la elección adecuada de estructuras de datos hasta la implementación eficiente de algoritmos y la utilización de módulos optimizados.
 
-Para ilustrar esto, se puede explorar el uso de `map()`, `filter()` y comprensiones de lista en lugar de bucles tradicionales. Estos métodos no solo son más concisos sino que también suelen ser más rápidos debido a su implementación interna optimizada.
+Una técnica fundamental es el uso de listas comprensivas en lugar de bucles for para construir colecciones, ya que son más rápidas y concisas. Además, se recomienda utilizar las bibliotecas numéricas como NumPy y SciPy, que están optimizadas para operaciones matemáticas intensivas y pueden proporcionar un rendimiento significativamente mejorado.
+
+Otro aspecto importante es la comprensión de cómo Python maneja la memoria y el uso eficiente del espacio en memoria. Esto incluye la gestión adecuada de variables y objetos, así como el uso de métodos de liberación de memoria para evitar fugas.
 
 ### Ejercicio
-Escribe un programa que calcule la suma de los primeros 10,000 números pares utilizando `numpy` arrays y comprensiones de lista. Compara el tiempo de ejecución y la eficiencia de ambos métodos.
+Implementa un programa que calcule los primeros 1000 números primos utilizando listas comprensivas y módulos optimizados. Compara el tiempo de ejecución con una versión que utiliza bucles for tradicionales. Documenta tus resultados y reflexiona sobre las diferencias observadas.
 
 ### Resumen
-- Se aprendió a utilizar `numpy` arrays para operaciones matemáticas intensivas.
-- Se exploró cómo las funciones puras y estructuras de datos alternativas pueden mejorar la eficiencia del código.
-- Se realizó un ejercicio práctico para comparar diferentes enfoques de programación.
+- Utilización de listas comprensivas para mejorar la eficiencia.
+- Implementación de bibliotecas numéricas como NumPy y SciPy para operaciones matemáticas intensivas.
+- Gestión eficiente del espacio en memoria para evitar fugas.
