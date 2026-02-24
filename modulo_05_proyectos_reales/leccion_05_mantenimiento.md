@@ -1,17 +1,12 @@
 # Mantenimiento
 
-Objetivos
-- Comprender la importancia del mantenimiento de software en proyectos Python.
-- Aprender técnicas y mejores prácticas para mantener código existente.
+- Comprender los conceptos básicos de mantenimiento de software y su aplicación en proyectos Python.
+- Identificar y corregir errores comunes en código existente mediante la revisión y refactorización.
 
-Contenido
-El mantenimiento de software es un componente crucial en el ciclo de vida de cualquier proyecto, incluyendo los desarrollados con Python. Involucra la revisión, actualización y optimización del código existente para asegurar su continuidad y mejora a lo largo del tiempo. Es importante que se trate como una fase independiente del desarrollo inicial, ya que el software raramente permanece inmutable en un entorno dinámico.
+El mantenimiento de software es una parte crucial del ciclo de vida de cualquier proyecto de desarrollo, incluyendo aquellos desarrollados con Python. Este proceso implica no solo la corrección de errores y la mejora de la eficiencia, sino también la adaptación del código a nuevas necesidades o cambios en el entorno. En proyectos grandes y complejos, el mantenimiento puede representar hasta un 70% del tiempo total dedicado al desarrollo. Por lo tanto, es fundamental conocer las mejores prácticas para mantener software de manera eficiente.
 
-Para mantener eficazmente un proyecto Python, es recomendable documentar bien las decisiones de diseño y cambios realizados. Además, la implementación de pruebas unitarias y de integración ayuda a detectar problemas temprano y asegurar que el software funcione como se espera durante el proceso de actualización.
+Para ilustrar estos conceptos, los estudiantes deberán revisar un código Python existente que resuelve un problema matemático complejo. El objetivo será identificar y corregir errores, mejorar la legibilidad del código mediante el uso de comentarios claros y nombres de variables descriptivos, y optimizar el rendimiento sin comprometer la funcionalidad.
 
-Ejercicio
-Dado un código Python existente que calcula el área de diferentes figuras geométricas (círculo, cuadrado y rectángulo), identifique posibles mejoras en el mantenimiento. Documente sus observaciones y proporcione una versión revisada del código con pruebas unitarias implementadas.
-
-Resumen
-- El mantenimiento es fundamental para la continuidad y mejora del software.
-- La documentación y pruebas son herramientas esenciales para el mantenimiento eficaz en Python.
+- Identificar y corregir problemas en el código existente.
+- Mejorar la legibilidad y eficiencia del código.
+- Aplicar técnicas de mantenimiento de software a proyectos Python.
