@@ -1,17 +1,22 @@
 # Proyecto practico 1
 
-- Utilizar técnicas avanzadas de Python para la manipulación y análisis de datos.
-- Implementar un proyecto práctico que permita al alumno aplicar conceptos como la programación orientada a objetos y el uso eficiente de bibliotecas.
+### Objetivos
+- Implementar un programa que utilice técnicas avanzadas de Python para la manipulación y análisis de datos.
+- Desarrollar habilidades en el uso de bibliotecas como Pandas y NumPy.
 
-Para este módulo, se trabajará en la implementación de un sistema que analice datos meteorológicos. Los alumnos aprenderán a utilizar pandas para manipular conjuntos de datos, matplotlib para visualizar información y scikit-learn para realizar predicciones basadas en modelos estadísticos.
+### Contenido
+En esta lección, se profundizará en las capacidades de Python para el procesamiento y análisis de datos. Se explorará cómo utilizar eficientemente la biblioteca Pandas para manipular grandes volúmenes de datos, incluyendo la lectura, limpieza y transformación de datos. Además, se introducirán funciones avanzadas del módulo NumPy para realizar cálculos matemáticos complejos en arrays multidimensionales.
 
-El ejercicio consiste en desarrollar un programa que:
-1. Carga un conjunto de datos meteorológicos pre-procesados.
-2. Realiza una exploración inicial del dataset utilizando métodos de pandas.
-3. Visualiza la temperatura y precipitaciones a lo largo del tiempo usando matplotlib.
-4. Implementa un modelo de regresión lineal con scikit-learn para predecir las temperaturas futuras basándose en los datos históricos.
+El objetivo es que los alumnos comprendan cómo combinar estas bibliotecas para crear soluciones robustas y eficientes para problemas de análisis de datos comunes. Se abordarán ejemplos prácticos que incluyen la manipulación de series temporales, el manejo de datos faltantes y la implementación de operaciones matemáticas complejas.
 
-Los puntos clave a resaltar son:
-- El uso eficiente de pandas para manipular grandes conjuntos de datos.
-- La importancia de la visualización de datos para entender patrones y tendencias.
-- La implementación de modelos predictivos con scikit-learn.
+### Ejercicio
+Implementa un programa en Python que:
+1. Lea un archivo CSV con información sobre ventas diarias.
+2. Limpie los datos eliminando filas con valores faltantes.
+3. Calcula el promedio mensual de las ventas.
+4. Identifica y elimina outliers en la serie temporal de ventas utilizando el método del rango intercuartil.
+
+### Resumen
+- Se profundiza en la utilización de Pandas para manipular datos.
+- Se enseñan técnicas avanzadas con NumPy para cálculos matemáticos.
+- Los alumnos aplicarán estos conocimientos a un problema real de análisis de datos.
