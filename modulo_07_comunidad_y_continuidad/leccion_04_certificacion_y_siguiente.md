@@ -1,17 +1,11 @@
 # Certificacion y siguiente nivel
 
-## Objetivos
 - Comprender los beneficios de obtener una certificación en Python.
-- Explorar las diferentes rutas para continuar evolucionando como desarrollador Python.
+- Explorar las habilidades necesarias para alcanzar el siguiente nivel en programación con Python.
 
-## Contenido
-En esta lección del módulo sobre comunidad y continuidad, se abordará la importancia de obtener una certificación en Python. La certificación no solo demuestra competencias técnicas sólidas, sino que también puede abrir puertas a oportunidades laborales más avanzadas. Además, el proceso de preparación para la certificación fomenta un aprendizaje continuo y refuerza los conocimientos adquiridos durante el curso.
+Python es un lenguaje de programación versátil y ampliamente utilizado, que se destaca por su simplicidad y eficacia. La obtención de una certificación en Python no solo demuestra tu compromiso y dedicación a la adquisición de conocimientos técnicos, sino que también puede abrir puertas hacia oportunidades laborales más avanzadas o mejor remuneradas. Además, esta certificación actúa como un punto de partida para explorar áreas más especializadas dentro del ecosistema Python, tales como desarrollo web con Django, análisis de datos con Pandas y NumPy, o inteligencia artificial y machine learning.
 
-Continuar evolucionando como desarrollador Python implica mantenerse actualizado con las últimas tendencias y tecnologías. Se explorarán diferentes rutas, como cursar cursos avanzados, participar en proyectos de código abierto o asistir a conferencias y eventos de la comunidad Python. Estas actividades no solo permiten aprender de expertos en el campo, sino que también fomentan la colaboración y el networking.
+Para practicar estos conceptos, realiza el siguiente ejercicio: Escribe una función en Python que implemente un algoritmo de clasificación simple (por ejemplo, K-Nearest Neighbors) utilizando un conjunto de datos de ejemplo. Luego, evalúa la precisión de tu modelo utilizando un conjunto de prueba separado. Documenta cada paso y asegúrate de incluir comentarios en tu código para explicar lo que hace.
 
-## Ejercicio
-Después de esta lección, los alumnos deberán investigar una certificación de Python disponible (por ejemplo, la certificación OCPJP o la certificación AWS Certified Developer – Associate) e identificar tres beneficios específicos que obtendrían al obtenerla. Luego, deben buscar y presentar un proyecto de código abierto relevante para su nivel actual de experiencia.
-
-## Resumen
-- La certificación en Python es valiosa para demostrar competencias técnicas y abrir oportunidades laborales.
-- Continuar aprendiendo y participando en la comunidad Python es crucial para evolucionar como desarrollador.
+- Entender los beneficios de una certificación en Python.
+- Desarrollar habilidades para aplicar conocimientos prácticos en proyectos de codificación.
