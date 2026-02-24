@@ -1,17 +1,15 @@
 # Entrega y revision
 
-- El estudiante presentará su proyecto final de Python a la clase.
-- Se revisarán los aspectos técnicos del código y las mejores prácticas de programación utilizadas por cada estudiante.
+Objetivos
+- Entender los pasos necesarios para la entrega y revisión del proyecto final.
+- Identificar y corregir posibles errores comunes en el código de Python.
 
-El objetivo principal de esta lección es que los estudiantes preparen una presentación clara y concisa de su proyecto final en Python. Durante la entrega, se espera que expliquen el problema que resuelven, el diseño del programa, las decisiones técnicas tomadas y cómo se implementaron soluciones específicas. Además, se revisará el código fuente para evaluar el uso apropiado de las mejores prácticas de programación en Python.
+Contenido
+En esta lección, se abordarán los aspectos prácticos y teóricos relacionados con la entrega y revisión del proyecto final. Se discutirá cómo presentar el trabajo de manera profesional, incluyendo la documentación, la estructura del código y las pruebas realizadas. Además, se explorará cómo abordar críticas constructivas durante la revisión, identificando errores comunes en Python como problemas de sintaxis, manejo de excepciones inadecuado o malas prácticas de programación.
 
-Para la práctica, los estudiantes deben preparar una diapositiva PowerPoint o Google Slides que incluya:
-- Título del proyecto y nombre del estudiante.
-- Resumen del problema a resolver.
-- Diagrama de flujo o pseudocódigo del algoritmo principal.
-- Capturas de pantalla mostrando el funcionamiento del programa.
-- Breve explicación sobre las dificultades enfrentadas y cómo se superaron.
+Ejercicio
+Desarrolla un programa en Python que calcule el área y el perímetro de un círculo dado su radio. Documenta tu código explicando cada paso, incluyendo las fórmulas utilizadas. Luego, presenta tu trabajo a una compañera o compañero del curso para recibir críticas constructivas sobre la estructura, claridad y eficiencia de tu código.
 
-Los puntos clave para resumir esta lección son:
-- Preparar una presentación clara y concisa del proyecto final.
-- Entender la importancia de la documentación y la organización en el código.
+Resumen
+- Se destacará la importancia de la documentación clara y el seguimiento de buenas prácticas en el desarrollo de software.
+- Se enfatizará la necesidad de prepararse para recibir críticas constructivas durante la revisión.
