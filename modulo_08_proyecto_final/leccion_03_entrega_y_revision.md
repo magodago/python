@@ -1,14 +1,15 @@
 # Entrega y revision
 
-- Entender los criterios de evaluación y revisión del proyecto final.
-- Practicar la presentación clara y concisa del trabajo realizado.
+Objetivos
+- Entender los pasos y protocolos necesarios para la entrega del proyecto final.
+- Familiarizarse con el proceso de revisión y retroalimentación constructiva.
 
-El objetivo principal de esta lección es que los estudiantes comprendan completamente los criterios de evaluación y revisión para el proyecto final de Python. Durante la clase, se discutirán en detalle las expectativas sobre la estructura, el contenido y la calidad del código. Se proporcionará una hoja de puntuación detallada con ejemplos de cómo se aplican los criterios a un proyecto real.
+Contenido
+La entrega y revisión del proyecto final es una etapa crucial en el curso de Python. En esta lección, se abordarán los aspectos técnicos y metodológicos necesarios para presentar un trabajo eficaz. Se discutirá cómo preparar la documentación requerida, incluyendo códigos fuente limpios, comentarios adecuados y una explicación clara de las funcionalidades del proyecto. Además, se explorará el proceso de revisión por pares, enfatizando la importancia de proporcionar y recibir feedback constructivo para mejorar la calidad del trabajo.
 
-Además, se practicará la presentación oral del trabajo final. Los estudiantes aprenderán a resumir eficazmente sus logros y desafíos en el desarrollo del proyecto, así como a responder preguntas de evaluadores de manera clara y precisa. Se recomendará que preparen una breve introducción sobre su proyecto, un resumen de los aspectos técnicos más relevantes y conclusiones sobre lo aprendido.
+Ejercicio
+Los estudiantes deberán presentar su proyecto final en formato digital, incluyendo un README con instrucciones de instalación y uso. Posteriormente, se formarán grupos de revisión por pares donde cada estudiante evaluará el proyecto de otro compañero, proporcionando al menos tres puntos fuertes y dos áreas para mejorar. Este ejercicio busca fomentar la colaboración y el aprendizaje mutuo.
 
-Ejercicio: Cada estudiante presentará brevemente su proyecto final en clase (5-7 minutos cada uno). Después de la presentación, recibirán retroalimentación oral basada en los criterios de evaluación proporcionados. Los estudiantes también podrán preguntar y discutir con sus compañeros sobre el contenido del proyecto.
-
-Puntos clave:
-- Comprender los criterios de evaluación.
-- Practicar la presentación clara y concisa del trabajo realizado.
+Resumen
+- Preparación adecuada es clave para una efectiva entrega del proyecto.
+- La revisión por pares promueve el desarrollo de habilidades críticas y constructivas en la evaluación del trabajo.
