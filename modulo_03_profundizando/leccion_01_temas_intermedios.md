@@ -1,14 +1,11 @@
 # Temas intermedios
 
-- Comprender la implementación de decoradores en Python y su uso para modificar funcionalidades de funciones.
-- Aprender a trabajar con módulos personalizados y entender cómo importar y utilizar funciones y clases desde otros scripts.
+- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
+- Explorar la optimización del código mediante la implementación de métodos de programación funcional avanzados.
 
-En esta lección, profundizaremos en dos temas intermedios cruciales del lenguaje Python: los decoradores y el manejo de módulos. Los decoradores son una característica poderosa que permite modificar dinámicamente las funcionalidades de otras funciones sin alterar su estructura original. Este mecanismo es muy útil para añadir funcionalidad común a múltiples funciones, como la verificación de permisos o el registro de acciones.
+En esta lección, profundizaremos en dos temas intermedios cruciales para el desarrollo eficiente con Python: decoradores y programación funcional. Los decoradores son una característica poderosa que permite modificar o extender las funcionalidades de funciones o métodos sin alterar su estructura original. Esto se logra mediante la definición de una función anidada que envuelve a otra, permitiendo el acceso y modificación del comportamiento de esta última. La programación funcional, por otro lado, enfatiza la utilización de funciones puras y la manipulación de datos a través de transformaciones matemáticas, promoviendo un estilo de codificación más declarativo y menos procedural.
 
-Además, aprenderemos a trabajar con módulos personalizados en Python. Un módulo es un archivo que contiene definiciones y declaraciones que pueden ser importados en otros scripts. Entender cómo organizar y estructurar código en múltiples archivos facilita la mantenibilidad y reutilización del mismo.
+Para practicar estos conceptos, los estudiantes deberán escribir una función que calcule el factorial de un número utilizando recursividad. Luego, se les pedirá que creen un decorador que mida el tiempo de ejecución de esta función y lo imprima en la consola. Finalmente, se les invitará a refactorizar la solución original utilizando métodos de programación funcional como map(), filter() o reduce().
 
-Para practicar, crea un decorador que registre el tiempo de ejecución de una función y aplica este decorador a al menos tres funciones diferentes.
-
-Puntos clave:
-- Los decoradores permiten modificar funcionalidades de otras funciones.
-- El manejo de módulos personalizados mejora la organización del código.
+- Decoradores para medir el rendimiento del código.
+- Programación funcional para optimizar soluciones mediante funciones puras y transformaciones matemáticas.
