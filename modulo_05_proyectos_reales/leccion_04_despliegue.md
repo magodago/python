@@ -1,11 +1,13 @@
 # Despliegue
 
-- Entender los conceptos básicos de despliegue web para aplicaciones Python.
-- Aprender a utilizar un servidor web como Gunicorn y Nginx para desplegar una aplicación Flask.
+- Entender los pasos necesarios para desplegar una aplicación Python en producción.
+- Aprender a configurar un entorno de despliegue utilizando Docker y Kubernetes.
 
-El despliegue es un paso crucial en el ciclo de vida de cualquier proyecto de desarrollo web. En esta lección, se explorará cómo preparar tu aplicación Python para ser desplegada en producción. Se comenzará con la selección del servidor web adecuado y luego se explicará cómo configurarlo junto con Gunicorn, un servidor de aplicaciones que puede manejar múltiples solicitudes de manera eficiente. Además, se discutirá la configuración básica de Nginx como proxy inverso para mejorar el rendimiento y la seguridad de tu aplicación.
+Python es ampliamente utilizado no solo para el desarrollo de aplicaciones de escritorio o web, sino también para soluciones empresariales complejas que se ejecutan en servidores. El despliegue de una aplicación Python implica asegurarse de que la aplicación funcione correctamente en un entorno de producción. En esta lección, aprenderemos a configurar un entorno de despliegue utilizando Docker y Kubernetes.
 
-Para practicar estos conceptos, los estudiantes deberán desplegar una aplicación Flask simple en un entorno local utilizando Gunicorn y Nginx. Esto incluirá instalar las dependencias necesarias, configurar el servidor web y Gunicorn, y finalmente probar que la aplicación se despliega correctamente.
+Para ello, primero necesitamos preparar nuestra aplicación para el despliegue. Esto incluye escribir un archivo `Dockerfile` que defina las dependencias del proyecto y cómo se construirá la imagen Docker. Posteriormente, usaremos Kubernetes para orquestar los contenedores y asegurarnos de que nuestra aplicación esté disponible en todo momento.
 
-- Familiarizarse con los conceptos de despliegue web.
-- Configurar un entorno local para el despliegue de una aplicación Flask.
+Ejercicio: Configura una aplicación simple en Python (por ejemplo, un servidor web Flask) y despliega esa aplicación utilizando Docker y Kubernetes. Documenta cada paso del proceso desde la creación del `Dockerfile` hasta el despliegue de la aplicación en un cluster Kubernetes local o en la nube.
+
+- Familiarizarse con los conceptos básicos de Docker y Kubernetes para el despliegue de aplicaciones.
+- Realizar un ejercicio práctico de despliegue utilizando estas tecnologías.
