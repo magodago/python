@@ -1,11 +1,11 @@
 # Recursos de la comunidad
 
-- Comprender los recursos disponibles en la comunidad Python.
-- Identificar y evaluar fuentes de información confiables para proyectos futuros.
+- Familiarizarse con los recursos de la comunidad Python disponibles.
+- Aprender a utilizar foros y grupos de discusión para resolver problemas comunes.
 
-La lección se centra en explorar la rica comunidad que rodea a Python, una de las lenguas de programación más populares. Se abordará cómo utilizar foros, grupos de discusión y plataformas de código abierto como GitHub para obtener ayuda, compartir conocimientos y colaborar en proyectos. Los estudiantes aprenderán a valorar la importancia de participar activamente en estas comunidades, no solo como usuarios sino también como contribuyentes.
+La lección se centra en explorar los diversos recursos que ofrece la comunidad Python, incluyendo foros de discusión, repositorios de código, documentación oficial y tutoriales. Estos recursos son esenciales para cualquier programador que busque mejorar sus habilidades o resolver problemas técnicos. Se destacará cómo utilizar plataformas como Stack Overflow, GitHub y la documentación oficial de Python para obtener ayuda y compartir conocimientos.
 
-Para practicar esta lección, los alumnos deben buscar y evaluar tres fuentes diferentes de información relacionada con Python. Estas pueden ser foros de discusión, tutoriales, documentación oficial o proyectos de código abierto. Deben anotar sus hallazgos y presentar una evaluación crítica sobre la calidad, actualidad y utilidad de cada recurso.
+Ejercicio: El estudiante debe buscar una duda técnica común en Stack Overflow y copiar el problema original junto con la respuesta más votada. Luego, explicar brevemente qué solucionó el programador y cómo se puede aplicar esa solución a un problema similar.
 
-- Familiarizarse con las principales plataformas de la comunidad Python.
-- Desarrollar habilidades para evaluar fuentes de información en línea.
+- Familiarizarse con los recursos de la comunidad Python.
+- Practicar la búsqueda y resolución de problemas en foros comunitarios.
