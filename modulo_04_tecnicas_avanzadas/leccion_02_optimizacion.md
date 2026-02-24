@@ -1,18 +1,17 @@
 # Optimizacion
 
-## Objetivos
-- Comprender las técnicas de optimización para mejorar la eficiencia del código Python.
-- Implementar algoritmos de optimización básicos y medir su rendimiento.
+### Objetivos
+- Comprender y aplicar técnicas de optimización para mejorar la eficiencia del código Python.
+- Identificar y corregir posibles puntos de mejora en el rendimiento de programas existentes.
 
-## Contenido
-En esta lección, se explorará cómo optimizar el código en Python mediante diversas técnicas. La eficiencia es crucial cuando trabajamos con grandes conjuntos de datos o aplicaciones que requieren altas velocidades de procesamiento. Se abordarán temas como la eliminación de bucles innecesarios, el uso de listas comprensivas y funciones puras en lugar de funciones impuras, así como la optimización del uso de módulos y bibliotecas externas para mejorar el rendimiento.
+### Contenido
+En esta lección, se explorará cómo optimizar el rendimiento de los programas escritos en Python. Se abordarán técnicas como la utilización eficiente de listas y diccionarios, la gestión adecuada de memoria y la implementación de algoritmos más eficientes. Es crucial entender que no todos los problemas requieren soluciones complejas; a menudo, pequeños ajustes en el diseño del código pueden tener un impacto significativo en su rendimiento.
 
-Se explicará cómo utilizar perfiles de rendimiento (profilers) para identificar los puntos críticos donde se puede aplicar mejoras. Se proporcionarán ejemplos prácticos en los que se demostrará cómo transformar un código menos eficiente a uno más optimizado, con énfasis en mantener la legibilidad del código.
+Se discutirá también cómo utilizar módulos como `timeit` y `cProfile` para medir y analizar la eficiencia de diferentes partes del código. Estos herramientas son esenciales para identificar las áreas donde se puede hacer optimización sin sacrificar el funcionamiento del programa.
 
-## Ejercicio
-Implemente una función que calcule el producto de todos los números pares hasta n. Primero, escriba una versión básica utilizando bucles y luego optimice su implementación utilizando listas comprensivas y funciones puras. Mida el tiempo de ejecución de ambas versiones usando `timeit` e indique cuál es más eficiente.
+### Ejercicio
+Dado un programa que calcula la suma de los primeros 1000 números pares, actualiza el código utilizando list comprehensions y compara su rendimiento con una versión tradicional. Utiliza `timeit` para medir el tiempo de ejecución de ambas versiones.
 
-## Resumen
-- Se identificaron técnicas para optimizar el código Python, incluyendo la eliminación de bucles innecesarios.
-- Se demostró cómo utilizar listas comprensivas y funciones puras para mejorar la eficiencia del código.
-- Se utilizó `timeit` para medir y comparar el rendimiento de diferentes implementaciones.
+### Resumen
+- Se aprende a utilizar técnicas de optimización para mejorar la eficiencia del código.
+- Se practica el uso de herramientas como `timeit` y `cProfile` para analizar y mejorar el rendimiento.
