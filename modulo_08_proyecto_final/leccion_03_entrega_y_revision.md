@@ -1,17 +1,10 @@
 # Entrega y revision
 
-Objetivos
-- Entender los pasos y procedimientos necesarios para la entrega del proyecto final de Python.
-- Familiarizarse con el proceso de revisión de proyectos por pares.
+- Entender los criterios de evaluación y revisión del proyecto final.
+- Preparar la entrega del proyecto final de manera adecuada.
 
-Contenido
-En esta lección, se abordarán los aspectos finales relacionados con el proyecto final de Python. Se discutirá cómo preparar y presentar el código final, incluyendo la documentación, pruebas y ejemplos de uso. Además, se explicará el proceso de revisión de proyectos por pares, enfatizando en la importancia del feedback constructivo y la colaboración entre compañeros.
+En esta lección se abordarán los aspectos relacionados con la entrega y la revisión del proyecto final en Python. Se explicará el formato y estructura requeridos para la presentación del trabajo, así como los criterios de evaluación que se considerarán durante la revisión. Los estudiantes aprenderán a organizar su trabajo de manera eficiente para una presentación óptima.
 
-El objetivo es que los estudiantes no solo entreguen un trabajo técnico completo, sino también desarrollen habilidades en la comunicación técnica y la retroalimentación crítica. Se proporcionarán guías detalladas sobre cómo presentar el proyecto de manera efectiva y cómo recibir críticas constructivas para mejorar su trabajo.
+Para la práctica, cada estudiante deberá preparar un informe detallado y presentar el código fuente del proyecto final en Python. El informe debe incluir una introducción al problema abordado, descripción del diseño y implementación, resultados obtenidos y conclusiones. Además, se recomienda que los estudiantes preparen una explicación breve de su proyecto, para facilitar la comprensión por parte del evaluador.
 
-Ejercicio
-Realiza una autoevaluación del proyecto final de Python siguiendo los criterios establecidos en la guía del curso. Identifica las áreas fuertes y débiles, y prepara un resumen de 200 palabras que describa tu proceso de desarrollo, las técnicas de programación utilizadas y los desafíos superados durante el proyecto.
-
-Resumen
-- Preparar y presentar el código final con documentación clara.
-- Participar en la revisión de proyectos por pares para recibir feedback constructivo.
+Los puntos clave a recordar son: el cumplimiento de los criterios establecidos, la claridad en la presentación y documentación del código, y la capacidad de explicar el funcionamiento del proyecto.
