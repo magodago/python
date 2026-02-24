@@ -1,17 +1,29 @@
 # Ejercicio guiado 2
 
-- Comprender la utilización de listas anidadas y su aplicación en problemas de programación.
-- Implementar funciones recursivas para resolver problemas complejos mediante la manipulación de listas anidadas.
+## Objetivos
+- Familiarizar al estudiante con la manipulación de listas y diccionarios en Python.
+- Desarrollar habilidades para la resolución de problemas a través del uso de bucles anidados.
 
-Las listas anidadas son una estructura de datos fundamental en Python que permite almacenar múltiples listas dentro de una sola lista. Este concepto es especialmente útil cuando se trabaja con datos tabulares o matrices, ya que facilita la manipulación y el procesamiento de información jerárquica.
+## Contenido
+En esta lección, profundizaremos en el manejo de estructuras de datos complejas como listas y diccionarios. Veremos cómo combinar estas estructuras con bucles para realizar operaciones más avanzadas. Por ejemplo, podrás aprender a recorrer una lista de diccionarios, manipular los valores dentro de estos y aplicar diferentes operaciones según ciertas condiciones.
 
-En esta lección, se explorará cómo crear, acceder a elementos y modificar listas anidadadas. Además, se profundizará en el uso de funciones recursivas para resolver problemas que involucran estructuras de datos complejas como las listas anidadas. Las funciones recursivas son una técnica poderosa que permite dividir un problema grande en subproblemas más pequeños y manejables.
+Para ilustrar esto, veremos un caso práctico donde se manejará una base de datos simple de productos en un inventario. Cada producto estará representado por un diccionario con información como el nombre, precio y stock disponible. El objetivo será calcular el valor total del inventario y actualizar el stock según la venta de ciertos productos.
 
-**Ejercicio**
+## Ejercicio
+Dado el siguiente código inicial:
 
-Diseña e implementa una función en Python que calcule la suma de todos los elementos numéricos de una lista anidada. La función debe ser capaz de manejar listas anidadas de cualquier profundidad. Por ejemplo, para la entrada `[[1, 2], [3, [4, 5]], 6]`, la función debe devolver el valor `21`.
+```python
+inventario = [
+    {"nombre": "Camisa", "precio": 50, "stock": 10},
+    {"nombre": "Pantalon", "precio": 80, "stock": 5},
+    {"nombre": "Zapatos", "precio": 120, "stock": 3}
+]
+```
 
-**Resumen**
+Escribe una función `calcular_valor_total(inventario)` que devuelva el valor total del inventario. Luego, implementa una función `actualizar_stock(inventario, producto_vendido, cantidad_vendida)` que actualice el stock de los productos vendidos.
 
-- Se aprendió a trabajar con listas anidadas y su manejo en Python.
-- Se desarrolló una comprensión de cómo aplicar funciones recursivas para resolver problemas complejos involucrando estructuras de datos jerárquicas.
+Finalmente, utiliza estas funciones para calcular el valor total del inventario y actualizar el stock después de vender 2 camisas, 1 pantalón y 3 zapatos.
+
+## Resumen
+- Se aprendió a manipular listas y diccionarios en Python.
+- Se practicó la resolución de problemas utilizando bucles anidados para recorrer estructuras de datos complejas.
