@@ -2,19 +2,16 @@
 
 ### Objetivos
 - Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
-- Aprender a utilizar bibliotecas gráficas como Matplotlib para crear visualizaciones desde código Python.
+- Aprender a utilizar bibliotecas gráficas como Matplotlib para visualizar datos directamente desde Python.
 
 ### Contenido
-En esta lección del módulo "Técnicas avanzadas" sobre "Integración con otras herramientas", exploraremos cómo Python puede ser integrado con otras poderosas bibliotecas y herramientas de análisis de datos. Pandas, una librería de procesamiento de datos en Python, proporciona estructuras de datos flexibles y eficientes que son ideales para el manejo de grandes volúmenes de datos. NumPy, por su parte, es fundamental para realizar cálculos numéricos en Python. Juntos, Pandas y NumPy permiten una manipulación y análisis de datos extremadamente potente.
+En esta lección, se explorará la integración de Python con otras herramientas y bibliotecas que amplían sus capacidades. Se destacará cómo combinar Python con Pandas y NumPy para manejar y analizar grandes conjuntos de datos de manera eficiente. Además, se profundizará en el uso de Matplotlib, una poderosa biblioteca gráfica que permite crear visualizaciones detalladas y personalizadas directamente desde Python.
 
-Además, aprenderemos a utilizar Matplotlib, una biblioteca gráfica robusta que nos permite crear una amplia variedad de visualizaciones desde nuestro código Python. Matplotlib es altamente personalizable y puede ser combinado con otras herramientas como Jupyter Notebooks para facilitar la exploración interactiva de datos.
+Se explicará cómo instalar y importar estas bibliotecas, así como ejemplos prácticos de cómo procesar datos utilizando Pandas y NumPy. Posteriormente, se mostrará cómo integrar estos datos en gráficas con Matplotlib, proporcionando una visión visual del análisis realizado. Se incluirán ejemplos de código que ilustran cada paso del proceso, desde la importación de datos hasta la creación y personalización de gráficos.
 
 ### Ejercicio
-Crea un script en Python que:
-1. Carga un conjunto de datos de ejemplo utilizando Pandas.
-2. Realiza una operación simple, como el cálculo del promedio de una columna específica.
-3. Utiliza Matplotlib para crear una gráfica de barras basada en los resultados obtenidos.
+Utilice Python para cargar un conjunto de datos sobre ventas de libros (disponible en línea) utilizando Pandas. Luego, procese los datos para calcular el total de ingresos por autor y visualícelo mediante una gráfica de barras con Matplotlib. Ajuste la gráfica para incluir etiquetas claras del eje X e Y, un título adecuado y colores distintivos para cada autor.
 
 ### Resumen
-- Se aprende a integrar Python con herramientas como Pandas y NumPy para análisis de datos.
-- Se enseña la creación de visualizaciones utilizando Matplotlib, mejorando la comprensión y presentación de datos.
+- Integración eficiente de Python con Pandas y NumPy para análisis de datos.
+- Uso de Matplotlib para crear visualizaciones detalladas y personalizadas directamente desde Python.
