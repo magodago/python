@@ -1,10 +1,11 @@
 # Feedback
 
-- Revisar y recibir feedback sobre el proyecto final de Python.
+- Comprender la importancia del feedback en el desarrollo de proyectos de programación.
+- Aprender a solicitar y proporcionar feedback constructivo relacionado con el código Python.
 
-En esta lección, se enfocará en la revisión y el intercambio de feedback entre compañeros para mejorar los proyectos finales. Se discutirá cómo proporcionar críticas constructivas y cómo integrarlas para refinar el código y optimizar las soluciones propuestas. El objetivo es que los estudiantes aprendan a evaluar el trabajo de otros con un enfoque crítico pero respetuoso, lo cual es fundamental en cualquier campo.
+El feedback es una herramienta fundamental para mejorar la calidad del código y el aprendizaje personal. En el contexto del proyecto final, el feedback puede provenir tanto de compañeros de clase como de profesores o instructores. Un buen feedback debe ser específico, constructivo y orientado a solucionar problemas o mejorar aspectos técnicos del código. Por ejemplo, se pueden señalar errores sintácticos, sugerir mejores prácticas en la programación funcional o optimización de algoritmos.
 
-Se analizarán ejemplos de feedback efectivo y se practicará la retroalimentación mutua entre pares para garantizar que cada proyecto final sea no solo funcional, sino también bien estructurado y optimizado. Este proceso ayudará a los estudiantes a desarrollar habilidades valiosas en el reconocimiento y mejora continua de su propio trabajo.
+Para el ejercicio, los estudiantes deberán intercambiar su código final con un compañero y proporcionar feedback mutuo basado en las pautas anteriores. Cada estudiante recibirá una evaluación detallada que incluirá comentarios sobre la claridad del código, la eficiencia de los algoritmos utilizados y el cumplimiento de las especificaciones del proyecto.
 
-- Practicar la retroalimentación mutua entre pares.
-- Integrar críticas constructivas para mejorar el proyecto final.
+- Comprender cómo el feedback puede mejorar la calidad del código.
+- Practicar la entrega y recepción de feedback constructivo en proyectos de programación.
