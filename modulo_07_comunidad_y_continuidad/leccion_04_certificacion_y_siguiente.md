@@ -1,11 +1,11 @@
 # Certificacion y siguiente nivel
 
-- Los alumnos aprenderán sobre las certificaciones disponibles en Python y cómo estas pueden ayudarles a mejorar su perfil profesional.
-- Se discutirá la importancia de seguir formándose continuamente en Python para mantenerse actualizados con las últimas tendencias y tecnologías.
+- Los alumnos comprenderán los beneficios de obtener una certificación en Python.
+- Los estudiantes aprenderán sobre las diferentes rutas para alcanzar el siguiente nivel en su aprendizaje de Python.
 
-Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta inteligencia artificial. Las certificaciones oficiales como la Certified Associate in Python Programming (CAP) o la Certified Professional in Python Application Development (CPAD) son reconocidas y pueden abrir puertas a oportunidades laborales más avanzadas. Además, participar en proyectos de código abierto y contribuir a comunidades como GitHub o Stack Overflow puede mejorar significativamente las habilidades prácticas del alumno y aumentar su visibilidad en el mercado laboral.
+Python es un lenguaje de programación versátil y ampliamente utilizado, que se ha convertido en una herramienta indispensable para desarrolladores de todo el mundo. Para fortalecer sus habilidades y mejorar su credibilidad profesional, obtener una certificación en Python puede ser muy beneficioso. Existen varias certificaciones disponibles, como la Certified Associate in Python Programming (CAP) ofrecida por la Python Software Foundation, o la Certified Python Developer (CPD) proporcionada por Pluralsight. Estas certificaciones no solo validan el conocimiento del estudiante en Python, sino que también demuestran su capacidad para aplicar esos conocimientos de manera efectiva.
 
-Para este ejercicio, los alumnos deberán buscar y analizar al menos tres certificaciones relacionadas con Python. Deberán identificar los requisitos para cada una, evaluar cuáles son más relevantes según sus objetivos profesionales actuales o futuros, y preparar un plan de estudio basado en esos requisitos.
+Para practicar y profundizar los conceptos aprendidos, los estudiantes deben implementar un pequeño proyecto que utilice la biblioteca Pandas para analizar datos. El ejercicio consiste en cargar un conjunto de datos de ventas ficticio, realizar una exploración inicial de los datos, y luego generar informes básicos sobre las ventas totales por producto y por mes.
 
-- Los alumnos adquirirán conocimientos sobre las certificaciones disponibles y cómo pueden beneficiarse.
-- Se enfatizará la importancia de la formación continua en Python para mantenerse actualizado.
+- Los alumnos entenderán el valor de obtener certificaciones en Python.
+- Se familiarizarán con diferentes rutas para avanzar en su aprendizaje.
