@@ -1,11 +1,13 @@
 # Temas intermedios
 
-- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
-- Aprender a manejar excepciones de manera efectiva para mejorar la robustez del código.
+- Comprender la utilización de decoradores en Python y su aplicación práctica.
+- Familiarizarse con el manejo avanzado de excepciones y sus beneficios en la programación.
 
-En esta lección se profundizará en dos temas intermedios fundamentales: los decoradores y el manejo de excepciones. Los decoradores son una característica poderosa que permite modificar o extender las funcionalidades de funciones o métodos sin alterar su estructura original, lo cual es muy útil para implementar comportamientos comunes como la verificación de permisos en aplicaciones web. Por otro lado, el manejo adecuado de excepciones es crucial para evitar que los errores interrumpan la ejecución del programa y permitir una respuesta más gracia y segura ante situaciones inesperadas.
+Python ofrece una amplia gama de características que permiten a los desarrolladores escribir código más limpio, eficiente y mantenible. Uno de estos recursos es el uso de decoradores, que son funciones que se utilizan para modificar o extender el comportamiento de otras funciones sin alterar su estructura original. Los decoradores en Python pueden ser aplicados a cualquier función o método, lo que los hace un poderoso mecanismo para la programación orientada a aspectos (AOP). Por ejemplo, un decorador puede agregar funcionalidades como autenticación, loggear de eventos, o validaciones a una función existente.
 
-Para ejercitar estos conceptos, los estudiantes deberán desarrollar un pequeño sistema que utilice decoradores para loggear las llamadas a funciones y manejar excepciones para garantizar que el programa no se detenga en caso de errores. Este ejercicio permitirá consolidar la comprensión de ambos temas y su aplicación práctica.
+Además, el manejo avanzado de excepciones es crucial en la resolución de problemas y la mejora del flujo de control en los programas. Python proporciona una amplia gama de excepciones predefinidas que pueden ser capturadas y manejadas para evitar que un programa se detenga abruptamente. Los desarrolladores deben familiarizarse con cómo estructurar bloques `try`, `except`, `else` y `finally` para manejar excepciones de manera eficiente, así como con la importancia del uso adecuado de las excepciones en lugar de simplemente usar `return None` o `return -1`. Este conocimiento ayuda a escribir código más robusto y menos propenso a errores.
 
-- Decoradores: herramienta para modificar funcionalidades sin alterar estructuras originales.
-- Manejo de excepciones: técnica fundamental para mejorar robustez del código, evitando interrupciones en caso de errores.
+Para practicar, escribe un decorador que registre el tiempo de ejecución de una función matemática. Luego, aplica este decorador a una función que calcule la raíz cuadrada de un número. Observa cómo se modifica el comportamiento de la función original sin alterar su estructura.
+
+- Decoradores para modificar funcionalidades.
+- Manejo avanzado y eficiente de excepciones en Python.
