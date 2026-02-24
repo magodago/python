@@ -1,16 +1,15 @@
 # Bienvenida al curso
 
 Objetivos
-- Familiarizar a los estudiantes con el concepto de Python y su importancia actual.
-- Explicar brevemente la estructura del curso para establecer expectativas.
+- Familiarizar a los estudiantes con Python y su importancia actual.
+- Presentar la estructura del curso y las herramientas que se utilizarán.
 
 Contenido
-En este primer módulo, introduciremos Python, un lenguaje de programación de alto nivel que se ha convertido en una herramienta esencial en el campo de la informática. Python es conocido por su sintaxis clara y legible, lo que facilita tanto su aprendizaje como su uso para desarrollar aplicaciones robustas. Este curso está diseñado para proporcionarte una sólida base en Python, desde los fundamentos básicos hasta conceptos más avanzados, con el objetivo de que puedas aplicarlo en diversos contextos, ya sea en desarrollo web, análisis de datos o inteligencia artificial.
+Bienvenidos al curso de Python. Este lenguaje de programación es ampliamente utilizado en una variedad de campos, desde desarrollo web hasta análisis de datos e inteligencia artificial. Su sintaxis clara y legible lo hace ideal para principiantes y expertos. Durante este curso, aprenderemos a utilizar Python para resolver problemas y automatizar tareas, explorando conceptos fundamentales como variables, estructuras de control y funciones.
 
 Ejercicio
-Crea un programa simple en Python que imprima "¡Bienvenido al curso de Python!" en la consola. Asegúrate de seguir los pasos de instalación del entorno de desarrollo y configuración básica antes de comenzar a codificar.
+Escriba un pequeño programa que solicite al usuario su nombre y luego lo salude con un mensaje personalizado. Este ejercicio ayudará a familiarizarse con la entrada del usuario y la impresión en pantalla, dos operaciones básicas en Python.
 
 Resumen
-- Introducción a Python como lenguaje de programación.
-- Importancia y aplicaciones de Python en diversos campos.
-- Estructura general del curso para un aprendizaje efectivo.
+- Python es un lenguaje de programación versátil y fácil de aprender.
+- El curso se estructurará para cubrir conceptos fundamentales y aplicaciones prácticas.
