@@ -1,11 +1,11 @@
 # Diagnostico
 
-- Identificar y diagnosticar problemas comunes en programas de Python.
-- Optimizar el rendimiento de scripts Python mediante técnicas básicas de diagnóstico.
+- Comprender los métodos básicos de diagnóstico y depuración en Python.
+- Identificar y corregir errores comunes en programas de Python.
 
-El diagnóstico es una habilidad crucial para cualquier programador. En esta lección, aprenderás a identificar errores comunes en tu código Python y cómo utilizar herramientas de depuración eficazmente. Veremos cómo usar la función `assert` para verificar condiciones durante la ejecución del programa y generar excepciones personalizadas cuando se detecten problemas. También exploraremos el uso de la consola de depuración de Python (PDB) para detener la ejecución en puntos específicos, inspeccionar variables y trazar el flujo del programa.
+Python es un lenguaje de programación versátil que, aunque tiene una sintaxis amigable, puede presentar problemas de rendimiento o errores durante su ejecución. El diagnóstico de estos problemas es crucial para mejorar la eficiencia del código y resolver errores que puedan surgir. Un primer paso en el diagnóstico es entender los tipos comunes de errores que pueden aparecer, como errores de sintaxis, excepciones y errores de lógica. Estos errores a menudo se manifiestan mediante mensajes de error útiles proporcionados por Python.
 
-Para practicar estos conceptos, realiza el siguiente ejercicio: Escribir un script que calcule el promedio de una lista de números. Implementa `assert` para verificar que los elementos de la lista sean numéricos. Luego, utiliza PDB para depurar y optimizar tu código, identificando posibles áreas de mejora en términos de rendimiento.
+Para practicar estos conceptos, los estudiantes deberán corregir un script de Python que calcula la suma de los primeros 100 números enteros pero que presenta errores en su lógica. El objetivo es identificar el error y corregirlo para que el programa funcione correctamente.
 
-- Utilización efectiva de `assert` para la validación de datos.
-- Uso de PDB para depurar y optimizar el código Python.
+- Identificar errores de lógica en un código.
+- Corregir y optimizar un script de Python para mejorar su rendimiento.
