@@ -1,18 +1,38 @@
 # Revision
 
 ## Objetivos
-- Revisar y consolidar los conceptos fundamentales de Python.
-- Analizar y aplicar técnicas avanzadas para mejorar la eficiencia del código.
+- Comprender y aplicar técnicas avanzadas de programación en Python.
+- Analizar y optimizar código existente utilizando mejores prácticas.
 
 ## Contenido
-En esta lección, se revisará el uso de decoradores en Python, que son una técnica poderosa para modificar funcionalidades de funciones o métodos sin alterar su estructura. También se explorará la optimización de código mediante la utilización de comprensiones de lista y diccionarios, que ofrecen una forma concisa y eficiente de trabajar con colecciones de datos.
-
-Además, se abordará el uso de generadores y corrutinas para manejar grandes cantidades de datos de manera eficiente. Estos conceptos son cruciales para desarrollar aplicaciones robustas y eficientes en Python.
+En esta lección, se revisará el uso de decoradores y generadores para mejorar la eficiencia y funcionalidad del código. Los decoradores permiten modificar o extender las funciones existentes sin alterar su estructura original, lo que es útil en diversas situaciones como manejo de errores, loggin o autenticación. Por otro lado, los generadores son una forma eficiente de crear iteradores, permitiendo el procesamiento de grandes conjuntos de datos de manera más manejable y节省能源的小贴士。
 
 ## Ejercicio
-Implemente un decorador que muestre el tiempo de ejecución de una función. Luego, utilice este decorador con una función que genere números primos hasta un cierto límite utilizando comprensiones de lista. Compare el rendimiento del código antes y después de aplicar el decorador.
+Reescribe la función `calcular_factorial` utilizando un decorador para medir el tiempo de ejecución. Luego, compara su rendimiento con una versión no decorada.
+
+```python
+import time
+
+def medir_tiempo(func):
+    def wrapper(*args, **kwargs):
+        inicio = time.time()
+        resultado = func(*args, **kwargs)
+        fin = time.time()
+        print(f"Tiempo de ejecución: {fin - inicio} segundos")
+        return resultado
+    return wrapper
+
+@medir_tiempo
+def calcular_factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * calcular_factorial(n-1)
+
+# Prueba la función
+print(calcular_factorial(5))
+```
 
 ## Resumen
-- Decoradores permiten modificar funcionalidades sin alterar la estructura de las funciones.
-- Comprensiones de lista y diccionarios ofrecen una forma concisa y eficiente para trabajar con colecciones de datos.
-- Generadores y corrutinas son útiles para manejar grandes cantidades de datos de manera eficiente.
+- Decoradores permiten modificar funciones existentes de manera eficiente.
+- Generadores son útiles para manejar grandes conjuntos de datos de forma más manejable.
