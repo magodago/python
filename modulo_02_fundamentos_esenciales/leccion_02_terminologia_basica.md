@@ -1,16 +1,13 @@
 # Terminologia basica
 
-Objetivos
-- Comprender los conceptos básicos de programación relevantes para Python.
-- Familiarizarse con la terminología fundamental utilizada en Python.
+- Comprender los conceptos básicos de programación que se aplican en Python.
+- Familiarizarse con la terminología fundamental utilizada en el contexto del lenguaje Python.
 
-Contenido
-En esta lección sobre terminología básica, se introducirán los conceptos esenciales que son fundamentales para entender y trabajar con Python. Se comenzará por definir términos como variables, que almacenan datos; funciones, bloques de código reutilizables; y listas, estructuras de datos utilizadas para almacenar colecciones de elementos. También se explicará la importancia del tipado dinámico en Python, donde los tipos de datos se asocian a las variables durante la ejecución del programa.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. En este curso, exploraremos algunos términos clave que son fundamentales para entender cómo funciona Python. Entre los conceptos esenciales se encuentran las variables, los tipos de datos primitivos, las estructuras de control (como if-else y bucles), funciones y módulos. Estos elementos forman la base sobre la cual se construyen programas más complejos en Python.
 
-Ejercicio
-Crea un programa simple que solicite al usuario su nombre y edad, guarde estos datos en variables y luego imprima una frase personalizada. Por ejemplo: "Hola [nombre], tu edad es [edad]". Asegúrate de usar variables para almacenar la información proporcionada por el usuario.
+Para practicar, escriba un programa simple que solicite al usuario ingresar su nombre y edad, luego imprima una frase personalizada diciendo cuántos años tendrá el usuario en 10 años.
 
-Resumen
-- Variables son utilizadas para almacenar datos.
-- Funciones permiten organizar y reutilizar código.
-- Listas son estructuras de datos que almacenan múltiples elementos.
+## Resumen
+- Las variables son contenedores para almacenar datos.
+- Los tipos de datos primitivos incluyen enteros, flotantes, cadenas y booleanos.
+- Las estructuras de control permiten la ejecución condicional y repetitiva del código.
