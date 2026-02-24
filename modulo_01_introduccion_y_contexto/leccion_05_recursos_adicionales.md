@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea y documentación oficial.
-- Identificar herramientas útiles para la práctica y mejora del código.
+- Familiarizarse con recursos online y offline disponibles.
+- Identificar herramientas de desarrollo integrado (IDE) y entornos virtuales útiles.
 
-En esta lección sobre recursos adicionales, se explorarán las diversas fuentes disponibles para aprender y mejorar el dominio de Python. Aparte de este curso, existen numerosos recursos gratuitos y pagados en línea que ofrecen tutoriales, ejemplos de código y proyectos prácticos. La documentación oficial de Python es una fuente invaluable, proporcionando información detallada sobre sintaxis, funciones y módulos. Además, plataformas como Codecademy, Coursera y Udemy ofertan cursos interactivos que pueden complementar la formación obtenida en este curso.
+La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de opciones para aprender y practicar Python. Se recomienda el uso de plataformas como Codecademy, Coursera y edX que ofrecen cursos interactivos y certificados. También se mencionan IDEs populares como PyCharm, Visual Studio Code y Jupyter Notebook, que facilitan la escritura y ejecución del código. Además, se sugiere la instalación de entornos virtuales con tools como virtualenv o conda para mantener proyectos limpios y evitar conflictos entre dependencias.
 
-Para practicar los conocimientos adquiridos, el estudiante deberá elegir un proyecto sencillo relacionado con Python (por ejemplo, una calculadora simple o un juego de adivinanza) y documentarlo paso a paso. Este ejercicio permitirá al estudiante aplicar lo aprendido en contextos reales e incrementar su confianza en la programación.
+Ejercicio: Investigue y seleccione tres recursos adicionales de su elección (una plataforma online, un IDE y una herramienta de gestión de paquetes) y prepare una breve descripción de cada uno, incluyendo sus ventajas y desventajas.
 
-- Familiarizarse con recursos adicionales.
-- Practicar mediante el desarrollo de un proyecto simple.
+- Familiarizarse con diferentes plataformas de aprendizaje.
+- Comprender la importancia de IDEs y entornos virtuales en el desarrollo de Python.
