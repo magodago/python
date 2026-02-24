@@ -1,11 +1,23 @@
 # Diagnostico
 
-- Comprender los métodos básicos de diagnóstico de problemas comunes en Python.
-- Identificar y corregir errores de sintaxis y lógica en programas de Python.
+- Comprender los métodos básicos de diagnóstico de errores en Python.
+- Identificar y corregir problemas comunes relacionados con rendimiento.
 
-El diagnóstico es un paso crucial para resolver problemas en el desarrollo de software. En Python, este proceso implica identificar y corrigir errores que pueden surgir durante la ejecución del código. Los errores más comunes incluyen problemas de sintaxis, como la falta de paréntesis o comillas, y errores lógicos donde el programa no realiza las operaciones esperadas debido a malas decisiones en el diseño del algoritmo. Para diagnosticar estos problemas, es importante utilizar herramientas como los mensajes de error proporcionados por Python, que indican exactamente dónde se ha producido el fallo, y también entender la estructura y el flujo del código para rastrear posibles errores lógicos.
+En esta lección sobre diagnóstico, se explorarán técnicas para identificar y resolver errores en el código Python. Se discutirá cómo utilizar la consola de depuración incorporada de Python (PDB) para rastrear errores y entender su origen. Además, se presentarán herramientas como `timeit` y `cProfile` para analizar el rendimiento del código y optimizarlo según sea necesario.
 
-Para practicar, realiza el siguiente ejercicio: Escribe un programa en Python que calcule el promedio de una lista de números. Asegúrate de manejar correctamente los casos donde la lista puede estar vacía o contener valores no numéricos. Luego, ejecuta tu código y utiliza los mensajes de error para corregir cualquier problema que aparezca.
+El objetivo es equipar a los estudiantes con las habilidades necesarias para abordar problemas de depuración y rendimiento de manera eficiente. Se recomienda que los alumnos practiquen la utilización de estas herramientas en ejercicios reales, lo que permitirá una mejor comprensión del material.
 
-- Familiarizarse con el uso de mensajes de error para identificar problemas de sintaxis.
-- Practicar la corrección de errores lógicos en programas simples de Python.
+Ejercicio: Analiza el siguiente código Python que intenta calcular la suma de los primeros 1000 números enteros y utiliza `timeit` para medir su rendimiento. Identifica posibles mejoras en el código y realiza las modificaciones necesarias para optimizarlo.
+
+```python
+def sumar_numeros(n):
+    return (n * (n + 1)) // 2
+
+tiempo = timeit.timeit('sumar_numeros(1000)', globals=globals(), number=1)
+print(f"Tiempo de ejecución: {tiempo} segundos")
+```
+
+Resumen:
+- Se aprendió a utilizar la consola de depuración PDB para identificar errores.
+- Se introdujo el uso de `timeit` y `cProfile` para evaluar y optimizar el rendimiento del código.
+- Las técnicas enseñadas permiten un diagnóstico efectivo de problemas de depuración y rendimiento en Python.
