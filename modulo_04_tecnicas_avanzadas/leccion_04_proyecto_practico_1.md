@@ -1,18 +1,11 @@
 # Proyecto practico 1
 
-- Implementar un sistema de gestión básica de inventario utilizando clases y objetos.
-- Utilizar la modularización y la encapsulación para organizar el código.
+- Comprender la integración de técnicas avanzadas de programación en proyectos prácticos.
+- Implementar patrones de diseño y arquitecturas de software simples utilizando Python.
 
-En esta lección del módulo de técnicas avanzadas, los estudiantes aprenderán a aplicar conceptos de programación orientada a objetos en Python para desarrollar un sistema de gestión de inventario. Se abordará cómo utilizar clases y objetos para modelar diferentes elementos del inventario, como productos y categorías, así como métodos para realizar operaciones básicas como agregar, eliminar y actualizar inventario. La modularización se empleará para organizar el código en módulos más manejables, mientras que la encapsulación se utilizará para proteger los datos sensibles del acceso no autorizado.
+En esta lección del módulo de técnicas avanzadas, se profundizará en el uso de patrones de diseño y arquitecturas de software para resolver problemas complejos. Se explorará cómo la aplicación de estos conceptos puede mejorar la eficiencia, mantenibilidad y escalabilidad del código. Los estudiantes aprenderán a diseñar soluciones modulares utilizando paradigmas orientados a objetos y funcionales en Python.
 
-Para este ejercicio, los estudiantes deberán crear un sistema de gestión de inventario básico utilizando Python. El sistema debe permitir al usuario realizar las siguientes operaciones:
-- Agregar nuevos productos al inventario.
-- Actualizar la cantidad existente de un producto.
-- Eliminar un producto del inventario.
-- Mostrar el inventario actual.
+Como ejercicio práctico, los estudiantes deberán desarrollar una aplicación simple que permita gestionar una biblioteca. La aplicación deberá incluir funcionalidades como la capacidad de agregar, eliminar y buscar libros, así como registrar préstamos y devoluciones. Se recomienda el uso de patrones de diseño para separar responsabilidades en componentes más pequeños y manejables.
 
-Se recomienda que los estudiantes utilicen clases para modelar los productos y categorías, y métodos para implementar las operaciones mencionadas. Además, deben organizar su código en módulos separados para facilitar la lectura y mantenimiento del mismo.
-
-- Modelado de objetos utilizando clases.
-- Uso de métodos y atributos para gestionar el inventario.
-- Organización del código mediante modularización y encapsulación.
+- Dominio del uso de patrones de diseño.
+- Desarrollo de una aplicación funcional utilizando técnicas avanzadas de programación.
