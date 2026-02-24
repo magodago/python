@@ -1,11 +1,11 @@
 # Conclusiones
 
-- Conocer las aplicaciones prácticas de Python en proyectos reales.
-- Analizar los aspectos positivos y negativos del uso de Python para el desarrollo de software.
+- Consolidar los conocimientos adquiridos durante el curso de Python.
+- Desarrollar habilidades para la implementación práctica de conceptos teóricos aprendidos.
 
-En esta lección final del módulo sobre Proyecto Final, se revisarán las conclusiones generadas a partir del trabajo desarrollado durante el curso. Se analizará la eficacia de Python en diferentes contextos de desarrollo, destacando su versatilidad y facilidad de uso para resolver problemas complejos. Además, se discutirá cómo los conocimientos adquiridos pueden ser aplicados en proyectos futuros, identificando áreas de mejora que podrían considerarse en el futuro.
+En esta lección final del módulo sobre Proyecto Final, se enfatiza en la importancia de aplicar los conocimientos de Python a un proyecto real. Se revisan las herramientas y técnicas utilizadas durante el curso, como la programación orientada a objetos, la manipulación de datos con Pandas, la visualización de datos con Matplotlib, y la integración de Flask para crear aplicaciones web simples. Se discute cómo estos conceptos se pueden combinar para resolver problemas complejos en diversas áreas como análisis de datos, desarrollo web o automatización de tareas.
 
-Para practicar la aplicación de estos conceptos, los estudiantes deberán presentar un informe breve sobre el proyecto final realizado. En este informe deben incluir una evaluación del rendimiento y las ventajas de Python en su proyecto específico, así como sugerencias para optimizar el código o mejorar la eficiencia del programa.
+El ejercicio propuesto es el siguiente: los estudiantes deben seleccionar un tema que les interese y desarrollar una pequeña aplicación Python que resuelva un problema relacionado con ese tema. Por ejemplo, podrían crear un sistema de recomendación para películas utilizando algoritmos de filtrado colaborativo, o diseñar una API web simple para gestionar tareas en una lista de to-do. Este proyecto final permitirá a los estudiantes demostrar su comprensión y habilidades prácticas adquiridas durante el curso.
 
-- Comprender cómo se puede aplicar Python en proyectos reales.
-- Identificar áreas de mejora para futuros proyectos basados en el trabajo realizado.
+- Desarrollar un proyecto real que integre múltiples conceptos aprendidos.
+- Demostrar la capacidad de aplicar conocimientos teóricos en una situación práctica.
