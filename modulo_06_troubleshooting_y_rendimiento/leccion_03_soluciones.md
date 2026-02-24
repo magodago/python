@@ -1,14 +1,14 @@
 # Soluciones
 
 ## Contenido
-En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán técnicas para diagnosticar y resolver errores comunes, así como estrategias para mejorar la eficiencia del código. Se explorará cómo identificar y corregir errores utilizando el debugger de Python, cómo utilizar logs para rastrear el flujo de ejecución y detectar problemas, y cómo optimizar el rendimiento a través de la utilización adecuada de bucles, listas y diccionarios.
+En esta lección sobre soluciones de problemas y rendimiento en Python, se abordarán técnicas efectivas para identificar y resolver errores comunes en el código. Se explorará cómo optimizar el rendimiento de las aplicaciones Python mediante la utilización eficiente de estructuras de datos y algoritmos. Se proporcionará un enfoque práctico para mejorar la eficiencia del código, incluyendo el uso de módulos y bibliotecas preexistentes que pueden acelerar la implementación y reducir la complejidad.
 
-Se profundizará en el uso del módulo `logging` de Python, que permite registrar información sobre el estado del programa, errores y otros eventos relevantes. También se discutirá cómo utilizar el módulo `timeit` para medir la velocidad de ejecución de diferentes partes del código y cómo optimizar funciones mediante el uso de comprensiones de lista y generadores.
+Se discutirá cómo utilizar herramientas como `timeit` y `cProfile` para medir el rendimiento de diferentes partes del código. Se proporcionará un ejemplo práctico donde los estudiantes podrán aplicar estas técnicas a un problema de codificación real, midiendo la eficiencia antes y después de optimizar.
 
 ## Ejercicio
-Implementa un script en Python que utilice el módulo `logging` para registrar información sobre la ejecución de una función que realiza cálculos matemáticos. Asegúrate de configurar diferentes niveles de log (debug, info, warning) para capturar distintos tipos de eventos y luego revisa los registros generados.
+Implementa una función que calcule la suma de los primeros 1000 números enteros. Primero utiliza un bucle `for` para hacerlo, luego optimiza el código utilizando comprensión de listas o una función recursiva. Utiliza `timeit` para medir el tiempo de ejecución de ambas versiones y compara los resultados.
 
 ## Resumen
-- Se aprendió a utilizar el módulo `logging` para registrar información crucial sobre la ejecución del programa.
-- Se exploraron técnicas para optimizar el rendimiento del código mediante el uso adecuado de estructuras de datos y comprensiones de lista.
-- Se practicó la utilización del debugger y logs para diagnosticar y resolver problemas en Python.
+- Se aprenden técnicas para identificar y resolver errores comunes en Python.
+- Se enseñan métodos para optimizar el rendimiento del código, incluyendo el uso de herramientas de medición.
+- Los estudiantes aplicarán estos conocimientos a un ejercicio práctico.
