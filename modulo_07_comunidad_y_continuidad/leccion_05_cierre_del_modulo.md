@@ -1,12 +1,11 @@
 # Cierre del modulo
 
-- Consolidar el conocimiento adquirido durante el módulo de Python.
-- Preparar a los estudiantes para aplicar sus habilidades en proyectos futuros.
+- Consolidar la comprensión de los conceptos fundamentales y avanzados de Python.
+- Fomentar la aplicación práctica de estos conocimientos a través del desarrollo de proyectos personales.
 
-En esta lección final del módulo sobre Python, se revisará todo lo aprendido durante el curso. Se enfatizará la importancia de la continuidad y la práctica constante en el desarrollo de habilidades de programación. Se discutirá cómo aplicar los conocimientos adquiridos a proyectos reales y cómo buscar recursos adicionales para mejorar constantemente.
+La lección final del módulo sobre Comunidad y continuidad se centra en la importancia de la colaboración y el aprendizaje continuo dentro de la comunidad de programadores. Se exploran diversas formas de interactuar con otros miembros, como participar en foros de discusión, contribuir a proyectos open source o formar grupos locales para compartir conocimientos. La lección también aborda cómo mantenerse actualizado con las últimas novedades y mejores prácticas en el campo de la programación Python.
 
-Para esta lección, se solicita que los estudiantes desarrollen un proyecto personal utilizando Python. El proyecto debe incluir al menos tres conceptos principales aprendidos durante el módulo, como funciones, listas o estructuras de control. Los estudiantes deben documentar su proceso y compartir sus proyectos en una plataforma de colaboración para recibir feedback de la comunidad.
+Para practicar estos conceptos, los estudiantes deben elegir un proyecto de código abierto relacionado con Python y contribuir con al menos una nueva función o mejora. Deben documentar su proceso de colaboración y las habilidades adquiridas durante esta experiencia.
 
-- Consolidación del conocimiento de Python.
-- Aplicación práctica de los conceptos aprendidos.
-- Fomento de la interacción y el aprendizaje mutuo entre compañeros.
+- El cierre del módulo enfatiza la importancia de la colaboración en el aprendizaje.
+- Se fomenta la participación activa en la comunidad Python para mantenerse actualizado y contribuir con conocimientos.
