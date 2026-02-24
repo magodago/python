@@ -1,34 +1,11 @@
 # Buenas practicas
 
-- Comprender y aplicar las mejores prácticas de código en Python para mejorar la legibilidad y mantenibilidad del código.
-- Implementar patrones de diseño y principios SOLID para resolver problemas comunes de programación.
+- Entender y aplicar las buenas prácticas de codificación en Python para mejorar la legibilidad y mantenibilidad del código.
+- Implementar estándares de estilo PEP 8 en proyectos de programación.
 
-Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos. Para escribir código Python eficiente y legible, es crucial seguir ciertas prácticas recomendadas. Una buena práctica es utilizar nombres claros y significativos para variables, funciones y clases. Por ejemplo, `calcular_area` es preferible a `ca`. Además, se recomienda usar la convención PEP 8, que establece estándares de estilo para el código Python.
+Python es un lenguaje de programación versátil que se utiliza ampliamente en diversos campos como el desarrollo web, análisis de datos, inteligencia artificial y más. Para maximizar la eficiencia y la calidad del código, es crucial seguir ciertas buenas prácticas y estándares de estilo. Uno de los estándares más reconocidos para Python es PEP 8, que proporciona una guía detallada sobre cómo formatear el código, nombrar variables y funciones, entre otros aspectos.
 
-Para ejemplificar esto, considera el siguiente problema: se requiere un programa que calcule y muestre los primeros 10 números de Fibonacci. Aquí tienes un ejemplo de cómo podrías implementarlo siguiendo las mejores prácticas:
+Un ejercicio útil sería que los estudiantes desarrollen un script simple en Python (por ejemplo, un programa que calcule la media de una lista de números) siguiendo las recomendaciones del PEP 8. El objetivo es que comprendan cómo aplicar estas prácticas en su codificación diaria y aprecien sus beneficios a largo plazo.
 
-```python
-def fibonacci(n):
-    """
-    Genera una lista con los primeros n números de la secuencia de Fibonacci.
-    :param n: número de términos en la secuencia a generar
-    :return: lista de enteros
-    """
-    if n <= 0:
-        return []
-    elif n == 1:
-        return [0]
-    fibs = [0, 1]
-    while len(fibs) < n:
-        next_value = fibs[-1] + fibs[-2]
-        fibs.append(next_value)
-    return fibs
-
-if __name__ == "__main__":
-    print(fibonacci(10))
-```
-
-Este código es claro y fácil de entender. La función `fibonacci` tiene un docstring que describe su propósito, lo que facilita la comprensión para otros desarrolladores. Además, el uso de listas y bucles permite una implementación eficiente.
-
-- Aplicar nombres descriptivos a funciones
-- Utilizar documentación en forma de docstrings
+- Aplicación de estándares de estilo PEP 8.
+- Mejora en la legibilidad y mantenibilidad del código.
