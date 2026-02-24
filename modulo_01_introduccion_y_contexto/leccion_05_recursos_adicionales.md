@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de documentación y tutoriales disponibles para Python.
-- Identificar herramientas y plataformas online que faciliten el aprendizaje y práctica del lenguaje.
+- Familiarizarse con recursos de documentación y comunidad disponibles.
+- Identificar herramientas útiles para la práctica y mejora del código.
 
-La lección sobre recursos adicionales en Python se centra en proporcionar a los estudiantes una amplia gama de opciones para profundizar y practicar sus conocimientos. Se recomienda la utilización de plataformas como Codecademy, Coursera y edX, que ofrecen cursos interactivos y certificados. Además, se invita a explorar la documentación oficial de Python, disponible en python.org, así como bibliotecas populares como NumPy y Pandas para manejo de datos.
+Python es una lengua de programación versátil que se ha popularizado en diversas áreas como el desarrollo web, análisis de datos e inteligencia artificial. Para aprovechar al máximo las capacidades de Python, es crucial conocer recursos adicionales que pueden ayudar tanto a principiantes como a expertos. Estos incluyen la documentación oficial de Python, foros de discusión y repositorios en línea donde se comparten soluciones y mejores prácticas.
 
-Ejercicio: Buscar y seleccionar tres recursos online (un curso, una guía de tutoriales y un foro) que se consideren útiles para aprender Python y practicar habilidades específicas. Escribir una breve descripción de cada recurso y cómo podría ser útil en el aprendizaje del estudiante.
+Para este ejercicio, busca el módulo "random" en la documentación oficial de Python e implementa un programa que genere una lista aleatoria de 10 números enteros entre 1 y 50. Luego, ordena esta lista de manera ascendente y muestra los resultados en pantalla.
 
-- Familiarización con recursos educativos.
-- Identificación de herramientas prácticas para el desarrollo personalizado de habilidades en Python.
+- Familiarizarse con la documentación oficial.
+- Practicar el uso del módulo "random" para generar datos aleatorios.
