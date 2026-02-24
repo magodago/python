@@ -1,11 +1,18 @@
 # Proyecto practico 1
 
-- Entender la integración de bibliotecas externas en proyectos Python.
-- Implementar un sistema de gestión de tareas utilizando programación orientada a objetos.
+- Implementar un sistema de gestión básica de inventario utilizando clases y objetos.
+- Utilizar la modularización y la encapsulación para organizar el código.
 
-En esta lección del módulo de técnicas avanzadas, se explorará cómo integrar y utilizar bibliotecas externas en el desarrollo de programas Python. Se aprenderá sobre la importancia de estas herramientas para aumentar la funcionalidad de los proyectos y mejorar la eficiencia del código. Se presentará un caso práctico donde se implementará una biblioteca popular, como `pandas`, para manipular datos y gestionar tareas en un sistema de gestión de tareas.
+En esta lección del módulo de técnicas avanzadas, los estudiantes aprenderán a aplicar conceptos de programación orientada a objetos en Python para desarrollar un sistema de gestión de inventario. Se abordará cómo utilizar clases y objetos para modelar diferentes elementos del inventario, como productos y categorías, así como métodos para realizar operaciones básicas como agregar, eliminar y actualizar inventario. La modularización se empleará para organizar el código en módulos más manejables, mientras que la encapsulación se utilizará para proteger los datos sensibles del acceso no autorizado.
 
-El ejercicio consistirá en desarrollar un programa que permita al usuario crear, listar, marcar como completadas y eliminar tareas. Para ello, se utilizará la biblioteca `pandas` para almacenar y manejar los datos de las tareas. El alumno deberá implementar clases y métodos que reflejen el diseño orientado a objetos propuesto.
+Para este ejercicio, los estudiantes deberán crear un sistema de gestión de inventario básico utilizando Python. El sistema debe permitir al usuario realizar las siguientes operaciones:
+- Agregar nuevos productos al inventario.
+- Actualizar la cantidad existente de un producto.
+- Eliminar un producto del inventario.
+- Mostrar el inventario actual.
 
-- Integración efectiva de `pandas` en un proyecto Python.
-- Desarrollo de una aplicación de gestión de tareas con programación orientada a objetos.
+Se recomienda que los estudiantes utilicen clases para modelar los productos y categorías, y métodos para implementar las operaciones mencionadas. Además, deben organizar su código en módulos separados para facilitar la lectura y mantenimiento del mismo.
+
+- Modelado de objetos utilizando clases.
+- Uso de métodos y atributos para gestionar el inventario.
+- Organización del código mediante modularización y encapsulación.
