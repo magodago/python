@@ -1,11 +1,11 @@
 # Cierre del modulo
 
-- Consolidar el conocimiento adquirido durante el módulo de Python.
-- Preparar a los estudiantes para aplicar sus habilidades en proyectos futuros.
+- Revisar y consolidar los conceptos aprendidos durante el módulo de Python.
+- Desarrollar habilidades prácticas para aplicar conocimientos adquiridos a proyectos reales.
 
-En esta lección final del módulo sobre Python, revisaremos algunos conceptos clave que han sido fundamentales para su comprensión y práctica. Hemos explorado desde las estructuras básicas hasta la programación orientada a objetos, pasando por el manejo de datos y la utilización de bibliotecas. Es importante recordar que Python es un lenguaje versátil y ampliamente utilizado en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más.
+En esta lección final del módulo, nos enfocaremos en resumir y consolidar los conceptos clave que se han abordado. Hemos explorado desde las bases de Python hasta la programación orientada a objetos, pasando por estructuras de datos y funciones avanzadas. El objetivo es asegurarnos de que cada estudiante comprenda cómo integrar estos conocimientos en proyectos prácticos.
 
-Para practicar lo aprendido, los estudiantes deberán desarrollar una pequeña aplicación que permita gestionar una librería virtual. La aplicación deberá incluir funcionalidades para agregar, eliminar y buscar libros por título o autor. Además, se les pedirá que utilicen estructuras de datos apropiadas y bibliotecas externas si es necesario.
+Para practicar, los estudiantes deberán desarrollar un pequeño programa que resuelva un problema real utilizando múltiples conceptos aprendidos durante el módulo. Por ejemplo, podrían crear una aplicación simple de gestión de tareas, donde se puedan añadir, eliminar y listar tareas, utilizando listas, funciones y clases para organizar el código.
 
-- Integración de conceptos del módulo en un proyecto.
-- Aplicación práctica de Python en una situación real.
+- Integrar conocimientos adquiridos en proyectos prácticos.
+- Desarrollar habilidades de resolución de problemas aplicando múltiples conceptos de Python.
