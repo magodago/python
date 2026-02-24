@@ -1,11 +1,15 @@
 # Checklist final
 
-- Mejorar la eficiencia y optimización del código escrito en Python.
-- Identificar y solucionar posibles errores o problemas de rendimiento que puedan surgir durante la ejecución del programa.
+- Revisar y optimizar el código para mejorar su rendimiento.
+- Identificar y corregir posibles errores o bugs que puedan afectar la eficiencia del programa.
 
-Python es una poderosa herramienta para el desarrollo de software, pero como cualquier lenguaje de programación, puede enfrentarse a diversos problemas de rendimiento y errores. Para garantizar un código eficiente y sin fallos, es crucial realizar un chequeo final exhaustivo. Este proceso implica revisar aspectos como la estructura del código, la utilización adecuada de las funciones integradas, el manejo de excepciones, y la optimización de bucles y listas.
+En esta lección final de Troubleshooting y Rendimiento, se enfatiza en la importancia de realizar un exhaustivo chequeo final antes de considerar un proyecto Python como completo. Es crucial revisar el código no solo desde una perspectiva funcional, sino también desde una óptica que maximice su eficiencia y rendimiento.
 
-Para practicar estos conceptos, los estudiantes deberán implementar un programa que calcule la suma de todos los números primos menores a 1000. Posteriormente, deben realizar un chequeo final donde identifiquen posibles áreas de mejora en rendimiento y eficiencia, y propongan soluciones para optimizar el código.
+Se recomienda a los estudiantes utilizar herramientas como `timeit` para medir el tiempo de ejecución del código en diferentes escenarios, y `cProfile` para analizar la eficiencia del programa. Además, se debe revisar la utilización de recursos como memoria y CPU, asegurándose de que no haya fugas de memoria o procesos innecesarios que puedan deteriorar el rendimiento a largo plazo.
 
-- Identificar áreas de mejora en el código.
-- Aplicar técnicas de optimización y mejoras de rendimiento.
+### Ejercicio
+Implementa un programa en Python que calcule los primeros 1000 números primos. Utiliza `timeit` para medir el tiempo de ejecución del código y `cProfile` para analizar su eficiencia. A continuación, optimiza tu código considerando posibles mejoras en la lógica y estructura del programa, y repite los pasos de medición y análisis.
+
+### Resumen
+- Utilizar herramientas de medición y análisis como `timeit` y `cProfile`.
+- Optimizar el código para mejorar su eficiencia y rendimiento.
