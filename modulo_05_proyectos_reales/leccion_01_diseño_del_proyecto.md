@@ -1,16 +1,16 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los elementos fundamentales del diseño de proyectos en Python.
-- Identificar y aplicar metodologías de diseño para la creación de soluciones de software.
+- Comprender los pasos fundamentales para diseñar un proyecto de Python.
+- Identificar y definir las necesidades del cliente o problema a resolver.
 
 Contenido
-El diseño de un proyecto en Python implica una serie de pasos estructurados que aseguran el éxito y la eficacia del desarrollo. En esta lección, se abordará el proceso inicial de planificación y análisis, donde se identifican las necesidades del usuario y se definen los requisitos del sistema. Se explicará cómo crear un diagrama de flujo básico para visualizar los procesos a implementar y cómo estructurar el código en módulos y paquetes para facilitar su mantenimiento y expansión.
+El diseño de un proyecto en Python implica varios pasos clave que aseguran la eficacia y el éxito del desarrollo. En esta lección, se enfatizará la importancia de entender las necesidades del cliente o el problema a resolver desde el principio. Se explicará cómo realizar una investigación inicial para recolectar información relevante, definir los requisitos funcionales e no funcionales, y crear un esquema de diseño básico que incluya arquitectura, diagramas de clases y flujo de datos. Estos pasos son cruciales para establecer una base sólida sobre la cual construir el proyecto.
 
 Ejercicio
-Diseña un proyecto simple que permita gestionar una biblioteca digital. Identifica al menos tres funcionalidades básicas (como agregar, eliminar y buscar libros) y esquema mentalmente cómo podrías organizar el código en módulos. Luego, crea un diagrama de flujo para uno de los procesos identificados.
+El estudiante deberá seleccionar un problema o necesidad real (por ejemplo, automatización de tareas diarias, análisis de datos, desarrollo web) y realizar una investigación inicial. Deberá documentar sus hallazgos en un documento, identificar los requisitos funcionales e no funcionales, y crear un esquema de diseño básico que incluya al menos un diagrama de clases o flujo de datos.
 
 Resumen
-- El diseño inicial es crucial para la eficiencia del proyecto.
-- Se deben definir claramente las necesidades y requisitos del sistema.
-- La estructuración del código en módulos y paquetes mejora su mantenibilidad.
+- Identificación del problema o necesidad.
+- Recolección de información relevante a través de investigación inicial.
+- Definición de requisitos funcionales e no funcionales.
