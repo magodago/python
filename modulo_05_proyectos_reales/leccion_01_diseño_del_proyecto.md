@@ -1,12 +1,15 @@
 # Diseño del proyecto
 
+Objetivos
 - Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y planificar las necesidades técnicas y funcionales del proyecto.
+- Identificar y evaluar las necesidades del proyecto basándose en su propósito.
 
-El diseño de un proyecto en Python implica varios pasos críticos que aseguran el éxito a largo plazo. En esta lección, se abordará cómo identificar claramente los requisitos del proyecto, desde la definición del problema hasta la especificación de las funcionalidades deseadas. Se explorarán técnicas para crear un esquema conceptual y una arquitectura de software que permita implementar el proyecto de manera eficiente. Además, se discutirá cómo documentar los requisitos y planificar el desarrollo en etapas manejables.
+Contenido
+En esta lección, se enfocará en el diseño inicial de proyectos que utilizan Python. El primer paso es definir claramente el propósito y el alcance del proyecto. Esto implica identificar los objetivos específicos a alcanzar, las funcionalidades necesarias para satisfacer dichos objetivos, y cualquier restricción técnica o legal relevante. Luego, se debe realizar una investigación de requisitos para entender mejor la problemática que se pretende resolver y las expectativas del cliente o usuario final. Este análisis permitirá establecer un plan detallado con metas a corto y largo plazo.
 
-Para practicar estos conceptos, los alumnos deberán diseñar un pequeño sistema de gestión de tareas. Deberán definir las funcionalidades básicas del sistema, como la creación, actualización y eliminación de tareas, así como la posibilidad de categorizarlas. Posteriormente, deberán documentar estos requisitos en una hoja de trabajo y planificar el desarrollo en etapas.
+Ejercicio
+Diseña un proyecto simple en Python que automatice el proceso de generación de informes financieros para una pequeña empresa. Define claramente los objetivos del proyecto, identifica las funcionalidades necesarias (como la lectura de archivos CSV, cálculos básicos y visualización de datos), y escribe un breve resumen de cómo planeas abordar cada paso del diseño.
 
-- Identificar los requisitos técnicos y funcionales.
-- Crear un esquema conceptual del proyecto.
-- Documentar claramente los requisitos y planificar el desarrollo.
+Resumen
+- Definir el propósito y alcance del proyecto.
+- Realizar una investigación detallada de los requisitos del usuario.
