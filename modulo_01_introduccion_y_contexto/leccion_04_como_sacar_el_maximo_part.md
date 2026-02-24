@@ -1,21 +1,19 @@
 # Como sacar el maximo partido
 
-## Objetivos
-- Comprender los fundamentos de Python y cómo se utiliza en la industria.
-- Identificar las características principales que hacen a Python un lenguaje versátil.
+- Comprender las características y ventajas de Python.
+- Aplicar conocimientos prácticos para resolver problemas comunes.
 
-## Contenido
-Python es un lenguaje de programación interpretado, de alto nivel y de propósito general que fue creado por Guido van Rossum y lanzado en 1991. Es conocido por su sintaxis clara y legible, lo que facilita la escritura de código limpio y conciso. Python se utiliza ampliamente en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación, entre otras. Su popularidad radica en su simplicidad y versatilidad, permitiendo a los programadores resolver problemas complejos de manera eficiente.
+Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad. Su sintaxis, basada en inglés, hace que el código sea fácil de leer e interpretar, lo que facilita la escritura y mantenimiento del mismo. Además, Python cuenta con una gran variedad de bibliotecas y frameworks que permiten abordar problemas de diferentes áreas como ciencia de datos, desarrollo web, inteligencia artificial, entre otros.
 
-La sintaxis limpia y la legibilidad del código son características clave que hacen que Python sea fácil de aprender para principiantes pero también poderoso para desarrolladores avanzados. Además, el vasto ecosistema de bibliotecas y frameworks disponibles en Python facilita la implementación de soluciones complejas sin tener que reinventar la rueda.
+Para sacar el máximo partido de Python, es fundamental conocer sus características principales y cómo aplicarlas en la resolución de problemas. Un ejemplo práctico sería crear un script que calcule el promedio de una lista de números. Este ejercicio no solo permitirá practicar la sintaxis básica de Python, sino también familiarizarse con la manipulación de datos y la realización de operaciones matemáticas.
 
-## Ejercicio
-Implemente un programa simple que solicite al usuario ingresar una lista de números separados por comas, luego imprima el número más grande de la lista. Utilice las funciones incorporadas de Python para resolver este problema.
+### Ejercicio
+Escribe un programa en Python que realice lo siguiente:
+1. Pida al usuario ingresar una lista de números separados por comas.
+2. Calcule e imprima el promedio de los números ingresados.
+3. Maneja posibles errores como la entrada no numérica y muestra un mensaje adecuado.
 
-Ejemplo:
-- Entrada: 3, 7, 2, 8, 4
-- Salida: El número más grande es 8
-
-## Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- Su sintaxis limpia y la disponibilidad de bibliotecas extensas son ventajas importantes.
+### Resumen
+- Python es conocido por su sintaxis clara y legible.
+- Se puede aplicar en diversas áreas gracias a sus bibliotecas.
+- Práctica regular con ejercicios simples ayuda a dominar el lenguaje.
