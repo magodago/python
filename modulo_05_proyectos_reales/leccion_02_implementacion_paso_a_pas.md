@@ -1,26 +1,13 @@
 # Implementacion paso a paso
 
-- Comprender cómo estructurar un proyecto real utilizando Python.
-- Desarrollar habilidades para implementar soluciones prácticas a problemas de la vida real.
+- Comprender la estructura básica de un proyecto real en Python.
+- Implementar un proyecto simple que resuelva un problema práctico utilizando conceptos aprendidos.
 
-Para esta lección, vamos a trabajar en la creación de una aplicación simple que registra y muestra el estado del clima local. Esta aplicación usará la biblioteca `requests` para obtener datos meteorológicos desde un API y `tkinter` para crear una interfaz gráfica de usuario.
+Para esta lección, vamos a implementar un proyecto que permita al usuario calcular el área y el perímetro de diferentes figuras geométricas. Este proyecto nos ayudará a aplicar conocimientos sobre funciones, clases y excepciones en Python.
 
-### Ejercicio
-1. Instala las librerías necesarias:
-   ```bash
-   pip install requests
-   ```
+Primero, definiremos una clase `Figura` con métodos para calcular el área y el perímetro. Luego, crearemos subclases para diferentes figuras como rectángulo, círculo y triángulo. Cada subclase implementará los métodos de la clase base de acuerdo a las características específicas de cada figura.
 
-2. Crea un archivo llamado `clima_app.py`. En este archivo, realiza lo siguiente:
+El ejercicio consiste en completar el código de estas clases y escribir una función principal que permita al usuario elegir qué tipo de figura calcular, ingresar sus datos y mostrar el resultado.
 
-   - Importa las bibliotecas necesarias.
-   - Define una función que obtenga los datos del clima de una ciudad específica usando la API OpenWeatherMap (recuerda obtener tu propia clave API).
-   - Crea una interfaz gráfica con `tkinter` para mostrar la temperatura, humedad y descripción del clima.
-   - Asegúrate de manejar cualquier error que pueda ocurrir durante la solicitud a la API.
-
-3. Ejecuta el programa e inténtalo con diferentes ciudades para verificar su funcionamiento.
-
-### Resumen
-- Se aprendió cómo integrar bibliotecas externas en proyectos Python.
-- Se desarrolló una aplicación práctica utilizando `requests` y `tkinter`.
-- Se enfatizó la importancia de manejar errores durante las solicitudes a APIs.
+- Familiarizarse con la implementación de clases y herencia en Python.
+- Practicar la resolución de problemas prácticos mediante el desarrollo de proyectos reales.
