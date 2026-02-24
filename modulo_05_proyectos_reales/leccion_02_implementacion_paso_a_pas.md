@@ -1,12 +1,12 @@
 # Implementacion paso a paso
 
-- El estudiante aprenderá a estructurar un proyecto Python desde cero.
-- Comprenderá cómo integrar diferentes módulos y paquetes para resolver problemas complejos.
+- Comprender la estructura básica de un proyecto real en Python.
+- Implementar una pequeña aplicación práctica que utilice múltiples conceptos aprendidos hasta ahora.
 
-Para esta lección, se proporcionará un caso de estudio en el que los estudiantes deberán desarrollar una aplicación simple de gestión de tareas. Los pasos incluirán la creación del entorno de desarrollo, la definición de las funcionalidades básicas y la integración de bibliotecas externas para mejorar la funcionalidad.
+En esta lección, aprenderás a organizar y estructurar tu código para un proyecto real. Veremos cómo dividir el problema en tareas manejables, seleccionar los módulos adecuados de Python, y cómo escribir, probar y documentar eficazmente tu código. A través de ejemplos prácticos, verás cómo integrar diferentes conceptos como funciones, clases, excepciones y manipulación de archivos.
 
-El ejercicio consistirá en dividir el proyecto en módulos separados, implementar una interfaz de línea de comandos básica, y finalmente agregar soporte para almacenar tareas en un archivo JSON. Los estudiantes deberán trabajar en grupos y presentar sus avances a la clase al final del período.
+Para practicar, desarrolla un simple sistema de gestión de tareas. Este sistema permitirá al usuario agregar, eliminar y listar tareas pendientes. Utiliza archivos para almacenar la información de las tareas entre ejecuciones del programa. Asegúrate de probar tu aplicación con diferentes escenarios para garantizar su robustez.
 
-- Se enfatizará la importancia de la modularización.
-- Los estudiantes aprenderán a integrar bibliotecas externas eficazmente.
-- La práctica ayudará a desarrollar habilidades en el manejo de proyectos reales.
+- Desarrollar un proyecto en Python que integre múltiples conceptos.
+- Uso de archivos y bases de datos simples para persistencia de datos.
+- Pruebas y documentación básica del código.
