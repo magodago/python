@@ -2,15 +2,14 @@
 
 Objetivos
 - Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y planificar las necesidades técnicas y funcionalidades del proyecto.
+- Identificar y aplicar estrategias efectivas para la planificación del proyecto.
 
 Contenido
-El diseño del proyecto es una etapa crucial en el desarrollo de aplicaciones con Python. En esta lección, se abordará cómo identificar las necesidades del proyecto, definir sus objetivos y estructurar su arquitectura. Para ello, primero se realizará un análisis de requisitos, donde se considerarán tanto los aspectos técnicos como los funcionales. Posteriormente, se diseñará la arquitectura del sistema, tomando en cuenta las mejores prácticas de programación y el uso adecuado de bibliotecas y frameworks disponibles. Finalmente, se establecerá un roadmap para el desarrollo del proyecto.
+El diseño de un proyecto en Python implica varios pasos clave que aseguran el éxito del desarrollo. En primer lugar, es crucial definir claramente los requisitos del proyecto, incluyendo las funcionalidades deseadas y cualquier restricción técnica o legal. Esto se logra a través de una entrevista con el cliente o un análisis detallado de la necesidad del proyecto. Posteriormente, se debe crear un esquema general del diseño, donde se especifican los módulos y clases que compondrán el programa, así como sus interacciones. Este diagrama de clases puede ser útil para visualizar cómo se organiza la estructura del código.
 
 Ejercicio
-Diseña un proyecto simple que permita a los usuarios gestionar una biblioteca digital. Identifica los requisitos técnicos (como la base de datos) y funcionales (como la búsqueda de libros por título o autor). Luego, esquematiza la arquitectura del sistema en diagramas de clases básicos.
+Diseña un proyecto simple en Python para una aplicación de gestión de tareas diarias. Define los requisitos básicos y crea un esquema de diseño que incluya al menos tres módulos: uno para la entrada de tareas, otro para el seguimiento y actualización de las tareas, y un tercero para la salida o visualización de las tareas completadas.
 
 Resumen
-- Identificar las necesidades tanto técnicas como funcionales del proyecto.
-- Diseñar la arquitectura del sistema siguiendo mejores prácticas.
-- Establecer un roadmap para el desarrollo.
+- Definir claramente los requisitos del proyecto.
+- Crear un esquema general del diseño utilizando diagramas de clases.
