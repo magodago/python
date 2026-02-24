@@ -1,11 +1,12 @@
 # Despliegue
 
 - Entender los conceptos básicos de despliegue de aplicaciones Python.
-- Aprender a configurar un entorno de desarrollo para la implementación de proyectos Python.
+- Implementar un proceso de despliegue básico utilizando un entorno virtual y un servidor web.
 
-El despliegue de una aplicación Python implica asegurarse de que el código funcione correctamente en un entorno de producción. Esto incluye la selección del servidor web, la configuración del entorno de ejecución y la optimización del rendimiento. Es crucial tener en cuenta factores como la seguridad, la escalabilidad y la compatibilidad con diferentes sistemas operativos.
+El despliegue de una aplicación Python implica la configuración y ejecución del código en un entorno que pueda ser accedido por otros usuarios. En esta lección, se abordará cómo preparar el proyecto para su despliegue, incluyendo la creación de un entorno virtual y la elección adecuada de un servidor web. Se recomienda usar Flask o Django como framework web, ya que son ampliamente utilizados y facilitan el proceso de desarrollo y despliegue.
 
-Para practicar estos conceptos, los estudiantes deberán desplegar una aplicación simple creada previamente utilizando Flask o Django, en un servidor local o en la nube. Los pasos incluirán instalar el framework elegido, configurar el entorno de desarrollo y producción, y probar la aplicación en diferentes ambientes.
+Para ilustrar estos conceptos, los alumnos realizarán un ejercicio práctico en el que crearan una aplicación básica con Flask, configurarán un entorno virtual y desplegarán la aplicación utilizando un servidor web local. Esto permitirá a los estudiantes experimentar con las herramientas y técnicas necesarias para llevar su proyecto Python al "estado de producción".
 
-- Familiaridad con los conceptos básicos del despliegue de aplicaciones Python.
-- Capacidades para configurar un servidor web local o en la nube.
+- Creación de un entorno virtual.
+- Configuración básica de Flask o Django.
+- Despliegue de una aplicación en un servidor web local.
