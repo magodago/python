@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ejercicio guiado 2 - Python</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', system-ui, sans-serif; background: linear-gradient(160deg, #1a1a2e 0%%, #16213e 100%%); color: #eee; min-height: 100vh; padding: 2rem; line-height: 1.6; }
+    .wrap { max-width: 800px; margin: 0 auto; }
+    h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+    .sub { opacity: 0.9; margin-bottom: 1.5rem; font-size: 0.95rem; }
+    h2 { font-size: 1.2rem; margin: 1.25rem 0 0.5rem; color: #4fc3f7; }
+    p, ul { margin: 0.75rem 0; }
+    ul { padding-left: 1.5rem; }
+    a { color: #4fc3f7; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .back { display: inline-block; margin-bottom: 1.5rem; padding: 0.5rem 1rem; background: rgba(79,195,247,0.2); border-radius: 8px; }
+    .card { background: rgba(255,255,255,0.06); border-radius: 12px; padding: 1.5rem; border: 1px solid rgba(255,255,255,0.08); margin: 1rem 0; }
+    .nav-lecciones { margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.1); display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
+    .nav-lecciones .nav-prev { margin-right: auto; }
+    .nav-lecciones .nav-next { margin-left: auto; }
+    .nav-lecciones a { padding: 0.5rem 1rem; background: rgba(79,195,247,0.2); border-radius: 8px; }
+    .meta { margin-top: 2rem; padding: 1rem; background: rgba(0,0,0,0.2); border-radius: 8px; font-size: 0.9rem; }
+    .index ul { list-style: none; padding-left: 0; }
+    .index ul li { padding: 0.35rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); }
+
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <a class="back" href="../../index.html">&larr; Volver a la página principal</a>
+    <p class="sub">Módulo 3: Profundizando</p>
+    <div class="card">
+      <h1>Ejercicio guiado 2</h1><ul><li>Entender la implementación de estructuras de datos avanzadas como árboles binarios de búsqueda.</li><li>Implementar una función que permita insertar nodos en un árbol binario de búsqueda y verificar su correcto funcionamiento.</li></ul><p>Para profundizar en el manejo de estructuras de datos, este ejercicio guiado se centrará en la implementación de un árbol binario de búsqueda (BST). Los árboles BST son útiles para realizar operaciones de búsqueda, inserción y eliminación con una complejidad promedio de O(log n), lo que los hace ideales para aplicaciones donde estas operaciones se realizan frecuentemente.</p><p>En esta lección, se proporcionará un esqueleto de código en Python que incluirá la definición de una clase `Node` y una clase `BinarySearchTree`. El alumno deberá completar la implementación del método `insert` en la clase `BinarySearchTree`, que permitirá insertar nodos en el árbol manteniendo su propiedad de BST. Además, se pedirá al estudiante que escriba una función auxiliar para verificar si un árbol es un BST válido.</p><p>### Ejercicio</p><p>**Ejercicio 1: Implementación del método `insert`**</p><p>Completar la implementación del método `insert` en la clase `BinarySearchTree`. Este método debe insertar un nuevo nodo en el árbol manteniendo las propiedades de un BST. Si el valor a insertar es menor que el valor del nodo actual, se debe insertar en el subárbol izquierdo; si es mayor, en el subárbol derecho.</p><p>```python</p><p>class Node:</p><p>    def __init__(self, key):</p><p>        self.left = None</p><p>        self.right = None</p><p>        self.val = key</p><p>class BinarySearchTree:</p><p>    def __init__(self):</p><p>        self.root = None</p><p>    # Completa este método</p><p>    def insert(self, key):</p><p>        if not self.root:</p><p>            self.root = Node(key)</p><p>        else:</p><p>            self._insert(self.root, key)</p><p>    def _insert(self, node, key):</p><p>        # Implementa la lógica aquí</p><h1>Prueba de inserción</h1><p>bst = BinarySearchTree()</p><p>keys = [8, 3, 10, 1, 6, 14, 4, 7, 13]</p><p>for key in keys:</p><p>    bst.insert(key)</p><h1>Verificar si el árbol es un BST válido (ejercicio adicional)</h1><p>def is_bst_valid(node):</p><p>    # Implementa la lógica aquí</p><p>```</p><p>**Ejercicio 2: Verificación de la estructura del BST**</p><p>Implementar una función `is_bst_valid` que verifique si el árbol creado sigue las propiedades de un BST. La función debe recorrer el árbol y verificar que cada nodo cumple con la condición de que todos los nodos en su subárbol izquierdo sean menores y todos los nodos en su subárbol derecho sean mayores.</p><p>### Resumen</p><li>Se ha profundizado en la implementación de estructuras de datos avanzadas, específicamente árboles binarios de búsqueda.</li><li>El estudiante ha aprendido a insertar nodos en un BST y a verificar si el árbol sigue las propiedades del BST.</li></ul>
+      <div class="nav-lecciones"><a class="back" href="../../index.html">&larr; Volver al curso</a><a class="nav-prev" href="leccion_03_buenas_practicas.html">&larr; Lección anterior</a><a class="nav-next" href="leccion_05_puntos_clave.html">Siguiente lección &rarr;</a></div>
+    </div>
+  </div>
+</body>
+</html>
