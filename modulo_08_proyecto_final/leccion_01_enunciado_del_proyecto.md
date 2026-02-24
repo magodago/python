@@ -1,19 +1,16 @@
 # Enunciado del proyecto
 
-Objetivos
-- Comprender los requisitos del proyecto final.
-- Desarrollar habilidades para formular un enunciado de proyecto claro y detallado.
+## Objetivos
+- Presentar claramente el enunciado del proyecto final.
+- Guiar a los estudiantes sobre cómo interpretar y abordar el enunciado.
 
-Contenido
-El enunciado del proyecto final es una parte crucial que define el alcance, objetivos y requisitos técnicos del trabajo a realizar. Un buen enunciado debe ser específico, detallado y comprensible tanto para los desarrolladores principiantes como para los más experimentados. Debe incluir información sobre la funcionalidad requerida, las tecnologías permitidas, los plazos de entrega y cualquier otro detalle relevante que asegure un desarrollo coherente del proyecto.
+## Contenido
+El proyecto final de este curso de Python tiene como objetivo principal aplicar los conocimientos adquiridos durante las sesiones para desarrollar una aplicación real. El enunciado es el siguiente: "Desarrolla un programa que permita a los usuarios gestionar tareas diarias, incluyendo la capacidad de agregar, eliminar y listar tareas. Además, el programa debe guardar las tareas en un archivo de texto para mantener la información entre sesiones". Este proyecto servirá no solo para consolidar conceptos teóricos sino también para practicar habilidades prácticas como la gestión de archivos, la manipulación de listas y la interacción con el usuario a través de la consola.
 
-Ejercicio
-Formule el enunciado de un proyecto final utilizando Python como lenguaje principal. El proyecto debe ser una aplicación web simple que permita a los usuarios registrar y consultar libros en una biblioteca virtual. En su enunciado, incluya:
-- Funcionalidades básicas: registro de usuario, inicio de sesión, búsqueda de libros por título o autor.
-- Uso recomendado de frameworks web como Flask o Django.
-- Plazo estimado para la entrega del proyecto.
+## Ejercicio
+Implementa una función en Python que permita al usuario agregar una nueva tarea a un archivo de texto. La función debe solicitar al usuario que ingrese el nombre de la tarea y luego escriba esa tarea en un archivo llamado "tareas.txt". Asegúrate de manejar posibles errores, como si el archivo no existe o si hay problemas al escribir en él.
 
-Resumen
-- El enunciado del proyecto final debe ser claro y detallado.
-- Incluya todas las funcionalidades requeridas y tecnologías permitidas.
-- Facilite un desarrollo coherente y eficiente del proyecto.
+## Resumen
+- El proyecto final consiste en desarrollar una aplicación para gestionar tareas.
+- Los estudiantes deben interpretar y abordar el enunciado proporcionado.
+- Practicar la escritura de datos en archivos y manejo de errores es un componente clave.
