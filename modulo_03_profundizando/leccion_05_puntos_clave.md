@@ -1,11 +1,13 @@
 # Puntos clave
 
-- Entender los conceptos avanzados de clases y objetos en Python.
-- Aprender a utilizar métodos especiales y decoradores para mejorar la funcionalidad de las clases.
+- Comprender la utilización avanzada de las estructuras de control en Python.
+- Implementar funciones y métodos más complejos para resolver problemas.
 
-Python es un lenguaje de programación versátil que se destaca por su sintaxis clara y concisa. En este módulo profundizaremos en el uso avanzado de clases y objetos, dos conceptos fundamentales del paradigma orientado a objetos (POO). Los métodos especiales permiten personalizar la funcionalidad de las clases, como la representación de objetos, el manejo de operadores y más. Decoradores son funciones que se utilizan para modificar o extender las capacidades de otras funciones o clases sin alterar su estructura original.
+Python es un lenguaje de programación versátil que ofrece una gran variedad de características para desarrollar soluciones complejas. En esta lección, profundizaremos en la utilización avanzada de las estructuras de control, permitiendo manejar situaciones más dinámicas y eficientes. Además, exploraremos funciones y métodos más complejos, como la programación orientada a objetos y el manejo de excepciones, para mejorar la legibilidad y mantenibilidad del código.
 
-Ejercicio: Crea una clase `CuentaBancaria` con los atributos `numero_cuenta`, `titular` y `saldo`. Implementa métodos especiales como `__str__()` para proporcionar una representación legible del objeto, y un decorador `@staticmethod` para agregar una función que calcule el interés anual sobre el saldo.
+Para ejemplificar estos conceptos, se desarrollará un programa que permita al usuario ingresar datos sobre diferentes productos en una tienda virtual. El programa utilizará estructuras de control condicionales y cíclicas para procesar la información y funciones para realizar operaciones como el cálculo del precio final considerando descuentos y impuestos.
 
-- Comprender los métodos especiales en Python.
-- Aplicar decoradores para mejorar la funcionalidad de las clases.
+**Ejercicio:** Implemente un módulo que permita al usuario ingresar datos de productos (nombre, precio base, cantidad) y calcule el precio total aplicando un descuento del 10% si la cantidad es mayor a 5 unidades. Utilice funciones para modularizar su código y maneje excepciones en caso de entrada no válida.
+
+- Dominar las estructuras de control avanzadas.
+- Implementar funciones y métodos complejos para resolver problemas prácticos.
