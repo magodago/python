@@ -2,14 +2,26 @@
 
 ## Objetivos
 - Introducir a los estudiantes al lenguaje de programación Python.
-- Explicar el contexto y las aplicaciones del Python en la industria actual.
+- Explicar la importancia y el contexto actual de Python.
 
 ## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una herramienta fundamental para desarrolladores y científicos de datos. Su sintaxis clara y concisa lo hace fácil de aprender y usar, lo que lo convierte en una excelente elección tanto para principiantes como para expertos en programación. En este curso, exploraremos las características fundamentales del Python y veremos cómo se puede aplicar en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más.
+Python es un lenguaje de programación de alto nivel que se ha convertido en uno de los más utilizados en el mundo debido a su simplicidad, versatilidad y amplia comunidad de desarrolladores. Este curso te guiará desde cero hasta poder crear tus propias aplicaciones utilizando Python, explorando sus características principales como sintaxis clara, bibliotecas robustas y un gran soporte comunitario.
+
+En esta lección, aprenderás sobre la historia del lenguaje, su uso en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más. También se abordarán los beneficios que ofrece Python para principiantes y expertos, destacando su facilidad de aprendizaje y sus aplicaciones prácticas.
 
 ## Ejercicio
-Escribe un programa simple que imprima "¡Bienvenido al Curso de Python!" utilizando la sintaxis básica de impresión. Asegúrate de incluir los comentarios para explicar cada línea de tu código.
+Escribe una breve introducción a ti mismo utilizando Python en un script simple. Por ejemplo:
+
+```python
+# Introducción al curso de Python
+
+print("¡Bienvenido/a al curso de Python!")
+nombre = input("¿Cómo te llamas? ")
+print(f"Mucho gusto, {nombre}! Estoy emocionado/a de aprender Python contigo.")
+```
+
+Ejecuta este script y observa cómo funciona.
 
 ## Resumen
-- Introducción al lenguaje Python y su importancia en el campo de la programación.
-- Práctica inicial con un programa simple que sirve como primer paso en el curso.
+- Python es un lenguaje de programación versátil y fácil de aprender.
+- Se utiliza en múltiples campos como desarrollo web, análisis de datos e inteligencia artificial.
