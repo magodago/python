@@ -1,12 +1,11 @@
 # Resumen del modulo
 
-- Familiarizarse con los conceptos fundamentales de Python.
-- Comprender la estructura básica y sintaxis del lenguaje.
+- Comprender los fundamentos esenciales de Python.
+- Aplicar conocimientos básicos de sintaxis y estructuras de datos.
 
-Python es un lenguaje de programación de alto nivel que se caracteriza por su simplicidad y claridad en la escritura. En este módulo, se han explorado los fundamentos esenciales del lenguaje, incluyendo variables y tipos de datos, control de flujo con estructuras condicionales y bucles, así como funciones y modulación. Estos conceptos son cruciales para cualquier programador que desee dominar Python y construir una base sólida en el desarrollo de software.
+Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad en la escritura del código. En este módulo, se han explorado los fundamentos esenciales necesarios para comenzar a programar con Python, incluyendo el uso de variables y tipos de datos básicos, estructuras de control como condicionales y bucles, así como funciones y módulos. Estas herramientas forman la base sobre las cuales se construyen programas más complejos.
 
-Para practicar lo aprendido, los estudiantes deberán escribir un programa simple que solicite al usuario su nombre y edad, imprima un mensaje personalizado con esa información, y luego determine si la persona es mayor de edad o no. Este ejercicio permitirá a los alumnos aplicar los conocimientos adquiridos sobre variables, entrada/salida de datos, operadores lógicos y estructuras condicionales.
+Para practicar lo aprendido, los estudiantes deben crear un programa que solicite al usuario su nombre y edad, imprima un mensaje personalizado con el nombre proporcionado e indique cuántos años tendrá en 10 años. Este ejercicio permitirá a los alumnos aplicar sus conocimientos sobre entrada de datos, variables, operaciones aritméticas y la impresión de resultados.
 
-- Variables y tipos de datos
-- Estructuras condicionales y bucles
-- Funciones y modulación
+- Dominio básico de sintaxis Python.
+- Uso efectivo de estructuras de control y funciones.
