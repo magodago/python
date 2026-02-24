@@ -1,11 +1,14 @@
 # Donde seguir aprendiendo
 
-- Familiarizarse con recursos de aprendizaje adicional disponibles para profundizar conocimientos en Python.
-- Identificar y evaluar comunidades online y locales enfocadas en la programación con Python.
+- Los estudiantes comprenderán las diferentes plataformas y recursos disponibles para continuar aprendiendo Python.
+- Los estudiantes identificarán al menos tres comunidades de habla hispana especializadas en Python.
 
-La lección se centrará en explorar diferentes opciones para continuar el aprendizaje de Python después de completar este curso. Se abordarán recursos como tutoriales, documentación oficial, plataformas de código abierto y foros de discusión donde los estudiantes pueden practicar y mejorar sus habilidades. Además, se presentarán comunidades locales y online que promueven el intercambio de conocimientos entre programadores.
+## Contenido
+En esta lección, se explorarán diversas opciones para seguir avanzando en el aprendizaje de Python. Es importante que los estudiantes reconozcan que el desarrollo constante es fundamental para mantenerse actualizados en cualquier lenguaje de programación. Se presentarán plataformas como Codecademy y Coursera, donde se pueden encontrar cursos gratuitos o de pago con contenido avanzado. Además, se destacará la importancia de participar en comunidades de habla hispana, tales como la comunidad de Python-MX en Reddit y el grupo de Telegram "Python para principiantes", que ofrecen apoyo mutuo y recursos valiosos.
 
-Ejercicio: El estudiante debe buscar y evaluar tres recursos adicionales para aprender Python, describiendo brevemente cada uno (tutorial, curso en línea, foro) y explicando cómo podría ser útil para su aprendizaje personal. Deben presentar sus hallazgos en un documento de texto.
+## Ejercicio
+Busca y registra al menos tres cursos adicionales en plataformas como Coursera o Codecademy. Luego, identifica una comunidad de habla hispana especializada en Python (puede ser en línea o local) y participa en su próximo evento virtual o foro de discusión.
 
-- Identificar recursos útiles para continuar el aprendizaje.
-- Evaluar la relevancia y utilidad de diferentes comunidades para mejorar las habilidades en Python.
+## Resumen
+- Se presentarán diversas opciones para continuar aprendiendo Python.
+- Los estudiantes aprenderán sobre la importancia de participar en comunidades de habla hispana.
