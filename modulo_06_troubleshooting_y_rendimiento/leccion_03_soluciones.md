@@ -1,14 +1,18 @@
 # Soluciones
 
-## Contenido
-En esta lección sobre soluciones de problemas y rendimiento en Python, se explorarán técnicas para identificar y resolver errores comunes en el código. Se analizará cómo optimizar el rendimiento del programa mediante la selección adecuada de estructuras de datos y algoritmos. Se proporcionará un conjunto de herramientas y prácticas recomendadas que permitirán a los estudiantes diagnosticar problemas de rendimiento y corregirlos eficazmente.
+## Objetivos
+- Identificar y corregir errores comunes en Python.
+- Mejorar la eficiencia de código para optimizar su rendimiento.
 
-Python ofrece una amplia gama de bibliotecas para analizar el rendimiento del código, como `cProfile` o `line_profiler`. Estos módulos ayudan a identificar las partes del programa que son más lentas, permitiendo al programador focalizarse en optimizar estas secciones. Además, se discutirá la importancia de la selección adecuada de estructuras de datos y algoritmos para mejorar el rendimiento general del código.
+## Contenido
+En esta lección, se abordarán técnicas efectivas para resolver problemas que surgen durante el desarrollo de programas en Python. Se explorará cómo identificar y corregir errores comunes, como excepciones no manejadas, bucles infinitos y variables globales mal utilizadas. Además, se proporcionarán consejos prácticos para mejorar la eficiencia del código, optimizando operaciones repetitivas y utilizando estructuras de datos apropiadas.
+
+Se discutirá el uso de herramientas como `pdb` (Python Debugger) para depurar código en tiempo de ejecución, así como la importancia de realizar pruebas unitarias con `unittest` o `pytest`. Se ilustrará cómo medir el rendimiento del código utilizando módulos como `timeit` y `cProfile`, y se presentarán técnicas para identificar y optimizar partes críticas del programa.
 
 ## Ejercicio
-Implemente un programa en Python que calcule la suma de los primeros 1000 números naturales utilizando dos métodos diferentes: una lista para almacenar todos los números y un bucle `for` para sumarlos, y una solución más eficiente que no requiere almacenar todos los números. Compare el rendimiento de ambos métodos usando la biblioteca `timeit`.
+Implementa un script en Python que calcule la suma de los primeros 1000 números naturales. Utiliza el módulo `timeit` para medir el tiempo de ejecución inicial. Luego, optimiza tu código utilizando una estructura de datos más eficiente y vuelve a medir el tiempo de ejecución. Compara ambos resultados y explica las diferencias observadas.
 
 ## Resumen
-- Se aprendió a identificar problemas de rendimiento en Python utilizando herramientas como `cProfile`.
-- Se destacó la importancia de la selección adecuada de estructuras de datos y algoritmos para optimizar el código.
-- Se practicó la optimización del rendimiento mediante la implementación de soluciones más eficientes.
+- Se aprendió a identificar y corregir errores comunes en Python.
+- Se destacó la importancia de utilizar herramientas de depuración y pruebas para mejorar la calidad del código.
+- Se enfatizó la optimización del rendimiento mediante el uso adecuado de estructuras de datos y técnicas de medición.
