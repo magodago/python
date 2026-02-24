@@ -1,18 +1,13 @@
 # Temas intermedios
 
-Objetivos
-- Comprender la utilización de decoradores y su aplicación práctica.
-- Aprender a implementar manejo de excepciones avanzado para mejorar la robustez del código.
+- Entender la utilización de las excepciones y manejo de errores en Python.
+- Implementar funciones recursivas y comprensión de listas para resolver problemas complejos.
 
-Contenido
-En esta lección, profundizaremos en dos temas intermedios vitales: decoradores y manejo de excepciones. Los decoradores son una característica poderosa de Python que nos permiten modificar o extender las funcionalidades de funciones existentes sin alterar su estructura original. Por ejemplo, podemos crear un decorador para medir el tiempo de ejecución de una función o añadir loggear a otra.
+La lección se centra en dos temas intermedios fundamentales: el manejo de excepciones y el uso de funciones recursivas. La manipulación adecuada de excepciones es crucial para escribir código robusto que pueda manejar situaciones inesperadas sin interrumpir la ejecución del programa. En Python, esto se logra utilizando estructuras `try`, `except`, `finally` y `else`. Se explorará cómo capturar diferentes tipos de errores y cómo utilizar las excepciones para mejorar la experiencia del usuario.
 
-El manejo de excepciones avanzado es crucial para desarrollar software robusto y seguro. A diferencia del básico try-except, en esta lección exploraremos cómo usar la jerarquía de excepciones, cómo crear nuestras propias excepciones personalizadas y cómo utilizar el bloque finally para asegurar que ciertas operaciones se ejecuten independientemente de si una excepción ocurre o no.
+Las funciones recursivas son otro tema clave que permite resolver problemas complejos al dividirlos en subproblemas más pequeños. Se discutirá cómo escribir funciones que se llaman a sí mismas hasta alcanzar una condición base, y se proporcionarán ejemplos prácticos para ilustrar su uso en tareas como la búsqueda de elementos en listas o el cálculo de series numéricas.
 
-Ejercicio
-Implementa un decorador que muestre el tiempo de ejecución de una función. Luego, utiliza este decorador en al menos tres funciones distintas y observa cómo afecta a su rendimiento. Además, crea una excepción personalizada para manejar un caso específico en tu código y prueba su funcionamiento.
+Para practicar estos conceptos, los estudiantes deberán desarrollar un programa que use excepciones para manejar errores comunes al leer archivos, y otro que implemente una función recursiva para calcular el factorial de un número.
 
-Resumen
-- Decoradores permiten extender funcionalidades de funciones existentes.
-- Manejo avanzado de excepciones mejora la robustez del software.
-- La combinación de ambos temas es fundamental para el desarrollo profesional de Python.
+- Comprender cómo utilizar excepciones para mejorar la robustez del código.
+- Aplicar funciones recursivas para resolver problemas complejos.
