@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos y herramientas de desarrollo disponibles para Python.
-- Aprender a utilizar entornos virtuales y plataformas online para practicar.
+- Familiarizarse con la documentación oficial de Python.
+- Explorar recursos online gratuitos para mejorar habilidades en Python.
 
-En esta lección, se explorarán los recursos adicionales que facilitan el aprendizaje y la práctica del lenguaje de programación Python. Se destacará la importancia de contar con un entorno de desarrollo apropiado, como PyCharm o Visual Studio Code, así como la utilización de entornos virtuales para gestionar dependencias de manera eficiente. Además, se presentarán plataformas web como Repl.it y Jupyter Notebook, que permiten escribir y ejecutar código en línea de forma sencilla.
+La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de herramientas y plataformas que pueden utilizar para aprender y profundizar sus conocimientos en el lenguaje de programación Python. Se recomienda la documentación oficial de Python, ya que es un recurso invaluable con información detallada sobre sintaxis, bibliotecas y mejores prácticas. Además, se invita a los estudiantes a explorar plataformas como Codecademy, Coursera y edX, donde pueden encontrar cursos gratuitos o de pago que van desde principiantes hasta nivel avanzado.
 
-Para practicar, los estudiantes deberán crear un entorno virtual utilizando la herramienta `venv` incluida en Python 3.3 o superior, e instalar el paquete `requests`. Luego, deberán escribir un script que realice una solicitud HTTP a la API de OpenWeatherMap para obtener el clima actual en su ciudad y mostrar los resultados.
+Ejercicio: El estudiante debe buscar y leer la documentación oficial de Python para una función específica (por ejemplo, `list.append()`) y luego escribir un breve resumen explicando cómo funciona dicha función. Posteriormente, el estudiante deberá encontrar y compartir en un hilo de discusión del curso un recurso online que le haya sido útil para aprender Python.
 
-- Comprender la importancia de entornos virtuales.
-- Familiarizarse con plataformas web para practicar Python.
+- Familiarizarse con la documentación oficial de Python.
+- Explorar plataformas web gratuitas para mejorar las habilidades en Python.
