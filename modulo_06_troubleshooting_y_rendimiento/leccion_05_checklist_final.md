@@ -1,27 +1,11 @@
 # Checklist final
 
-- Familiarizarse con un checklist exhaustivo para resolver problemas de rendimiento y optimización de código.
-- Identificar y corregir posibles errores y malas prácticas que afecten al rendimiento en programas Python.
+- Los alumnos aprenderán a realizar un análisis exhaustivo de los problemas comunes en Python.
+- Los estudiantes comprenderán cómo optimizar el rendimiento de sus programas mediante la aplicación de mejores prácticas.
 
-Para este ejercicio, revisa el siguiente código Python que calcula la suma de los primeros 1000 números enteros. Utiliza el checklist final para identificar áreas de mejora y optimización:
+Durante esta lección, se revisarán las técnicas y herramientas utilizadas para depurar y solucionar errores comunes en el código de Python. Se abordará la importancia de utilizar los módulos de depuración estándar, como `pdb`, así como la utilización de linters y formateadores de código para mejorar la calidad del código. Se discutirá también cómo optimizar el rendimiento de los programas mediante técnicas como la minimización de operaciones innecesarias, la gestión eficiente de memoria y la selección de estructuras de datos adecuadas.
 
-```python
-def suma_numeros():
-    total = 0
-    for i in range(1000):
-        total += i + 1
-    return total
+Para practicar estos conceptos, los estudiantes deberán realizar un ejercicio en el que deben identificar y corregir errores en un código Python proporcionado. Además, se les pedirá que optimicen el rendimiento del programa siguiendo las mejores prácticas aprendidas durante la lección.
 
-print(suma_numeros())
-```
-
-Asegúrate de que tu código cumpla con los siguientes puntos del checklist:
-- ¿El código está utilizando bucles innecesarios?
-- ¿Hay posibles optimizaciones en la lógica o estructura del código?
-- ¿Se están usando funciones y métodos eficientes para el problema propuesto?
-
-Resuelve las observaciones identificadas e implementa mejoras en tu código. Luego, compara los tiempos de ejecución antes y después de las optimizaciones.
-
-- Optimización de bucles
-- Uso efectivo del checklist para mejorar rendimiento
-- Medición de tiempos de ejecución antes y después de las mejoras
+- Los alumnos podrán aplicar técnicas de depuración efectivas.
+- Se familiarizarán con herramientas para mejorar la calidad y eficiencia del código.
