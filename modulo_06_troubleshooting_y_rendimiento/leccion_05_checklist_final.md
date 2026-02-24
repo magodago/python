@@ -1,11 +1,13 @@
 # Checklist final
 
-- Familiarizarse con los pasos finales de depuración y optimización del rendimiento en Python.
-- Implementar un checklist final para asegurar la eficiencia y solidez del código.
+- Mejorar la capacidad del estudiante para identificar y resolver problemas comunes en Python.
+- Optimizar el rendimiento de programas escritos en Python.
 
-Python es una herramienta versátil, pero como cualquier lenguaje de programación, puede presentar problemas que requieren atención al detallar. Para garantizar el funcionamiento óptimo y robusto de los programas en Python, es crucial realizar un chequeo final exhaustivo. Este proceso implica revisar la funcionalidad, eficiencia y estabilidad del código. Un checklist final debe incluir verificaciones como la comprobación de errores semánticos y sintácticos, la optimización de algoritmos y la gestión adecuada de recursos.
+El objetivo final de esta lección es proporcionar a los estudiantes un checklist exhaustivo que les permita abordar eficazmente cualquier problema o desafío relacionado con la optimización del rendimiento de sus programas Python. Este checklist cubrirá desde la identificación de errores básicos hasta técnicas avanzadas para mejorar el rendimiento, incluyendo la selección adecuada de estructuras de datos y algoritmos, la utilización eficiente de bibliotecas y módulos, y la depuración efectiva.
 
-Para practicar, los estudiantes deben implementar un programa que calcule el factorial de un número utilizando recursividad y luego realizar una revisión final utilizando el checklist proporcionado. El checklist debe incluir preguntas como: ¿El código maneja correctamente todos los casos de entrada? ¿Se han optimizado las operaciones recursivas para evitar sobrecarga? ¿Se ha liberado adecuadamente la memoria utilizada?
+Para practicar, los estudiantes deben implementar un programa que resuelva problemas matemáticos complejos (por ejemplo, el cálculo del número de Fibonacci para números muy grandes) utilizando diferentes métodos. Luego, deben utilizar el checklist proporcionado en esta lección para identificar posibles mejoras y optimizaciones en su código.
 
-- Familiarizarse con un proceso de revisión final.
-- Implementar técnicas de optimización y depuración en Python.
+Puntos clave:
+- Identificación de errores comunes.
+- Uso eficiente de bibliotecas y módulos.
+- Mejora del rendimiento mediante la selección adecuada de algoritmos y estructuras de datos.
