@@ -1,10 +1,11 @@
 # Recursos de la comunidad
 
 - Familiarizarse con los recursos de la comunidad Python disponibles.
-- Identificar y utilizar herramientas de documentación y tutoriales para resolver problemas comunes.
+- Identificar y utilizar herramientas de apoyo comunitario para resolver problemas.
 
-La lección se centrará en explorar la rica comunidad que rodea el lenguaje de programación Python. Se destacarán plataformas como Stack Overflow, GitHub, y las listas de correo electrónico dedicadas al desarrollo de Python. Estos recursos son esenciales para resolver problemas, compartir conocimientos y mantenerse actualizado con las últimas tendencias en la comunidad.
+La lección se centra en explorar los diversos recursos que ofrece la comunidad Python, desde foros hasta bibliotecas de código abierto. Se destacará el uso del sitio web oficial de Python, Stack Overflow como recurso para preguntas frecuentes y problemas técnicos, así como GitHub para acceder a proyectos y contribuir con código. También se introducirá la existencia de grupos locales y online que facilitan el aprendizaje y el intercambio de conocimientos entre los miembros de la comunidad.
 
-Los estudiantes aprenderán a buscar soluciones eficientemente utilizando estas herramientas, así como a contribuir al conocimiento compartido mediante el uso de foros y repositorios. Se proporcionará una guía paso a paso sobre cómo navegar por estos recursos y cómo utilizarlos para resolver problemas específicos de programación.
+Para practicar, los alumnos deberán buscar una solución a un problema técnico en Stack Overflow, documentar su proceso de búsqueda y análisis, e identificar al menos tres recursos útiles que encontraron durante esta tarea. Este ejercicio no solo fortalecerá sus habilidades técnicas sino también su capacidad para navegar y aprovechar la vasta red de apoyo que ofrece la comunidad Python.
 
-Ejercicio: Buscar en Stack Overflow y GitHub soluciones a dos problemas comunes de Python que se les proporcionarán, y luego compartir sus hallazgos con la clase.
+- Comprender el valor de los recursos comunitarios.
+- Desarrollar habilidades para buscar soluciones en línea y colaborar con otros.
