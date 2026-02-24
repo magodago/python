@@ -1,17 +1,22 @@
 # Diagnostico
 
-Objetivos
-- Identificar y diagnosticar problemas comunes en la ejecución de programas Python.
-- Analizar y optimizar el rendimiento de scripts para mejorar su eficiencia.
+- Comprender los métodos básicos de diagnóstico de errores en Python.
+- Identificar y corregir problemas comunes que afectan el rendimiento del código.
 
-Contenido
-En esta lección se abordará cómo realizar un diagnóstico efectivo de errores y problemas de rendimiento en los programas escritos con Python. Se explicarán técnicas para identificar fallas en la ejecución, como excepciones no capturadas o bugs ocultos, y se proporcionará un marco para evaluar el desempeño del código a través de métricas relevantes.
+En esta lección, aprenderemos a diagnosticar problemas comunes en nuestro código Python. El primer paso es entender cómo interpretar las excepciones y mensajes de error proporcionados por la consola. Estos nos indican qué parte del código está causando un problema y qué tipo de error se ha producido. Para mejorar el rendimiento, es crucial identificar operaciones lentas o innecesarias en nuestro código. Usaremos herramientas de depuración como `print()` y módulos como `cProfile` para analizar la eficiencia del código.
 
-Se discutirá cómo utilizar herramientas integradas de Python, como la consola de depuración (pdb), y cómo implementar pruebas unitarias para asegurar que las partes individuales del programa funcionen correctamente. Además, se explorará el uso de perfiles de rendimiento (como cProfile) para identificar áreas críticas donde puede optimizarse el código.
+Ejercicio: Analiza el siguiente fragmento de código y utiliza las herramientas aprendidas para identificar y corregir los posibles problemas:
 
-Ejercicio
-Implemente un script en Python que calcule la suma de los primeros 1000 números enteros. Posteriormente, utilice la herramienta cProfile para analizar y optimizar su implementación. Presente los resultados de la primera ejecución y comparelos con el rendimiento después de realizar las mejoras sugeridas.
+```python
+def calcular_factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * calcular_factorial(n - 1)
 
-Resumen
-- Se aprendió a diagnosticar problemas en Python utilizando depuradores y pruebas unitarias.
-- Se utilizó cProfile para evaluar y mejorar el rendimiento del código.
+print(calcular_factorial(5))
+```
+
+Resumen:
+- Los mensajes de error son clave para diagnosticar problemas en Python.
+- Herramientas como `cProfile` ayudan a identificar operaciones lentas y mejorar el rendimiento.
