@@ -1,29 +1,16 @@
 # Primeros pasos practicos
 
 ## Objetivos
-- Familiarizar al estudiante con la instalación y configuración de Python.
-- Introducir los conceptos básicos de sintaxis y estructura de un programa en Python.
+- Familiarizar al estudiante con la instalación de Python y su entorno de desarrollo.
+- Introducir los conceptos básicos de sintaxis y estructura del lenguaje Python.
 
 ## Contenido
-En esta lección, se abordarán los primeros pasos prácticos para comenzar a programar en Python. Se explicará cómo instalar Python en el ordenador del estudiante, así como la configuración de un entorno de desarrollo integrado (IDE) o editor de texto que permita escribir y ejecutar código de manera sencilla. Además, se presentarán los elementos básicos de la sintaxis de Python, incluyendo comentarios, variables, tipos de datos primitivos y operadores aritméticos.
+En esta lección, aprenderemos a instalar Python en nuestro sistema operativo y a configurar un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code. Veremos cómo escribir el primer programa "Hello, World!" utilizando la sintaxis básica de Python. Además, exploraremos variables, tipos de datos primitivos y operadores aritméticos, todos fundamentales para comenzar a programar en Python.
 
 ## Ejercicio
-Escribe un programa simple en Python que solicite al usuario ingresar su nombre y edad, e imprima una frase personalizada con esa información. Por ejemplo:
-
-```python
-# Solicitar al usuario que ingrese su nombre
-nombre = input("Por favor, introduce tu nombre: ")
-
-# Solicitar al usuario que ingrese su edad
-edad = int(input("Ahora introduce tu edad: "))
-
-# Imprimir un mensaje personalizado
-print(f"¡Hola {nombre}! En 10 años tendrás {edad + 10} años.")
-```
-
-Asegúrate de ejecutar el programa y verificar que funcione correctamente.
+Escribe un programa que solicite al usuario su nombre y edad, e imprima una frase que diga "Hola [nombre], en [edad] años serás [edad+10]". Asegúrate de utilizar variables para almacenar el nombre y la edad del usuario, y operadores aritméticos para calcular la edad futura.
 
 ## Resumen
-- Se ha instalado Python en el ordenador.
-- Se ha configurado un entorno de desarrollo para escribir código.
-- Se han introducido conceptos básicos como variables, tipos de datos primitivos y operadores aritméticos.
+- Instalación de Python y configuración de un IDE.
+- Escribir el primer programa en Python: "Hello, World!".
+- Uso de variables, tipos de datos primitivos y operadores aritméticos.
