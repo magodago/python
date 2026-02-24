@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea y documentación oficial.
-- Identificar herramientas útiles para la resolución de problemas y colaboración.
+- Familiarizarse con recursos de documentación y tutoriales disponibles para Python.
+- Identificar herramientas y plataformas online que faciliten la práctica y el aprendizaje del lenguaje.
 
-Python es un lenguaje de programación de alto nivel que ha ganado popularidad debido a su sintaxis clara y fácil de leer. Para profundizar en el aprendizaje de Python, existen varios recursos valiosos disponibles tanto en línea como en forma de documentación oficial. La documentación de Python (https://docs.python.org/es/stable/) es una excelente fuente para entender la sintaxis y las características del lenguaje. Además, plataformas como Codecademy (https://www.codecademy.com/learn/learn-python-3) ofrecen cursos interactivos que permiten practicar el código en tiempo real. Otro recurso útil es Stack Overflow (https://es.stackoverflow.com/), donde se pueden encontrar soluciones a problemas comunes y discutir dudas con la comunidad de programadores.
+Python es un lenguaje de programación versátil y ampliamente utilizado en diversos campos como desarrollo web, análisis de datos, inteligencia artificial y más. Para complementar el estudio de Python, existen numerosos recursos disponibles tanto gratuitos como de pago que pueden ayudarte a profundizar tus conocimientos. Algunas recomendaciones incluyen la documentación oficial de Python, tutoriales en plataformas como Coursera o edX, y foros y comunidades en línea donde puedes resolver dudas y compartir experiencias con otros programadores.
 
-Ejercicio: Busca un problema simple en Stack Overflow relacionado con Python y resuelve el problema siguiendo las instrucciones del usuario. Documenta tu proceso y cualquier dificultad que hayas enfrentado, así como cómo lo solucionaste.
+Practica creando un pequeño script que solicite al usuario su nombre y edad, e imprima un mensaje personalizado. Este ejercicio te ayudará a familiarizarte con la sintaxis básica de Python y a entender cómo interactuar con el usuario a través del terminal.
 
-- Familiarizarse con recursos de aprendizaje adicionales.
-- Practicar la resolución de problemas utilizando estos recursos.
+- Familiaridad con recursos oficiales y externos.
+- Capacidad para practicar mediante ejercicios simples.
