@@ -1,11 +1,27 @@
 # Checklist final
 
-- Mejorar la capacidad del estudiante para identificar y resolver problemas comunes en Python.
-- Aumentar la comprensión de técnicas para optimizar el rendimiento del código Python.
+- Familiarizarse con un checklist exhaustivo para resolver problemas de rendimiento y optimización de código.
+- Identificar y corregir posibles errores y malas prácticas que afecten al rendimiento en programas Python.
 
-El objetivo final de esta lección es proporcionar a los estudiantes un conjunto completo de herramientas para diagnosticar y solucionar problemas en su código Python, así como mejorar la eficiencia y velocidad de ejecución de sus programas. Se recomienda que los estudiantes revisen regularmente el checklist presentado durante todo el curso para asegurarse de que su código esté libre de errores comunes y funcione de manera óptima.
+Para este ejercicio, revisa el siguiente código Python que calcula la suma de los primeros 1000 números enteros. Utiliza el checklist final para identificar áreas de mejora y optimización:
 
-Para practicar estos conceptos, los estudiantes deberán implementar un programa que resuelva problemas de rendimiento en una función dada. El programa debe analizar la complejidad temporal y espacial del algoritmo utilizado, identificar posibles optimizaciones y aplicarlas para mejorar el desempeño del código.
+```python
+def suma_numeros():
+    total = 0
+    for i in range(1000):
+        total += i + 1
+    return total
 
-- Utilizar técnicas de depuración efectivas.
-- Implementar estrategias de optimización basadas en el análisis de rendimiento.
+print(suma_numeros())
+```
+
+Asegúrate de que tu código cumpla con los siguientes puntos del checklist:
+- ¿El código está utilizando bucles innecesarios?
+- ¿Hay posibles optimizaciones en la lógica o estructura del código?
+- ¿Se están usando funciones y métodos eficientes para el problema propuesto?
+
+Resuelve las observaciones identificadas e implementa mejoras en tu código. Luego, compara los tiempos de ejecución antes y después de las optimizaciones.
+
+- Optimización de bucles
+- Uso efectivo del checklist para mejorar rendimiento
+- Medición de tiempos de ejecución antes y después de las mejoras
