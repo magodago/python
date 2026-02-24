@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea y fuera de línea que pueden ayudar a profundizar en Python.
-- Identificar y utilizar herramientas de documentación y comunidad para resolver dudas y mejorar el código.
+- Familiarizarse con recursos de documentación y tutoriales disponibles para Python.
+- Identificar herramientas y plataformas online que faciliten el aprendizaje y práctica del lenguaje.
 
-En esta lección, se explorarán los recursos adicionales disponibles para aprender y perfeccionar el uso de Python. Es crucial entender que la autodidacta es una habilidad valiosa en el desarrollo de software, y existen numerosos recursos gratuitos y de pago que pueden ser muy útiles. Se recomienda a los estudiantes familiarizarse con plataformas como la documentación oficial de Python, tutoriales en YouTube, cursos en línea de plataformas como Coursera o Udemy, y grupos de discusión en foros como Stack Overflow y Reddit. Estos recursos proporcionan una amplia gama de información, desde conceptos básicos hasta técnicas avanzadas.
+La lección sobre recursos adicionales en Python se centra en proporcionar a los estudiantes una amplia gama de opciones para profundizar y practicar sus conocimientos. Se recomienda la utilización de plataformas como Codecademy, Coursera y edX, que ofrecen cursos interactivos y certificados. Además, se invita a explorar la documentación oficial de Python, disponible en python.org, así como bibliotecas populares como NumPy y Pandas para manejo de datos.
 
-Para practicar, los estudiantes deben seleccionar un recurso adicional (por ejemplo, un curso en línea o un libro) y realizar un mini-proyecto que aplique lo aprendido en la lección anterior. Deben documentar su proceso de aprendizaje, incluyendo cualquier desafío enfrentado y cómo lo resolvió.
+Ejercicio: Buscar y seleccionar tres recursos online (un curso, una guía de tutoriales y un foro) que se consideren útiles para aprender Python y practicar habilidades específicas. Escribir una breve descripción de cada recurso y cómo podría ser útil en el aprendizaje del estudiante.
 
-- Familiaridad con una variedad de recursos para aprender Python.
-- Capacidad para identificar y utilizar herramientas de documentación y comunidad.
+- Familiarización con recursos educativos.
+- Identificación de herramientas prácticas para el desarrollo personalizado de habilidades en Python.
