@@ -1,11 +1,11 @@
 # Proyecto practico 1
 
-- Implementar un sistema de gestión de inventario utilizando clases y herencia.
-- Desarrollar una interfaz gráfica simple para interactuar con el sistema de inventario.
+- Entender la integración de bibliotecas externas en proyectos Python.
+- Desarrollar habilidades para la automatización de tareas complejas mediante programación.
 
-En esta lección, se profundizará en la aplicación práctica de conceptos avanzados de Python, como la programación orientada a objetos (POO) y la creación de interfaces gráficas. Los estudiantes aprenderán cómo utilizar clases y herencia para modelar diferentes tipos de productos en un sistema de inventario. Además, se trabajará con Tkinter, una biblioteca incorporada de Python que permite crear aplicaciones de escritorio.
+En esta lección del módulo de técnicas avanzadas, se profundizará en el uso de bibliotecas externas y su integración en proyectos Python. Se explorará cómo estas herramientas pueden facilitar el desarrollo de soluciones más eficientes y potentes para tareas complejas. Los estudiantes aprenderán a seleccionar las bibliotecas adecuadas según las necesidades del proyecto, a instalarlas y a utilizar sus funcionalidades de manera efectiva.
 
-El ejercicio consistirá en diseñar e implementar un programa que permita al usuario administrar el stock de diferentes productos en una tienda ficticia. El programa deberá incluir la capacidad para agregar nuevos productos, actualizar sus detalles y mostrar el inventario actualizado. Los estudiantes deberán crear clases para diferentes tipos de productos (por ejemplo, libros, ropa, electrónicos) que hereden de una clase base "Producto". La interfaz gráfica permitirá a los usuarios interactuar con estos objetos de manera intuitiva.
+Para este ejercicio práctico, los alumnos deberán desarrollar un script que automatice la generación de informes financieros básicos. El objetivo es integrar varias bibliotecas externas como `pandas` para el manejo de datos, `matplotlib` para la visualización y `numpy` para cálculos numéricos. Los estudiantes deben crear un flujo de trabajo que incluya la lectura de archivos CSV, el procesamiento de datos financieros, la creación de gráficos y la exportación del informe resultante en formato PDF.
 
-- Diseñar y implementar un sistema de gestión de inventario utilizando POO.
-- Utilizar Tkinter para crear una interfaz gráfica simple.
+- Integrar múltiples bibliotecas externas para resolver problemas complejos.
+- Crear scripts que automatizan tareas mediante programación.
