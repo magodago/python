@@ -1,19 +1,22 @@
 # Terminologia basica
 
-Objetivos
-- Comprender y utilizar correctamente la terminología básica de Python.
-- Identificar y explicar los conceptos fundamentales del lenguaje.
+- Entender y utilizar correctamente la terminología básica de Python.
+- Desarrollar habilidades para leer y describir código Python utilizando la terminología adecuada.
 
-Contenido
-En esta lección se introducirán los términos esenciales que cualquier programador debe conocer para comenzar a trabajar con Python. Se tratará sobre variables, tipos de datos, operadores aritméticos y lógicos, estructuras de control como if-else y bucles for y while, así como funciones y módulos. Estos conceptos son cruciales para cualquier programador que desee desarrollar habilidades sólidas en Python.
+Python es un lenguaje de programación de alto nivel que se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta ciencia de datos. Algunas de las términos básicos incluyen: **variables**, que almacenan valores; **tipos de datos**, como enteros, cadenas y flotantes; **funciones**, que permiten agrupar una serie de instrucciones en un bloque de código reutilizable; y **bucles**, que se utilizan para repetir ciertas operaciones. Comprender estos conceptos es fundamental para el desarrollo y mantenimiento eficaz del código.
 
-Ejercicio
-Crea un programa simple en Python que realice lo siguiente:
-1. Solicite al usuario ingresar su nombre.
-2. Almacene el nombre ingresado en una variable llamada `nombre`.
-3. Imprima un mensaje de bienvenida utilizando la variable `nombre`.
+Ejercicio: Escribe una breve descripción utilizando la terminología aprendida para el siguiente fragmento de código:
+```python
+def sumar(a, b):
+    resultado = a + b
+    return resultado
 
-Resumen
-- Variables y tipos de datos son fundamentales para almacenar y manipular información.
-- Las estructuras de control permiten que el código se ejecute de manera condicional o iterativa según las necesidades del programa.
-- Las funciones y módulos facilitan la reutilización del código y la organización del mismo.
+numero1 = 5
+numero2 = 7
+suma_total = sumar(numero1, numero2)
+print("La suma es:", suma_total)
+```
+- **Variables**: `numero1`, `numero2` y `resultado`.
+- **Función**: `sumar`.
+- **Bucle**: No presente en el código.
+- **Tipos de datos**: Enteros (`5`, `7`) y cadena (`"La suma es:"`).
