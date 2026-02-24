@@ -1,16 +1,23 @@
 # Primeros pasos practicos
 
-## Objetivos
-- Familiarizar al estudiante con la instalación de Python y su entorno de desarrollo.
-- Introducir los conceptos básicos de sintaxis y estructura del lenguaje Python.
+Objetivos
+- Familiarizar al estudiante con la instalación y configuración de Python.
+- Introducir los conceptos básicos de sintaxis y ejecución de código.
 
-## Contenido
-En esta lección, aprenderemos a instalar Python en nuestro sistema operativo y a configurar un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code. Veremos cómo escribir el primer programa "Hello, World!" utilizando la sintaxis básica de Python. Además, exploraremos variables, tipos de datos primitivos y operadores aritméticos, todos fundamentales para comenzar a programar en Python.
+Contenido
+En esta lección, aprenderemos a instalar Python en nuestro sistema operativo y a escribir nuestro primer programa. La sintaxis básica es crucial para cualquier programador, por lo que veremos cómo estructurar un script básico y entender los elementos fundamentales como las variables, tipos de datos básicos y la impresión de texto.
 
-## Ejercicio
-Escribe un programa que solicite al usuario su nombre y edad, e imprima una frase que diga "Hola [nombre], en [edad] años serás [edad+10]". Asegúrate de utilizar variables para almacenar el nombre y la edad del usuario, y operadores aritméticos para calcular la edad futura.
+Para comenzar, instalaremos Python desde el sitio oficial (https://www.python.org/downloads/) asegurándonos de seleccionar la versión adecuada para nuestro sistema operativo. Una vez instalado, podremos comprobar si funciona correctamente ejecutando en una terminal o línea de comandos: `python --version` o `python3 --version`.
 
-## Resumen
-- Instalación de Python y configuración de un IDE.
-- Escribir el primer programa en Python: "Hello, World!".
-- Uso de variables, tipos de datos primitivos y operadores aritméticos.
+Ejercicio
+Escribe y ejecuta tu primer programa en Python. Abre un editor de texto como Notepad++ o Visual Studio Code, escribe lo siguiente:
+
+```python
+print("¡Hola, mundo!")
+```
+
+Guarda el archivo con la extensión .py (por ejemplo, hola_mundo.py) y ejecútalo desde una terminal o línea de comandos usando `python hola_mundo.py` o `python3 hola_mundo.py`. Deberías ver la salida: "¡Hola, mundo!" en tu terminal.
+
+Resumen
+- Se ha instalado Python correctamente.
+- Se ha escrito y ejecutado el primer programa en Python.
