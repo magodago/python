@@ -1,12 +1,13 @@
 # Problemas frecuentes
 
 ## Contenido
-En esta lección sobre problemas frecuentes en Python, se abordarán errores comunes que los desarrolladores suelen enfrentar y cómo resolverlos. Se discutirá la importancia de entender el flujo del programa y leer los mensajes de error para solucionar problemas eficientemente. Además, se explorará la optimización del rendimiento mediante técnicas como la gestión de memoria y la selección adecuada de bibliotecas.
+En esta lección del módulo de Troubleshooting y rendimiento, se abordarán problemas frecuentes que los desarrolladores pueden encontrar al trabajar con Python. Se discutirá cómo identificar y solucionar errores comunes en el código, así como técnicas para mejorar la eficiencia del programa.
+
+Se explorará el uso de herramientas de depuración integradas en Python, como `pdb`, y se proporcionarán ejemplos prácticos de cómo utilizar estas herramientas para encontrar y corregir errores. Además, se tratará la optimización del rendimiento mediante técnicas como el uso eficiente de memoria y algoritmos eficientes.
 
 ## Ejercicio
-Implementa una función que calcule la suma de dos números enteros. Luego, introduce deliberadamente un error en el código para simular un problema común (por ejemplo, intentar sumar un entero con un string). Analiza el mensaje de error que se genera y corrige el error. Muestra cómo tu corrección mejora el funcionamiento del programa.
+El estudiante deberá identificar y corregir los errores en un código Python proporcionado. El código contiene varias excepciones no manejadas y problemas de rendimiento, que deben ser solucionados utilizando las herramientas de depuración mencionadas durante la lección.
 
 ## Resumen
-- Se destacará la importancia de leer y entender los mensajes de error.
-- Se explicará cómo optimizar el rendimiento de Python mediante técnicas específicas.
-- El ejercicio práctico ayudará a los estudiantes a aplicar estos conceptos en un contexto real.
+- Se aprenderán técnicas para identificar y corregir errores comunes en el código Python.
+- Se explorará cómo mejorar la eficiencia del programa mediante el uso de herramientas de depuración y optimización.
