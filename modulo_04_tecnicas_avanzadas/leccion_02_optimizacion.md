@@ -1,17 +1,11 @@
 # Optimizacion
 
-### Objetivos
-- Comprender las técnicas de optimización en Python para mejorar la eficiencia del código.
-- Implementar algoritmos de optimización en proyectos prácticos.
+- Optimizar código Python para mejorar la eficiencia y velocidad de ejecución.
+- Utilizar herramientas integradas como `timeit` y `cProfile` para medir y optimizar el rendimiento.
 
-### Contenido
-La optimización es crucial para el rendimiento de aplicaciones Python, especialmente cuando se trabaja con grandes conjuntos de datos o procesos intensivos. Un aspecto fundamental es la selección adecuada entre diferentes métodos y estructuras de datos. Por ejemplo, las listas son flexibles pero pueden ser lentas en operaciones de búsqueda, mientras que los conjuntos permiten búsquedas rápidas pero no admiten duplicados. Además, el uso de comprensiones de lista y funciones generadoras puede mejorar la eficiencia del código al reducir la complejidad y aumentar la velocidad de ejecución.
+Python es un lenguaje de programación versátil, pero al desarrollar aplicaciones complejas, puede surgir la necesidad de mejorar la eficiencia del código. En esta lección se explorará cómo utilizar técnicas avanzadas para optimizar el rendimiento de los programas Python. Se aprenderán a utilizar las herramientas integradas `timeit` y `cProfile`, que permiten medir el tiempo de ejecución y analizar el perfil del programa, respectivamente. Estos instrumentos son fundamentales para identificar secciones del código que pueden optimizarse.
 
-Un segundo aspecto importante es la utilización de bibliotecas optimizadas como NumPy o Pandas para manejar operaciones numéricas y de datos, que son significativamente más rápidas que el uso de listas nativas. También se puede explorar el uso de técnicas de programación dinámica para resolver problemas recurrentes en forma eficiente.
+Para practicar estos conceptos, los estudiantes deberán realizar un análisis detallado de un script Python proporcionado por el profesor. Deberán utilizar `timeit` para medir el tiempo de ejecución inicial y luego implementar al menos tres técnicas de optimización aprendidas en la lección. Al finalizar, volverán a medir el tiempo de ejecución utilizando `timeit` para comprobar si se han logrado mejorar los tiempos.
 
-### Ejercicio
-Implementa un programa que calcule la suma de los primeros 1000 números pares utilizando comprensiones de lista y luego con una función generadora. Mide y compara el tiempo de ejecución de ambas versiones.
-
-### Resumen
-- La optimización en Python implica seleccionar estructuras de datos adecuadas y utilizar bibliotecas especializadas.
-- Técnicas como la programación dinámica pueden resolver problemas recurrentes de manera más eficiente.
+- Utilización efectiva de `timeit` y `cProfile`.
+- Implementación de técnicas de optimización basadas en el análisis del perfil del programa.
