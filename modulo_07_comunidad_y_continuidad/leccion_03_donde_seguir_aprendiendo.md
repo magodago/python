@@ -1,11 +1,10 @@
 # Donde seguir aprendiendo
 
-- Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
-- Los estudiantes identificarán fuentes de apoyo comunitario que pueden utilizar para mejorar sus habilidades en Python.
+- El estudiante comprenderá las diversas formas de continuar aprendiendo Python después de finalizar el curso.
 
-El objetivo de esta lección es proporcionar a los estudiantes una visión completa de las opciones disponibles para seguir aprendiendo Python después de completar el curso. Se explorará cómo la comunidad puede ser un recurso valioso, tanto para resolver problemas técnicos como para obtener inspiración y motivación. Además, se presentarán diferentes plataformas en línea, libros recomendados y eventos que pueden ayudar a los estudiantes a profundizar en sus conocimientos de Python.
+- Se explorarán diferentes recursos y plataformas donde los estudiantes pueden profundizar sus conocimientos en Python. Estos incluyen foros de discusión como Stack Overflow, tutoriales en YouTube, documentación oficial de Python, y comunidades en línea como Reddit o GitHub. Además, se destacará la importancia de participar en proyectos personales o colaborativos para aplicar los conocimientos adquiridos.
 
-Para practicar estos conceptos, los estudiantes deberán crear una lista personalizada de recursos para aprender Python adicionalmente. Esta lista debe incluir al menos tres sitios web o plataformas en línea, un libro recomendado y un evento o meetup local relacionado con Python que estén interesados en asistir.
+## Ejercicio
+El estudiante debe buscar y registrar tres recursos diferentes (un foro, un tutorial y una comunidad) donde pueda continuar aprendiendo Python después del curso actual. Debe describir brevemente cada uno de estos recursos y cómo puede ser útil para su aprendizaje continuo en el lenguaje.
 
-- Los estudiantes identificarán fuentes de apoyo comunitario.
-- Se familiarizarán con diferentes plataformas y recursos para seguir aprendiendo Python.
+- Los estudiantes identificarán y catalogarán los recursos más útiles para su desarrollo personal como programadores, comprendiendo la importancia de la continuidad en el aprendizaje.
