@@ -1,17 +1,14 @@
 # Soluciones
 
-## Objetivos
-- Identificar y solucionar errores comunes en Python.
-- Mejorar la eficiencia del código para optimizar su rendimiento.
-
 ## Contenido
-En esta lección se abordarán varios problemas que pueden surgir al programar en Python, así como las estrategias para resolverlos. Se discutirá cómo leer y entender los errores de sintaxis y ejecución, y cómo utilizar la función `traceback` para localizar el origen del problema. También se explorará cómo mejorar la eficiencia del código a través de la optimización de estructuras de datos y algoritmos.
+En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán técnicas para diagnosticar y resolver errores comunes, así como estrategias para mejorar la eficiencia del código. Se explorará cómo identificar y corregir errores utilizando el debugger de Python, cómo utilizar logs para rastrear el flujo de ejecución y detectar problemas, y cómo optimizar el rendimiento a través de la utilización adecuada de bucles, listas y diccionarios.
 
-Para mejorar el rendimiento, se analizarán técnicas como la utilización de listas comprensivas en lugar de bucles `for` anidados, y la implementación de funciones recursivas. Se explicará cómo utilizar las bibliotecas estándar de Python para realizar tareas comunes de manera más eficiente.
+Se profundizará en el uso del módulo `logging` de Python, que permite registrar información sobre el estado del programa, errores y otros eventos relevantes. También se discutirá cómo utilizar el módulo `timeit` para medir la velocidad de ejecución de diferentes partes del código y cómo optimizar funciones mediante el uso de comprensiones de lista y generadores.
 
 ## Ejercicio
-Implementa una función que calcule el factorial de un número utilizando dos métodos: uno con un bucle `for` y otro mediante la utilización del módulo `math`. Compara su rendimiento utilizando el módulo `timeit`. Identifica cuál es más eficiente y explica por qué.
+Implementa un script en Python que utilice el módulo `logging` para registrar información sobre la ejecución de una función que realiza cálculos matemáticos. Asegúrate de configurar diferentes niveles de log (debug, info, warning) para capturar distintos tipos de eventos y luego revisa los registros generados.
 
 ## Resumen
-- Se aprendió a identificar y corregir errores en Python.
-- Se optimizó el código para mejorar su eficiencia, utilizando técnicas como listas comprensivas y funciones del módulo `math`.
+- Se aprendió a utilizar el módulo `logging` para registrar información crucial sobre la ejecución del programa.
+- Se exploraron técnicas para optimizar el rendimiento del código mediante el uso adecuado de estructuras de datos y comprensiones de lista.
+- Se practicó la utilización del debugger y logs para diagnosticar y resolver problemas en Python.
