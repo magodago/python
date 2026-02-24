@@ -1,23 +1,26 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender los fundamentos de Python y su utilidad en la programación.
-- Familiarizarse con el entorno de desarrollo integrado (IDE) más común para Python.
+- Comprender los conceptos básicos de Python y su importancia en la programación.
+- Identificar las características principales que hacen a Python un lenguaje versátil y fácil de aprender.
 
 ## Contenido
-Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis clara y concisa lo hace ideal para principiantes en la programación. Se utiliza ampliamente en diversas áreas como el desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación y más. La lección introducirá a los estudiantes al lenguaje Python, sus ventajas y aplicaciones prácticas.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Su sintaxis clara y concisa lo hace uno de los lenguajes más populares para principiantes y expertos. Este lenguaje se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos e inteligencia artificial. Python es conocido por su simplicidad y legibilidad del código, lo que facilita la escritura y mantenimiento del software.
 
-El entorno de desarrollo integrado (IDE) es crucial para escribir y ejecutar código en Python. Jupyter Notebook es uno de los IDEs más populares debido a su flexibilidad y capacidad para mezclar código con texto explicativo, gráficos y resultados interactivos. A lo largo de esta lección, se explorará cómo instalar y usar Jupyter Notebook.
+Las características principales de Python incluyen su sintaxis sencilla, que permite a los programadores expresar ideas con menos código; la capacidad para escribir programas de una sola línea; y un gran número de bibliotecas predefinidas que facilitan el desarrollo. Además, es completamente gratuito y de código abierto, lo que significa que se puede utilizar sin costos y contribuir al lenguaje si se desea.
 
 ## Ejercicio
-Crea un pequeño programa en Python que muestre "¡Hola, Mundo!" utilizando Jupyter Notebook. Escribe el siguiente código:
+Escribe un programa en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica tu programa para que solicite al usuario su nombre e imprima una personalizada bienvenida.
 
 ```python
-print("¡Hola, Mundo!")
+# Programa 1: Imprimir ¡Hola, mundo!
+print("¡Hola, mundo!")
+
+# Programa 2: Bienvenida personalizada
+nombre = input("Por favor, introduce tu nombre: ")
+print(f"¡Bienvenido/a {nombre}!")
 ```
 
-Luego, ejecuta la celda de código para ver el resultado.
-
 ## Resumen
-- Introducción a Python y sus aplicaciones.
-- Familiarización con Jupyter Notebook como IDE para Python.
+- Python es un lenguaje de programación versátil y fácil de aprender.
+- Sus características incluyen una sintaxis simple, bibliotecas predefinidas y ser gratuito y de código abierto.
