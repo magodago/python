@@ -1,31 +1,19 @@
 # Temas intermedios
 
-- Dominar la utilización de comprensión de listas para manipular datos.
-- Implementar funciones recursivas y entender su uso adecuado.
+- Comprender la utilización de funciones lambda y comprensión de listas para simplificar el código.
+- Familiarizarse con el manejo avanzado de excepciones y su gestión en Python.
 
-Python nos permite realizar operaciones complejas con una sintaxis simple. Una de las características más poderosas es la comprensión de listas, que nos permite crear listas de manera concisa y eficiente. Por ejemplo:
+Las funciones lambda y la comprensión de listas son herramientas poderosas que permiten escribir código más conciso y eficiente. Las funciones lambda, también conocidas como funciones anónimas, son útiles para crear pequeñas funciones sin nombre. Por otro lado, la comprensión de listas ofrece una forma compacta de generar listas basadas en secuencias existentes o concreto cálculos.
 
-```python
-# Crear una lista de números pares hasta 10
-pares = [x for x in range(11) if x % 2 == 0]
-print(pares)
-```
-
-Además, las funciones recursivas son un concepto fundamental en programación que permite a una función llamar a sí misma para resolver problemas. Este método es especialmente útil cuando se trabaja con estructuras de datos jerárquicas o problemas que pueden dividirse en subproblemas similares.
-
-Implementa una función recursiva que calcule el factorial de un número:
+Para ilustrar su uso, consideremos un ejemplo donde necesitamos filtrar y transformar una lista de números para obtener solo los pares mayores que 10. Podríamos hacerlo utilizando funciones lambda junto con comprensión de listas:
 
 ```python
-def factorial(n):
-    if n == 0:
-        return 1
-    else:
-        return n * factorial(n - 1)
-
-print(factorial(5))
+numeros = [2, 5, 8, 9, 11, 13, 16, 17]
+pares_mayores_10 = [x for x in map(lambda n: n * 2 if n % 2 == 0 and n > 10 else None, numeros) if x is not None]
+print(pares_mayores_10)
 ```
 
-Este ejercicio te permitirá practicar tanto la comprensión de listas como la implementación de funciones recursivas.
+Este código primero aplica una función lambda a cada elemento de la lista `numeros`, duplicando solo los números pares mayores que 10 y convirtiendo el resto en `None`. Luego, la comprensión de listas filtra estos valores, eliminando `None` para dejar solo los resultados deseados.
 
-- Comprender y utilizar eficientemente la comprensión de listas.
-- Implementar y entender el uso de funciones recursivas en Python.
+- Comprender cómo utilizar funciones lambda y comprensión de listas para optimizar el código.
+- Aplicar correctamente el manejo avanzado de excepciones en situaciones específicas.
