@@ -1,19 +1,31 @@
 # Buenas practicas
 
-- Comprender y aplicar las mejores prácticas de codificación para mejorar la legibilidad y mantenibilidad del código.
-- Implementar patrones de diseño simples y principios SOLID para resolver problemas comunes en el desarrollo de software.
+## Objetivos
+- Comprender y aplicar las mejores prácticas para la escritura de código Python.
+- Identificar y corregir errores comunes basados en buenas prácticas.
 
-Las buenas prácticas son esenciales en cualquier lenguaje de programación, incluyendo Python. En este módulo profundizaremos en cómo aplicar estas mejores prácticas para escribir código más limpio, eficiente y fácil de mantener. Algunos aspectos clave incluyen la utilización de nombres descriptivos para variables y funciones, el uso adecuado de espacios y tabulaciones para mejorar la legibilidad, y la división del código en módulos y clases bien definidos para facilitar su mantenimiento.
+## Contenido
+Las buenas prácticas son fundamentales para escribir código Python limpio, eficiente y fácil de mantener. Algunas de estas prácticas incluyen el uso de nombres descriptivos para variables y funciones, la documentación adecuada con comentarios y docstrings, y la correcta indentación y estructura del código. Además, es crucial utilizar las bibliotecas y módulos estándar de Python de manera eficiente, evitando redundancias y optimizando el rendimiento.
 
-Para ejemplificar estos conceptos, consideremos un ejercicio práctico. Diseñaremos una aplicación simple que simule un sistema de gestión de tareas. El objetivo es crear un programa que permita al usuario agregar, listar y eliminar tareas. En este ejercicio, se debe aplicar la convención PEP 8 para el formato del código y garantizar que cada función tenga un solo responsabilidad (principio SOLID).
+Un aspecto importante son los estándares de estilo PEP 8, que proporcionan guías detalladas sobre cómo formatear el código para mejorar su legibilidad. Algunos puntos clave incluyen la longitud máxima de las líneas (79 caracteres), la utilización del doble espacio después de comas y paréntesis, y la preferencia por el uso de `snake_case` para nombres de variables y funciones.
 
 ## Ejercicio
-1. Crea una clase `Tarea` con atributos como `nombre`, `descripcion` y `completada`.
-2. Implementa métodos en la clase `Tarea` para modificar el estado de completado.
-3. Crea un módulo `gestion_tareas.py` que contenga una lista de tareas y funciones para agregar, listar y eliminar tareas.
-4. Utiliza comentarios adecuadamente para explicar el propósito de cada sección del código.
+Revisa el siguiente código y aplica las mejores prácticas descritas en esta lección:
+
+```python
+def calcular_promedio(numeros):
+    suma = 0
+    for n in numeros:
+        suma += n
+    promedio = suma / len(numeros)
+    return promedio
+
+numeros = [1, 2, 3, 4, 5]
+print("El promedio es:", calcular_promedio(numeros))
+```
+
+Corrige los errores y mejora el código siguiendo las recomendaciones de PEP 8.
 
 ## Resumen
-- Aplicar la convención PEP 8 al formato del código.
-- Dividir el código en clases y módulos bien definidos.
-- Implementar patrones de diseño simples como el principio SOLID.
+- Aplicar PEP 8 para mejorar la legibilidad del código.
+- Utilizar nombres descriptivos y comentarios para documentar claramente el código.
