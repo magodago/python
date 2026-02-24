@@ -1,14 +1,15 @@
 # Entrega y revision
 
-- Los alumnos aprenderán a presentar su proyecto final de manera profesional y clara.
-- Comprenderán la importancia de recibir y dar feedback constructivo durante la revisión.
+Objetivos
+- Entender los criterios de evaluación del proyecto final.
+- Preparar y presentar el proyecto de manera efectiva.
 
-El objetivo principal de esta lección es que los estudiantes adquieran las habilidades necesarias para entregar su proyecto final de Python de forma efectiva. Se abordarán aspectos como la presentación oral, la preparación de material visual y el manejo del tiempo. También se enfatizará la importancia de recibir críticas constructivas durante la revisión y cómo utilizar estas para mejorar futuros proyectos.
+Contenido
+En esta lección, se abordará la entrega y revisión del proyecto final. Se explicarán los criterios de evaluación que se considerarán durante la revisión, incluyendo la funcionalidad del código, la claridad en la documentación y el uso eficiente de Python. Además, se discutirá cómo presentar el proyecto de manera efectiva ante un panel de evaluadores.
 
-Para esta lección, los estudiantes deberán preparar una presentación breve sobre su proyecto final en Python, incluyendo objetivos, métodos utilizados y resultados obtenidos. Además, se les pedirá que preparen un resumen escrito de su proyecto, donde detallen sus logros y áreas para mejorar.
+Ejercicio
+Los estudiantes deben preparar una presentación breve (5-7 minutos) que resuma su proyecto final. La presentación debe incluir los objetivos del proyecto, la metodología utilizada y los resultados obtenidos. Los estudiantes también deben preparar una hoja de respuestas a preguntas, donde se detallen aspectos técnicos o conceptuales relevantes.
 
-Durante la revisión, los estudiantes recibirán comentarios tanto de sus compañeros como del profesor, con el fin de obtener perspectivas diversas sobre su trabajo. Se anima a los estudiantes a ser receptivos y críticos constructivamente al evaluar los proyectos de sus compañeros.
-
-- Presentación oral efectiva
-- Preparación de material visual
-- Uso constructivo del feedback recibido
+Resumen
+- Entender los criterios de evaluación para el proyecto final.
+- Preparar y presentar el proyecto de manera efectiva.
