@@ -1,15 +1,22 @@
 # Primeros pasos practicos
 
-Objetivos
-- Familiarizar a los estudiantes con el entorno de desarrollo integrado (IDE) de Python.
-- Introducir los conceptos básicos de sintaxis y estructuras de datos en Python.
+## Objetivos
+- Familiarizar al estudiante con la instalación y configuración de Python.
+- Introducir a los conceptos básicos de sintaxis y estructura del lenguaje.
 
-Contenido
-En esta lección, comenzaremos explorando cómo instalar e iniciar un IDE de Python. A través del uso práctico, aprenderemos a escribir nuestro primer programa, que es simplemente imprimir "¡Hola, Mundo!" en la consola. También se introducirán las variables y tipos de datos básicos como enteros, cadenas y booleanos. Para proporcionar una base sólida, se explicará cómo declarar estas variables y realizar operaciones simples con ellos.
+## Contenido
+En esta lección, aprenderás a instalar Python en tu computadora y cómo verificar su correcta instalación. Adicionalmente, exploraremos los primeros pasos en la escritura de código Python, incluyendo variables, tipos de datos básicos (como enteros, cadenas y flotantes), y operadores aritméticos. Es importante entender que Python es un lenguaje interpretado, lo que significa que cada línea de código se ejecuta individualmente.
 
-Ejercicio
-Escribe un programa simple que solicite al usuario su nombre y edad, luego imprima en la consola "¡Hola [nombre]! Tienes [edad] años". Asegúrate de manejar los tipos de datos adecuadamente para la entrada del usuario.
+Para comenzar a programar en Python, es necesario tener instalado el intérprete del lenguaje. Puedes descargar la última versión desde el sitio oficial de Python (https://www.python.org/downloads/). Durante la instalación, asegúrate de marcar la opción que agrega Python al PATH de tu sistema operativo para facilitar su uso.
 
-Resumen
-- Se ha familiarizado con el entorno de desarrollo de Python.
-- Se han introducido conceptos básicos como variables y operaciones simples.
+## Ejercicio
+Escribe un programa simple en Python que realice las siguientes tareas:
+1. Asigna el valor 5 a una variable llamada `edad`.
+2. Imprime el tipo de dato de `edad` utilizando la función `type()`.
+3. Crea una variable `nombre` con tu nombre y muestra su longitud.
+4. Define una variable `altura` como un flotante (por ejemplo, 1.75) e imprime si es mayor que 2.
+
+## Resumen
+- Instalación de Python y configuración del entorno de desarrollo.
+- Uso básico de variables y tipos de datos en Python.
+- Ejecución de operaciones simples con variables.
