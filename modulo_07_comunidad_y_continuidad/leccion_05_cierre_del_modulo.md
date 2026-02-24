@@ -1,11 +1,12 @@
 # Cierre del modulo
 
 - Consolidar el conocimiento adquirido durante el módulo de Python.
-- Fomentar la continuidad del aprendizaje y el uso práctico de los conceptos estudiados.
+- Preparar a los estudiantes para aplicar sus habilidades en proyectos futuros.
 
-En esta lección final, es importante reflexionar sobre todo lo que se ha aprendido en el módulo de Python. Se ha abordado desde las bases fundamentales hasta la programación orientada a objetos, pasando por la manipulación de datos y el desarrollo web con Django. Es crucial internalizar estos conceptos para poder aplicarlos en proyectos reales y continuar explorando nuevas áreas del lenguaje.
+En esta lección final del módulo sobre Python, se revisará todo lo aprendido durante el curso. Se enfatizará la importancia de la continuidad y la práctica constante en el desarrollo de habilidades de programación. Se discutirá cómo aplicar los conocimientos adquiridos a proyectos reales y cómo buscar recursos adicionales para mejorar constantemente.
 
-Para practicar lo aprendido, se solicita que los estudiantes desarrollen un pequeño proyecto personal que combine varios de los temas estudiados durante el módulo. Por ejemplo, podrían crear una aplicación web con Django que utilice bases de datos para almacenar y gestionar información de usuarios o productos. Este ejercicio permitirá integrar conocimientos en diferentes áreas y demostrar la comprensión del material.
+Para esta lección, se solicita que los estudiantes desarrollen un proyecto personal utilizando Python. El proyecto debe incluir al menos tres conceptos principales aprendidos durante el módulo, como funciones, listas o estructuras de control. Los estudiantes deben documentar su proceso y compartir sus proyectos en una plataforma de colaboración para recibir feedback de la comunidad.
 
-- Integración de múltiples conceptos aprendidos.
-- Desarrollo práctico a través de un proyecto personal.
+- Consolidación del conocimiento de Python.
+- Aplicación práctica de los conceptos aprendidos.
+- Fomento de la interacción y el aprendizaje mutuo entre compañeros.
