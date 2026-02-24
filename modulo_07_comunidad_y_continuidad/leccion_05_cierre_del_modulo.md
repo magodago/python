@@ -1,16 +1,17 @@
 # Cierre del modulo
 
 Objetivos
-- Consolidar los conocimientos adquiridos durante el módulo sobre Python.
+- Consolidar los conocimientos adquiridos durante el módulo de Python.
 - Fomentar la continuidad del aprendizaje y la práctica constante.
 
 Contenido
-En esta lección final, nos enfocaremos en resumir y reforzar los conceptos clave que se han abordado a lo largo del módulo. Hablaremos de cómo integrar Python en proyectos reales, destacando la importancia de la documentación y el mantenimiento del código. Se discutirá también la necesidad de seguir aprendiendo y explorando nuevas bibliotecas y frameworks para mejorar las habilidades en Python.
+En esta lección final, nos enfocaremos en resumir los conceptos clave que se han cubierto a lo largo del módulo. Hemos explorado desde las bases fundamentales de Python hasta la programación orientada a objetos, pasando por estructuras de datos y manejo de excepciones. La intención es que el estudiante comprenda no solo cómo usar Python, sino también cuándo y por qué utilizar ciertas características del lenguaje.
+
+Es importante recordar que el aprendizaje de un idioma de programación como Python no se agota con la finalización de este módulo. La práctica regular y el desafío constante son fundamentales para mejorar y mantener las habilidades adquiridas. Se recomienda buscar proyectos personales o colaborativos donde aplicar los conocimientos, así como seguir actualizándose con nuevas versiones del lenguaje y mejores prácticas.
 
 Ejercicio
-Implementa un pequeño proyecto que combine diferentes conceptos vistos durante el módulo, como funciones, listas, bucles y excepciones. Documenta tu código adecuadamente, explicando cada parte del programa. Luego, comparte tu proyecto con la comunidad de aprendices para recibir feedback.
+Desarrolla un programa que permita al usuario ingresar el nombre de una ciudad y muestre la temperatura promedio registrada en esa ciudad durante los últimos 30 días. Utiliza listas para almacenar las temperaturas y funciones para calcular el promedio. Asegúrate de manejar correctamente cualquier error en la entrada del usuario.
 
 Resumen
-- Integrar Python en proyectos reales.
-- Importancia de la documentación y mantenimiento del código.
-- Continuar aprendiendo y explorando nuevas herramientas.
+- Consolidación de conocimientos.
+- Importancia de la práctica constante y actualización continua.
