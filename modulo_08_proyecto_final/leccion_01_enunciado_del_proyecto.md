@@ -1,61 +1,18 @@
 # Enunciado del proyecto
 
-## Objetivos
-- Comprender y definir claramente los requisitos del proyecto final.
-- Desarrollar habilidades para planificar y estructurar un proyecto de Python.
+### Objetivos
+- Comprender los requisitos del proyecto final.
+- Desarrollar habilidades para la planificación y organización de un proyecto.
 
-## Contenido
-En esta lección, se presentará el enunciado del proyecto final del curso de Python. El objetivo es que los estudiantes comprendan completamente la tarea a realizar y puedan comenzar a planificar su trabajo. El proyecto consiste en desarrollar una aplicación de línea de comandos (CLI) que permita al usuario interactuar con un sistema de gestión de tareas. La aplicación debe incluir funcionalidades para agregar, listar, marcar como completadas y eliminar tareas.
+### Contenido
+El proyecto final de este curso de Python tiene como objetivo principal aplicar los conocimientos adquiridos a una situación real. Se trata de desarrollar un programa que permita gestionar una biblioteca digital, incluyendo funciones para agregar, eliminar y buscar libros, así como listar información sobre ellos. Este ejercicio no solo fortalecerá tus habilidades en Python sino también te ayudará a comprender cómo aplicar conceptos de programación a problemas del mundo real.
 
-El enunciado detalla las características básicas del proyecto, así como las expectativas sobre la estructura del código y el uso de buenas prácticas de programación. Se espera que los estudiantes utilicen conceptos avanzados estudiados durante el curso, como funciones, listas, diccionarios y manejo de excepciones.
+Para lograr este objetivo, se recomienda que divides el proyecto en etapas manejables y establezcas metas claras para cada una. Esto incluye definir la funcionalidad deseada, planificar la estructura del programa y luego implementarla paso a paso. Recuerda documentar tu proceso de desarrollo para facilitar la revisión y mejora futura.
 
-## Ejercicio
-Desarrolla un esbozo básico para la aplicación CLI de gestión de tareas mencionada en el enunciado. Incluye las siguientes funcionalidades:
+### Ejercicio
+Desarrolla un esquema básico para el proyecto final. Define las funciones que necesitarás para gestionar los libros en una biblioteca, como `agregar_libro`, `eliminar_libro` y `buscar_libro`. Luego, crea un menú interactivo donde el usuario pueda seleccionar qué acción realizar.
 
-1. Agregar una tarea.
-2. Listar todas las tareas pendientes.
-3. Marcar una tarea como completada.
-4. Eliminar una tarea.
-
-Puedes utilizar la siguiente estructura inicial para tu aplicación:
-
-```python
-def agregar_tarea(tareas, tarea_nueva):
-    # Implementa esta función
-
-def listar_tareas(tareas):
-    # Implementa esta función
-
-def marcar_como_completada(tareas, indice):
-    # Implementa esta función
-
-def eliminar_tarea(tareas, indice):
-    # Implementa esta función
-
-if __name__ == "__main__":
-    tareas = []
-    while True:
-        print("1. Agregar tarea")
-        print("2. Listar tareas")
-        print("3. Marcar como completada")
-        print("4. Eliminar tarea")
-        print("5. Salir")
-        
-        opcion = input("Elige una opción: ")
-        
-        if opcion == "1":
-            # Llama a la función agregar_tarea
-        elif opcion == "2":
-            # Llama a la función listar_tareas
-        elif opcion == "3":
-            # Llama a la función marcar_como_completada
-        elif opcion == "4":
-            # Llama a la función eliminar_tarea
-        elif opcion == "5":
-            break
-```
-
-## Resumen
-- El proyecto final implica desarrollar una aplicación CLI para gestionar tareas.
-- Los estudiantes deben planificar y estructurar su trabajo siguiendo el enunciado proporcionado.
-- Se recomienda que los estudiantes comiencen con un esbozo básico de la aplicación.
+### Resumen
+- El proyecto final consiste en desarrollar un programa que gestione una biblioteca digital.
+- Se recomienda dividir el proyecto en etapas manejables y establecer metas claras para cada una.
+- El ejercicio práctico implica crear esquemas básicos de funciones y un menú interactivo.
