@@ -1,20 +1,16 @@
 # Optimizacion
 
-### Objetivos
-- Comprender y aplicar técnicas de optimización para mejorar la eficiencia del código Python.
-- Implementar algoritmos de optimización en programas de ejemplo.
+- Optimizar el rendimiento de los programas escritos en Python mediante la utilización eficiente de las estructuras de datos.
+- Aprender a implementar técnicas de programación funcional para mejorar la eficiencia y legibilidad del código.
 
-### Contenido
-La optimización es crucial para mejorar el rendimiento de los programas Python, especialmente cuando se trabaja con grandes conjuntos de datos o procesos intensivos. Para lograr esta meta, se pueden emplear diversas técnicas que abordan desde la elección adecuada de estructuras de datos hasta la implementación eficiente de algoritmos y la utilización de módulos optimizados.
+Python es un lenguaje de programación versátil, pero su rendimiento puede ser limitado en ciertas tareas. En esta lección se explorará cómo optimizar el rendimiento de los programas mediante el uso adecuado de estructuras de datos como listas, diccionarios y conjuntos, así como la implementación de funciones puras y la utilización de decoradores para mejorar la eficiencia del código.
 
-Una técnica fundamental es el uso de listas comprensivas en lugar de bucles for para construir colecciones, ya que son más rápidas y concisas. Además, se recomienda utilizar las bibliotecas numéricas como NumPy y SciPy, que están optimizadas para operaciones matemáticas intensivas y pueden proporcionar un rendimiento significativamente mejorado.
-
-Otro aspecto importante es la comprensión de cómo Python maneja la memoria y el uso eficiente del espacio en memoria. Esto incluye la gestión adecuada de variables y objetos, así como el uso de métodos de liberación de memoria para evitar fugas.
+Se analizarán ejemplos prácticos donde se compara el rendimiento de diferentes enfoques al resolver problemas similares, destacando las ventajas de cada técnica. Se utilizará el módulo `timeit` para medir el tiempo de ejecución y evaluar la eficiencia de los distintos métodos.
 
 ### Ejercicio
-Implementa un programa que calcule los primeros 1000 números primos utilizando listas comprensivas y módulos optimizados. Compara el tiempo de ejecución con una versión que utiliza bucles for tradicionales. Documenta tus resultados y reflexiona sobre las diferencias observadas.
+
+Escribe una función que calcule la suma de todos los números pares en una lista utilizando listas por comprensión, luego optimiza este proceso utilizando un generator expression. Mide y compara el tiempo de ejecución de ambas versiones usando `timeit`. Explica tus resultados.
 
 ### Resumen
-- Utilización de listas comprensivas para mejorar la eficiencia.
-- Implementación de bibliotecas numéricas como NumPy y SciPy para operaciones matemáticas intensivas.
-- Gestión eficiente del espacio en memoria para evitar fugas.
+- La utilización eficiente de estructuras de datos puede mejorar significativamente la velocidad y eficiencia del código.
+- Las funciones puras y los decoradores pueden ayudar a mejorar la legibilidad y el rendimiento del código al evitar cálculos innecesarios.
