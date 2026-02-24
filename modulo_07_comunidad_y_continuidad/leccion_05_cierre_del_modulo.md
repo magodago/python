@@ -1,11 +1,11 @@
 # Cierre del modulo
 
 - Consolidar el conocimiento adquirido durante el módulo de Python.
-- Preparar a los estudiantes para aplicar sus habilidades en proyectos prácticos y futuros módulos.
+- Preparar a los estudiantes para aplicar sus habilidades en proyectos prácticos y futuros cursos.
 
-En esta lección final, es importante reflexionar sobre lo que se ha aprendido durante el módulo de Python. Se revisará brevemente los temas principales cubiertos: sintaxis básica, estructuras de control (condicionales y bucles), funciones y listas, así como la importancia de la documentación y la continuidad en el aprendizaje de programación.
+En esta lección final del módulo, revisaremos los conceptos clave que se han cubierto hasta ahora. Hemos explorado desde las estructuras básicas como variables y tipos de datos, pasando por control de flujo con bucles y condicionales, hasta las funciones y la programación orientada a objetos en Python. El objetivo es asegurarse de que comprenden estos fundamentos para poder aplicarlos eficazmente en proyectos más complejos.
 
-Se recomienda a los estudiantes practicar resolviendo problemas que combinan varios conceptos vistos durante el módulo. Por ejemplo, podrían crear un programa que utilice funciones para manipular listas y condicionales para tomar decisiones basadas en la información proporcionada por estas listas.
+Para practicar lo aprendido, los estudiantes deben desarrollar un pequeño programa que resuelva un problema real utilizando varios conceptos del módulo. Por ejemplo, podrían crear una aplicación que administre tareas pendientes, incorporando listas de tareas, fechas límite y categorías diferentes.
 
-- Recapitulación de los fundamentos de Python.
-- Importancia del aprendizaje continuo y práctica constante.
+- Integración de conocimientos en un proyecto.
+- Revisión y consolidación de los conceptos clave.
