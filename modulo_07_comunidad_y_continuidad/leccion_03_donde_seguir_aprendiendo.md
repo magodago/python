@@ -1,11 +1,17 @@
 # Donde seguir aprendiendo
 
 - Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
-- Los estudiantes identificarán y evaluarán los mejores recursos según sus necesidades específicas de aprendizaje.
+- Los estudiantes identificarán al menos tres comunidades de habla hispana especializadas en programación.
 
-El objetivo de esta lección es que los estudiantes se familiaricen con una amplia gama de recursos y comunidades en línea que pueden usar para profundizar su conocimiento en Python. Se abordarán tanto plataformas de tutoría como foros de discusión, bibliotecas de código abierto y proyectos colaborativos, así como canales de socialización profesional y eventos locales o online. Estos recursos no solo proporcionan información adicional sobre Python, sino que también fomentan la interacción con otros programadores, lo cual es fundamental para el crecimiento continuo en cualquier campo tecnológico.
+## Contenido
+En esta lección, exploraremos diferentes maneras en que los estudiantes pueden seguir creciendo en su dominio del lenguaje de programación Python. Aprenderemos sobre la importancia de la continuidad en el aprendizaje y cómo participar en comunidades puede ser crucial para mejorar nuestras habilidades.
 
-Para este ejercicio, los estudiantes deben seleccionar tres recursos o comunidades de aprendizaje y realizar una breve evaluación de cada uno. Deben considerar aspectos como la calidad del contenido, la interactividad, la actualización regular de información y la comunidad que se ofrece (por ejemplo, el apoyo mutuo entre miembros). Esta actividad ayudará a los estudiantes a identificar las mejores opciones para sus propias necesidades de aprendizaje.
+Existen numerosas plataformas online donde se ofrecen cursos, tutoriales y recursos gratuitos o pagados. Algunas recomendadas son Coursera, edX, Udemy y Pluralsight, que proporcionan una amplia gama de materiales para todos los niveles. Además, existen comunidades de habla hispana como Python España, PyLadies y la comunidad de Reddit en /r/Python, donde se comparten conocimientos, se resuelven dudas y se promueve el aprendizaje colaborativo.
 
-- Los estudiantes evaluarán diferentes recursos de aprendizaje.
-- Se fortalecerá la capacidad del estudiante para seleccionar y utilizar eficazmente recursos de aprendizaje.
+## Ejercicio
+Identifique tres comunidades de habla hispana especializadas en programación. Explique brevemente qué tipo de contenido o actividades ofrece cada una.
+
+## Resumen
+- Se destacó la importancia de continuar aprendiendo Python a través de diversas plataformas y recursos.
+- Se presentaron ejemplos de comunidades de habla hispana para fomentar el intercambio de conocimientos.
+- Los estudiantes deben identificar y explorar al menos tres comunidades relevantes.
