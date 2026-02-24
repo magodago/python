@@ -1,13 +1,17 @@
 # Terminologia basica
 
-- Comprender los conceptos básicos de programación que se aplican en Python.
-- Familiarizarse con la terminología fundamental utilizada en el contexto del lenguaje Python.
+Objetivos
+- Comprender y utilizar correctamente los términos básicos de Python.
+- Identificar y explicar la importancia de estos términos en la programación con Python.
 
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. En este curso, exploraremos algunos términos clave que son fundamentales para entender cómo funciona Python. Entre los conceptos esenciales se encuentran las variables, los tipos de datos primitivos, las estructuras de control (como if-else y bucles), funciones y módulos. Estos elementos forman la base sobre la cual se construyen programas más complejos en Python.
+Contenido
+En esta lección, se explorará el vocabulario fundamental que todo programador debe conocer para comenzar a trabajar con Python. Los términos clave incluyen variables, tipos de datos, funciones y estructuras de control. Las variables son contenedores para almacenar información en memoria del programa. Los tipos de datos son categorías que definen qué tipo de información puede almacenarse en una variable (por ejemplo, enteros, cadenas o flotantes). Las funciones permiten agrupar y reutilizar código, mejorando la legibilidad y eficiencia del programa. Finalmente, las estructuras de control como if-else y bucles permiten que el programa tome decisiones basadas en condiciones y repita ciertas operaciones.
 
-Para practicar, escriba un programa simple que solicite al usuario ingresar su nombre y edad, luego imprima una frase personalizada diciendo cuántos años tendrá el usuario en 10 años.
+Ejercicio
+Escribe un pequeño programa que solicite al usuario su nombre e imprima una frase personalizada. Utiliza variables para almacenar el nombre del usuario y la frase de salida, y asegúrate de usar tipos de datos apropiados. Luego, crea una función que tome este nombre como parámetro y devuelva la frase personalizada.
 
-## Resumen
-- Las variables son contenedores para almacenar datos.
-- Los tipos de datos primitivos incluyen enteros, flotantes, cadenas y booleanos.
-- Las estructuras de control permiten la ejecución condicional y repetitiva del código.
+Resumen
+- Variables: contenedores para información en memoria.
+- Tipos de datos: categorías que definen el tipo de información almacenada.
+- Funciones: agrupación de código para reutilización.
+- Estructuras de control: permiten tomar decisiones y repetir operaciones.
