@@ -1,16 +1,18 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender los fundamentos de Python y su relevancia actual.
-- Identificar las principales características que hacen a Python una herramienta versátil.
+- Comprender la importancia y el contexto actual de Python.
+- Identificar las principales características que hacen a Python un lenguaje versátil.
 
 ## Contenido
-En esta lección introductoria, se explorará el contexto y la importancia del lenguaje de programación Python. Se presentarán sus características más destacadas como sintaxis clara y legible, gran comunidad de usuarios y amplia biblioteca de módulos. Se abordarán también las aplicaciones de Python en diversos campos tecnológicos, desde desarrollo web hasta ciencia de datos.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Fue creado por Guido van Rossum en 1991 y se ha convertido en uno de los lenguajes más populares debido a su sintaxis clara y legible. Es ampliamente utilizado en desarrollo web, análisis de datos, inteligencia artificial, ciencias del computador y muchas otras áreas. Su versatilidad radica en su gran comunidad de desarrolladores, que proporciona una vasta gama de bibliotecas y frameworks.
+
+En esta lección, se explorará la evolución histórica de Python, desde sus inicios hasta el presente, destacando los cambios significativos que han permitido a este lenguaje adaptarse a diversas necesidades. Se analizarán también las características clave que lo hacen un lenguaje fácil de aprender y usar, como su sintaxis simple y la gran cantidad de bibliotecas disponibles.
 
 ## Ejercicio
-Escribe un programa simple que imprima "¡Hola, mundo!" utilizando la sintaxis básica de Python. Luego, modifica el programa para que solicite al usuario su nombre y lo salude personalmente.
+Escribe una breve historia personal sobre por qué decidiste aprender Python, incluyendo al menos tres razones específicas. Reflexiona sobre cómo este conocimiento podría beneficiarte en tu carrera o en tus intereses personales.
 
 ## Resumen
-- Python es un lenguaje de programación versátil con una gran comunidad.
-- Su sintaxis clara facilita el aprendizaje y desarrollo rápido de software.
-- Se utiliza ampliamente en diversas áreas tecnológicas.
+- Comprendido el contexto histórico y actual de Python.
+- Identificado las características que lo hacen un lenguaje versátil y fácil de aprender.
+- Reflexionado sobre la importancia personal de aprender Python.
