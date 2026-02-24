@@ -1,13 +1,11 @@
 # Bienvenida al curso
 
-- Entender los fundamentos de Python y su importancia en la programación.
-- Familiarizarse con el entorno de desarrollo e instalación básica.
+- Comprender los fundamentos de Python y su utilidad en la programación.
+- Familiarizarse con el entorno de desarrollo integrado (IDE) que se utilizará durante el curso.
 
-Python es un lenguaje de programación de alto nivel que se ha convertido en una herramienta fundamental para desarrolladores debido a su sintaxis clara y legible. Su diseño conciso permite a los programadores escribir menos código para realizar tareas complejas, lo que facilita la lectura y mantenimiento del mismo. Este lenguaje es ampliamente utilizado no solo en desarrollo web y análisis de datos, sino también en ciencia de la computación, inteligencia artificial y robótica.
+Python es un lenguaje de programación de alto nivel, interpretado y de código abierto, diseñado para ser fácil de leer y escribir. Su sintaxis clara y concisa lo hace ideal para principiantes en programación, pero también ofrece características avanzadas que lo hacen valioso para desarrolladores experimentados. En este curso, aprenderemos a utilizar Python para resolver problemas de manera eficiente, desde la creación de scripts simples hasta el desarrollo de aplicaciones complejas.
 
-Para comenzar este curso, primero necesitarás instalar Python en tu sistema operativo. Puedes obtener las últimas versiones gratuitas desde el sitio oficial de Python (https://www.python.org/downloads/). Una vez instalado, puedes usar cualquier editor de texto como Sublime Text o Notepad++ para escribir tus programas de Python, aunque es recomendable utilizar un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code para una experiencia más completa.
+Para comenzar, instalaremos y configuramos un IDE popular llamado PyCharm, que nos permitirá escribir, ejecutar y depurar nuestros programas de manera cómoda. Durante este ejercicio, cada estudiante deberá instalar PyCharm en su computadora y crear su primer programa "Hello, World!".
 
-Escribe tu primer programa en Python: `print("¡Hola, mundo!")` y ejecútalo en tu IDE. Observa cómo se muestra el mensaje en la consola.
-
-- Familiaridad con la instalación de Python.
-- Estructura básica de un programa en Python.
+- Comprender la importancia de Python en el mundo de la programación.
+- Familiarizarse con el uso del IDE PyCharm para escribir código.
