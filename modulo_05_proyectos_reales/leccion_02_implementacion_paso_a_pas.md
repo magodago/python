@@ -1,16 +1,25 @@
 # Implementacion paso a paso
 
 ## Objetivos
-- Implementar un proyecto real que permita al estudiante aplicar conceptos de programación orientada a objetos.
-- Crear una aplicación simple de gestión de biblioteca utilizando Python.
+- Implementar un proyecto real que permita al usuario gestionar una lista de tareas.
+- Aprender a utilizar estructuras de datos como listas y diccionarios para almacenar información.
 
 ## Contenido
-En esta lección, se profundizará en la implementación práctica del paradigma de programación orientada a objetos (POO) utilizando Python. Los estudiantes aprenderán cómo definir clases y objetos, así como cómo utilizar herencia y polimorfismo para crear un sistema funcional. Como proyecto real, se desarrollará una aplicación simple de gestión de biblioteca que permita al usuario registrar libros, prestarlos y devolverlos. Este ejercicio no solo reforzará los conocimientos sobre POO sino también fortalecerá la capacidad del estudiante para abordar problemas complejos en Python.
+En esta lección, continuaremos con la implementación del proyecto de gestión de tareas. Hasta ahora, hemos aprendido los fundamentos de Python y cómo trabajar con variables, tipos de datos básicos y control de flujo. Ahora es el momento de aplicar estos conocimientos en un proyecto más complejo.
+
+Para este ejercicio, crearemos una aplicación que permita al usuario agregar, eliminar y listar tareas pendientes. Usaremos listas para almacenar las tareas y diccionarios para asociar cada tarea con su estado (completada o no). Esto nos permitirá manejar la información de manera eficiente y facilitará el desarrollo del proyecto.
 
 ## Ejercicio
-Implemente una clase `Libro` con atributos como título, autor y año de publicación. Luego, cree una clase `Biblioteca` que permita registrar libros, prestarlos a usuarios (representados por objetos de la clase `Usuario`) y devolverlos. La biblioteca debe mantener un registro de los libros prestados y su estado (prestado o disponible). Finalmente, implemente métodos para listar todos los libros disponibles y los libros prestados.
+Implementa un programa en Python que permita al usuario realizar las siguientes operaciones:
+
+1. Agregar una nueva tarea.
+2. Eliminar una tarea existente.
+3. Listar todas las tareas pendientes.
+4. Marcar una tarea como completada.
+
+El programa debe proporcionar opciones para el usuario elegir qué acción realizar y continuar hasta que el usuario decida finalizar la aplicación. Recuerda utilizar bucles y estructuras condicionales apropiadas para manejar diferentes casos de uso.
 
 ## Resumen
-- Se profundizará en el paradigma orientado a objetos con Python.
-- Los estudiantes desarrollarán una aplicación de gestión de biblioteca que incluye clases `Libro`, `Usuario` y `Biblioteca`.
-- El ejercicio permitirá aplicar conocimientos sobre herencia, polimorfismo y manejo de datos en un contexto real.
+- Se ha desarrollado una aplicación básica de gestión de tareas.
+- Se han utilizado listas y diccionarios para almacenar y gestionar información.
+- El ejercicio permite a los alumnos aplicar conceptos básicos de Python en un proyecto real.
