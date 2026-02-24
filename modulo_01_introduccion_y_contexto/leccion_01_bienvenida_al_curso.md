@@ -1,11 +1,11 @@
 # Bienvenida al curso
 
-- Comprender qué es Python y por qué es una excelente opción para principiantes.
-- Familiarizarse con la importancia de Python en el campo de la programación.
+- Entender qué es Python y su importancia en la programación.
+- Familiarizarse con el entorno de desarrollo integrado (IDE) que se utilizará durante el curso.
 
-Python se ha convertido en uno de los lenguajes de programación más populares debido a su sintaxis clara y fácil de leer, lo que facilita significativamente el aprendizaje para principiantes. Este curso te guiará desde los fundamentos hasta aplicaciones más complejas, permitiéndote explorar diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y mucho más. Durante la lección introductoria, conocerás las características principales de Python y cómo puede ser tu compañero ideal para iniciarte en el mundo de la programación.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una herramienta fundamental para desarrolladores de todo el mundo. Su sintaxis clara y concisa lo hace fácil de aprender y usar, lo que lo convierte en ideal tanto para principiantes como para profesionales experimentados. En este curso, utilizaremos el IDE PyCharm, que proporciona un entorno visual y funcional para escribir y ejecutar código Python.
 
-Para practicar lo aprendido, intenta escribir un pequeño programa que imprima "¡Bienvenido al curso de Python!" utilizando la sintaxis básica de impresión. Este ejercicio te ayudará a familiarizarte con los primeros comandos y entender cómo se estructuran las líneas de código en Python.
+Para comenzar, abrimos PyCharm e iniciamos una nueva sesión de trabajo creando un nuevo proyecto. Seleccionamos la opción "Python" como tipo de proyecto y damos un nombre al mismo. Luego, creamos nuestro primer archivo de código, que simplemente imprimirá "¡Bienvenido a Python!" en la consola.
 
-- Comprender el valor de Python para principiantes.
-- Familiarizarse con su sintaxis simple y clara.
+- Comprender el entorno de desarrollo PyCharm.
+- Crear y ejecutar un programa simple en Python.
