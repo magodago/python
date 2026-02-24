@@ -1,11 +1,11 @@
 # Feedback
 
-- Comprender los conceptos básicos de feedback en programación y cómo aplicarlos a proyectos finales.
-- Identificar áreas de mejora y fortalezas en su proyecto final de Python.
+- El estudiante comprenderá cómo solicitar y recibir feedback constructivo sobre su proyecto final de Python.
+- Aprenderá a manejar críticas de manera positiva para mejorar la calidad del código y la funcionalidad del proyecto.
 
-En esta lección sobre feedback, se explorará la importancia del retroalimentación durante el desarrollo de un proyecto. El feedback es una herramienta fundamental para evaluar y mejorar el código y las soluciones propuestas. Aprenderá a solicitar y recibir críticas constructivas, así como a dar feedback a sus compañeros de clase o instructores. Esto no solo ayudará a refinar su propio trabajo, sino que también fortalecerá sus habilidades de comunicación técnica.
+El feedback es una herramienta fundamental en el desarrollo de cualquier proyecto, especialmente en programación. En esta lección, se enfocará en cómo solicitar y recibir feedback constructivo sobre su proyecto final de Python. Es importante recordar que el objetivo principal del feedback no es criticar, sino mejorar. Por lo tanto, al recibir críticas, se debe mantener una actitud abierta y receptiva para aprender y perfeccionar el trabajo.
 
-Para practicar estos conceptos, trabajaremos en un ejercicio donde cada estudiante presentará brevemente su proyecto final y recibirá feedback tanto del instructor como de sus compañeros. Este ejercicio servirá para aplicar los principios aprendidos sobre cómo recibir críticas de manera constructiva y cómo proporcionar retroalimentación valiosa.
+Para practicar esta habilidad, los estudiantes deberán prepararse para una simulación de reunión de retroalimentación con un compañero del curso. Cada estudiante presentará brevemente su proyecto final a su compañero, quien luego proporcionará feedback constructivo basado en criterios como claridad, eficiencia y resolución de problemas. Esta práctica ayudará a los estudiantes a desarrollar la capacidad de recibir críticas de manera efectiva.
 
-- Comprender la importancia del feedback en el desarrollo de proyectos.
-- Practicar técnicas para dar y recibir feedback constructivo.
+- Se aprenderá cómo solicitar feedback de manera efectiva.
+- Se practicará el manejo del feedback recibido para mejorar el proyecto final.
