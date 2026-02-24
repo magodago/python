@@ -1,15 +1,13 @@
 # Nivel avanzado
 
-## Objetivos
-- Comprender la optimización de código mediante técnicas avanzadas.
-- Implementar patrones de diseño y bibliotecas para mejorar la eficiencia del código.
+- Dominar la optimización de código mediante técnicas avanzadas.
+- Aprender a utilizar bibliotecas externas y sus funcionalidades para resolver problemas complejos.
 
-## Contenido
-En esta lección, se profundizará en técnicas avanzadas para optimizar el rendimiento y la eficiencia del código Python. Se explorará cómo utilizar decoradores y métodos metaclasses para crear soluciones más flexibles y reutilizables. Además, se presentarán patrones de diseño como Singleton y Factory Method, que permiten manejar objetos complejos de manera eficiente en aplicaciones de gran escala.
+Python es un lenguaje de programación versátil que ofrece una gran cantidad de bibliotecas y módulos externos que pueden ser utilizados para ampliar su funcionalidad. En esta lección, se explorarán técnicas avanzadas para optimizar el código y mejorar la eficiencia al integrar estas bibliotecas en proyectos. Se discutirá cómo seleccionar las herramientas adecuadas según los requisitos del proyecto y cómo implementarlas de manera efectiva.
 
-## Ejercicio
-Implementa un decorador que mida el tiempo de ejecución de una función y registre los resultados en un archivo. Posteriormente, utiliza este decorador para medir la eficiencia de diferentes algoritmos de ordenación (como burbuja o mergesort) y compara sus tiempos de ejecución.
+Para ilustrar estos conceptos, se trabajará con la biblioteca NumPy, que es fundamental para el procesamiento numérico en Python. Los estudiantes aprenderán a manipular arrays multidimensionales eficientemente, realizar operaciones matemáticas complejas y optimizar el rendimiento del código utilizando técnicas de programación vectorizada.
 
-## Resumen
-- Decoradores y métodos metaclasses para optimización.
-- Uso de patrones de diseño como Singleton y Factory Method.
+Ejercicio: Implementar un programa que genere una matriz 10x10 con números aleatorios entre 0 y 100. Luego, utilizando NumPy, encontrar la suma de todos los elementos en la diagonal principal y calcular el promedio de estos valores. Comparar el tiempo de ejecución del código sin NumPy y con NumPy para entender la importancia de utilizar bibliotecas optimizadas.
+
+- Optimización del código mediante técnicas avanzadas.
+- Uso efectivo de bibliotecas externas como NumPy para mejorar el rendimiento.
