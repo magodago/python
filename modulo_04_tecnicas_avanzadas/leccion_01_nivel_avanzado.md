@@ -1,17 +1,17 @@
 # Nivel avanzado
 
-- Dominar la optimización de código mediante técnicas avanzadas.
-- Implementar y utilizar decoradores personalizados para mejorar la funcionalidad del código.
+### Objetivos
+- Comprender y aplicar técnicas avanzadas de programación orientada a objetos en Python.
+- Implementar y utilizar decoradores para mejorar la funcionalidad de las funciones y métodos.
 
-Python es un lenguaje de programación versátil que permite a los desarrolladores abordar problemas complejos con soluciones elegantes. En este módulo, se profundizará en técnicas avanzadas que permiten optimizar el rendimiento y la eficiencia del código. Se explorará cómo utilizar decoradores personalizados para encapsular funcionalidades comunes, mejorar la legibilidad del código y simplificar la implementación de patrones de diseño.
+### Contenido
+En esta lección, se profundizará en el uso avanzado de Python, centrándose en la programación orientada a objetos (POO) y los decoradores. La POO permite organizar el código de manera más modular y reutilizable, facilitando la creación de sistemas complejos. Se explorarán conceptos como herencia múltiple, polimorfismo y encapsulamiento en profundidad. Además, se analizarán ejemplos prácticos para entender cómo estos principios pueden ser aplicados en proyectos reales.
 
-Por ejemplo, los decoradores son una forma poderosa de modificar o extender las funcionalidades de funciones o métodos sin alterar su estructura original. En Python, se puede crear un decorador personalizado para agregar nuevas características a una función existente, como el control de acceso, la medición del tiempo de ejecución, o la validación de datos.
+Los decoradores son una característica poderosa de Python que permiten modificar el comportamiento de funciones o métodos sin alterar su estructura interna. Se explicará cómo crear y usar decoradores personalizados, así como sus aplicaciones en la validación de datos, manejo de excepciones y loggging.
 
 ### Ejercicio
-
-Crea un decorador llamado `tiempo` que muestre cuánto tiempo tarda en ejecutarse una función. Luego, aplica este decorador a una función que calcule los primeros 20 números de Fibonacci. Observa cómo el resultado se muestra junto con el tiempo de ejecución.
+Escriba un programa que utilice herencia múltiple para crear una clase `Administrador` que herede tanto de `Empleado` como de `Gerente`. La clase `Empleado` debe tener atributos como `nombre`, `edad` y `salario`, mientras que la clase `Gerente` tiene atributos adicionales como `departamento` y `jefes_inmediatos`. Implemente un decorador para verificar si el salario del administrador es mayor a un valor mínimo antes de permitir el acceso a ciertos métodos.
 
 ### Resumen
-
-- Los decoradores son herramientas poderosas para modificar o extender las funcionalidades de funciones.
-- La optimización del código mediante técnicas avanzadas puede mejorar significativamente la eficiencia y legibilidad del software.
+- Se profundiza en la programación orientada a objetos, abordando herencia múltiple y polimorfismo.
+- Se introduce y explora la funcionalidad de los decoradores en Python para mejorar la reutilización del código.
