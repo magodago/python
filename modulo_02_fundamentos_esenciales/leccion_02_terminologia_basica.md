@@ -1,16 +1,18 @@
 # Terminologia basica
 
-Objetivos
-- Comprender y utilizar correctamente los términos básicos de Python.
-- Identificar y explicar la importancia de estos términos en el contexto del lenguaje.
+### Objetivos
+- Comprender y utilizar correctamente los términos básicos de programación en Python.
+- Identificar y explicar las diferencias entre variables, funciones y bucles.
 
-Contenido
-En esta lección, exploraremos algunos de los términos fundamentales que son esenciales para cualquier programador que comienza con Python. Estos términos forman la base sobre la cual se construyen programas complejos y eficientes. Algunos de estos términos incluyen variables, tipos de datos, funciones y control de flujo. Las variables en Python se utilizan para almacenar información que puede cambiar a lo largo del tiempo. Los tipos de datos son categorías predefinidas como enteros, cadenas o flotantes, que permiten al programa entender el tipo de dato con el que está trabajando. Las funciones son bloques de código reutilizables que realizan una tarea específica y pueden recibir parámetros para personalizar su comportamiento. El control de flujo se refiere a la secuencia en la que las instrucciones del programa se ejecutan, incluyendo estructuras como if-else y bucles for/while.
+### Contenido
+En esta lección se presentarán los conceptos fundamentales que todo estudiante debe conocer al comenzar a aprender Python. Comenzaremos definiendo lo que es una **variable** en el contexto de la programación: un contenedor para almacenar datos. En Python, las variables son dinámicas y pueden cambiar su tipo durante la ejecución del programa.
 
-Ejercicio
-Escribe un programa simple utilizando variables, tipos de datos y funciones. Crea una función llamada `calcular_area` que tome dos parámetros: el radio de un círculo (un flotante) y devuelva la área del círculo usando el valor pi como 3.14159. Luego, imprime el resultado para un radio de 7 unidades.
+Además, se introducirán las funciones, que son bloques de código reutilizables diseñados para realizar tareas específicas. Las funciones en Python permiten organizar el código de manera más eficiente y facilitan la modulación del programa. Finalmente, se explicará cómo utilizar **bucles** (for y while) para repetir una serie de instrucciones hasta que se cumpla cierta condición.
 
-Resumen
-- Variables son utilizadas para almacenar datos.
-- Tipos de datos definen qué tipo de información puede contener una variable.
-- Funciones permiten reutilizar código y personalizar su comportamiento con parámetros.
+### Ejercicio
+Escribe un programa en Python que use variables, funciones y bucles para imprimir los números pares del 0 al 20. Primero, define una función llamada `imprimir_pares` que tome como parámetro un número entero y utilice un bucle `for` para iterar desde 0 hasta ese número, imprimiendo solo los números pares.
+
+### Resumen
+- Las variables en Python son contenedores dinámicos para almacenar datos.
+- Las funciones permiten organizar el código de manera modular y reutilizable.
+- Los bucles (for y while) se utilizan para repetir tareas hasta que una condición se cumpla.
