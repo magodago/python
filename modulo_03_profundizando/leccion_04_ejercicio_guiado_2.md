@@ -1,29 +1,22 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizar al estudiante con la manipulación de listas y diccionarios en Python.
-- Desarrollar habilidades para la resolución de problemas a través del uso de bucles anidados.
+- Familiarizar al estudiante con la utilización de listas y diccionarios en Python.
+- Introducir la manipulación de datos estructurados y su procesamiento.
 
 ## Contenido
-En esta lección, profundizaremos en el manejo de estructuras de datos complejas como listas y diccionarios. Veremos cómo combinar estas estructuras con bucles para realizar operaciones más avanzadas. Por ejemplo, podrás aprender a recorrer una lista de diccionarios, manipular los valores dentro de estos y aplicar diferentes operaciones según ciertas condiciones.
+En esta lección, profundizaremos en el manejo de listas y diccionarios, dos estructuras de datos fundamentales en Python. Vamos a explorar cómo crear, modificar y acceder a elementos dentro de estas estructuras. Además, aprenderemos a manipular datos complejos utilizando listas y diccionarios para realizar tareas como la búsqueda, actualización y eliminación de información.
 
-Para ilustrar esto, veremos un caso práctico donde se manejará una base de datos simple de productos en un inventario. Cada producto estará representado por un diccionario con información como el nombre, precio y stock disponible. El objetivo será calcular el valor total del inventario y actualizar el stock según la venta de ciertos productos.
+Por ejemplo, considera un sistema que almacena información sobre libros en una biblioteca. Podríamos representar cada libro con un diccionario que incluya el título, autor, género y año de publicación. Un conjunto de libros podría ser almacenado como una lista de estos diccionarios. A través de ejemplos prácticos, veremos cómo podemos ordenar la lista de libros por autor o año, buscar un libro específico, y actualizar la información de un libro.
 
 ## Ejercicio
-Dado el siguiente código inicial:
+Diseña un sistema simple para gestionar una biblioteca de libros utilizando listas y diccionarios en Python. Cada libro se representará como un diccionario con las claves 'título', 'autor', 'género' y 'año_publicación'. Tu tarea es:
 
-```python
-inventario = [
-    {"nombre": "Camisa", "precio": 50, "stock": 10},
-    {"nombre": "Pantalon", "precio": 80, "stock": 5},
-    {"nombre": "Zapatos", "precio": 120, "stock": 3}
-]
-```
-
-Escribe una función `calcular_valor_total(inventario)` que devuelva el valor total del inventario. Luego, implementa una función `actualizar_stock(inventario, producto_vendido, cantidad_vendida)` que actualice el stock de los productos vendidos.
-
-Finalmente, utiliza estas funciones para calcular el valor total del inventario y actualizar el stock después de vender 2 camisas, 1 pantalón y 3 zapatos.
+1. Crear una lista vacía llamada `biblioteca`.
+2. Agregar al menos 5 libros a la lista.
+3. Implementa una función que permita buscar un libro por título y devuelva el diccionario correspondiente o un mensaje indicando que no se encontró el libro.
+4. Escribe una función para ordenar los libros en la biblioteca por autor.
 
 ## Resumen
-- Se aprendió a manipular listas y diccionarios en Python.
-- Se practicó la resolución de problemas utilizando bucles anidados para recorrer estructuras de datos complejas.
+- Se profundiza en el manejo de listas y diccionarios, estructuras clave en Python.
+- Se aprende a manipular datos complejos y realizar tareas como búsqueda y ordenación.
