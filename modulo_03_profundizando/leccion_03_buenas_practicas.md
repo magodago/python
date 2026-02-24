@@ -1,14 +1,15 @@
 # Buenas practicas
 
-- Comprender y aplicar las convenciones de estilo PEP8 para mejorar la legibilidad del código.
-- Implementar buenas prácticas en la documentación de funciones y clases para facilitar su uso y mantenimiento.
+## Objetivos
+- Comprender y aplicar buenas prácticas de codificación en Python.
+- Familiarizarse con la importancia del estilo claro y consistente en el código.
 
-Python es un lenguaje de programación versátil que permite una gran flexibilidad en el diseño de soluciones, pero también exige un alto nivel de organización y claridad para mantener el código legible y manejable. Las convenciones de estilo PEP8 son una guía fundamental para escribir código Python de alta calidad. Estas convenciones incluyen aspectos como la indentación, la nomenclatura de variables y funciones, la estructura del código, entre otros.
+## Contenido
+La calidad del código no solo depende de su funcionalidad, sino también de su legibilidad y mantenibilidad. Para lograrlo, es crucial seguir ciertas buenas prácticas que promueven un código más limpio y eficiente. En Python, existen varios estándares recomendados, como PEP 8, que proporcionan directrices sobre cómo escribir código Python de manera óptima. Entre las mejores prácticas se encuentran: utilizar nombres descriptivos para variables y funciones, minimizar la complejidad de cada función, evitar anidar demasiadas líneas de código en bucles o condicionales, y usar comentarios solo cuando sean necesarios para explicar algo no obvio.
 
-Para aplicar las mejores prácticas en el desarrollo de software con Python, es crucial documentar claramente cada parte del código. Esto se logra mediante comentarios apropiados y la utilización de docstrings para describir lo que hace una función o clase. Además, es recomendable dividir el código en módulos bien definidos y organizar las funciones según su propósito, lo cual facilita su mantenimiento y reutilización.
+## Ejercicio
+Escribe una pequeña función que calcule el factorial de un número utilizando recursividad. Asegúrate de que tu función sea fácilmente legible y comprensible para otros programadores. Posteriormente, modifica la función para incluir comentarios solo donde sean necesarios y ajusta los nombres de las variables para que sean más descriptivos.
 
-Ejercicio: Implementar una función en Python que calcule la suma de dos números enteros. Documentar esta función siguiendo las convenciones de estilo PEP8, incluyendo un docstring descriptivo y comentarios donde sea necesario para explicar el propósito del código.
-
-Resumen:
-- Aplicar las convenciones de estilo PEP8 para mejorar la legibilidad.
-- Utilizar docstrings y comentarios para documentar claramente cada parte del código.
+## Resumen
+- El estilo claro y consistente es crucial en el desarrollo de código Python.
+- Seguir estándares como PEP 8 mejora significativamente la legibilidad del código.
