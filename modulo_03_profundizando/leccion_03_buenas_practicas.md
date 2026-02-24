@@ -1,31 +1,17 @@
 # Buenas practicas
 
 ## Objetivos
-- Comprender y aplicar las mejores prácticas para la escritura de código Python.
-- Identificar y corregir errores comunes basados en buenas prácticas.
+- Comprender y aplicar las mejores prácticas de codificación en Python.
+- Familiarizarse con la importancia del estilo uniforme en proyectos de código.
 
 ## Contenido
-Las buenas prácticas son fundamentales para escribir código Python limpio, eficiente y fácil de mantener. Algunas de estas prácticas incluyen el uso de nombres descriptivos para variables y funciones, la documentación adecuada con comentarios y docstrings, y la correcta indentación y estructura del código. Además, es crucial utilizar las bibliotecas y módulos estándar de Python de manera eficiente, evitando redundancias y optimizando el rendimiento.
+En esta lección, profundizaremos en las buenas prácticas para escribir código Python eficiente y legible. Una práctica crucial es seguir el PEP 8, una guía de estilo que promueve un código consistente y fácil de leer. Esto incluye aspectos como la indentación uniforme (4 espacios por nivel), la nomenclatura de variables y funciones (snake_case para nombres de variables y funciones), y la separación de módulos en bloques lógicos con comentarios descriptivos.
 
-Un aspecto importante son los estándares de estilo PEP 8, que proporcionan guías detalladas sobre cómo formatear el código para mejorar su legibilidad. Algunos puntos clave incluyen la longitud máxima de las líneas (79 caracteres), la utilización del doble espacio después de comas y paréntesis, y la preferencia por el uso de `snake_case` para nombres de variables y funciones.
+Además, es importante manejar excepciones de manera adecuada. En lugar de capturar excepciones generales sin manejo, se recomienda especificar las excepciones que se esperan y tratarlas de forma apropiada para evitar errores silenciosos. Esto mejora la robustez del código y facilita el depuración.
 
 ## Ejercicio
-Revisa el siguiente código y aplica las mejores prácticas descritas en esta lección:
-
-```python
-def calcular_promedio(numeros):
-    suma = 0
-    for n in numeros:
-        suma += n
-    promedio = suma / len(numeros)
-    return promedio
-
-numeros = [1, 2, 3, 4, 5]
-print("El promedio es:", calcular_promedio(numeros))
-```
-
-Corrige los errores y mejora el código siguiendo las recomendaciones de PEP 8.
+Escribe una función en Python que calcule el promedio de una lista de números, utilizando un manejo adecuado de excepciones para casos donde la lista esté vacía o contenga elementos no numéricos. Asegúrate de que tu código cumpla con las recomendaciones del PEP 8.
 
 ## Resumen
-- Aplicar PEP 8 para mejorar la legibilidad del código.
-- Utilizar nombres descriptivos y comentarios para documentar claramente el código.
+- Sigue el PEP 8 para mantener un estilo uniforme en el código.
+- Maneja excepciones específicas y documenta adecuadamente los errores.
