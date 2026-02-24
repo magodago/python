@@ -1,15 +1,15 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los aspectos clave del diseño de proyectos en Python.
-- Identificar y aplicar un proceso de planificación para la implementación de soluciones con Python.
+- Comprender los pasos iniciales para diseñar un proyecto de Python.
+- Identificar y definir las necesidades del proyecto.
 
 Contenido
-El diseño de proyectos es una etapa crucial antes de comenzar a codificar. En esta lección, aprenderás cómo estructurar tu proyecto desde el principio hasta asegurarte de que cada componente funcione en armonía. El proceso comienza con la definición clara del problema o requisitos del proyecto, seguido por la creación de un esquema general y los detalles específicos de la implementación. Es importante considerar la modularidad del código desde el inicio para facilitar su mantenimiento y escalabilidad en el futuro.
+El diseño inicial de un proyecto en Python es crucial para asegurar que el desarrollo se realice de manera efectiva y eficiente. En esta lección, aprenderás a identificar claramente los requisitos del proyecto y a establecer una estructura básica que permita su implementación. Se recomienda realizar una investigación exhaustiva sobre el problema o la tarea que se desea resolver con Python, definir los objetivos específicos y las funcionalidades necesarias. Además, es importante planificar cómo se organizará el código en módulos y archivos para facilitar su mantenimiento y actualización.
 
 Ejercicio
-Diseña un pequeño sistema que permita a los usuarios registrar, modificar y eliminar libros de una biblioteca. Define los requisitos funcionales básicos (como agregar títulos, autores y fechas de publicación) y no funcionales (como la interfaz de usuario). Luego, crea un esquema básico del proyecto en forma de diagrama o flujo de trabajo.
+Diseña un proyecto de Python que permita a los usuarios calcular la energía potencial de un objeto en función de su masa y altura. Identifica las necesidades del proyecto, define los requisitos técnicos (como el uso de librerías matemáticas) y esquematiza cómo se organizará el código en módulos.
 
 Resumen
-- Identificar claramente los requisitos y objetivos del proyecto.
-- Crear un plan detallado que incluya el diseño modular del código.
+- Identificar claramente las necesidades y objetivos del proyecto.
+- Planificar la estructura del código para su mantenimiento.
