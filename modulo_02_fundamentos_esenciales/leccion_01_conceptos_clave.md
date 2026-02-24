@@ -1,29 +1,18 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos fundamentales de Python que son esenciales para cualquier programador.
-- Familiarizarse con la sintaxis básica y la estructura de un programa en Python.
+- Comprender los conceptos fundamentales de Python.
+- Aprender a escribir y ejecutar programas básicos en Python.
 
 ## Contenido
-En esta lección, se explorarán los conceptos clave necesarios para comenzar a programar en Python. Se introducirá la sintaxis básica del lenguaje, incluyendo cómo escribir comentarios, declaraciones de variables y tipos de datos primitivos como enteros, flotantes y cadenas. Además, se explicará cómo estructurar un programa básico utilizando sentencias condicionales y bucles simples.
+Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis clara y concisa lo hace ideal para principiantes. Los fundamentos esenciales incluyen conocer los tipos de datos básicos como enteros, cadenas y flotantes, así como entender cómo se estructuran las variables y sus operaciones. Python utiliza indentación para delimitar bloques de código, distinguiéndose de otros lenguajes que usan llaves o palabras clave.
 
-Los conceptos se presentarán a través de ejemplos prácticos que ilustran su uso en contextos reales, permitiendo al estudiante comprender no solo cómo escribir código, sino también por qué se escribe de esa manera.
+Además, es importante familiarizarse con las estructuras básicas de control de flujo como las sentencias `if`, `else` y `elif` para realizar decisiones en el programa, así como los bucles `for` y `while` para iterar sobre secuencias y ejecutar código repetidamente. Estas herramientas son esenciales para resolver problemas complejos de manera modular y eficiente.
 
 ## Ejercicio
-Escribe un programa simple en Python que solicite al usuario su nombre y edad. El programa debe imprimir una frase personalizada que indique el nombre del usuario y cuántos días han pasado desde que nació hasta hoy (asumiendo 365 días por año).
-
-```python
-# Solicita al usuario que ingrese su nombre y edad
-nombre = input("Por favor, introduce tu nombre: ")
-edad = int(input("Ahora introduce tu edad: "))
-
-# Calcula el número de días desde la fecha de nacimiento hasta hoy
-dias_vividos = edad * 365
-
-# Imprime una frase personalizada
-print(f"Hola {nombre}, has vivido aproximadamente {dias_vividos} días.")
-```
+Escribe un programa que solicite al usuario su nombre y edad, luego imprima un mensaje que diga "Hola [nombre], en 10 años tendrás [edad + 10] años".
 
 ## Resumen
-- Se presentaron los conceptos fundamentales de Python, incluyendo sintaxis básica y tipos de datos.
-- Se ilustró cómo estructurar un programa básico utilizando entradas del usuario y cálculos simples.
+- Python es un lenguaje de alto nivel con sintaxis clara.
+- Los tipos de datos básicos son fundamentales para cualquier programa.
+- Las estructuras de control de flujo permiten la toma de decisiones y la iteración en el código.
