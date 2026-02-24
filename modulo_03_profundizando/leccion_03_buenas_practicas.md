@@ -1,11 +1,11 @@
 # Buenas practicas
 
-- Comprender y aplicar las convenciones de nomenclatura para variables y funciones.
-- Implementar buenas prácticas de documentación y comentarios en el código.
+- Comprender y aplicar las buenas prácticas de codificación para mejorar la legibilidad y mantenibilidad del código.
+- Familiarizarse con PEP 8, la guía oficial de estilo de Python, y su importancia en el desarrollo profesional.
 
-En esta lección profundizaremos en las mejores prácticas para escribir código Python, enfocándonos en la claridad y mantenibilidad del código. Es crucial que los nombres de variables y funciones sean descriptivos y sigan una convención coherente, lo cual facilita su comprensión y mantenimiento por otros desarrolladores o incluso por uno mismo en el futuro. Además, aprenderemos a documentar eficazmente nuestro código mediante comentarios y la utilización de docstrings, lo que permite entender rápidamente qué hace cada función o módulo.
+En esta lección profundizaremos en las buenas prácticas que todo programador debe seguir al escribir código en Python. La claridad y la legibilidad son fundamentales para que otros desarrolladores puedan entender fácilmente tu código, lo que facilita tanto la colaboración como la resolución de problemas futuros. Una de las guías más reconocidas es PEP 8, que proporciona una serie de recomendaciones sobre cómo escribir código en Python. Entre sus puntos clave se encuentran el uso adecuado del espacio y los comentarios, la nomenclatura de variables y funciones, y la estructura general del código.
 
-Para practicar estos conceptos, los estudiantes deberán refactorizar un código existente. Se les proporcionará una función que calcula el área de un círculo, pero con nombres de variables poco descriptivos y sin documentación. Los alumnos deberán renombrar las variables, agregar comentarios explicativos y mejorar la docstring para describir lo que hace la función.
+Como ejercicio práctico, te pedimos que tomes un fragmento de código que hayas escrito anteriormente o que sea proporcionado por el profesor, e intentes reformularlo siguiendo las recomendaciones de PEP 8. Observa cómo se mejora la claridad y la legibilidad del código al aplicar estas buenas prácticas.
 
-- Aplicar convenciones de nomenclatura en Python.
-- Mejorar la documentación del código mediante el uso de comentarios y docstrings.
+- Familiarizarse con PEP 8.
+- Mejorar la legibilidad y mantenibilidad del código mediante el cumplimiento de estándares de estilo.
