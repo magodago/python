@@ -1,20 +1,16 @@
 # Terminologia basica
 
 Objetivos
-- Comprender y utilizar correctamente la terminología básica de Python.
-- Identificar y explicar los elementos fundamentales del lenguaje.
+- Comprender y utilizar correctamente los términos básicos de Python.
+- Identificar y explicar la importancia de estos términos en el contexto del lenguaje.
 
 Contenido
-La terminología básica es crucial para cualquier programador que se inicie en Python. En este módulo, aprenderemos sobre variables, tipos de datos, operadores y estructuras de control básicas. Las variables son contenedores donde almacenamos información, los tipos de datos definen el tipo específico de dato (como números o cadenas) que una variable puede albergar, y los operadores permiten realizar operaciones entre valores. La comprensión de estas conceptos es esencial para escribir código eficiente y legible.
+En esta lección, exploraremos algunos de los términos fundamentales que son esenciales para cualquier programador que comienza con Python. Estos términos forman la base sobre la cual se construyen programas complejos y eficientes. Algunos de estos términos incluyen variables, tipos de datos, funciones y control de flujo. Las variables en Python se utilizan para almacenar información que puede cambiar a lo largo del tiempo. Los tipos de datos son categorías predefinidas como enteros, cadenas o flotantes, que permiten al programa entender el tipo de dato con el que está trabajando. Las funciones son bloques de código reutilizables que realizan una tarea específica y pueden recibir parámetros para personalizar su comportamiento. El control de flujo se refiere a la secuencia en la que las instrucciones del programa se ejecutan, incluyendo estructuras como if-else y bucles for/while.
 
 Ejercicio
-Crea un programa simple en Python que realice las siguientes tareas:
-1. Almacena el nombre del usuario en una variable llamada `nombre`.
-2. Imprime "¡Bienvenido [nombre]!".
-3. Crea una variable para almacenar la edad del usuario y otra para su altura (en metros).
-4. Utiliza operadores aritméticos básicos para calcular y mostrar el promedio de la edad y la altura.
+Escribe un programa simple utilizando variables, tipos de datos y funciones. Crea una función llamada `calcular_area` que tome dos parámetros: el radio de un círculo (un flotante) y devuelva la área del círculo usando el valor pi como 3.14159. Luego, imprime el resultado para un radio de 7 unidades.
 
 Resumen
-- Variables: contenedores que almacenan información.
-- Tipos de datos: categorías que definen qué tipo de valor puede almacenar una variable (int, float, str).
-- Operadores: símbolos utilizados para realizar operaciones matemáticas o lógicas.
+- Variables son utilizadas para almacenar datos.
+- Tipos de datos definen qué tipo de información puede contener una variable.
+- Funciones permiten reutilizar código y personalizar su comportamiento con parámetros.
