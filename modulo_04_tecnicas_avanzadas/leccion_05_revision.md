@@ -1,58 +1,15 @@
 # Revision
 
-## Objetivos
-- Comprender y aplicar técnicas avanzadas de programación en Python.
-- Analizar y optimizar código existente utilizando patrones de diseño.
+### Objetivos
+- Consolidar el conocimiento sobre técnicas avanzadas de programación con Python.
+- Aprender a utilizar patrones de diseño y librerías para mejorar la eficiencia del código.
 
-## Contenido
-En esta lección de tecnicas avanzadas, revisaremos el uso de decoradores y métodos de clase en Python. Los decoradores son una técnica poderosa que permite modificar o extender las funcionalidades de funciones o métodos sin alterar su estructura original. Por ejemplo, podemos usarlos para agregar funcionalidades como loggin, validación de entrada o cálculo de tiempo de ejecución.
+### Contenido
+En esta lección, se revisará el uso de patrones de diseño como Singleton y Factory Method en Python. Estos patrones permiten estructurar el código de manera más modular y flexible, facilitando la mantenibilidad y reutilización. Además, se explorarán librerías avanzadas como NumPy para operaciones matemáticas intensivas y Pandas para manipulación de datos, destacando sus características principales y ejemplos prácticos.
 
-Los métodos de clase permiten definir métodos que operan sobre la clase en sí misma, en lugar de instancias de la clase. Esto es útil cuando necesitamos acceder a atributos estáticos o realizar acciones que no requieren una instancia específica del objeto. Por ejemplo, podemos usarlos para inicializar datos compartidos entre todas las instancias de una clase.
+### Ejercicio
+Implemente un patrón Singleton en Python para una clase `Config` que gestione la configuración del sistema. Luego, utilice Pandas para cargar un archivo CSV y realizar una operación simple como el cálculo de la media de una columna numérica.
 
-## Ejercicio
-Reescribe el siguiente código utilizando un decorador y métodos de clase:
-
-```python
-class Calculadora:
-    def __init__(self):
-        self.resultado = 0
-
-    def suma(self, a, b):
-        self.resultado += a + b
-        return self.resultado
-
-# Reescrito con decorador
-def loggin(func):
-    import logging
-    logging.basicConfig(level=logging.INFO)
-
-    def wrapper(*args, **kwargs):
-        logging.info(f"Llamada a {func.__name__}({', '.join(map(str, args))})")
-        resultado = func(*args, **kwargs)
-        logging.info(f"Resultado: {resultado}")
-        return resultado
-
-    return wrapper
-
-@loggin
-def suma(a, b):
-    return a + b
-
-# Reescrito con método de clase
-class Calculadora2:
-    @classmethod
-    def inicializar(cls):
-        cls.resultado = 0
-
-    def __call__(self, a, b):
-        self.inicializar()
-        self.resultado += a + b
-        return self.resultado
-
-calculadora = Calculadora2()
-print(calculadora(5, 3))
-```
-
-## Resumen
-- Los decoradores permiten extender funcionalidades de funciones o métodos.
-- Los métodos de clase operan sobre la clase en sí y no requieren una instancia.
+### Resumen
+- Se profundizará en patrones de diseño y su implementación en Python.
+- Se explorarán librerías avanzadas como NumPy y Pandas con ejemplos prácticos.
