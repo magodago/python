@@ -1,18 +1,22 @@
 # Enunciado del proyecto
 
-Objetivos
-- Entender la estructura y requisitos del proyecto final.
-- Desarrollar habilidades para planificar y abordar un proyecto de desarrollo de software.
+## Objetivos
+- Comprender los requisitos y expectativas del proyecto final de Python.
+- Desarrollar una propuesta inicial para el proyecto que incluya la elección de un tema y objetivos específicos.
 
-Contenido
-El enunciado del proyecto final se centra en la creación de una aplicación web simple utilizando Python y Flask. Los estudiantes deben diseñar, implementar y documentar una aplicación que resuelva un problema real o cumpla con una necesidad específica identificada por ellos. La aplicación debe incluir al menos una funcionalidad interactiva, manejo básico de errores y un diseño de interfaz de usuario simple pero efectivo.
+## Contenido
+Para este módulo, se presentará el enunciado detallado del proyecto final. El objetivo es que los estudiantes apliquen sus habilidades en Python a un problema real o un desafío interesante. Los temas pueden variar desde la creación de una aplicación web con Flask hasta el análisis de datos con Pandas y Matplotlib, pasando por la implementación de algoritmos de inteligencia artificial. Es importante que los estudiantes seleccionen un proyecto que les apasione para motivarse durante el desarrollo del mismo.
 
-Para la implementación, los estudiantes deben utilizar Flask para el framework web y considerar la integración con bases de datos utilizando SQLAlchemy o SQLite. El proyecto también requerirá que los estudiantes realicen pruebas unitarias y documenten su código de manera clara y concisa.
+Se recomienda a los estudiantes que trabajen en equipos pequeños o individualmente, según la naturaleza del proyecto elegido. Cada proyecto debe incluir una descripción clara de lo que se pretende lograr, las tecnologías y bibliotecas Python que se utilizarán, y un cronograma de trabajo con entregables intermedios.
 
-Ejercicio
-Diseña un esquema básico para una aplicación de gestión de tareas personales. La aplicación debe permitir a los usuarios registrar, listar y eliminar tareas pendientes. Cada tarea debe tener un título, una descripción breve y una fecha límite. Documenta cómo planeas implementar esta aplicación, incluyendo la estructura del código, el diseño de la base de datos y las pruebas que realizarás.
+## Ejercicio
+El estudiante deberá seleccionar un tema para el proyecto final y justificar su elección. Deben presentar una propuesta inicial que incluya:
 
-Resumen
-- El proyecto final requiere la creación de una aplicación web simple con Flask.
-- Incluye funcionalidades interactivas, manejo de errores y documentación clara.
-- Diseña un esquema para una aplicación de gestión de tareas personal.
+- Título del proyecto.
+- Breve descripción del problema o desafío a resolver.
+- Tecnologías y bibliotecas Python planificadas para el desarrollo.
+- Objetivos específicos que se pretenden alcanzar con el proyecto.
+
+## Resumen
+- Seleccionar un tema interesante y relevante para el proyecto final.
+- Justificar la elección del tema basándose en los conocimientos adquiridos durante el curso.
