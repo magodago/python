@@ -1,14 +1,17 @@
 # Problemas frecuentes
 
-## Contenido
-En esta lección abordaremos algunos de los problemas más frecuentes que se pueden encontrar al trabajar con Python y cómo resolverlos. Uno de los problemas comunes es la lenta ejecución del código, especialmente en aplicaciones intensivas en CPU o I/O. Para mejorar el rendimiento, es crucial comprender la diferencia entre operaciones internas rápidas y lentas, como las listas y tuplas, respectivamente. Otra frecuente dificultad es la gestión de errores y excepciones, lo que puede resultar en programas que se comporten inesperadamente o incluso caigan.
+## Objetivos
+- Identificar y solucionar problemas comunes en la ejecución de programas Python.
+- Analizar y optimizar el rendimiento de scripts para mejorar su eficiencia.
 
-Para mejorar el rendimiento, podríamos utilizar técnicas como la optimización del código utilizando comprensiones de lista, funciones recursivas eficientes, y la utilización de librerías como NumPy para operaciones matemáticas intensivas. Además, es importante identificar y corregir errores temprano en el desarrollo, ya que pueden ser difíciles de detectar y arreglar una vez que el código se vuelve complejo.
+## Contenido
+En esta lección, abordaremos varios problemas frecuentes que pueden surgir durante la programación con Python. Entre los temas a tratar se encuentran errores comunes como `NameError`, `TypeError` y `SyntaxError`. Se explicará cómo identificar estos errores mediante el uso de la consola de depuración de Python, así como cómo corregirlos. Además, se discutirá la importancia del manejo adecuado de excepciones para evitar interrupciones inesperadas en la ejecución del programa.
+
+Además, se explorará cómo optimizar el rendimiento de los scripts utilizando técnicas como la minimización del uso innecesario de bucles y listas, así como la utilización eficiente de funciones y módulos predefinidos. Se proporcionarán ejemplos prácticos para demostrar cómo estas mejoras pueden traducirse en un aumento significativo de la velocidad de ejecución.
 
 ## Ejercicio
-Implementa un programa que calcule la suma de los primeros 1000 números pares utilizando listas y luego con comprensiones de lista. Mide el tiempo de ejecución para ambas implementaciones e indica cuál es más eficiente. Explora también cómo podría ser este cálculo usando NumPy.
+Implementa una función que calcule el factorial de un número utilizando recursividad. Luego, modifica tu código para manejar posibles `RecursionError` y `ValueError`. Finalmente, compara el tiempo de ejecución antes y después de optimizar tu función utilizando la biblioteca `time`.
 
 ## Resumen
-- Se identifican problemas comunes en Python, como la lenta ejecución y la gestión de errores.
-- Se presentan técnicas para optimizar el rendimiento del código, incluyendo el uso de comprensiones de lista y librerías como NumPy.
-- Se enfatiza la importancia de detectar y corregir errores temprano en el desarrollo.
+- Identificación y corrección de errores comunes en Python.
+- Optimización del rendimiento a través de técnicas de programación eficiente.
