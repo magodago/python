@@ -1,17 +1,18 @@
 # Optimizacion
 
 ### Objetivos
-- Comprender los conceptos básicos de optimización en Python.
-- Aprender a utilizar técnicas de optimización para mejorar el rendimiento del código.
+- Comprender y aplicar técnicas de optimización para mejorar la eficiencia del código Python.
+- Implementar algoritmos de optimización en proyectos prácticos.
 
 ### Contenido
-La optimización es crucial para mejorar la eficiencia y velocidad del código escrito en Python. Un programa bien optimizado no solo ejecuta más rápido, sino que también consume menos recursos del sistema. Para lograr esto, se pueden aplicar varias técnicas, como el uso de listas comprensivas en lugar de bucles for anidados, la implementación de algoritmos eficientes y la utilización de bibliotecas especializadas. Además, es importante considerar la selección adecuada del tipo de dato para variables y objetos, ya que esto puede tener un impacto significativo en el rendimiento.
+La optimización en Python es crucial para manejar grandes volúmenes de datos o realizar cálculos intensivos sin caer en el rendimiento limitado. Un aspecto fundamental es la comprensión del uso eficiente de las estructuras de datos y las funciones. Por ejemplo, al trabajar con listas, se puede preferir el uso de `numpy` arrays para operaciones matemáticas, ya que estos son más rápidos debido a su implementación en C y su capacidad para realizar operaciones vectorizadas. Además, la minimización del uso innecesario de bucles for y la aplicación de funciones puras pueden mejorar significativamente el rendimiento.
 
-Una técnica fundamental es la minimización del uso innecesario de bucles. Por ejemplo, en lugar de iterar a través de una lista múltiples veces, se puede utilizar listas comprensivas o funciones integradas para realizar cálculos más eficientemente. Además, el uso adecuado de la memoria y la gestión de recursos también son aspectos cruciales para optimizar el código.
+Para ilustrar esto, se puede explorar el uso de `map()`, `filter()` y comprensiones de lista en lugar de bucles tradicionales. Estos métodos no solo son más concisos sino que también suelen ser más rápidos debido a su implementación interna optimizada.
 
 ### Ejercicio
-Escribe un programa que calcule los primeros 100 números de Fibonacci utilizando una lista comprensión en lugar de recursividad o bucles anidados. Compara el tiempo de ejecución con una implementación tradicional y explica los beneficios de tu solución optimizada.
+Escribe un programa que calcule la suma de los primeros 10,000 números pares utilizando `numpy` arrays y comprensiones de lista. Compara el tiempo de ejecución y la eficiencia de ambos métodos.
 
 ### Resumen
-- La optimización en Python mejora la eficiencia y velocidad del código.
-- Se pueden utilizar técnicas como listas comprensivas y algoritmos eficientes para mejorar el rendimiento.
+- Se aprendió a utilizar `numpy` arrays para operaciones matemáticas intensivas.
+- Se exploró cómo las funciones puras y estructuras de datos alternativas pueden mejorar la eficiencia del código.
+- Se realizó un ejercicio práctico para comparar diferentes enfoques de programación.
