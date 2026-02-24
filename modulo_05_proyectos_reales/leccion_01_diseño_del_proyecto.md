@@ -1,16 +1,15 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y definir claramente las necesidades del cliente o problema a resolver.
+- Comprender los pasos fundamentales para diseñar un proyecto Python.
+- Identificar y planificar las necesidades técnicas y funcionales del proyecto.
 
 Contenido
-El diseño de un proyecto en Python es crucial para garantizar que el código final sea eficiente, funcional y fácil de mantener. En esta lección, aprenderás cómo identificar las necesidades del cliente o del problema que se desea resolver. Para hacer esto, debes seguir estos pasos: 1) Reunión inicial con el cliente para entender sus requisitos; 2) Definición clara del problema a resolver; 3) Establecimiento de objetivos y metas específicos; 4) Creación de un flujo de trabajo o diagrama de flujo para visualizar los pasos necesarios. Estos pasos te ayudarán a estructurar tu proyecto desde el principio, lo que facilitará la programación posterior.
+En esta lección de Diseño del Proyecto, se abordará el proceso inicial necesario para desarrollar cualquier proyecto en Python. El primer paso es definir claramente los objetivos del proyecto, identificando tanto las necesidades técnicas como las funcionales. Esto implica comprender cuáles son los requisitos específicos que debe cumplir la aplicación o sistema, así como el entorno en el que se va a ejecutar. El segundo paso es crear un diseño arquitectónico básico, delineando cómo se organizarán los diferentes componentes del proyecto y cómo interactuarán entre sí. Este diseño debe ser flexible para permitir futuras modificaciones y escalabilidad.
 
 Ejercicio
-Diseña un proyecto simple en Python: una aplicación que permita a los usuarios gestionar tareas pendientes. Define las necesidades del usuario y crea un flujo de trabajo básico para este proyecto. Describe cómo se interaccionaría con la aplicación (por ejemplo, añadir, eliminar o listar tareas).
+Diseña un proyecto de aplicación web en Python que responda a las necesidades técnicas y funcionales siguientes: el usuario debe poder registrarse, iniciar sesión y acceder a una sección privada con información personal. Identifica los componentes principales del diseño arquitectónico (como la capa de presentación, lógica de negocio y persistencia) y propón cómo podrían interactuar entre sí.
 
 Resumen
-- Identificar claramente las necesidades del cliente o problema es fundamental.
-- El diseño inicial ayuda a estructurar el proyecto desde el principio.
-- Crear un flujo de trabajo visual facilita la comprensión y planificación del proyecto.
+- Definir claramente objetivos y requisitos técnicos y funcionales.
+- Crear un diseño arquitectónico básico para organizar los componentes del proyecto.
