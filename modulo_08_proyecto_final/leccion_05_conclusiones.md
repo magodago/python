@@ -1,11 +1,22 @@
 # Conclusiones
 
-- Conocer las aplicaciones prácticas de Python y cómo se pueden implementar en proyectos reales.
-- Analizar la estructura y funcionalidades del proyecto final desarrollado durante el curso.
+Objetivos
+- Concluirla reflexión sobre los avances y aprendizajes adquiridos durante el curso de Python.
+- Evaluar la capacidad del estudiante para aplicar conocimientos prácticos en proyectos.
 
-Después de completar el proyecto final, es crucial reflexionar sobre lo aprendido. En esta lección, se explorará las conclusiones generadas a partir del desarrollo del proyecto, identificando los aspectos técnicos y conceptuales que se han mejorado o necesitan fortalecimiento. Se discutirá también cómo Python puede ser utilizado en diversas aplicaciones reales, desde el análisis de datos hasta la creación de interfaces gráficas de usuario, pasando por la automatización de tareas.
+Contenido
+En esta lección final, se invita a los estudiantes a revisitar sus trabajos y proyectos realizados durante el curso. Se les pide que reflexionen sobre cómo han evolucionado desde el inicio hasta ahora, identificando los conceptos de Python más importantes que han aprendido y cómo estos se aplican en la resolución de problemas prácticos. Se espera que los estudiantes analicen sus propios logros y áreas donde pueden mejorar su dominio del lenguaje.
 
-Para practicar estos conceptos, los estudiantes deberán presentar un informe que incluya una evaluación del proyecto final. El informe debe abordar aspectos como las herramientas y librerías utilizadas, los desafíos enfrentados durante el desarrollo y cómo se resolvieron, así como las lecciones aprendidas sobre la aplicación práctica de Python.
+Se recomienda a los estudiantes revisar el código de sus proyectos iniciales y finales, identificando las mejoras realizadas y las técnicas nuevas que han incorporado. Este análisis permitirá una comprensión más profunda de la utilidad práctica de Python en diversas aplicaciones informáticas.
 
-- Comprender las aplicaciones prácticas de Python.
-- Reflexionar sobre los avances y áreas de mejora en el proyecto final.
+Ejercicio
+El estudiante debe seleccionar un proyecto realizado durante el curso y realizar una revisión detallada del mismo, identificando los siguientes elementos:
+- Conceptos clave de Python utilizados.
+- Mejoras realizadas desde la versión inicial hasta la final.
+- Desafíos enfrentados y cómo se superaron.
+- Conclusión sobre el aprendizaje adquirido a través de este proyecto.
+
+Resumen
+- Los estudiantes deben reflexionar sobre su progreso durante el curso.
+- Se espera que identifiquen los conceptos clave de Python aplicados en proyectos prácticos.
+- El análisis del propio trabajo permitirá una comprensión más profunda y la identificación de áreas para mejorar.
