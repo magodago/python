@@ -1,18 +1,15 @@
 # Implementacion paso a paso
 
-### Objetivos
-- Implementar un proyecto real utilizando Python que permita a los estudiantes aplicar sus conocimientos sobre programación orientada a objetos.
-- Desarrollar habilidades prácticas en la integración de diferentes módulos y paquetes de Python para resolver problemas complejos.
+## Objetivos
+- Implementar un proyecto real utilizando Python que permita a los estudiantes aplicar conocimientos sobre estructuras de datos y algoritmos.
+- Desarrollar habilidades prácticas en la resolución de problemas complejos mediante el uso de programación orientada a objetos.
 
-### Contenido
-En esta lección, se continuará con el desarrollo del proyecto real que ha sido iniciado en las sesiones anteriores. Los estudiantes deberán implementar una aplicación simple de gestión de tareas utilizando clases y objetos. La aplicación permitirá al usuario crear, editar, eliminar y listar tareas pendientes. Se enfatizará la importancia de seguir un diseño modular y la utilización de paquetes externos para manejar archivos y fechas.
+## Contenido
+En esta lección, se profundizará en cómo implementar un proyecto real utilizando Python. Se comenzará por seleccionar un problema que requiera del uso de estructuras de datos y algoritmos, como la optimización de rutas para una empresa de entrega. Los estudiantes aprenderán a modelar el problema, diseñar la arquitectura del programa y escribir código eficiente. Se enfatizará la importancia de la modularidad en el diseño de software y cómo Python facilita esta práctica.
 
-Se explicará cómo estructurar el proyecto en diferentes módulos, cada uno con responsabilidades específicas (por ejemplo, un módulo para la lógica de negocio, otro para la interfaz de usuario). Se discutirá también cómo importar y utilizar paquetes como `datetime` y `json` para manipular fechas y guardar tareas en archivos locales.
+## Ejercicio
+Implemente un programa que use una estructura de datos adecuada para optimizar las rutas de entrega de una empresa, considerando los tiempos de viaje entre diferentes ubicaciones. El programa debe permitir agregar nuevas ubicaciones y calcular el mejor orden de entrega basado en la distancia total estimada.
 
-### Ejercicio
-Implemente una clase `Tarea` que tenga los atributos `id`, `descripcion` y `fecha`. Luego, cree un módulo separado donde implemente funciones para crear, editar, listar y eliminar tareas. Utilice el paquete `json` para guardar la lista de tareas en un archivo local.
-
-### Resumen
-- Se profundizará en la aplicación práctica de programación orientada a objetos.
-- Los estudiantes aprenderán cómo organizar su código en módulos y paquetes.
-- Se practicará la utilización de paquetes externos para mejorar el funcionamiento del proyecto.
+## Resumen
+- Seleccionar un problema real que requiera del uso de estructuras de datos y algoritmos.
+- Diseñar y implementar un programa eficiente utilizando Python, enfatizando en la modularidad y la resolución de problemas complejos.
