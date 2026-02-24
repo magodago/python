@@ -1,30 +1,18 @@
 # Revision
 
 ## Objetivos
-- Comprender y aplicar técnicas avanzadas de programación con Python.
-- Analizar y optimizar código existente utilizando patrones de diseño.
+- Comprender y aplicar técnicas avanzadas de programación para mejorar la eficiencia del código.
+- Familiarizarse con la optimización de algoritmos en Python.
 
 ## Contenido
-En esta lección revisaremos técnicas avanzadas en Python, enfocándonos en la optimización del código y el uso efectivo de patrones de diseño. Veremos cómo mejorar el rendimiento y la legibilidad del código a través de la utilización de decoradores, métodos de clase estáticos y propiedades de clase. Además, exploraremos cómo implementar patrones de diseño como Singleton y Factory para resolver problemas comunes en la programación orientada a objetos.
+En esta lección, revisaremos técnicas avanzadas que permiten optimizar el rendimiento de los programas escritos en Python. Es crucial entender que no todos los problemas requieren soluciones complejas; a menudo, una solución simple y eficiente es la mejor opción. Sin embargo, para situaciones donde necesitamos mejorar el tiempo de ejecución o la eficiencia del espacio, existen varias técnicas efectivas.
+
+Una de estas técnicas es la utilización de estructuras de datos adecuadas. Por ejemplo, en operaciones que involucran búsqueda y acceso frecuente, las estructuras de datos como conjuntos (sets) y diccionarios (dictionaries) pueden ser más eficientes que listas (lists). Además, se explorará el uso de decoradores para mejorar la legibilidad del código y encapsular funcionalidades comunes.
 
 ## Ejercicio
-Dado el siguiente código:
-
-```python
-class Persona:
-    def __init__(self, nombre):
-        self.nombre = nombre
-
-def saludar(persona):
-    return f"Hola, {persona.nombre}"
-
-personas = [Persona("Juan"), Persona("María"), Persona("Pedro")]
-
-# Implemente una función que utilice un decorador para contar cuántas veces se llama a la función `saludar`.
-```
-
-Implemente el código necesario para cumplir con este requisito y luego optimice la función `saludar` utilizando métodos de clase estáticos o propiedades de clase.
+Implementa una función que busque un elemento en una lista utilizando dos métodos: una búsqueda lineal y una búsqueda con un conjunto. Mide y compara el tiempo de ejecución de ambas funciones para listas de diferentes tamaños. Explica tus resultados y discute cuándo sería más apropiado usar cada método.
 
 ## Resumen
-- Se revisaron técnicas avanzadas como decoradores, métodos de clase estáticos y propiedades de clase.
-- Se exploró cómo implementar patrones de diseño para mejorar el código.
+- Se revisan técnicas avanzadas para optimizar la eficiencia del código en Python.
+- Se enfatiza la importancia de elegir las estructuras de datos adecuadas según el problema.
+- Se practica la implementación y comparación de diferentes métodos de búsqueda.
