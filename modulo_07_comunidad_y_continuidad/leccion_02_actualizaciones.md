@@ -1,17 +1,11 @@
 # Actualizaciones
 
-- Comprender las razones por las que se realizan actualizaciones en Python.
-- Identificar y explicar los cambios principales entre versiones de Python.
+- Los estudiantes aprenderán a seguir las actualizaciones de Python y sus implicaciones.
+- Desarrollarán habilidades para evaluar la relevancia de estas actualizaciones en su trabajo.
 
-Python es un lenguaje de programación dinámico e interpretado, conocido por su sintaxis clara y legible. Las actualizaciones de Python son cruciales para mantener la relevancia del lenguaje, mejorar su rendimiento, corregir errores y agregar nuevas características que satisfagan las necesidades cambiantes de los desarrolladores. Estas actualizaciones se realizan mediante el lanzamiento de versiones mayores, menores y parches.
+Las actualizaciones de Python son cruciales para mantener el código eficiente y seguro. En esta lección, se explorará cómo los desarrolladores pueden estar al tanto de las nuevas versiones y mejoras del lenguaje a través de canales oficiales como el sitio web oficial de Python, listas de correo electrónico y foros especializados. Se aprenderá también a evaluar la importancia de estas actualizaciones para proyectos específicos, considerando factores como compatibilidad con otros software, nuevas características que pueden optimizar el trabajo y cambios en la sintaxis que podrían afectar al código existente.
 
-Las versiones mayores de Python introducen cambios significativos en la sintaxis o comportamiento del lenguaje, lo que puede requerir ajustes en el código existente. Las versiones menores incluyen mejoras y nuevas funcionalidades sin alterar la sintaxis, mientras que los parches corregirán errores y problemas de rendimiento. Es importante para los desarrolladores mantenerse al día con estas actualizaciones para aprovechar las nuevas características y evitar problemas relacionados con errores conocidos.
+Para este ejercicio, los estudiantes deberán identificar las principales mejoras introducidas en Python 3.9 y evaluar cómo estas pueden beneficiar o potencialmente afectar a un proyecto de su elección en el contexto de nuestro curso. Se les pedirá que presenten sus hallazgos en forma de informe breve.
 
-### Ejercicio
-
-Realiza un ejercicio donde identifiques y expliques los cambios principales entre Python 3.6 y Python 3.9, centrándote en tres aspectos: la sintaxis, nuevas funcionalidades y mejoras de rendimiento.
-
-### Resumen
-- Las actualizaciones en Python son necesarias para mantener su relevancia y mejorar el lenguaje.
-- Se distinguen entre versiones mayores, menores y parches, cada una con diferentes implicaciones.
-- Es crucial para los desarrolladores estar al tanto de estas actualizaciones para aprovechar las nuevas funcionalidades y corregir errores.
+- Los estudiantes podrán seguir las actualizaciones relevantes para su trabajo.
+- Se adquirirán habilidades para evaluar la importancia de estas actualizaciones.
