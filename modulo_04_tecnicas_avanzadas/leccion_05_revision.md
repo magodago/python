@@ -1,13 +1,17 @@
 # Revision
 
-- Dominar la optimización de código mediante técnicas avanzadas.
-- Comprender y aplicar patrones de diseño para mejorar la estructura del código.
+## Objetivos
+- Analizar y optimizar código Python existente utilizando técnicas avanzadas.
+- Implementar patrones de diseño para mejorar la estructura y mantenibilidad del código.
 
-Python es un lenguaje de programación versátil que ofrece una amplia gama de herramientas y bibliotecas para desarrollar soluciones eficientes. En esta lección, se revisará el uso avanzado de técnicas como la optimización de bucles, la utilización de decoradores y la implementación de patrones de diseño, con el fin de mejorar no solo la eficiencia del código sino también su legibilidad y mantenibilidad.
+## Contenido
+En esta lección, se revisará el uso eficiente de decoradores en Python. Los decoradores son una técnica poderosa que permite modificar funcionalidades de funciones o métodos sin alterar su definición original. Se explorará cómo los decoradores pueden ser utilizados para agregar nuevas capacidades a las funciones existentes, como la verificación de permisos en aplicaciones web, el registro de actividad, y la medición del tiempo de ejecución.
 
-Se explorarán ejemplos prácticos en los que se aplican estas técnicas para resolver problemas comunes en programación. Se discutirá cómo optimizar bucles mediante técnicas como la comprensión de listas, el uso de generadores y el manejo eficiente de memoria. También se profundizará en la utilización de decoradores para encapsular comportamientos comunes y mejorar la modularidad del código.
+Además, se examinará la implementación de patrones de diseño avanzados, como el Singleton y el Factory Method. Estos patrones ayudan a estructurar el código de manera que sea más fácil de mantener y escalar. Se proporcionarán ejemplos prácticos en Python para ilustrar cómo estos patrones pueden ser aplicados en diferentes contextos.
 
-Para practicar, los estudiantes deberán optimizar un script que realiza cálculos intensivos sobre una lista grande de datos. Deberán aplicar técnicas vistas durante la lección, como el uso de comprensión de listas y generadores, para mejorar la eficiencia del código sin sacrificar su legibilidad.
+## Ejercicio
+Reescribe un script existente que realiza cálculos matemáticos utilizando decoradores para agregar la funcionalidad de medir el tiempo de ejecución y registrar cada cálculo realizado. Luego, implementa el patrón Singleton para gestionar una única instancia de un objeto configurador de parámetros en tu aplicación.
 
-- Optimización de bucles mediante comprensión de listas y generadores.
-- Uso de decoradores para encapsular comportamientos comunes.
+## Resumen
+- Decoradores permiten modificar funcionalidades sin alterar la definición original.
+- Patrones de diseño avanzados como Singleton y Factory Method mejoran la estructura y mantenibilidad del código.
