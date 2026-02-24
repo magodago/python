@@ -1,18 +1,12 @@
 # Bienvenida al curso
 
-## Objetivos
-- Comprender la importancia de Python en el desarrollo de software y ciencia de datos.
-- Familiarizarse con el entorno de programación y las herramientas básicas.
+- Familiarizarse con Python y su importancia en la programación.
 
-## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una de las tecnologías más populares del momento. Su sintaxis clara y legible lo hace ideal para principiantes y expertos. Además, Python cuenta con una gran comunidad de desarrolladores y una amplia gama de bibliotecas y frameworks que facilitan la creación de aplicaciones robustas y eficientes.
+- Comprender los beneficios de aprender Python y su amplia aplicación en diversas áreas como desarrollo web, análisis de datos e inteligencia artificial.
 
-En este curso, aprenderás a utilizar Python en diversos contextos, desde el desarrollo web hasta la resolución de problemas complejos mediante algoritmos. La lección introductoria te proporcionará una visión general del lenguaje y te guiará por los primeros pasos necesarios para comenzar a programar.
+Python es un lenguaje de programación de alto nivel que se caracteriza por su sintaxis clara y legible. Su diseño simple y potente lo hace accesible para principiantes mientras ofrece flexibilidad suficiente para desarrollar soluciones complejas en proyectos de todo tipo. Aprender Python no solo te abre puertas en el mundo del desarrollo, sino que también mejora tus habilidades de resolución de problemas y lógica computacional.
 
-## Ejercicio
-Escribe un programa simple en Python que imprima "¡Bienvenido/a al curso de Python!" en la consola. Luego, modifica el mensaje para que incluya tu nombre completo.
+Para practicar, intenta escribir un programa simple que imprima "¡Bienvenido al curso de Python!" utilizando la estructura básica de un script Python. Este ejercicio te ayudará a familiarizarte con el entorno de desarrollo e iniciar tu viaje en este fascinante lenguaje.
 
-## Resumen
-- Python es un lenguaje versátil y ampliamente utilizado.
-- Es fácil de aprender y tiene una gran comunidad de desarrolladores.
-- El primer paso es familiarizarse con su sintaxis básica.
+- Familiarización con Python.
+- Uso del entorno de desarrollo para escribir código básico.
