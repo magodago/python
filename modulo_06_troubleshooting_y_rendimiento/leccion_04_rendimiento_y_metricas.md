@@ -1,11 +1,11 @@
 # Rendimiento y metricas
 
-- Comprender cómo medir y mejorar el rendimiento de los programas Python.
-- Identificar y aplicar métricas comunes para evaluar la eficiencia del código.
+## Contenido
+En esta lección sobre rendimiento y métricas de Python, se explorará cómo medir y optimizar la eficiencia del código. Se aprenderá a utilizar herramientas como `timeit`, `cProfile` y `memory_profiler` para analizar el tiempo de ejecución y el consumo de memoria de diferentes partes del programa. También se discutirá la importancia de elegir estructuras de datos adecuadas y algoritmos eficientes para mejorar el rendimiento general.
 
-En esta lección sobre rendimiento y métricas, se explorará la importancia de optimizar el código Python para mejorar su velocidad y eficiencia. Se presentarán diversas métricas como tiempo de ejecución, uso de memoria y frecuencia de llamadas a funciones, junto con herramientas y técnicas para medir y analizar estas métricas. Los estudiantes aprenderán a utilizar perfiles de rendimiento para identificar secciones del código que pueden optimizarse.
+## Ejercicio
+Implemente un script que calcule los primeros 100 números de Fibonacci utilizando dos métodos: recursivo y iterativo. Utilice `timeit` para medir la velocidad de ambos métodos y compare los resultados. Luego, utilice `cProfile` para analizar el perfil de rendimiento de cada implementación.
 
-Para practicar, los alumnos deberán implementar un programa en Python que resuelva un problema dado y luego aplicar diferentes métricas para evaluar su rendimiento inicial. Posteriormente, se les pedirá que optimicen el código siguiendo las técnicas aprendidas y compararán nuevamente las métricas antes y después de la optimización.
-
-- Comprender cómo medir el rendimiento con perfiles de rendimiento.
-- Optimizar un programa Python utilizando métricas de rendimiento.
+## Resumen
+- Se utilizarán herramientas como `timeit`, `cProfile` y `memory_profiler` para evaluar el rendimiento del código.
+- Es crucial elegir estructuras de datos y algoritmos adecuados para optimizar la eficiencia.
