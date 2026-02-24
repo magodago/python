@@ -1,17 +1,18 @@
 # Temas intermedios
 
 Objetivos
-- Comprender la utilización de decoradores y comprensión de listas para optimizar código.
-- Aprender a trabajar con módulos personalizados y cómo importar funciones específicas.
+- Comprender la utilización de decoradores y su aplicación práctica.
+- Aprender a implementar manejo de excepciones avanzado para mejorar la robustez del código.
 
 Contenido
-En esta lección, profundizaremos en temas intermedios de Python, enfocándonos en dos conceptos fundamentales: los decoradores y la comprensión de listas. Los decoradores son una forma elegante de modificar o extender el comportamiento de las funciones sin alterar su estructura. Por ejemplo, podrás aprender a crear un decorador que mide el tiempo de ejecución de una función. Además, se explorará cómo usar comprensiones de listas para escribir código más conciso y eficiente.
+En esta lección, profundizaremos en dos temas intermedios vitales: decoradores y manejo de excepciones. Los decoradores son una característica poderosa de Python que nos permiten modificar o extender las funcionalidades de funciones existentes sin alterar su estructura original. Por ejemplo, podemos crear un decorador para medir el tiempo de ejecución de una función o añadir loggear a otra.
 
-Para ilustrar estos conceptos, veremos ejemplos prácticos donde se combina la utilización de decoradores con comprensiones de listas para resolver problemas comunes en programación. Se proporcionarán ejercicios que permitirán a los estudiantes aplicar estos conceptos y mejorar su fluidez al escribir código Python.
+El manejo de excepciones avanzado es crucial para desarrollar software robusto y seguro. A diferencia del básico try-except, en esta lección exploraremos cómo usar la jerarquía de excepciones, cómo crear nuestras propias excepciones personalizadas y cómo utilizar el bloque finally para asegurar que ciertas operaciones se ejecuten independientemente de si una excepción ocurre o no.
 
 Ejercicio
-Escribe un decorador llamado `tiempo_ejecucion` que muestre el tiempo de ejecución de una función. Luego, utiliza este decorador con una función que genere una lista de números pares hasta 100 utilizando comprensión de listas. Finalmente, compara la eficiencia del uso de un bucle `for` tradicional versus la comprensión de listas.
+Implementa un decorador que muestre el tiempo de ejecución de una función. Luego, utiliza este decorador en al menos tres funciones distintas y observa cómo afecta a su rendimiento. Además, crea una excepción personalizada para manejar un caso específico en tu código y prueba su funcionamiento.
 
 Resumen
-- Los decoradores permiten modificar el comportamiento de funciones sin alterar su estructura.
-- La comprensión de listas es una forma concisa y eficiente para generar listas en Python.
+- Decoradores permiten extender funcionalidades de funciones existentes.
+- Manejo avanzado de excepciones mejora la robustez del software.
+- La combinación de ambos temas es fundamental para el desarrollo profesional de Python.
