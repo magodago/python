@@ -1,14 +1,11 @@
 # Donde seguir aprendiendo
 
 - Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
-- Los estudiantes identificarán al menos tres comunidades de habla hispana dedicadas a la programación en Python.
+- Los estudiantes identificarán fuentes de apoyo comunitario que pueden utilizar para mejorar sus habilidades en Python.
 
-## Contenido
-En esta lección, se explorarán diferentes formas de seguir aprendiendo Python después de completar el curso actual. Es importante que los estudiantes comprendan que el aprendizaje no tiene un fin, sino una continuación constante. Se presentarán varias plataformas y recursos en línea, como Codecademy, Coursera y edX, que ofrecen cursos avanzados y especializados en Python. Además, se destacará la importancia de participar en comunidades de habla hispana, donde los estudiantes pueden intercambiar conocimientos y resolver problemas conjuntamente.
+El objetivo de esta lección es proporcionar a los estudiantes una visión completa de las opciones disponibles para seguir aprendiendo Python después de completar el curso. Se explorará cómo la comunidad puede ser un recurso valioso, tanto para resolver problemas técnicos como para obtener inspiración y motivación. Además, se presentarán diferentes plataformas en línea, libros recomendados y eventos que pueden ayudar a los estudiantes a profundizar en sus conocimientos de Python.
 
-## Ejercicio
-Practique navegando por Codecademy y encuentre un curso avanzado en Python. Luego, busque una comunidad de habla hispana en línea (como el grupo de Telegram "Python para Principiantes") e inscríbase o participe en una discusión.
+Para practicar estos conceptos, los estudiantes deberán crear una lista personalizada de recursos para aprender Python adicionalmente. Esta lista debe incluir al menos tres sitios web o plataformas en línea, un libro recomendado y un evento o meetup local relacionado con Python que estén interesados en asistir.
 
-## Resumen
-- Se identificarán plataformas en línea para continuar aprendiendo Python.
-- Se destacará la importancia de participar en comunidades hispanohablantes.
+- Los estudiantes identificarán fuentes de apoyo comunitario.
+- Se familiarizarán con diferentes plataformas y recursos para seguir aprendiendo Python.
