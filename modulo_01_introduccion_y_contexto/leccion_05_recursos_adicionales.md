@@ -1,11 +1,17 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de documentación y comunidad disponibles.
-- Identificar herramientas adicionales para mejorar la eficiencia en el aprendizaje de Python.
+## Objetivos
+- Familiarizar al estudiante con recursos de aprendizaje adicional para Python.
+- Instruir sobre plataformas y herramientas útiles para la práctica y mejora continua.
 
-Python es un lenguaje de programación versátil que se adapta a una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos. Para aprovechar al máximo las capacidades de Python, es crucial conocer recursos adicionales que pueden facilitar la comprensión y el desarrollo de habilidades en este lenguaje. Algunos de estos recursos incluyen la documentación oficial de Python, foros como Stack Overflow, y plataformas educativas como Coursera o edX que ofrecen cursos avanzados.
+## Contenido
+En esta lección, se explorarán recursos adicionales que pueden ser valiosos para el estudiante en su camino hacia dominar Python. Estos incluyen foros de discusión, tutoriales interactivos, bibliotecas recomendadas y plataformas de codificación en línea. Algunos ejemplos destacados son Stack Overflow, donde se pueden resolver dudas y aprender de casos prácticos; Codecademy y Coursera para cursos interactivos que van desde principiantes hasta avanzados; y la documentación oficial de Python, una fuente inagotable de información detallada y actualizada. Estos recursos permiten a los estudiantes practicar constantemente y profundizar en conceptos más complejos.
 
-Para practicar, busca un problema simple en línea, por ejemplo, en Codecademy, y utiliza el recurso de documentación oficial de Python para resolverlo. Documenta tus pasos y reflexiona sobre cómo los recursos adicionales podrían haber acelerado tu proceso de resolución.
+## Ejercicio
+Practique utilizando un recurso de aprendizaje adicional para resolver problemas. Elija uno de los siguientes: 
+- Resuelva tres ejercicios propuestos en Codecademy sobre Python.
+- Participa en una discusión en Stack Overflow y responda a una pregunta o participe en la solución de un problema.
 
-- Familiarizarse con la documentación oficial de Python.
-- Utilizar foros y plataformas educativas para mejorar el aprendizaje.
+## Resumen
+- Se presentaron recursos adicionales para aprender Python, como foros, cursos interactivos y documentación oficial.
+- Se recomienda que los estudiantes utilicen estos recursos para practicar y profundizar en sus conocimientos.
