@@ -1,37 +1,28 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Comprender la utilización de decoradores en Python y su aplicación práctica.
-- Implementar una función que muestre el uso de un decorador para medir el tiempo de ejecución.
+- Familiarizar a los estudiantes con la manipulación de listas y diccionarios en Python.
+- Desarrollar habilidades para la resolución de problemas mediante programación funcional.
 
 ## Contenido
-En esta lección profundizaremos en la utilidad de los decoradores, una característica poderosa de Python que nos permite modificar o extender las funcionalidades de funciones y métodos. Los decoradores son útiles para agregar funcionalidades comunes a múltiples funciones sin repetir código. En este ejercicio práctico, aprenderemos cómo crear un decorador para medir el tiempo de ejecución de una función, lo que nos permitirá evaluar la eficiencia del rendimiento de nuestro código.
+En esta lección, profundizaremos en el manejo avanzado de estructuras de datos como listas y diccionarios. Aprenderemos a manipular estos tipos de datos utilizando funciones integradas y métodos propios de Python para realizar operaciones complejas con eficiencia. Además, se explorará cómo combinar estas estructuras de datos en soluciones más robustas mediante la programación funcional, lo que permitirá al estudiante entender mejor cómo organizar código modularmente.
 
 ## Ejercicio
-Implementa un decorador llamado `tiempo` que muestre cuánto tiempo tarda en ejecutarse una función. Luego, aplica este decorador a una función que realice alguna tarea compleja, como calcular el factorial de un número grande. Por ejemplo:
+Dado el siguiente diccionario, donde las claves son nombres de productos y los valores son listas con información sobre cada producto (nombre, precio, stock), realiza las siguientes tareas:
 
 ```python
-import time
-
-def tiempo(func):
-    def wrapper(*args, **kwargs):
-        inicio = time.time()
-        resultado = func(*args, **kwargs)
-        fin = time.time()
-        print(f"Tiempo de ejecución: {fin - inicio} segundos")
-        return resultado
-    return wrapper
-
-@tiempo
-def factorial(n):
-    if n == 0:
-        return 1
-    else:
-        return n * factorial(n-1)
-
-print(factorial(5))
+productos = {
+    "Manzana": ["Manzana", 1.50, 30],
+    "Leche": ["Leche", 2.00, 45],
+    "Pan": ["Pan", 1.00, 60]
+}
 ```
 
+1. Crea una función que devuelva la lista de productos con un stock inferior a 20 unidades.
+2. Escriba una función que ordene los productos por precio en orden ascendente y descenda.
+3. Implementa una función que permita actualizar el precio de un producto dado su nombre.
+
 ## Resumen
-- Los decoradores son una herramienta poderosa para agregar funcionalidades a funciones existentes.
-- Se puede utilizar un decorador `tiempo` para medir el rendimiento de las funciones.
+- Se profundiza en el manejo avanzado de listas y diccionarios.
+- Se enseña la programación funcional para organizar código modularmente.
+- Los estudiantes practicarán con ejercicios que combinan diferentes estructuras de datos.
