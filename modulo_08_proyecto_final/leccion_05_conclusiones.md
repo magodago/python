@@ -1,17 +1,11 @@
 # Conclusiones
 
-- Conocer los aspectos más importantes del proyecto final y cómo se relacionan con lo aprendido durante el curso.
-- Analizar las fortalezas y debilidades del código desarrollado para el proyecto final.
+- Conocer las aplicaciones prácticas de Python en proyectos reales.
+- Evaluar los aspectos positivos y negativos del uso de Python en el desarrollo de software.
 
-El objetivo de esta lección es que reflexiones sobre tu experiencia en el desarrollo del proyecto final y comprendas cómo la teoría y los conceptos estudiados se aplican prácticamente. A lo largo del curso, hemos explorado diversos aspectos de Python, desde la sintaxis básica hasta estructuras de datos avanzadas, funciones y programación orientada a objetos. Ahora es el momento de integrar todo lo aprendido en un proyecto completo.
+Desarrollaremos la lección final con un análisis reflexivo sobre nuestro proyecto final. Reflexionaremos sobre cómo Python se ha utilizado para resolver problemas complejos, identificando las ventajas como la sintaxis limpia y fácil de leer, así como los desafíos como la gestión de dependencias y el rendimiento en ciertas tareas intensivas. También exploraremos cómo nuestras soluciones implementadas han impactado positivamente en la eficiencia y la productividad del equipo.
 
-Para ello, analiza tu código final y comparalo con los ejemplos y actividades realizadas durante el curso. Identifica las áreas donde se aplicaron conceptos teóricos y aquellos que requirieron adaptaciones o soluciones propias. Reflexiona sobre lo que funcionó bien en tu proyecto y qué aspectos podrían mejorar, considerando tanto la funcionalidad del código como su legibilidad y eficiencia.
+Para este ejercicio, escoja un aspecto de su proyecto final que le haya parecido especialmente relevante o desafiante. Escriba una reflexión breve (100-200 palabras) sobre por qué ese aspecto fue importante para el éxito del proyecto y cómo puede aplicar lo aprendido en futuros proyectos.
 
-Ejercicio: Revisa el código de tu proyecto final y escribe un informe breve (1-2 páginas) donde:
-1. Enumeres los conceptos de Python que utilizaste en tu proyecto.
-2. Analices las fortalezas y debilidades del diseño y implementación de tu proyecto.
-3. Sugieras mejoras o cambios que podrías hacer para mejorar el código.
-
-Resumen
-- Reflexionar sobre la aplicación práctica de los conocimientos adquiridos durante el curso.
-- Identificar áreas de mejora en el desarrollo del proyecto final.
+- Entender las fortalezas y debilidades de Python en contextos reales.
+- Aplicar la experiencia adquirida a situaciones futuras.
