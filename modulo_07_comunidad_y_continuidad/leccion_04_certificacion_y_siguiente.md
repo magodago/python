@@ -1,15 +1,18 @@
 # Certificacion y siguiente nivel
 
 ## Objetivos
-- Comprender la importancia de obtener certificaciones en Python para mejorar su perfil profesional.
-- Identificar los pasos necesarios para continuar avanzando en el camino hacia el desarrollo de software.
+- Comprender las ventajas y requisitos de obtener una certificación en Python.
+- Identificar los pasos para avanzar a un nivel más avanzado en el aprendizaje de Python.
 
 ## Contenido
-La certificación en Python es un paso crucial para validar y demostrar sus habilidades en este lenguaje de programación. Existen varias certificaciones disponibles, como la Certified Associate in Python Programming (CAP) ofrecida por la Python Software Foundation, que evalúa su conocimiento básico y avanzado del lenguaje. Además, obtener una certificación puede abrir puertas a oportunidades laborales mejor remuneradas y proyectos más desafiantes. Para continuar en el camino hacia el desarrollo de software, es recomendable familiarizarse con frameworks populares como Django o Flask, que son fundamentales para construir aplicaciones web robustas.
+La certificación en Python es un paso crucial para demostrar competencias técnicas y profesionales alrededor del lenguaje. Ofrece varias ventajas, entre ellas la posibilidad de acceder a oportunidades laborales mejor remuneradas, mejorar la credibilidad personal y profesional, y proporcionar una base sólida para el desarrollo continuo en Python. Existen diversas certificaciones disponibles, como la certificación oficial de Oracle Certified Professional, Java SE 11 Programmer, que también incluye conocimientos de Python, o las certificaciones de Pythontutor.com.
+
+Para avanzar a un nivel más avanzado, los estudiantes deben familiarizarse con conceptos más complejos y prácticas avanzadas. Esto incluye el dominio de la programación orientada a objetos, el uso eficiente de bibliotecas como NumPy y Pandas para análisis de datos, y el desarrollo de aplicaciones web con frameworks como Django o Flask. Además, es recomendable participar en proyectos reales o competencias de programación para aplicar los conocimientos adquiridos y mejorar habilidades prácticas.
 
 ## Ejercicio
-Elija uno de los frameworks mencionados (Django o Flask) y desarrolle una pequeña aplicación web. Documente cada paso del proceso desde la instalación hasta el despliegue en un servidor local. Presente su trabajo en clase, explicando las decisiones técnicas que tomó durante el desarrollo.
+Desarrolla una aplicación simple utilizando un framework web de tu elección (Django o Flask). La aplicación debe tener al menos dos páginas: una página principal que presenta el título "Bienvenido a mi sitio web" y otra página que muestre un gráfico de barras generado con datos aleatorios usando Pandas. Sube el código fuente a un repositorio en GitHub e incluye un breve informe explicando las decisiones técnicas tomadas durante el desarrollo.
 
 ## Resumen
-- La certificación en Python es crucial para validar habilidades y mejorar oportunidades laborales.
-- Familiarizarse con frameworks como Django o Flask es fundamental para avanzar en el desarrollo de software.
+- La certificación en Python es vital para mejorar la credibilidad profesional y abrir puertas a oportunidades laborales.
+- Para avanzar, se recomienda dominar conceptos avanzados como programación orientada a objetos y análisis de datos.
+- Practicar con proyectos reales o competencias de programación ayuda a aplicar conocimientos teóricos en el mundo real.
