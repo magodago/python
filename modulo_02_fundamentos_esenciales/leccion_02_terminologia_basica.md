@@ -1,16 +1,20 @@
 # Terminologia basica
 
 Objetivos
-- Comprender los conceptos básicos de programación relacionados con Python.
-- Familiarizarse con la terminología fundamental del lenguaje.
+- Comprender y utilizar correctamente la terminología básica de Python.
+- Identificar y explicar los elementos fundamentales del lenguaje.
 
 Contenido
-En esta lección sobre los fundamentos esenciales de Python, se introducirán los términos y conceptos más importantes que el estudiante debe dominar para comenzar a programar en este lenguaje. Se explicará la diferencia entre variables y valores, funciones y métodos, así como cómo se utilizan listas y diccionarios. Estos elementos forman la base sobre la cual se construirá toda la estructura del código Python.
+La terminología básica es crucial para cualquier programador que se inicie en Python. En este módulo, aprenderemos sobre variables, tipos de datos, operadores y estructuras de control básicas. Las variables son contenedores donde almacenamos información, los tipos de datos definen el tipo específico de dato (como números o cadenas) que una variable puede albergar, y los operadores permiten realizar operaciones entre valores. La comprensión de estas conceptos es esencial para escribir código eficiente y legible.
 
 Ejercicio
-El estudiante debe crear un programa simple que solicite al usuario su nombre y edad, luego imprima una frase personalizada con esa información. Este ejercicio permitirá a los estudiantes aplicar sus conocimientos sobre variables y funciones en Python.
+Crea un programa simple en Python que realice las siguientes tareas:
+1. Almacena el nombre del usuario en una variable llamada `nombre`.
+2. Imprime "¡Bienvenido [nombre]!".
+3. Crea una variable para almacenar la edad del usuario y otra para su altura (en metros).
+4. Utiliza operadores aritméticos básicos para calcular y mostrar el promedio de la edad y la altura.
 
 Resumen
-- Variables y valores son elementos fundamentales para almacenar datos.
-- Funciones y métodos se utilizan para realizar operaciones específicas.
-- Listas y diccionarios son estructuras de datos que almacenan múltiples valores.
+- Variables: contenedores que almacenan información.
+- Tipos de datos: categorías que definen qué tipo de valor puede almacenar una variable (int, float, str).
+- Operadores: símbolos utilizados para realizar operaciones matemáticas o lógicas.
