@@ -1,21 +1,11 @@
 # Criterios de evaluacion
 
-Objetivos
-- Comprender los criterios de evaluación para el proyecto final de Python.
-- Identificar las áreas claves que serán evaluadas durante la revisión del proyecto.
+- Comprender los criterios de evaluación que se utilizarán para el proyecto final de Python.
+- Identificar cómo se evaluarán las habilidades técnicas y la resolución de problemas del código desarrollado.
 
-Contenido
-En esta lección, se presentarán los criterios de evaluación fundamentales para el proyecto final de Python. Los estudiantes aprenderán a evaluar su trabajo en función de aspectos como la corrección y eficiencia del código, la utilización adecuada de estructuras de datos y algoritmos, la modularidad y reutilización del código, así como la documentación y presentación del proyecto. Estos criterios guiarán a los estudiantes durante el desarrollo de su proyecto final, asegurando que aborden todas las áreas relevantes para un buen programa Python.
+El objetivo principal de esta lección es proporcionar a los estudiantes una comprensión clara sobre los criterios de evaluación que se aplicarán en el proyecto final de Python. Se abordará no solo cómo se evaluará la funcionalidad y eficiencia del código, sino también aspectos como la claridad del diseño, la documentación y la capacidad para resolver problemas complejos. Esto permitirá a los estudiantes prepararse adecuadamente y entregar un proyecto que cumpla con las expectativas establecidas.
 
-Ejercicio
-Desarrolla una breve descripción de tu proyecto final de Python, incluyendo los aspectos técnicos y funcionales. Posteriormente, evalúa tu propio trabajo utilizando el siguiente checklist:
+Para el ejercicio práctico, los estudiantes deben revisar el proyecto final que han desarrollado hasta ahora y evaluarlo según los criterios proporcionados en esta lección. Deben identificar áreas de mejora y hacer anotaciones detalladas sobre cómo podrían mejorar su código para cumplir con las expectativas de evaluación.
 
-- Código correcto y eficiente: Sí/No
-- Uso adecuado de estructuras de datos y algoritmos: Sí/No
-- Modularidad y reutilización del código: Sí/No
-- Documentación clara y completa: Sí/No
-- Presentación profesional: Sí/No
-
-Resumen
-- Los criterios de evaluación se centran en la corrección, eficiencia, modularidad, documentación y presentación.
-- El checklist ayudará a los estudiantes a autoevaluarse antes de la entrega final.
+- Entender los criterios de evaluación para el proyecto final.
+- Identificar áreas de mejora en el propio trabajo basándose en esos criterios.
