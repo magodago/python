@@ -1,19 +1,12 @@
 # Casos de uso reales
 
-## Objetivos
-- Comprender cómo Python se puede utilizar para resolver problemas complejos en la industria.
-- Analizar casos de uso reales de Python en diferentes sectores.
+- Dominar la aplicación de Python en proyectos reales.
+- Comprender cómo abordar problemas complejos utilizando paradigmas de programación avanzados.
 
-## Contenido
-Python es un lenguaje de programación versátil que se ha convertido en una herramienta fundamental en diversas áreas. En este módulo, exploraremos cómo Python se aplica en el análisis de datos, la inteligencia artificial y la automatización de tareas diarias. Por ejemplo, en el sector financiero, Python es utilizado para modelar riesgos financieros y optimizar carteras de inversiones. Además, en la industria de la salud, algoritmos basados en Python ayudan a predecir enfermedades y mejorar la atención médica.
+En esta lección profundizaremos en casos de uso reales de Python, explorando cómo se puede aplicar eficazmente este lenguaje de programación en diferentes sectores. Veremos ejemplos prácticos como el desarrollo de aplicaciones web con Django y Flask, el análisis de datos con Pandas y NumPy, la creación de bots para redes sociales utilizando Python y la automatización de tareas mediante scripts. Estos casos nos permitirán apreciar las capacidades versátiles de Python en soluciones reales.
 
-## Ejercicio
-Implementa un script en Python que utilice una biblioteca como Pandas para analizar un conjunto de datos sobre el tráfico de vehículos. Tu tarea es:
-1. Cargar un archivo CSV con datos de tráfico.
-2. Limpia los datos eliminando filas vacías o no válidas.
-3. Calcula la media, la mediana y la moda del número de vehículos por hora en diferentes días de la semana.
+Para este ejercicio, desarrolla un script simple que utilice la biblioteca Flask para crear una aplicación web básica. La aplicación debe incluir al menos dos páginas: una página principal con un mensaje de bienvenida y otra página que muestre los datos de un archivo CSV cargado mediante Pandas. Este ejercicio te permitirá aplicar tus conocimientos sobre frameworks web, manejo de archivos y visualización de datos en Python.
 
-## Resumen
-- Python se aplica en diversos sectores para resolver problemas complejos.
-- Se ha utilizado en el análisis de datos, inteligencia artificial y automatización.
-- El ejercicio practica la manipulación y análisis de datos con Pandas.
+- Familiaridad con Flask para desarrollo web.
+- Uso de Pandas para manipulación de datos.
+- Integración de diferentes bibliotecas Python en un proyecto real.
