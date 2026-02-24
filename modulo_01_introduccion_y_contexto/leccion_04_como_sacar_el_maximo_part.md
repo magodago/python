@@ -1,16 +1,11 @@
 # Como sacar el maximo partido
 
-- Entender la importancia de Python en el desarrollo de software y ciencia de datos.
-- Aprender a utilizar las mejores prácticas para escribir código eficiente y legible.
+- Dominar la sintaxis básica de Python.
+- Comprender cómo utilizar funciones y módulos para optimizar el código.
 
-Python es un lenguaje de programación versátil que se destaca por su simplicidad y claridad, lo que lo hace ideal tanto para principiantes como para profesionales avanzados. Para sacar el máximo partido de Python, es crucial adoptar buenas prácticas en la escritura del código. Esto incluye el uso adecuado de estructuras de control, funciones y módulos, así como la documentación clara y consistente. Además, es importante familiarizarse con herramientas de desarrollo integradas (IDEs) y entornos virtuales para mejorar la productividad y evitar conflictos entre dependencias.
+Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos. Para sacar el máximo partido a Python, es crucial entender no solo sus sintaxis básicas, sino también cómo aprovechar las funciones y módulos disponibles para mejorar la eficiencia del código. Las funciones permiten organizar el código en bloques lógicos, lo que facilita su lectura y mantenimiento. Los módulos, por otro lado, proporcionan acceso a una gran cantidad de funcionalidades predefinidas, ahorrando tiempo y evitando la redundancia.
 
-Para practicar, crea un script que realice las siguientes tareas:
-1. Solicite al usuario ingresar el nombre y la edad.
-2. Verifique si el usuario es mayor de 18 años.
-3. Imprima un mensaje indicando si puede votar o no.
+Como ejercicio práctico, los estudiantes deberán escribir un programa que calcule el promedio de una lista de números utilizando funciones. Posteriormente, se les pedirá que reemplacen esta implementación con una versión más eficiente utilizando un módulo predefinido en Python. Este ejercicio permitirá a los alumnos experimentar directamente la diferencia entre una implementación básica y una optimizada.
 
-Asegúrate de incluir comentarios en tu código para explicar cada paso, y utiliza funciones para organizar tu script de manera eficiente.
-
-- Familiarizarse con las mejores prácticas de Python.
-- Desarrollar habilidades para escribir código más limpio y eficiente.
+- Implementar funciones para organizar el código.
+- Utilizar módulos para mejorar la eficiencia del programa.
