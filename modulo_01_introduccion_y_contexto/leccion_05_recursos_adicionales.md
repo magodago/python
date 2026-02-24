@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos en línea útiles para aprender Python.
-- Identificar y utilizar herramientas de documentación y comunidad para resolver dudas.
+- Familiarizarse con recursos de documentación y tutoriales en línea.
+- Identificar herramientas de desarrollo integrado (IDE) disponibles para Python.
 
-Python es un lenguaje de programación versátil que se utiliza ampliamente en desarrollo web, análisis de datos, inteligencia artificial y más. Para aprovechar al máximo el aprendizaje de Python, es crucial conocer recursos adicionales que faciliten la comprensión y mejoren las habilidades del estudiante. Estos incluyen plataformas como Codecademy, Coursera y edX que ofrecen cursos interactivos y certificados; documentación oficial de Python en python.org que proporciona una guía detallada y actualizada sobre sintaxis y funciones; y foros como Stack Overflow donde se pueden resolver dudas y aprender de otros programadores.
+La lección sobre recursos adicionales busca ampliar la comprensión del estudiante sobre las herramientas y recursos que pueden facilitar su aprendizaje y práctica de Python. Se recomienda a los estudiantes explorar la documentación oficial de Python, que es una fuente invaluable de información detallada y actualizada sobre el lenguaje. Además, se invita a utilizar plataformas como Codecademy o Coursera para complementar el aprendizaje con tutoriales interactivos y ejercicios prácticos.
 
-Para practicar, el estudiante debe explorar la documentación oficial de Python para encontrar ejemplos de código relacionados con estructuras de datos. Deben investigar cómo trabajar con listas y diccionarios, y luego implementar un pequeño programa que utilice ambas estructuras en conjunto. Por ejemplo, pueden crear una lista de diccionarios donde cada diccionario represente un libro con sus detalles (título, autor, año de publicación) e implementar funciones para agregar, eliminar y buscar libros.
+Para esta lección, los estudiantes deben elegir tres recursos de documentación o tutoriales en línea que les resulten útiles y realizar un breve resumen de cada uno, identificando sus principales beneficios. Este ejercicio ayudará a los estudiantes a familiarizarse con diferentes fuentes de información y a seleccionar las más apropiadas según su necesidad específica.
 
-- Familiarizarse con plataformas educativas y recursos oficiales.
-- Utilizar la documentación oficial y foros de comunidad para resolver dudas.
+- Familiarización con la documentación oficial de Python.
+- Uso efectivo de tutoriales interactivos en línea para práctica adicional.
