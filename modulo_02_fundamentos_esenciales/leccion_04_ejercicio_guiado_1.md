@@ -1,21 +1,17 @@
 # Ejercicio guiado 1
 
-Objetivos
-- Familiarizar al estudiante con la sintaxis básica de Python.
-- Introducir conceptos fundamentales como variables y operadores aritméticos.
+- Dominar la declaración de variables y tipos básicos.
+- Comprender la importancia del indentación en Python.
 
-Contenido
-En esta lección, exploraremos los primeros pasos en el mundo del lenguaje de programación Python. Comenzaremos con la definición de variables y su asignación, así como con los operadores aritméticos básicos. Aprenderemos a escribir código simple que realice cálculos sencillos, lo cual nos permitirá comprender mejor cómo funcionan las estructuras básicas del lenguaje.
+Python es un lenguaje de programación interpretado cuya filosofía se centra en la legibilidad del código. En esta lección, aprenderemos a declarar variables y entenderemos cómo Python maneja diferentes tipos de datos básicos. La correcta utilización de estos conceptos es fundamental para escribir código eficiente y legible.
 
-Por ejemplo, podríamos escribir un pequeño programa que solicite al usuario que introduzca dos números y luego muestre la suma de estos. Este ejercicio no solo reforzará los conceptos aprendidos sino que también nos dará una idea de cómo interactuar con el usuario a través del código.
+Para comenzar, vamos a practicar la declaración de variables y el uso de tipos básicos en Python. Cada variable en Python debe ser declarada con un tipo de dato específico o se determinará automáticamente por el valor asignado. Los tipos más comunes incluyen enteros (int), flotantes (float) y cadenas de texto (str).
 
-Ejercicio
-Escribe un programa en Python que realice lo siguiente:
-1. Solicite al usuario que introduzca dos números.
-2. Muestre la suma, resta, multiplicación y división de estos números.
-3. Imprima los resultados en una frase clara para el usuario.
+### Ejercicio
 
-Resumen
-- Se ha introducido la definición y asignación de variables.
-- Se han explicado los operadores aritméticos básicos.
-- Se ha realizado un ejercicio práctico que combina ambos conceptos.
+Escribe un programa que declare tres variables: `edad`, `altura` y `nombre`. Asigna a `edad` el valor 25, a `altura` el valor 1.75 y a `nombre` la cadena "Juan". Luego, imprime en pantalla el mensaje: "Hola, mi nombre es [nombre], tengo [edad] años y mido [altura] metros."
+
+### Resumen
+- Las variables se declaran asignando un valor.
+- Python tiene tipos de datos básicos como int, float y str.
+- La indentación es crucial para definir bloques de código en Python.
