@@ -1,11 +1,22 @@
 # Integracion con otras herramientas
 
-- Integrar Python con bases de datos para automatizar la extracción y análisis de información.
-- Utilizar bibliotecas externas como Pandas o NumPy para mejorar la eficiencia del procesamiento de datos.
+### Objetivos
+- Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
+- Aprender a utilizar bibliotecas gráficas como Matplotlib para visualización de datos.
 
-Python es una potente herramienta que puede integrarse fácilmente con otras tecnologías para ampliar sus capacidades. Por ejemplo, al combinar Python con bases de datos, se pueden automatizar tareas complejas como la extracción y análisis de grandes volúmenes de información. Esto no solo mejora la eficiencia del trabajo sino que también permite a los desarrolladores centrarse en el análisis y la toma de decisiones basada en datos.
+### Contenido
+En esta lección, profundizaremos en la integración de Python con otras herramientas y bibliotecas que amplían significativamente su funcionalidad. En primer lugar, exploraremos cómo combinar Python con Pandas, una poderosa librería para el análisis de datos, permitiendo operaciones eficientes sobre conjuntos de datos complejos. A continuación, veremos cómo utilizar NumPy, otra biblioteca fundamental para el procesamiento numérico en Python, para realizar cálculos matemáticos avanzados y manipulaciones de matrices. Finalmente, introduciremos Matplotlib, una herramienta esencial para la visualización de datos, mostrando cómo crear gráficas detalladas y personalizadas.
 
-Para ilustrar esto, se recomienda a los estudiantes crear un script Python que conecte con una base de datos MySQL, realice consultas SQL para extraer información relevante y luego procese esos datos utilizando Pandas. Este ejercicio no solo enseñará cómo integrar Python con bases de datos sino también cómo utilizar Pandas para manipular y analizar datos de manera eficiente.
+### Ejercicio
+Implemente un programa que cargue un conjunto de datos utilizando Pandas, realice operaciones básicas como filtrado y agrupación, y luego use Matplotlib para generar una gráfica de dispersión. Los pasos a seguir son:
 
-- Integración de Python con bases de datos.
-- Uso de bibliotecas como Pandas para mejorar la eficiencia en el procesamiento de datos.
+1. Importe las bibliotecas necesarias: Pandas y Matplotlib.
+2. Cargue un conjunto de datos desde un archivo CSV.
+3. Filtre los datos para incluir solo registros que cumplan ciertas condiciones (por ejemplo, temperaturas superiores a 30 grados).
+4. Agrupe los datos por una columna específica y calcule el promedio.
+5. Cree una gráfica de dispersión utilizando Matplotlib con los datos filtrados.
+
+### Resumen
+- Integración eficiente de Python con Pandas para análisis de datos.
+- Uso de NumPy para cálculos matemáticos avanzados.
+- Creación de visualizaciones detalladas con Matplotlib.
