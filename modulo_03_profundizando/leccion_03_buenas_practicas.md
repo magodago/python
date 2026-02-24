@@ -1,14 +1,35 @@
 # Buenas practicas
 
-- Familiarizarse con las convenciones de codificación PEP8.
-- Implementar buenas prácticas para la documentación y manejo de errores.
+## Objetivos
+- Comprender y aplicar las mejores prácticas de codificación para mejorar la legibilidad y mantenibilidad del código Python.
+- Aprender a documentar eficazmente el código utilizando comentarios y docstrings.
 
-En esta lección profundizaremos en las mejores prácticas al escribir código Python. Es crucial seguir ciertas convenciones que no solo hacen el código más legible, sino que también facilitan su mantenimiento y colaboración con otros desarrolladores. Una de estas convenciones es PEP8, un conjunto de directrices para estilo de codificación en Python. Aprender a aplicar PEP8 permitirá escribir códigos más limpios y eficientes.
+## Contenido
+Las mejores prácticas en programación con Python son fundamentales para escribir código que sea fácil de leer, mantener y escalar. Una de las primeras reglas es usar nombres descriptivos para variables, funciones y clases, lo cual facilita entender el propósito de cada elemento del programa sin necesidad de consultar su definición. Además, es recomendable seguir la convención PEP 8, que establece estándares de codificación para Python, como la indentación uniforme con cuatro espacios y el uso de sangría para separar bloques de código.
 
-Además, veremos cómo documentar adecuadamente el código utilizando comentarios y docstrings, así como la importancia del manejo de errores mediante excepciones personalizadas y logs para facilitar la resolución de problemas. Estas prácticas no solo mejoran la calidad del código sino que también lo preparan para ser más robusto y adaptable a futuras necesidades.
+La documentación es crucial en cualquier proyecto de software. En Python, se recomienda usar docstrings para describir claramente lo que hace cada función o método. Estas docstrings deben ser concisas pero informativas, incluyendo parámetros de entrada, valor de retorno y posibles excepciones. Además, el uso de comentarios en código auxiliar o no es necesario puede ayudar a explicar decisiones de diseño complejas.
 
-Ejercicio: Implementa un script que calcule el promedio de una lista de números. Utiliza PEP8 al escribir tu código, incluye docstrings en las funciones y maneja posibles errores como la entrada incorrecta del usuario.
+## Ejercicio
+Escribe una función en Python que calcule el área de un círculo dado su radio. Utiliza una docstring para describir la función y asegúrate de seguir las mejores prácticas de codificación, como nombrar correctamente las variables y usar sangría uniforme.
 
-- Familiarización con PEP8.
-- Uso de comentarios y docstrings.
-- Manejo adecuado de excepciones.
+```python
+def area_circulo(radio):
+    """
+    Calcula el área de un círculo dado su radio.
+
+    Parámetros:
+        radio (float): El radio del círculo.
+
+    Devuelve:
+        float: El área del círculo.
+    """
+    from math import pi
+    return pi * radio ** 2
+
+print(area_circulo(5))
+```
+
+## Resumen
+- Utilizar nombres descriptivos para variables y funciones.
+- Seguir la convención PEP 8 para un código uniforme.
+- Documentar eficazmente el código con docstrings.
