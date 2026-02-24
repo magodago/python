@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea y documentación oficial.
-- Identificar herramientas útiles para la práctica y mejora del código.
+- Familiarizarse con recursos de aprendizaje en línea para Python.
+- Identificar herramientas y comunidades útiles que apoyen el desarrollo de habilidades en Python.
 
-La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de opciones para profundizar y expandir sus conocimientos en Python. Se recomienda que los alumnos exploren plataformas como Codecademy, Coursera o edX, donde encontrarán cursos gratuitos e intensivos que cubren desde conceptos básicos hasta temas más avanzados. Además, se invita a familiarizarse con la documentación oficial de Python, disponible en python.org, ya que es una valiosa fuente de información y ejemplos prácticos.
+Python es una potente herramienta de programación versátil, utilizada en diversos campos como el análisis de datos, la inteligencia artificial, el desarrollo web y más. Para complementar tu aprendizaje teórico, existen numerosos recursos disponibles que pueden ayudarte a profundizar tus conocimientos y practicar habilidades específicas. Algunas opciones incluyen plataformas de tutoría como Codecademy o Coursera, que ofrecen cursos interactivos; sitios web como W3Schools para aprender sintaxis básica; y plataformas de código colaborativo como GitHub donde puedes encontrar proyectos y contribuir a ellos.
 
-Para el ejercicio, los estudiantes deben elegir un recurso recomendado y realizar un breve resumen de su contenido, destacando al menos dos características útiles para su aprendizaje. Este ejercicio no solo ayudará a consolidar la información adquirida sino que también fomentará la habilidad de investigación y análisis.
+Para este ejercicio, busca en línea un tutorial introductorio a Python y completa el primer par de ejercicios proporcionados. Luego, comparte tu experiencia con la clase: ¿cuál fue tu recurso favorito? ¿Qué te resultó más útil para comenzar a programar en Python?
 
-- Familiarización con recursos en línea.
-- Uso efectivo de la documentación oficial de Python.
+- Familiarizarse con recursos de aprendizaje en línea.
+- Practicar habilidades básicas de programación utilizando Python.
