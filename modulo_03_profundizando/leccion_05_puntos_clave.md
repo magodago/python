@@ -1,17 +1,11 @@
 # Puntos clave
 
-### Objetivos
-- Comprender y aplicar la utilización de decoradores en Python.
-- Explorar las características y beneficios de la programación funcional con Python.
+- Comprender la utilización avanzada de listas y diccionarios.
+- Implementar funciones recursivas y comprensión de listas para resolver problemas complejos.
 
-### Contenido
-En esta lección profundizaremos sobre el uso de decoradores, una característica poderosa de Python que permite modificar o extender el comportamiento de funciones y métodos sin alterar su definición. Los decoradores son útiles para agregar funcionalidades comunes a múltiples funciones de manera elegante y mantenible.
+El tema central de esta lección es profundizar en el manejo de estructuras de datos avanzadas como listas y diccionarios, así como introducir la programación funcional con funciones recursivas y comprensión de listas. Estos conceptos son fundamentales para optimizar el código y abordar problemas de manera más eficiente. Se explorará cómo las listas pueden ser utilizadas no solo para almacenar datos, sino también para implementar algoritmos complejos mediante la comprensión de listas. Además, se presentarán ejemplos prácticos de funciones recursivas que resuelvan problemas comunes en programación.
 
-Además, abordaremos la programación funcional en Python, destacando cómo se pueden utilizar funciones como objetos y cómo aprovechar la sintaxis y las características específicas del lenguaje para escribir código más conciso y legible. Esto incluirá el uso de funciones lambda, comprensión de listas y otras herramientas que facilitan la manipulación de datos y la creación de programas más dinámicos.
+Para practicar, los estudiantes deberán escribir una función que use comprensión de listas para filtrar y transformar elementos de una lista original. También deben implementar una función recursiva que calcule el factorial de un número dado.
 
-### Ejercicio
-Escribe un decorador llamado `tiempo_ejecucion` que muestre cuánto tiempo tarda una función en ejecutarse. Luego, aplica este decorador a una función que genere una lista con los primeros 100 números primos y mide su tiempo de ejecución.
-
-### Resumen
-- Los decoradores son un mecanismo poderoso para modificar el comportamiento de funciones.
-- La programación funcional en Python permite escribir código más conciso y modular, aprovechando las características específicas del lenguaje.
+- Comprender la sintaxis y aplicaciones de la comprensión de listas.
+- Desarrollar habilidades en programación funcional mediante el uso de funciones recursivas.
