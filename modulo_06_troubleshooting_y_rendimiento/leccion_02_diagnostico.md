@@ -2,29 +2,16 @@
 
 Objetivos
 - Identificar y diagnosticar problemas comunes en la ejecución de programas Python.
-- Mejorar la eficiencia y rendimiento de código Python mediante técnicas de diagnóstico.
+- Analizar y optimizar el rendimiento de scripts para mejorar su eficiencia.
 
 Contenido
-En esta lección, se abordará el proceso de diagnóstico para resolver problemas que puedan surgir durante la ejecución de programas escritos en Python. Se explorarán herramientas y métodos que permiten identificar errores y optimizar el rendimiento del código. Es crucial entender cómo analizar mensajes de error, utilizar depuradores y monitores de rendimiento para localizar problemas y mejorar la eficiencia del programa.
+En esta lección se abordará cómo realizar un diagnóstico efectivo de errores y problemas de rendimiento en los programas escritos con Python. Se explicarán técnicas para identificar fallas en la ejecución, como excepciones no capturadas o bugs ocultos, y se proporcionará un marco para evaluar el desempeño del código a través de métricas relevantes.
 
-El diagnóstico de problemas comienza con la comprensión correcta de los mensajes de error que Python genera. Estos mensajes proporcionan información valiosa sobre el tipo de error y su ubicación en el código, lo cual es fundamental para corregirlo. Además, se aprenderá a utilizar herramientas como `pdb` (Python Debugger) para detener la ejecución del programa en puntos específicos y examinar el estado actual del entorno de ejecución.
+Se discutirá cómo utilizar herramientas integradas de Python, como la consola de depuración (pdb), y cómo implementar pruebas unitarias para asegurar que las partes individuales del programa funcionen correctamente. Además, se explorará el uso de perfiles de rendimiento (como cProfile) para identificar áreas críticas donde puede optimizarse el código.
 
 Ejercicio
-Practique diagnosticando un problema de rendimiento en el siguiente código:
-
-```python
-def calcular_factorial(n):
-    if n == 0:
-        return 1
-    else:
-        return n * calcular_factorial(n-1)
-
-for i in range(1, 25):
-    print(f"El factorial de {i} es: {calcular_factorial(i)}")
-```
-
-Utilice el depurador `pdb` para identificar posibles problemas y proponga una solución que mejore la eficiencia del código.
+Implemente un script en Python que calcule la suma de los primeros 1000 números enteros. Posteriormente, utilice la herramienta cProfile para analizar y optimizar su implementación. Presente los resultados de la primera ejecución y comparelos con el rendimiento después de realizar las mejoras sugeridas.
 
 Resumen
-- Se aprendió a usar mensajes de error y herramientas de depuración para diagnosticar problemas en Python.
-- Se destacó la importancia de mejorar el rendimiento mediante técnicas de diagnóstico.
+- Se aprendió a diagnosticar problemas en Python utilizando depuradores y pruebas unitarias.
+- Se utilizó cProfile para evaluar y mejorar el rendimiento del código.
