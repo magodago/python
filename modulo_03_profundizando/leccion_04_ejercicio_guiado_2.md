@@ -1,55 +1,34 @@
 # Ejercicio guiado 2
 
-- Entender la implementación de estructuras de datos avanzadas como árboles binarios de búsqueda.
-- Implementar una función que permita insertar nodos en un árbol binario de búsqueda y verificar su correcto funcionamiento.
+### Objetivos
+- Familiarizarse con la optimización de código Python.
+- Aprender a utilizar listas y diccionarios de forma eficiente.
 
-Para profundizar en el manejo de estructuras de datos, este ejercicio guiado se centrará en la implementación de un árbol binario de búsqueda (BST). Los árboles BST son útiles para realizar operaciones de búsqueda, inserción y eliminación con una complejidad promedio de O(log n), lo que los hace ideales para aplicaciones donde estas operaciones se realizan frecuentemente.
+### Contenido
+En esta lección profundizaremos en técnicas para optimizar el rendimiento del código Python. Es crucial entender cómo manejar datos estructurados de manera eficiente, especialmente cuando se trabaja con grandes volúmenes de información. Las listas y diccionarios son fundamentales en la programación Python, pero su uso no siempre es óptimo si no se comprenden completamente sus características y limitaciones.
 
-En esta lección, se proporcionará un esqueleto de código en Python que incluirá la definición de una clase `Node` y una clase `BinarySearchTree`. El alumno deberá completar la implementación del método `insert` en la clase `BinarySearchTree`, que permitirá insertar nodos en el árbol manteniendo su propiedad de BST. Además, se pedirá al estudiante que escriba una función auxiliar para verificar si un árbol es un BST válido.
+Un aspecto importante a considerar es la elección entre usar una lista o un diccionario dependiendo del tipo de operación que se vaya a realizar. Las listas son ideales para operaciones de búsqueda lineal, mientras que los diccionarios ofrecen acceso rápido a elementos mediante claves, lo cual puede ser crucial en aplicaciones donde la velocidad es un factor determinante.
 
 ### Ejercicio
-
-**Ejercicio 1: Implementación del método `insert`**
-
-Completar la implementación del método `insert` en la clase `BinarySearchTree`. Este método debe insertar un nuevo nodo en el árbol manteniendo las propiedades de un BST. Si el valor a insertar es menor que el valor del nodo actual, se debe insertar en el subárbol izquierdo; si es mayor, en el subárbol derecho.
+Dado el siguiente código:
 
 ```python
-class Node:
-    def __init__(self, key):
-        self.left = None
-        self.right = None
-        self.val = key
-
-class BinarySearchTree:
-    def __init__(self):
-        self.root = None
-    
-    # Completa este método
-    def insert(self, key):
-        if not self.root:
-            self.root = Node(key)
+def contar_palabras(texto):
+    palabras = texto.split()
+    frecuencia = {}
+    for palabra in palabras:
+        if palabra in frecuencia:
+            frecuencia[palabra] += 1
         else:
-            self._insert(self.root, key)
+            frecuencia[palabra] = 1
+    return frecuencia
 
-    def _insert(self, node, key):
-        # Implementa la lógica aquí
-
-# Prueba de inserción
-bst = BinarySearchTree()
-keys = [8, 3, 10, 1, 6, 14, 4, 7, 13]
-for key in keys:
-    bst.insert(key)
-
-# Verificar si el árbol es un BST válido (ejercicio adicional)
-def is_bst_valid(node):
-    # Implementa la lógica aquí
+texto = "Este es un ejemplo de un texto para contar las palabras. Este texto tiene varias palabras repetidas y algunas no."
+print(contar_palabras(texto))
 ```
 
-**Ejercicio 2: Verificación de la estructura del BST**
-
-Implementar una función `is_bst_valid` que verifique si el árbol creado sigue las propiedades de un BST. La función debe recorrer el árbol y verificar que cada nodo cumple con la condición de que todos los nodos en su subárbol izquierdo sean menores y todos los nodos en su subárbol derecho sean mayores.
+Optimice el código anterior para mejorar su eficiencia, considerando la utilización adecuada de listas y diccionarios.
 
 ### Resumen
-
-- Se ha profundizado en la implementación de estructuras de datos avanzadas, específicamente árboles binarios de búsqueda.
-- El estudiante ha aprendido a insertar nodos en un BST y a verificar si el árbol sigue las propiedades del BST.
+- Se aprendió a evaluar la elección entre usar listas o diccionarios según las operaciones necesarias.
+- Se optimizó un código existente para contar el número de ocurrencias de cada palabra en un texto, mejorando su eficiencia.
