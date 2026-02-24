@@ -1,16 +1,15 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y planificar las necesidades técnicas del proyecto.
+- Comprender los pasos iniciales para diseñar un proyecto Python.
+- Identificar y definir las necesidades del proyecto.
 
 Contenido
-En esta lección, se abordará el proceso de diseño para proyectos en Python. Se tratará la importancia de definir claramente las metas del proyecto desde el principio, así como la identificación de las tecnologías y bibliotecas que podrían ser necesarias para su implementación. Se discutirá cómo crear un esquema de flujo de trabajo que permita abordar el proyecto de manera estructurada, asegurando que cada componente esté bien planificado y coordinado.
+En esta lección de Diseño del Proyecto, se abordará la planificación inicial antes de comenzar a escribir código. El primer paso es entender el problema que se quiere resolver con el proyecto. Esto implica realizar una investigación exhaustiva para identificar las necesidades y requisitos del proyecto. Posteriormente, se debe definir claramente qué hace el proyecto y quién será su público objetivo. Esta etapa también incluye la creación de un esquema o diagrama de flujo básico que ilustre cómo funcionará el programa.
 
 Ejercicio
-El estudiante deberá diseñar un pequeño proyecto personal en Python, identificando las metas del proyecto, seleccionando las tecnologías apropiadas y creando un esquema básico para el flujo de trabajo. El proyecto puede ser cualquier cosa que el estudiante desee, como una aplicación de consola simple o una pequeña herramienta web.
+El estudiante deberá seleccionar un tema para un proyecto Python, realizar una investigación inicial sobre el mismo, y luego definir las necesidades del proyecto. El estudiante debe presentar un resumen breve (2-3 párrafos) de su idea de proyecto, incluyendo los objetivos principales y quién será su público objetivo.
 
 Resumen
-- Definir claramente las metas del proyecto.
-- Identificar tecnologías y bibliotecas necesarias.
-- Crear un esquema básico para el flujo de trabajo.
+- Identificar el problema a resolver con el proyecto.
+- Definir claramente las necesidades del proyecto.
