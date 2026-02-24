@@ -1,9 +1,15 @@
 # Criterios de evaluacion
 
-- El estudiante demostrará su capacidad para aplicar los conceptos de programación en Python a través del desarrollo de un proyecto final.
-- Se evaluará la implementación efectiva de estructuras de datos y algoritmos, así como el uso adecuado de bucles, funciones y clases. Además, se tendrá en cuenta la claridad y eficiencia del código, la documentación proporcionada y su capacidad para resolver problemas complejos.
+Objetivos
+- Comprender los criterios de evaluación para el proyecto final de Python.
+- Identificar los aspectos importantes a considerar durante la revisión del código.
 
-Para este ejercicio, desarrolla un programa que permita gestionar una biblioteca virtual. El programa debe incluir funcionalidades como agregar libros, eliminar libros, buscar libros por título o autor, listar todos los libros disponibles y generar un informe estadístico sobre la cantidad de libros por género. Utiliza clases para representar los libros y la biblioteca.
+Contenido
+En esta lección, se presentarán los criterios de evaluación que guiarán la calificación del proyecto final en Python. Estos criterios son fundamentales para asegurar que el trabajo entregado sea de calidad y cumpla con las expectativas establecidas por el curso. Los aspectos a evaluar incluirán la implementación técnica, la estructura del código, la documentación y los tests unitarios. Es crucial que cada estudiante comprenda estos criterios para poder ajustar su trabajo y mejorar en áreas específicas.
 
-- Los criterios de evaluación centran en el uso correcto de estructuras de datos, la resolución de problemas complejos y la calidad del código.
-- El programa debe ser funcional y bien documentado.
+Ejercicio
+Desarrolla un programa Python que calcule el área de un círculo dado su radio. Asegúrate de incluir comentarios en tu código explicando cada paso, y realiza pruebas unitarias para validar la funcionalidad del programa. Evalúa tu propio trabajo según los criterios mencionados: implementación técnica, estructura del código, documentación y tests unitarios.
+
+Resumen
+- Los criterios de evaluación incluyen la implementación técnica, la estructura del código, la documentación y los tests unitarios.
+- Es importante comprender estos criterios para mejorar el trabajo final.
