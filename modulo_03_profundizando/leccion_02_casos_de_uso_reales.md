@@ -1,11 +1,16 @@
 # Casos de uso reales
 
-- Entender cómo Python se aplica en soluciones reales de desarrollo web.
-- Implementar un caso práctico utilizando Flask para una aplicación web básica.
+### Objetivos
+- Comprender cómo aplicar Python en proyectos reales.
+- Analizar casos de uso específicos para mejorar la capacidad de programación.
 
-En esta lección profundizaremos en los casos de uso reales de Python, centrándonos en su aplicación en el desarrollo web. Veremos cómo Python es una herramienta versátil y poderosa que puede ser utilizada para crear aplicaciones web robustas y eficientes. Para ilustrar esto, desarrollaremos un proyecto práctico utilizando Flask, una microframework popular en Python, que nos permitirá construir una aplicación web simple desde cero.
+### Contenido
+En esta lección profundizaremos en el uso práctico de Python, explorando casos de uso reales que demuestran su versatilidad y eficacia. Veremos cómo Python se utiliza en el análisis de datos con un proyecto de visualización de datos interactivos utilizando bibliotecas como Matplotlib y Plotly. También abordaremos la automatización de tareas diarias mediante scripts en Python, destacando ejemplos como la creación de bots para redes sociales o herramientas de gestión de archivos.
 
-El ejercicio consistirá en crear una pequeña aplicación web que permita a los usuarios registrarse, iniciar sesión y publicar mensajes. Los pasos incluyen la configuración del entorno de desarrollo, la instalación de Flask, el diseño de la base de datos utilizando SQLAlchemy, la creación de las vistas y rutas necesarias para manejar las funcionalidades mencionadas, y finalmente, la implementación de un sistema de autenticación básica.
+### Ejercicio
+Implementa un script en Python que realice el seguimiento del número de likes en una publicación de Facebook a intervalos regulares y registre esta información en un archivo CSV. Utiliza la biblioteca `requests` para acceder a la API de Facebook y `pandas` para manejar los datos.
 
-- Familiarizarse con el uso de Flask en proyectos web.
-- Desarrollar una aplicación web básica utilizando Python.
+### Resumen
+- Se destacará la aplicación práctica de Python en el análisis de datos.
+- Se explorarán casos reales como la automatización de tareas y la visualización interactiva de datos.
+- Los estudiantes aprenderán a utilizar bibliotecas como Matplotlib, Plotly, `requests` y `pandas`.
