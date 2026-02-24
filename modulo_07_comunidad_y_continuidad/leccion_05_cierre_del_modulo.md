@@ -1,11 +1,11 @@
 # Cierre del modulo
 
-- Consolidar la comprensión de los conceptos fundamentales y avanzados de Python.
-- Fomentar la aplicación práctica de estos conocimientos a través del desarrollo de proyectos personales.
+- Consolidar el conocimiento adquirido durante el módulo de Python.
+- Preparar a los estudiantes para aplicar sus habilidades en proyectos futuros.
 
-La lección final del módulo sobre Comunidad y continuidad se centra en la importancia de la colaboración y el aprendizaje continuo dentro de la comunidad de programadores. Se exploran diversas formas de interactuar con otros miembros, como participar en foros de discusión, contribuir a proyectos open source o formar grupos locales para compartir conocimientos. La lección también aborda cómo mantenerse actualizado con las últimas novedades y mejores prácticas en el campo de la programación Python.
+En esta lección final del módulo sobre Python, revisaremos algunos conceptos clave que han sido fundamentales para su comprensión y práctica. Hemos explorado desde las estructuras básicas hasta la programación orientada a objetos, pasando por el manejo de datos y la utilización de bibliotecas. Es importante recordar que Python es un lenguaje versátil y ampliamente utilizado en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más.
 
-Para practicar estos conceptos, los estudiantes deben elegir un proyecto de código abierto relacionado con Python y contribuir con al menos una nueva función o mejora. Deben documentar su proceso de colaboración y las habilidades adquiridas durante esta experiencia.
+Para practicar lo aprendido, los estudiantes deberán desarrollar una pequeña aplicación que permita gestionar una librería virtual. La aplicación deberá incluir funcionalidades para agregar, eliminar y buscar libros por título o autor. Además, se les pedirá que utilicen estructuras de datos apropiadas y bibliotecas externas si es necesario.
 
-- El cierre del módulo enfatiza la importancia de la colaboración en el aprendizaje.
-- Se fomenta la participación activa en la comunidad Python para mantenerse actualizado y contribuir con conocimientos.
+- Integración de conceptos del módulo en un proyecto.
+- Aplicación práctica de Python en una situación real.
