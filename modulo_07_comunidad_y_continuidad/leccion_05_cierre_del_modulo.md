@@ -1,10 +1,15 @@
 # Cierre del modulo
 
-- Consolidar los conocimientos adquiridos durante el módulo de Python.
-- Preparar a los estudiantes para aplicar sus habilidades en proyectos prácticos y futuros cursos avanzados.
+Objetivos
+- Consolidar el conocimiento adquirido sobre Python y su aplicación práctica.
+- Fomentar la continuidad del aprendizaje en Python mediante recursos y comunidades.
 
-En esta lección final del módulo sobre Python, revisaremos los conceptos clave que hemos cubierto. Hemos explorado la sintaxis básica, estructuras de control, funciones, listas, diccionarios, bucles, excepciones, y el uso de bibliotecas estándar. Además, hemos trabajado con archivos y hemos introducido la programación orientada a objetos en Python.
+Contenido
+En esta última lección del módulo, revisaremos los conceptos clave que se han cubierto hasta ahora. Hablaremos de cómo aplicar estos conocimientos en proyectos reales y discutiremos la importancia de mantenerse actualizado con nuevas versiones y mejores prácticas en Python. Se recomendará la exploración de recursos como documentación oficial, foros de discusión y plataformas de tutoría para continuar el aprendizaje.
 
-Para practicar estos conceptos, desarrollaremos un pequeño proyecto que combine varios elementos aprendidos durante el módulo. Los estudiantes deberán crear una aplicación simple que permita al usuario ingresar datos de productos, guardarlos en un archivo CSV, y luego leer esos datos para generar informes básicos. Este ejercicio les permitirá aplicar sus habilidades en un contexto práctico y prepararse para proyectos más complejos.
+Ejercicio
+Implementa un proyecto que combine diferentes conceptos vistos durante el módulo: utiliza funciones, listas, bucles y excepciones en un programa que resuelva un problema práctico. Documenta tu código con comentarios claros y explícalo brevemente en un informe adjunto.
 
-Los puntos clave a retener son la capacidad de implementar estructuras de datos y funciones eficientemente, manejar excepciones para mejorar la robustez del código, y utilizar archivos para persistir datos. Estos conceptos forman la base sólida necesaria para avanzar en el aprendizaje de Python y aplicarlo en diversas situaciones.
+Resumen
+- Recapitulación de los conceptos clave del módulo.
+- Promoción de la continuidad del aprendizaje a través de recursos adicionales.
