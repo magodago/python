@@ -1,16 +1,15 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender las características principales de Python y su importancia en la programación.
-- Familiarizarse con los fundamentos básicos del lenguaje.
+- Comprender los fundamentos de Python y su relevancia actual.
+- Identificar las aplicaciones más comunes de Python en la industria.
 
 ## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una herramienta fundamental para desarrolladores debido a su simplicidad y versatilidad. Este curso te introducirá a Python, explorando sus características clave como sintaxis clara, facilidad de aprendizaje y amplia comunidad de usuarios. Aprenderás cómo instalar el entorno de desarrollo, entenderás la estructura básica del código en Python y verás ejemplos prácticos que ilustrarán cómo se utilizan variables, tipos de datos básicos y operadores.
+En esta lección introductoria, se explorará el porqué Python es un lenguaje de programación tan popular. Se abordarán temas como su sintaxis simple y legible, lo que hace que sea fácil para principiantes aprender a programar. Además, se discutirá cómo Python se utiliza en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y automatización de tareas. El objetivo es proporcionar una visión general del lenguaje y motivar a los estudiantes para que continúen su aprendizaje.
 
 ## Ejercicio
-Escribe un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica el programa para que pida al usuario su nombre e imprima una saludo personalizado.
+Escribe un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica el programa para que pregunte al usuario por su nombre e imprima una salutación personalizada.
 
 ## Resumen
-- Introducción a las características de Python.
-- Instalación y configuración del entorno de desarrollo.
-- Estructura básica y primeros pasos con variables y tipos de datos.
+- Python es conocido por su sintaxis clara y sencilla.
+- Se utiliza ampliamente en desarrollo web, análisis de datos y más.
