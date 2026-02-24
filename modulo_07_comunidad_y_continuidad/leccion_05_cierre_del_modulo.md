@@ -1,15 +1,11 @@
 # Cierre del modulo
 
-Objetivos
-- Consolidar el conocimiento adquirido sobre Python y su aplicación práctica.
-- Fomentar la continuidad del aprendizaje en Python mediante recursos y comunidades.
+- Revisar y consolidar los conocimientos adquiridos durante el módulo de Python.
+- Preparar a los estudiantes para aplicar sus habilidades en proyectos prácticos y futuros módulos.
 
-Contenido
-En esta última lección del módulo, revisaremos los conceptos clave que se han cubierto hasta ahora. Hablaremos de cómo aplicar estos conocimientos en proyectos reales y discutiremos la importancia de mantenerse actualizado con nuevas versiones y mejores prácticas en Python. Se recomendará la exploración de recursos como documentación oficial, foros de discusión y plataformas de tutoría para continuar el aprendizaje.
+En esta lección final, es crucial que reflexionen sobre su progreso y se aseguren de haber comprendido todos los conceptos clave del módulo. Hemos explorado desde las bases fundamentales como las variables y tipos de datos hasta la programación orientada a objetos y la manipulación de archivos. Es importante que practiquen lo aprendido en proyectos reales para fortalecer su comprensión.
 
-Ejercicio
-Implementa un proyecto que combine diferentes conceptos vistos durante el módulo: utiliza funciones, listas, bucles y excepciones en un programa que resuelva un problema práctico. Documenta tu código con comentarios claros y explícalo brevemente en un informe adjunto.
+Para este ejercicio, les pedimos que desarrollen un pequeño programa que permita al usuario ingresar los detalles de una persona (nombre, edad, ciudad) y guarde esta información en un archivo de texto. Luego, el programa debe poder leer estos datos y mostrarlos en pantalla. Este ejercicio será de gran utilidad para consolidar su conocimiento sobre variables, funciones, archivos y la programación orientada a objetos.
 
-Resumen
-- Recapitulación de los conceptos clave del módulo.
-- Promoción de la continuidad del aprendizaje a través de recursos adicionales.
+- Consolidación del uso de Python.
+- Desarrollo práctico de habilidades adquiridas.
