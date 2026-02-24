@@ -1,15 +1,19 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos iniciales para diseñar un proyecto Python.
-- Identificar y definir las necesidades del proyecto.
+- Comprender los pasos fundamentales para el diseño de un proyecto Python.
+- Identificar las etapas del proceso de planificación y organización necesarias antes de comenzar a codificar.
 
 Contenido
-En esta lección de Diseño del Proyecto, se abordará la planificación inicial antes de comenzar a escribir código. El primer paso es entender el problema que se quiere resolver con el proyecto. Esto implica realizar una investigación exhaustiva para identificar las necesidades y requisitos del proyecto. Posteriormente, se debe definir claramente qué hace el proyecto y quién será su público objetivo. Esta etapa también incluye la creación de un esquema o diagrama de flujo básico que ilustre cómo funcionará el programa.
+El diseño del proyecto es una fase crucial en la creación de aplicaciones o programas utilizando Python. Este proceso implica varios pasos que ayudan a estructurar el desarrollo, asegurando que se cumplan los requisitos funcionales y no funcionales del proyecto. En primer lugar, es necesario realizar un análisis detallado de las necesidades del cliente o usuario final para definir claramente qué debe hacer la aplicación. Posteriormente, se deben establecer objetivos claros y medibles, lo que permitirá a los desarrolladores mantenerse enfocados en el resultado esperado. Además, es crucial crear un cronograma detallado que incluya las etapas de desarrollo, pruebas y lanzamiento.
 
 Ejercicio
-El estudiante deberá seleccionar un tema para un proyecto Python, realizar una investigación inicial sobre el mismo, y luego definir las necesidades del proyecto. El estudiante debe presentar un resumen breve (2-3 párrafos) de su idea de proyecto, incluyendo los objetivos principales y quién será su público objetivo.
+El estudiante debe seleccionar un proyecto real simple (por ejemplo, una aplicación de to-do list) e identificar los objetivos del mismo. Luego, el estudiante debe escribir un breve resumen del análisis de requisitos que incluya lo siguiente: 
+- Un propósito claro y definido.
+- Objetivos específicos, medibles, alcanzables, relevantes y temporales (SMART).
+- Una lista de funcionalidades básicas necesarias para la aplicación.
 
 Resumen
-- Identificar el problema a resolver con el proyecto.
-- Definir claramente las necesidades del proyecto.
+- El diseño del proyecto es fundamental para el éxito de cualquier desarrollo en Python.
+- Es crucial realizar un análisis detallado de requisitos antes de comenzar a codificar.
+- La definición de objetivos SMART y la creación de un cronograma ayudan a mantener el proyecto en curso.
