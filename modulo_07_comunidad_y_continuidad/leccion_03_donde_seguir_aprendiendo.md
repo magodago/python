@@ -1,11 +1,13 @@
 # Donde seguir aprendiendo
 
 - Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
-- Los estudiantes identificarán cómo participar en la comunidad de programadores para mejorar sus habilidades.
+- Los estudiantes identificarán y evaluarán diferentes comunidades de aprendizaje en línea y offline.
 
-En esta lección se explorará la importancia de seguir aprendiendo después de completar el curso. Se presentarán diferentes plataformas y recursos que permiten a los estudiantes profundizar en Python, como tutoriales avanzados, documentación oficial, foros de discusión y proyectos de código abierto. Además, se explicará cómo participar en la comunidad de programadores para recibir feedback, colaborar con otros desarrolladores y mantenerse actualizados sobre las últimas tendencias y mejoras en el lenguaje.
+En esta lección se explorarán los diversos caminos que los estudiantes pueden tomar para seguir profundizando sus conocimientos en Python. Se destacará la importancia de participar en comunidades de aprendizaje tanto online como offline, ya que estos espacios proporcionan soporte continuo, oportunidades de práctica y networking con otros apasionados del lenguaje.
 
-Para practicar, los estudiantes deberán elegir una plataforma de aprendizaje en línea y realizar un proyecto simple utilizando Python. Deben documentar sus avances y compartirlos en un foro de discusión para recibir comentarios y sugerencias de otros miembros de la comunidad.
+Para ilustrar esto, se presentarán ejemplos de plataformas como Codecademy, Coursera y Pluralsight, que ofrecen cursos avanzados y certificaciones. También se mencionará la importancia de foros como Stack Overflow y GitHub, donde los estudiantes pueden resolver dudas y colaborar en proyectos.
 
-- Los estudiantes podrán acceder a recursos adicionales para continuar su formación.
-- La participación activa en la comunidad puede mejorar significativamente sus habilidades y conocimientos sobre Python.
+Ejercicio: Los estudiantes deberán buscar tres recursos o comunidades de aprendizaje para Python (al menos uno online y otro offline) y evaluar brevemente su utilidad y relevancia. Presentarán sus hallazgos en un breve informe.
+
+- Los estudiantes reconocerán la importancia de participar en comunidades de aprendizaje.
+- Se identificarán recursos específicos para continuar el aprendizaje de Python.
