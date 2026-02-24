@@ -1,18 +1,11 @@
 # Proyecto practico 1
 
-### Objetivos
-- Implementar un sistema de gestión básica de tareas utilizando clases y objetos.
-- Utilizar herencia para crear una jerarquía de clases que represente diferentes tipos de tareas.
+- Implementar una clase que permita trabajar con matrices bidimensionales y realizar operaciones básicas como suma, resta y multiplicación.
 
-### Contenido
-En esta lección, se profundizará en el uso avanzado de Python, enfocándose en la creación de un proyecto práctico que implementa un sistema de gestión de tareas. A través del estudio de clases y objetos, los estudiantes aprenderán a organizar y manipular datos de manera eficiente. La lección también abordará la importancia de la herencia para crear estructuras de datos más complejas y flexibles.
+En esta lección del módulo de técnicas avanzadas, se profundizará en el manejo de estructuras más complejas utilizando Python. Se centrará en la creación de una clase `Matriz` que permita crear y manipular matrices bidimensionales. Los estudiantes aprenderán a implementar métodos para realizar operaciones matemáticas comunes entre matrices, como suma, resta y multiplicación, lo cual es fundamental para aplicaciones en ciencia de datos, ingeniería y análisis numérico.
 
-Se comenzará por definir una clase base `Tarea` que contendrá atributos comunes a todas las tareas, como el título, la fecha de creación y el estado (pendiente o completada). A continuación, se implementarán clases derivadas que heredarán de `Tarea`, tales como `TareaDiaria`, `TareaSemanal` y `TareaMensual`, cada una con atributos y métodos específicos.
+Para desarrollar esta clase, se utilizará la sintaxis de clases de Python junto con métodos especiales. Los estudiantes deberán implementar el constructor que inicialice la matriz, así como los métodos `__add__`, `__sub__` y `__mul__` para sumar, restar y multiplicar matrices respectivamente.
 
-### Ejercicio
-Cree un sistema de gestión de tareas básico. Comience definiendo la clase base `Tarea` con los siguientes atributos: `titulo`, `fecha_creacion` (en formato `YYYY-MM-DD`) y `estado` (una cadena que puede ser "pendiente" o "completada"). Luego, implemente una clase derivada `TareaDiaria` que herede de `Tarea` e incluya un atributo adicional `hora` para especificar la hora en la que se debe completar la tarea.
-
-### Resumen
-- Se ha creado una clase base `Tarea` con atributos comunes.
-- Se ha implementado una jerarquía de clases utilizando herencia para representar diferentes tipos de tareas.
-- Se ha definido un atributo adicional en la clase derivada `TareaDiaria`.
+- Diseñar una clase `Matriz` con métodos para operaciones matemáticas básicas entre matrices.
+- Implementar el constructor de la clase `Matriz`.
+- Crear métodos que permitan realizar suma, resta y multiplicación entre matrices.
