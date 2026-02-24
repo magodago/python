@@ -1,17 +1,16 @@
 # Resumen del modulo
 
 ## Objetivos
-- Consolidar la comprensión de los conceptos fundamentales de Python.
-- Aplicar conocimientos prácticos para resolver problemas básicos.
+- Consolidar el conocimiento adquirido sobre las características básicas de Python.
+- Resumir los fundamentos esenciales del lenguaje.
 
 ## Contenido
-En esta lección final del módulo sobre Fundamentos esenciales, repasaremos los puntos clave que se han cubierto hasta ahora. Hemos explorado la sintaxis básica, tipos de datos, estructuras de control como if-else y bucles, funciones y listas. Estos conceptos son fundamentales para cualquier programador Python, ya que forman la base sobre la cual se construyen soluciones más complejas.
-
-Además, hemos trabajado con archivos y excepciones, aprendiendo cómo leer y escribir datos en archivos locales, así como manejar errores de manera efectiva. Este conocimiento es crucial para desarrollar aplicaciones robustas que puedan manejar diferentes situaciones sin interrumpirse.
+En esta lección final del módulo, se revisará todo lo aprendido en los anteriores sesiones. Se abordaron temas como la sintaxis básica, tipos de datos primitivos (entero, flotante, cadena y booleano), operadores aritméticos y lógicos, estructuras condicionales (if-elif-else) y bucles (for y while). También se introdujeron las listas, tuplas y diccionarios como estructuras de datos fundamentales. Se destacó la importancia del uso correcto de indentación para definir bloques de código en Python.
 
 ## Ejercicio
-Escribe un programa Python que lea una lista de números del archivo `numeros.txt`, sume todos los números y escriba el resultado en un nuevo archivo llamado `suma.txt`. Asegúrate de manejar correctamente cualquier error que pueda ocurrir durante la lectura o escritura de archivos.
+Escribe un programa que solicite al usuario ingresar tres números enteros e imprima el mayor entre ellos. Utiliza una estructura condicional if-elif-else para determinar el número más grande.
 
 ## Resumen
-- Consolidación de los conceptos básicos de Python.
-- Aplicación práctica para resolver problemas simples.
+- Se resumieron los fundamentos esenciales de Python, incluyendo sintaxis y tipos de datos.
+- Se practicaron estructuras condicionales y bucles básicos.
+- Se introdujeron las listas, tuplas y diccionarios como estructuras de datos.
