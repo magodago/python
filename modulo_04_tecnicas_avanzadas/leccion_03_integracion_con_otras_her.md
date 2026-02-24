@@ -1,17 +1,11 @@
 # Integracion con otras herramientas
 
-## Objetivos
-- Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
-- Aprender a utilizar bibliotecas de gráficos como Matplotlib para visualizar datos.
+- Integrar Python con bases de datos SQL para automatizar tareas de análisis y manipulación de datos.
+- Utilizar bibliotecas externas como NumPy y Pandas junto con Python para realizar operaciones complejas en conjuntos de datos.
 
-## Contenido
-En esta lección del módulo de técnicas avanzadas, se explorará la integración de Python con otras herramientas de análisis de datos y visualización. Se comenzará revisando cómo Pandas, una poderosa biblioteca de análisis de datos, puede ser utilizada en conjunto con Python para manipular y procesar grandes volúmenes de datos. Luego, se profundizará en la integración con NumPy, que proporciona soporte para operaciones numéricas eficientes en arrays multidimensionales.
+Python, siendo un lenguaje de programación versátil, puede integrarse eficazmente con otras herramientas y tecnologías. En esta lección, se explorará cómo Python puede conectarse a bases de datos SQL utilizando módulos como `sqlite3` para bases locales o `psycopg2` para PostgreSQL, entre otros. Además, se profundizará en el uso de bibliotecas como NumPy y Pandas, que proporcionan funcionalidades avanzadas para el manejo y análisis de datos, permitiendo a los estudiantes realizar operaciones complejas con facilidad.
 
-Además, se explicará cómo Matplotlib, una biblioteca de gráficos en Python, puede ser utilizada para crear visualizaciones detalladas y atractivas basadas en datos manipulados con Pandas. Se proporcionarán ejemplos prácticos que demuestran la integración entre estas herramientas para realizar análisis complejos y presentar resultados de manera efectiva.
+Para practicar, los alumnos deberán escribir un script Python que conecte a una base de datos SQL local, realice consultas y manipule la información recuperada utilizando Pandas. El objetivo es familiarizarlos con el flujo de trabajo desde la conexión hasta la visualización de resultados en forma de tablas o gráficos.
 
-## Ejercicio
-Utilice Pandas para cargar un conjunto de datos de ejemplo disponible en el repositorio del curso, luego procese los datos utilizando funciones de NumPy. Finalmente, cree una gráfica utilizando Matplotlib que represente la relación entre dos columnas del conjunto de datos.
-
-## Resumen
-- Se aprendió a integrar Python con Pandas y NumPy para manipular y procesar datos.
-- Se exploró cómo utilizar Matplotlib para visualizar los resultados obtenidos.
+- Conexión a bases de datos SQL desde Python.
+- Uso de NumPy y Pandas para análisis de datos complejos.
