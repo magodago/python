@@ -1,11 +1,11 @@
 # Nivel avanzado
 
 - Dominar la optimización de código mediante técnicas avanzadas.
-- Aprender a utilizar decoradores y métodos metaclasses para mejorar la funcionalidad del código.
+- Aprender a utilizar bibliotecas y frameworks externos para mejorar la funcionalidad del código.
 
-La lección se centrará en la optimización de código Python, una habilidad crucial para desarrolladores que buscan mejorar el rendimiento y eficiencia de sus aplicaciones. Se explorarán técnicas como la utilización de listas comprensivas, generadores y comprensiones de diccionarios para reducir la complejidad del código y aumentar su velocidad. Además, se profundizará en la optimización de bucles y la gestión eficiente de memoria.
+La lección se centrará en técnicas avanzadas para optimizar el rendimiento del código Python. Se abordarán temas como la utilización eficiente de memoria, el uso de decoradores para mejorar el rendimiento y la implementación de algoritmos más eficientes. Se explorará cómo utilizar herramientas como `timeit` y `cProfile` para medir el rendimiento del código y identificar posibles áreas de mejora.
 
-El ejercicio práctico consistirá en tomar un fragmento de código que realiza operaciones matemáticas complejas y aplicar las técnicas aprendidas para optimizarlo. Los estudiantes deberán presentar el código original, su análisis de rendimiento y el código optimizado con una explicación detallada de las mejoras realizadas.
+Para practicar estos conceptos, los alumnos deberán optimizar un script que realiza cálculos intensivos en una lista grande de números. El objetivo es reducir significativamente el tiempo de ejecución del programa utilizando técnicas vistas en la lección.
 
-- Optimización mediante listas comprensivas y generadores.
-- Uso efectivo de métodos metaclasses y decoradores para mejorar la funcionalidad del código.
+- Optimización del rendimiento mediante decoradores.
+- Uso de herramientas para medir y mejorar el rendimiento.
