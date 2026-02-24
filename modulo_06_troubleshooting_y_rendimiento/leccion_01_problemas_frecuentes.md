@@ -1,17 +1,15 @@
 # Problemas frecuentes
 
-## Objetivos
-- Identificar y resolver problemas comunes relacionados con la sintaxis de Python.
-- Mejorar el rendimiento de programas Python mediante la optimización del código.
-
 ## Contenido
-En esta lección, se abordarán algunos de los problemas más frecuentes que los programadores pueden encontrar al trabajar con Python. Uno de los errores más comunes es la mala sintaxis, lo cual puede ser causado por varios factores como la falta de puntos y coma en declaraciones, o el uso incorrecto de paréntesis, corchetes u llaves. Para solucionar estos problemas, se recomienda revisar cada línea de código con atención y utilizar herramientas de depuración integradas en los IDEs populares.
+Los problemas frecuentes en Python suelen estar relacionados con errores de sintaxis, excepciones no manejadas y problemas de rendimiento. Para resolver estos problemas, es importante tener una buena comprensión del lenguaje y conocer las herramientas disponibles para la depuración. Algunos errores comunes incluyen:
 
-Además, se discutirá cómo mejorar la eficiencia del código Python. Algunos consejos incluyen evitar el uso innecesario de bucles for y while, preferir métodos más eficientes como map(), filter() o list comprehensions cuando sea posible. También se explorará la importancia de optimizar funciones largas y repetitivas, utilizando técnicas como la memoización para almacenar resultados previos y evitar cálculos duplicados.
+- **Errores de Sintaxis:** Estos ocurren cuando el código no sigue las reglas gramaticales del lenguaje, como olvidar cerrar un paréntesis o usar una palabra reservada incorrectamente.
+- **Excepciones No Manejadas:** Python genera excepciones para manejar errores inesperados. Si estas excepciones no se capturan y manejan adecuadamente, pueden causar que el programa se detenga repentinamente.
+- **Problemas de Rendimiento:** Algunos problemas de rendimiento pueden ser difíciles de identificar, especialmente si el código es complejo o utiliza bibliotecas externas. Herramientas como `timeit` y `cProfile` son útiles para medir el tiempo de ejecución y analizar la eficiencia del código.
 
 ## Ejercicio
-Escribe un programa en Python que calcule los primeros 100 números de Fibonacci. Identifica y corrige cualquier error de sintaxis que puedas encontrar. Luego, optimiza tu código utilizando una función recursiva con memoización para mejorar su rendimiento. Mide el tiempo de ejecución antes y después de la optimización.
+Implementa un programa simple que calcule la suma de los primeros 100 números naturales utilizando un bucle `for`. Luego, modifica tu código para que use una comprensión de lista y compara el rendimiento usando `timeit`.
 
 ## Resumen
-- La mala sintaxis es un problema común en Python, pero puede ser fácilmente identificado y corregido.
-- Mejorar el rendimiento implica optar por métodos más eficientes y evitar cálculos innecesarios.
+- Identificar errores de sintaxis y excepciones no manejadas es fundamental para depurar código Python.
+- Herramientas como `timeit` y `cProfile` son útiles para mejorar la eficiencia del código.
