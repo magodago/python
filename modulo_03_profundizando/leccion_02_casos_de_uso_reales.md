@@ -1,19 +1,11 @@
 # Casos de uso reales
 
-- Dominar la aplicación de Python en proyectos reales.
-- Comprender cómo abordar problemas complejos utilizando estructuras y patrones de diseño avanzados.
+- Comprender cómo Python se aplica en el procesamiento de datos para análisis estadísticos.
+- Implementar soluciones prácticas utilizando bibliotecas como Pandas y NumPy.
 
-Python es una herramienta versátil que se aplica en una amplia gama de casos de uso, desde desarrollo web hasta ciencia de datos, pasando por automatización de tareas. En este módulo profundizaremos en cómo Python puede ser utilizado en proyectos reales, explorando ejemplos prácticos y desglosando los patrones de diseño y estructuras que facilitan la resolución de problemas complejos. Por ejemplo, veremos cómo utilizar Flask para crear aplicaciones web sencillas, cómo implementar algoritmos de aprendizaje automático con scikit-learn, o cómo automatizar tareas de gestión de archivos utilizando el módulo os.
+Python es una herramienta fundamental en el campo del análisis de datos, donde su sintaxis clara y potente librerías permiten a los profesionales realizar tareas complejas con facilidad. En este módulo, exploraremos casos reales en los que Python se utiliza para procesar grandes volúmenes de datos, utilizando herramientas como Pandas para manipular y analizar datos tabulares, y NumPy para operaciones matemáticas intensivas. Estos ejemplos no solo ilustran la versatilidad de Python sino también su capacidad para manejar problemas complejos en el campo del análisis de datos.
 
-Para este ejercicio, desarrollaremos una aplicación simple que utiliza Flask y SQLAlchemy para gestionar un sistema de biblioteca. Los pasos a seguir son:
+Para practicar, los estudiantes deberán trabajar con un conjunto de datos reales sobre ventas de una empresa ficticia. El objetivo es utilizar Pandas y NumPy para realizar diversas operaciones como la limpieza de datos, cálculos estadísticos básicos y visualizaciones gráficas. Este ejercicio permitirá a los alumnos aplicar lo aprendido en un contexto práctico.
 
-1. Instalar Flask y SQLAlchemy.
-2. Crear una estructura básica de directorios y archivos para la aplicación.
-3. Definir las entidades (libros, usuarios) y sus relaciones en SQLAlchemy.
-4. Implementar endpoints REST para crear, leer, actualizar y eliminar registros.
-5. Probar la funcionalidad de la aplicación.
-
-Este ejercicio te permitirá aplicar conocimientos prácticos sobre Flask y SQLAlchemy, y entender cómo estructurar un proyecto real utilizando estas herramientas.
-
-- Familiarizarse con el uso de Flask y SQLAlchemy en proyectos web.
-- Practicar la creación de endpoints REST para gestionar datos.
+- Familiaridad con el uso de Pandas y NumPy en análisis de datos.
+- Comprensión de cómo Python se utiliza para realizar tareas complejas de análisis estadístico.
