@@ -1,15 +1,11 @@
 # Como sacar el maximo partido
 
-- Entender las características y ventajas de Python que lo hacen una excelente opción para diversos proyectos.
-- Aprender a utilizar herramientas y prácticas recomendadas para mejorar la eficiencia y legibilidad del código.
+- Comprender las características principales de Python que lo hacen un lenguaje versátil y fácil de aprender.
+- Identificar herramientas y recursos adicionales para mejorar la eficiencia del código en Python.
 
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos, conocido por su sintaxis clara y legible. Su diseño conciso permite a los desarrolladores escribir con menos líneas de código en comparación con otros lenguajes como Java o C++. Esto no solo hace que el código sea más fácil de leer y mantener, sino también más rápido de escribir. Además, Python cuenta con una gran comunidad y una amplia gama de bibliotecas y frameworks que facilitan la resolución de problemas en áreas tan variadas como análisis de datos, desarrollo web, inteligencia artificial y automatización de tareas.
+En esta lección, se explorarán los aspectos más importantes de Python que permiten al programador sacar el máximo partido de este lenguaje. Se destacará cómo su sintaxis clara y legible facilita la escritura de código eficiente y mantenible. Además, se presentarán algunas bibliotecas populares como NumPy y Pandas, que amplían significativamente las capacidades del lenguaje para el procesamiento numérico y el análisis de datos.
 
-Para sacar el máximo partido de Python, es recomendable familiarizarse con su sintaxis y estructura básica. Por ejemplo, se puede utilizar el linter PyLint para detectar errores comunes en el código antes de que se ejecute. También, la utilización de un entorno virtual como venv o conda ayuda a mantener las dependencias del proyecto separadas de otras aplicaciones, lo que evita conflictos entre versiones y librerías.
+Para practicar estos conceptos, los estudiantes deberán desarrollar un programa que utilice estas herramientas. El ejercicio consiste en crear un script que cargue un conjunto de datos, realice operaciones básicas con NumPy y luego visualice los resultados con Pandas. Este ejercicio permitirá a los alumnos aplicar lo aprendido sobre la sintaxis básica y las bibliotecas adicionales.
 
-Ejercicio: 
-Implementa una función en Python que calcule el factorial de un número utilizando recursividad. Luego, utiliza PyLint para analizar tu código y corregir cualquier advertencia o error que se indique. Mide el tiempo de ejecución del programa antes y después de las correcciones y observa si hay mejoras significativas.
-
-- Familiarizarse con la sintaxis y estructura básica de Python.
-- Utilizar herramientas como PyLint para mejorar la calidad del código.
-- Medir el rendimiento del código antes y después de optimizaciones.
+- Familiaridad con la sintaxis clara de Python.
+- Conocimiento de herramientas como NumPy y Pandas para mejorar el procesamiento numérico y análisis de datos.
