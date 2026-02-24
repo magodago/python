@@ -1,11 +1,13 @@
 # Certificacion y siguiente nivel
 
-- Los estudiantes comprenderán los beneficios de obtener una certificación en Python.
-- Los alumnos aprenderán sobre las diferentes rutas para alcanzar el siguiente nivel en su aprendizaje de Python.
+- Los estudiantes comprenderán la importancia de obtener certificaciones en Python y cómo estas pueden abrir oportunidades laborales.
 
-En esta lección del módulo "Comunidad y continuidad", se explorará la importancia de obtener una certificación en Python como un paso significativo hacia la profesionalización. Las certificaciones no solo demuestran conocimientos sólidos, sino que también pueden abrir puertas a oportunidades laborales y aumentar el valor percibido por los empleadores. Además, se discutirá cómo las certificaciones pueden servir como una base para continuar avanzando en la carrera de programación, identificando diferentes rutas posibles, desde especializaciones hasta cursos más avanzados.
+- Se explorarán los diferentes niveles de certificación ofrecidos por organizaciones como Oracle y The Open Group, destacando las habilidades necesarias para cada nivel. Se discutirá cómo avanzar desde una certificación inicial hasta niveles más altos que requieren un mayor conocimiento y experiencia en Python.
 
-Para practicar estos conceptos, los alumnos deberán investigar y seleccionar una certificación relevante a su nivel actual de conocimientos. Deberán presentar un resumen de por qué creen que esta certificación es beneficiosa para ellos, cómo planean prepararse para el examen y cuáles son sus expectativas después de obtenerla.
+## Ejercicio
+Después de la lección, los estudiantes deberán investigar y seleccionar una certificación de Python que se adapte a sus metas profesionales. Deben presentar un resumen de por qué esa certificación es relevante para ellos y cómo planean alcanzarla, incluyendo un cronograma con fechas clave.
 
-- Los beneficios de obtener una certificación en Python.
-- Rutas para continuar avanzando en la carrera de programación.
+## Resumen
+- Se destacará la importancia de las certificaciones en el campo del desarrollo de software.
+- Los estudiantes aprenderán sobre los diferentes niveles de certificación disponibles.
+- Se proporcionarán estrategias para planificar y alcanzar una certificación en Python.
