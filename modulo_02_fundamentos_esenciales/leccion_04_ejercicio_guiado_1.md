@@ -1,14 +1,11 @@
 # Ejercicio guiado 1
 
-- Familiarizarse con la sintaxis básica de Python.
-- Comprender cómo estructurar un programa simple utilizando sentencias básicas.
+- Comprender la estructura básica de un programa Python.
+- Utilizar variables y operadores aritméticos para resolver problemas simples.
 
-En esta lección del módulo Fundamentos esenciales, se explorará el uso de variables y operadores aritméticos en Python. Los estudiantes aprenderán a declarar variables, asignar valores y realizar cálculos simples. Se proporcionará un ejemplo práctico donde los alumnos deberán crear un programa que calcule la suma, resta, multiplicación y división entre dos números ingresados por el usuario.
+En esta lección, se explorará cómo iniciar un programa en Python, identificar los componentes básicos y aprender a usar variables junto con operaciones matemáticas. Se introducirá el concepto de la sintaxis básica del lenguaje, incluyendo el uso de indentación para definir bloques de código, y se practicará el manejo de variables para almacenar valores numéricos y realizar cálculos simples.
 
-### Ejercicio
-Escribe un programa en Python que solicite al usuario ingresar dos números y luego realice las operaciones de suma, resta, multiplicación y división. El resultado de cada operación debe ser impreso en la consola. Asegúrate de manejar correctamente los posibles errores, como la división por cero.
+Para este ejercicio, los estudiantes deberán crear un programa que solicite al usuario ingresar dos números enteros. El programa deberá calcular la suma, resta, multiplicación y división de estos números e imprimir los resultados en pantalla. Esto permitirá a los estudiantes aplicar lo aprendido sobre variables y operadores aritméticos.
 
-### Resumen
-- Se aprendió a declarar variables y asignarles valores.
-- Se exploró el uso de operadores aritméticos básicos.
-- Se realizó un ejercicio práctico para aplicar conocimientos sobre entrada de datos y cálculos.
+- Familiaridad con la estructura básica del código Python.
+- Capacidad para usar variables y realizar operaciones matemáticas simples.
