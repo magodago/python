@@ -1,17 +1,12 @@
 # Cierre del modulo
 
-Objetivos
-- Consolidar los conocimientos adquiridos durante el módulo sobre Python.
-- Fomentar la continuidad del aprendizaje y la práctica constante de la programación en Python.
+- Consolidar el conocimiento adquirido durante el módulo sobre Python.
+- Preparar a los estudiantes para aplicaciones prácticas y futuros módulos avanzados.
 
-Contenido
-En esta lección final, es importante resaltar que el módulo ha cubierto una amplia gama de conceptos fundamentales y avanzados relacionados con Python. Se han abordado temas desde la sintaxis básica hasta la manipulación de datos complejos y la programación orientada a objetos. La intención es que los estudiantes hayan desarrollado una sólida base para continuar explorando Python en profundidad.
+Python es una poderosa herramienta que se utiliza en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más. Durante este módulo, hemos explorado la sintaxis básica, estructuras de control, funciones, clases y objetos, así como el manejo de excepciones y archivos. Estos conceptos forman la base para abordar temas más avanzados en futuros módulos.
 
-Se ha destacado la importancia de la comunidad Python, mostrando cómo se puede beneficiar del apoyo mutuo y el intercambio de conocimientos entre programadores. Se han proporcionado recursos y plataformas recomendadas para que los estudiantes puedan mantenerse actualizados y participar activamente en la comunidad.
+Para practicar, desarrolla un programa que use una clase para representar una librería de libros. La clase debe incluir métodos para agregar un libro, eliminar un libro y mostrar todos los libros disponibles. Asegúrate de manejar correctamente las excepciones en caso de intentar eliminar un libro que no existe.
 
-Ejercicio
-Implementa un pequeño proyecto que integre varios conceptos aprendidos durante el módulo, como funciones, listas y bucles. Por ejemplo, puedes crear un programa que genere una lista de números primos hasta un cierto límite utilizando funciones recursivas y algoritmos eficientes.
-
-Resumen
-- El módulo ha cubierto conceptos clave en Python.
-- Se ha fomentado la participación en la comunidad para el crecimiento continuo del aprendizaje.
+- Implementación de clases y objetos.
+- Manejo de excepciones y archivos.
+- Preparación para aplicaciones avanzadas con Python.
