@@ -1,17 +1,18 @@
 # Diagnostico
 
 ### Objetivos
-- Identificar y diagnosticar problemas comunes en aplicaciones Python.
-- Mejorar la eficiencia y rendimiento de programas mediante técnicas básicas de diagnóstico.
+- Identificar y diagnosticar problemas comunes en la ejecución de programas Python.
+- Mejorar la eficiencia y rendimiento del código mediante técnicas de diagnóstico.
 
 ### Contenido
-La optimización del rendimiento y el diagnóstico de errores son habilidades cruciales para cualquier desarrollador Python. Para entender mejor estos conceptos, es necesario conocer los diferentes métodos y herramientas disponibles en la comunidad de Python. Por ejemplo, `pdb` (Python Debugger) permite ejecutar un programa paso a paso, lo que facilita localizar errores y comprender el flujo de control del código. Además, `cProfile`, una herramienta integrada para el perfilaje de rendimiento, puede ayudar a identificar funciones o bloques de código que consumen más tiempo, permitiendo así optimizar el programa.
+En esta lección, se abordará el proceso de diagnóstico para resolver problemas que puedan surgir durante la ejecución de scripts Python. Se explorará cómo identificar errores en tiempo de ejecución a través de mensajes de error y traza de pila, así como cómo utilizar herramientas integradas del entorno de desarrollo (IDE) y bibliotecas externas para analizar el rendimiento del código.
 
-Es importante recordar que no todos los problemas se resuelven con códigos mal escritos. Algunas situaciones pueden ser causadas por limitaciones del hardware, como la memoria disponible o la velocidad del procesador, lo cual puede requerir ajustes en el diseño de la aplicación. Por tanto, es fundamental una comprensión integral de cómo interactúan los diferentes componentes del sistema.
+Se aprenderá a interpretar los mensajes de error proporcionados por Python, que pueden ser clave para entender qué está fallando en un programa. Se destacará la importancia de dividir el problema en partes más pequeñas y sencillas para facilitar su resolución. Además, se presentarán técnicas para optimizar el código mediante pruebas de rendimiento y la utilización de perfiles de rendimiento.
 
 ### Ejercicio
-Implementa un programa simple que realiza cálculos matemáticos complejos y utiliza `pdb` para diagnosticar cualquier error que pueda surgir durante su ejecución. Luego, usa `cProfile` para analizar el rendimiento de tu código y identificar posibles áreas de mejora.
+Escribe un script Python que contenga errores sintácticos intencionados. Ejecuta el script y observa los mensajes de error generados por Python. Luego, corrige los errores identificados y ejecuta nuevamente el script para verificar si se corrigieron correctamente. Documenta cada paso del proceso, incluyendo la descripción del problema original, el mensaje de error y cómo lo solucionaste.
 
 ### Resumen
-- Se aprende a utilizar herramientas como `pdb` y `cProfile` para diagnóstico y optimización.
-- Es crucial considerar tanto los aspectos del software como del hardware al diagnosticar problemas.
+- Se aprendió a interpretar mensajes de error en Python.
+- Se destacó la importancia de dividir problemas grandes en partes más pequeñas para su resolución.
+- Se introdujeron técnicas básicas para mejorar el rendimiento del código mediante pruebas y análisis de perfil.
