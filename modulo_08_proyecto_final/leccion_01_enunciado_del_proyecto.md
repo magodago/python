@@ -1,23 +1,21 @@
 # Enunciado del proyecto
 
-Objetivos
-- Entender la naturaleza y requisitos del proyecto final.
-- Desarrollar habilidades para formular objetivos claros y alcanzables.
+## Objetivos
+- Comprender los requisitos del proyecto final de Python.
+- Desarrollar una propuesta inicial para la implementación del proyecto.
 
-Contenido
-En esta lección, se presentará el enunciado del proyecto final de Python. El objetivo es que los alumnos comprendan completamente lo que se espera de ellos y cómo deben abordarlo. Se tratará sobre la creación de una aplicación o herramienta utilizando Python, enfocándose en la elección de un tema relevante y aplicable, así como en el diseño y desarrollo del proyecto desde cero hasta su implementación final.
+## Contenido
+En esta lección, se presentará el enunciado completo del proyecto final del curso de Python. El objetivo principal es que los estudiantes desarrollen un programa real utilizando las habilidades adquiridas durante el curso. El proyecto debe abordar una aplicación práctica o resolver un problema específico. Los temas relevantes incluyen la elección adecuada del tema, la estructura del código y la integración de conceptos avanzados como la programación orientada a objetos, el manejo de archivos y bases de datos, así como la utilización de bibliotecas externas.
 
-El enunciado incluirá pautas claras para que los alumnos puedan estructurar sus ideas y planificar su trabajo. Se abordarán aspectos como la selección de un problema real a resolver, la elección de las bibliotecas o frameworks adecuadas, el diseño de la interfaz de usuario (si es aplicable), y la implementación del código Python.
+Es importante que los estudiantes consideren cómo aplicar los conocimientos adquiridos sobre estructuras de datos, funciones, clases y módulos en un contexto real. El proyecto debe demostrar una comprensión profunda del lenguaje Python y su capacidad para resolver problemas complejos de manera eficiente.
 
-Ejercicio
-Los alumnos deberán elegir un tema para su proyecto final, justificar por qué consideran que es relevante y cómo pueden resolverlo con Python. Deben presentar una propuesta breve en la que incluyan los siguientes elementos:
+## Ejercicio
+El estudiante debe elegir un tema relevante que utilice al menos tres conceptos avanzados del curso, como la programación orientada a objetos, el manejo de archivos o la integración con una base de datos. Posteriormente, redactar una propuesta inicial que incluya:
 
-- Título del proyecto.
-- Breve descripción del problema a resolver.
-- Objetivos específicos del proyecto.
-- Tecnologías o bibliotecas planificadas para el desarrollo.
+- Un resumen breve del proyecto.
+- Una lista de los conceptos Python utilizados y cómo se aplican.
+- Un esquema básico del flujo de trabajo.
 
-Resumen
-- El proyecto final es un ejercicio práctico para aplicar conocimientos de Python.
-- Los alumnos deben seleccionar un tema relevante y formular objetivos claros.
-- La propuesta debe incluir detalles sobre la tecnología a utilizar.
+## Resumen
+- El estudiante debe seleccionar un tema relevante para el proyecto final.
+- La propuesta inicial debe incluir una descripción del proyecto, la aplicación de conceptos avanzados y un esquema básico.
