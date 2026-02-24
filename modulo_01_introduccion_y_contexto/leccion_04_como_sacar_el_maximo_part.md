@@ -1,17 +1,11 @@
 # Como sacar el maximo partido
 
-- Familiarizarse con las características y ventajas de Python.
-- Aprender a seleccionar herramientas y bibliotecas adecuadas para proyectos de Python.
+- Entender los fundamentos de Python y su importancia en la programación moderna.
+- Identificar las características principales que hacen a Python un lenguaje versátil y fácil de aprender.
 
-Python es un lenguaje de programación versátil y fácil de aprender que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta análisis de datos e inteligencia artificial. Para sacar el máximo partido de Python, es crucial conocer sus características más destacadas, como su sintaxis clara y legible, su capacidad para integrarse con otras tecnologías y su gran comunidad de desarrolladores que contribuyen constantemente a una vasta biblioteca de módulos y frameworks. Estas herramientas permiten abordar problemas complejos de manera eficiente y efectiva.
+Python es uno de los lenguajes de programación más populares debido a su sintaxis clara y legible, lo que facilita su aprendizaje para principiantes. Su comunidad activa y amplia biblioteca de módulos hacen que sea una excelente elección para proyectos en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y robótica. Para sacar el máximo partido a Python, es crucial familiarizarse con sus características básicas, como la sintaxis sencilla, la facilidad de lectura y escritura, y su gran comunidad de desarrolladores que facilita el acceso a recursos y soluciones.
 
-Para practicar, el alumno deberá:
-- Instalar Python en su sistema.
-- Utilizar un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code.
-- Explorar la documentación oficial de Python para familiarizarse con las mejores prácticas.
-- Implementar una pequeña aplicación utilizando un framework popular, como Flask o Django.
+Ejercicio: Escriba un programa en Python que solicite al usuario ingresar tres números y luego imprima el número más grande. Utilice las estructuras condicionales para determinar cuál es el mayor entre los tres números ingresados.
 
-Los puntos clave a resumir son:
-1. Familiaridad con las características y ventajas de Python.
-2. Uso efectivo de bibliotecas y frameworks para proyectos complejos.
-3. Exploración del ecosistema de Python mediante la documentación oficial y herramientas de desarrollo.
+- Familiarizarse con la sintaxis básica de Python.
+- Comprender cómo utilizar condiciones para resolver problemas simples.
