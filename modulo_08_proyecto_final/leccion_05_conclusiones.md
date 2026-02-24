@@ -1,13 +1,13 @@
 # Conclusiones
 
-- Concluye el proyecto final de Python, reflejando la aplicación práctica de los conceptos estudiados.
-- Analiza las fortalezas y debilidades del código desarrollado, identificando áreas para mejorar o optimizar.
+- Conocer los aspectos clave que se han abordado durante todo el curso de Python.
+- Reflexionar sobre cómo aplicar los conocimientos adquiridos para resolver problemas complejos.
+- Prepararse para presentar y defender su proyecto final.
 
-En esta lección, se revisarán los aspectos más relevantes del proyecto final de Python. Se discutirá cómo se aplicaron los conceptos teóricos a una situación práctica, permitiendo un análisis detallado del desempeño del código desarrollado. Se explorará la eficiencia y legibilidad del código, así como su capacidad para resolver el problema propuesto. Además, se identificarán áreas donde el proyecto puede ser mejorado o optimizado, proporcionando recomendaciones específicas para futuros proyectos.
+Después de recorrer todos los módulos del curso, es momento de hacer un balance y reflexión. Durante este viaje, hemos explorado desde las bases fundamentales de Python hasta la implementación de soluciones prácticas mediante proyectos más complejos. Hemos aprendido a manipular datos con listas y diccionarios, a controlar flujos de ejecución con estructuras condicionales y bucles, y a automatizar tareas repetitivas con funciones y módulos. Además, hemos desarrollado habilidades para trabajar con archivos y bases de datos, lo que nos ha permitido gestionar información de manera eficiente.
 
-Para practicar estos conceptos, los estudiantes deberán presentar una presentación breve de 5-7 minutos sobre sus conclusiones del proyecto final. La presentación debe incluir un resumen general del proyecto, las decisiones técnicas tomadas y los resultados obtenidos. Los estudiantes también deben identificar al menos dos aspectos que podrían mejorar en futuros proyectos.
+Para el ejercicio final, escoja un problema real o imaginario que requiera la combinación de los conocimientos adquiridos. Por ejemplo, podrían crear una aplicación simple de gestión de inventario para una pequeña tienda, donde se puedan realizar operaciones como añadir productos, actualizar stock y generar informes. Este proyecto no solo permitirá aplicar lo aprendido, sino también identificar áreas en las que se necesiten mejorar o profundizar.
 
-Los puntos clave a recordar son:
-- El análisis detallado de la implementación del proyecto.
-- La identificación de áreas para mejora y optimización.
-- La presentación de conclusiones y aprendizajes obtenidos.
+- Reflexionar sobre los aspectos más difíciles del curso.
+- Prepararse para presentar su proyecto final.
+- Identificar oportunidades de mejora y futuras áreas de estudio.
