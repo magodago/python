@@ -1,11 +1,21 @@
 # Terminologia basica
 
-- Comprender la terminología básica de Python es fundamental para poder leer y escribir código eficazmente.
-- Familiarizarse con conceptos clave como variables, tipos de datos, operadores y estructuras de control permitirá a los estudiantes construir una base sólida sobre la cual desarrollar sus habilidades en programación.
+Objetivos
+- Comprender y utilizar correctamente la terminología básica de Python.
+- Identificar y explicar los conceptos fundamentales del lenguaje.
 
-En esta lección se abordarán los conceptos esenciales que cualquier programador Python debe conocer. Se explicará qué son las variables y cómo declararlas, así como los diferentes tipos de datos utilizados en el lenguaje (enteros, flotantes, cadenas, booleanos). Además, se presentarán los operadores aritméticos y comparativos, junto con ejemplos prácticos. Finalmente, se explicarán las estructuras de control básicas como if-else y bucles for y while.
+Contenido
+En esta lección se introducirán los términos esenciales que todo estudiante de Python debe conocer. Se tratará sobre variables, tipos de datos, operadores y estructuras de control básicas. Estos elementos forman la base para cualquier programa en Python y son cruciales para su correcta implementación.
 
-Para practicar, los estudiantes deberán escribir un pequeño programa que solicite al usuario su edad y determine si es mayor o menor de 18 años, utilizando la declaración condicional if. Luego, el programa deberá imprimir cuántos años le faltan para ser mayor de edad o cuanto tiempo ha pasado desde que cumplió los 18.
+Las variables son contenedores donde se almacenan valores que pueden ser modificados durante la ejecución del programa. En Python, los tipos de datos más comunes incluyen enteros (int), flotantes (float), cadenas de texto (str) y booleanos (bool). Los operadores permiten realizar operaciones matemáticas básicas o comparativas entre variables.
 
-- Dominar las variables y tipos de datos en Python.
-- Comprender cómo funcionan las estructuras de control básicas.
+Las estructuras de control como if-else y bucles for/while son fundamentales para la lógica del programa, ya que determinan el flujo de ejecución basándose en condiciones específicas. Estas estructuras permiten al programador automatizar tareas complejas y realizar decisiones dentro del código.
+
+Ejercicio
+Crea un programa simple en Python que solicite al usuario su nombre e imprima un mensaje personalizado. Utiliza variables para almacenar el nombre ingresado, tipos de datos apropiados para las operaciones necesarias y estructuras de control básicas para manejar la entrada del usuario.
+
+Resumen
+- Variables: contenedores para valores en Python.
+- Tipos de datos: int, float, str, bool.
+- Operadores: matemáticos y comparativos.
+- Estructuras de control: if-else, bucles for/while.
