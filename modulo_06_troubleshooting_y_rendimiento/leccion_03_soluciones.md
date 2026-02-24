@@ -1,17 +1,11 @@
 # Soluciones
 
-## Objetivos
-- Identificar y resolver problemas comunes en Python.
-- Mejorar la eficiencia de los programas mediante técnicas de optimización.
-
 ## Contenido
-En esta lección se abordarán soluciones a problemas frecuentes que pueden surgir al programar con Python. Se tratará cómo identificar errores utilizando herramientas como `try-except`, y cómo utilizar el módulo `pdb` para depurar código paso a paso. Además, se explorará la optimización del rendimiento de los programas mediante técnicas como la minimización de bucles innecesarios, la utilización eficiente de listas y diccionarios, y la implementación de algoritmos más eficientes.
-
-Para mejorar el rendimiento, es crucial comprender cómo Python maneja la memoria y las operaciones. Se explicará cómo utilizar `timeit` para medir el tiempo de ejecución y cómo optimizar funciones mediante técnicas como el uso de list comprehensions y la memoización.
+En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán técnicas para identificar y corregir errores comunes en el código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) y `logging` para depurar eficientemente. Además, se presentarán estrategias para optimizar el rendimiento de los programas Python, incluyendo la utilización de listas comprensivas vs funciones lambda, y la importancia de usar módulos y bibliotecas precompiladas para mejorar la velocidad de ejecución.
 
 ## Ejercicio
-Implemente una función que calcule los primeros 100 números de Fibonacci utilizando recursión, y luego optimice la misma función para mejorar su rendimiento. Utilice `timeit` para comparar la eficiencia de ambas versiones.
+Implemente un programa que calcule el factorial de un número utilizando recursividad. Luego, utilice `pdb` para depurar el código y optimice el algoritmo para reducir su tiempo de ejecución. Mida el rendimiento inicial y final del programa y compare los resultados.
 
 ## Resumen
-- Se aprendió a identificar y resolver problemas comunes en Python.
-- Se destacó la importancia de técnicas de optimización para mejorar el rendimiento de los programas.
+- Se aprendió a utilizar herramientas como `pdb` y `logging` para depurar eficientemente el código.
+- Se discutieron estrategias para optimizar el rendimiento, incluyendo la elección de estructuras de datos apropiadas y la utilización de bibliotecas precompiladas.
