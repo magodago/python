@@ -1,11 +1,15 @@
 # Diagnostico
 
-- Comprender los métodos básicos de diagnóstico de problemas comunes en Python.
-- Identificar y corregir errores en el código para mejorar la eficiencia del programa.
+- Comprender los métodos básicos de diagnóstico y depuración en Python.
+- Identificar y resolver problemas comunes relacionados con el rendimiento del código.
 
-El diagnóstico es un paso crucial en el desarrollo de software. En este módulo, se enfatiza la importancia de identificar y resolver problemas de manera eficiente. Los estudiantes aprenderán a utilizar herramientas como `pdb` (Python Debugger) para depurar código y encontrar errores. También se cubrirá cómo usar `logging` para registrar eventos y mensajes de diagnóstico que pueden ayudar en el proceso de resolución de problemas.
+Python es un lenguaje de programación versátil que, aunque tiene una sintaxis simple y fácil de leer, puede presentar diversos problemas durante su ejecución. Para mejorar la eficiencia y el rendimiento del código, es crucial aprender a diagnosticar y resolver estos problemas de manera efectiva. Algunos métodos comunes incluyen la utilización de herramientas de depuración internas en Python como `pdb`, la implementación de pruebas unitarias con `unittest` o `pytest`, y el uso de módulos como `cProfile` para analizar el rendimiento del código.
 
-Para ejemplificar, los estudiantes realizarán un ejercicio donde deben identificar y corregir errores en un script de Python que calcula la suma de una serie de números. El código original contiene varios errores sintácticos y lógicos que los alumnos deberán detectar y solucionar utilizando `pdb` para depurar el programa.
+Para practicar, los estudiantes deben identificar un problema específico en un script de Python proporcionado. El problema puede ser una lógica errónea, un error de sintaxis o un rendimiento ineficiente. Los pasos a seguir son:
 
-- Familiaridad con `pdb` y su uso en depuración.
-- Capacidad para identificar y corregir errores de código mediante el registro de eventos con `logging`.
+1. Ejecutar el script original y observar si hay errores.
+2. Utilizar `pdb` para depurar el código e identificar la fuente del problema.
+3. Implementar pruebas unitarias para verificar que las funciones se comporten como esperado.
+4. Usar `cProfile` para analizar el rendimiento y optimizar el código según sea necesario.
+
+Al final de esta lección, los estudiantes deberán presentar un informe detallando el problema identificado, el proceso de depuración utilizado y las mejoras realizadas en el rendimiento del script.
