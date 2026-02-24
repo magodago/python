@@ -1,11 +1,14 @@
 # Temas intermedios
 
-- Entender la implementación de estructuras de datos avanzadas como pilas y colas.
-- Aprender a utilizar decoradores para modificar funcionalidades de funciones o métodos.
+- Comprender la utilización de comprensiones de lista y diccionarios para simplificar el código.
+- Aprender a trabajar con módulos y paquetes externos para extender las capacidades del lenguaje.
 
-En esta lección del módulo Profundizando, se explorará el uso de pilas y colas en Python. Estas estructuras de datos son fundamentales en la programación y permiten manejar elementos de manera secuencial, lo que es crucial para resolver problemas de algoritmos y diseño de software. Se revisarán conceptos teóricos básicos sobre estas estructuras antes de pasar a implementaciones prácticas utilizando listas y clases personalizadas en Python.
+Las comprensiones de listas y diccionarios son una característica poderosa en Python que permite crear estructuras de datos complejas de manera concisa. Una comprensión de lista, por ejemplo, puede ser usada para generar una nueva lista a partir de una iteración sobre elementos existentes, aplicando condiciones y transformaciones. Esto no solo hace el código más legible sino también más eficiente en términos de tiempo de ejecución.
 
-El ejercicio propuesto consiste en crear una clase `Pila` que permita realizar operaciones como push (agregar un elemento), pop (remover el último elemento) y peek (ver el último elemento sin removerlo). Además, se pedirá al estudiante implementar una función decoradora que mida el tiempo de ejecución de cualquier método de la clase `Pila`. Este ejercicio ayudará a consolidar los conocimientos sobre pilas y a familiarizarse con la sintaxis de los decoradores en Python.
+Por otro lado, trabajar con módulos y paquetes externos es crucial para aprovechar la gran cantidad de bibliotecas disponibles que pueden agilizar el desarrollo de aplicaciones. Estos módulos y paquetes permiten acceder a funciones y clases predefinidas, lo cual puede reducir significativamente el tiempo necesario para desarrollar ciertas funcionalidades.
 
-- Implementación de pilas y colas.
-- Uso de decoradores para medir tiempos de ejecución.
+Ejercicio: Crea una función que use comprensión de lista para filtrar números pares de una lista dada y luego crea un diccionario donde las claves sean los números pares y sus valores sean su cuadrado. Luego, utiliza un módulo externo (como `requests`) para hacer una solicitud HTTP a una API pública y procesa la respuesta en un diccionario.
+
+Resumen
+- Comprensiones de lista y diccionarios son herramientas eficientes para simplificar el código.
+- El uso de módulos y paquetes externos permite acceder a funcionalidades adicionales y agiliza el desarrollo.
