@@ -1,11 +1,11 @@
 # Pruebas y validacion
 
-- Comprender la importancia de las pruebas y validación en el desarrollo de software con Python.
-- Implementar técnicas básicas de pruebas unitarias utilizando la biblioteca unittest.
+- Comprender la importancia de las pruebas y validaciones en el desarrollo de software.
+- Implementar técnicas básicas de pruebas unitarias y de integración utilizando Python.
 
-Las pruebas y la validación son fundamentales para garantizar que el código funcione correctamente y cumpla con los requisitos definidos. En este módulo, se explorará cómo utilizar las herramientas de pruebas integradas en Python, específicamente la biblioteca unittest, para verificar que diferentes partes del programa funcionen como se espera. A través de ejemplos prácticos, se aprenderá a escribir y ejecutar pruebas unitarias que ayudarán a detectar errores temprano en el proceso de desarrollo.
+Python es una potente herramienta para desarrollar aplicaciones, pero su eficacia se ve aún mejor cuando se acompañan con buenas prácticas de pruebas. Las pruebas permiten asegurar que el código funcione como se espera y facilitan la detección rápida de errores o fallos durante el desarrollo. En esta lección, se explorarán técnicas básicas para implementar pruebas unitarias y de integración en proyectos Python utilizando bibliotecas como `unittest` e `pytest`. Estas prácticas no solo mejoran la calidad del código final sino que también facilitan la mantenibilidad y el refactoring.
 
-Para practicar, los estudiantes deberán desarrollar un pequeño programa que calcule la suma de dos números enteros. Luego, implementarán pruebas utilizando unittest para verificar que las sumas se realicen correctamente en diferentes escenarios, incluyendo casos con números negativos y cero.
+Para ilustrar estos conceptos, los estudiantes deberán desarrollar un pequeño programa que calcule el área de figuras geométricas básicas (círculo, rectángulo y triángulo) y luego implementar pruebas para verificar su funcionamiento. Este ejercicio permitirá a los alumnos comprender cómo estructurar pruebas en Python y apreciar la importancia de validar cada componente del código.
 
-- Dominar el uso de unittest para escribir pruebas unitarias.
-- Identificar errores temprano en el desarrollo a través del proceso de prueba.
+- Comprender el uso de `unittest` e `pytest`.
+- Implementar pruebas unitarias y de integración para un programa simple.
