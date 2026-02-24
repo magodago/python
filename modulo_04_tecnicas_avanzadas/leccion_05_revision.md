@@ -1,15 +1,44 @@
 # Revision
 
 ### Objetivos
-- Comprender y aplicar técnicas avanzadas de programación con Python.
-- Analizar y optimizar código existente utilizando patrones de diseño.
+- Analizar y aplicar técnicas avanzadas de programación en Python.
+- Mejorar la eficiencia del código mediante optimizaciones y mejores prácticas.
 
 ### Contenido
-En esta lección avanzada, se revisará el uso de patrones de diseño en Python para mejorar la estructura y mantenibilidad del código. Se abordarán conceptos como el Singleton, el Factory Method y el Decorator, explicando cómo estos patrones pueden ser implementados y cuándo son apropiados. Además, se explorará la optimización de algoritmos utilizando técnicas avanzadas como la programación dinámica y la memoización.
+En esta lección, se revisará el uso de decoradores y generadores en Python. Los decoradores son una técnica poderosa que permite modificar o extender las funcionalidades de funciones o métodos sin alterar su estructura original. Por otro lado, los generadores permiten crear iteradores que producen secuencias de datos de manera eficiente, utilizando menos memoria y recursos.
+
+Los decoradores se utilizan comúnmente para añadir funcionalidades como el control de acceso a métodos, la medición del tiempo de ejecución o la verificación de errores. Por ejemplo, un decorador puede ser usado para loggear información sobre las llamadas a una función:
+
+```python
+def log_function_call(func):
+    def wrapper(*args, **kwargs):
+        print(f"Llamada a {func.__name__} con argumentos: {args}, {kwargs}")
+        return func(*args, **kwargs)
+    return wrapper
+
+@log_function_call
+def suma(a, b):
+    return a + b
+
+suma(3, 4)
+```
+
+Los generadores, por su parte, permiten crear iteradores que producen valores de manera on-demand. Esto es especialmente útil cuando se trabaja con grandes conjuntos de datos o en situaciones donde la memoria sea un factor limitante:
+
+```python
+def generar_numeros(n):
+    i = 0
+    while i < n:
+        yield i
+        i += 1
+
+for numero in generar_numeros(5):
+    print(numero)
+```
 
 ### Ejercicio
-Implementa un ejemplo práctico del patrón Decorator en Python para agregar funcionalidades a objetos existentes sin modificar su estructura. Por ejemplo, puedes crear una clase base `Loggable` que registre las operaciones de otras clases, y luego utilizar el patrón Decorator para aplicar esta funcionalidad a cualquier clase que desees lograr.
+Escribe una función que use un decorador para medir el tiempo de ejecución de otra función. Luego, aplica este decorador a una función que genere y devuelva los primeros 20 números primos.
 
 ### Resumen
-- Se profundiza en la utilización de patrones de diseño avanzados.
-- La optimización del código se aborda mediante técnicas como la programación dinámica.
+- Decoradores permiten extender las funcionalidades de funciones o métodos.
+- Generadores son útiles para crear iteradores eficientes que producen datos on-demand.
