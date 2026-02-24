@@ -1,15 +1,10 @@
 # Checklist final
 
-- Mejorar la capacidad del estudiante para identificar y resolver problemas comunes en Python.
-- Optimizar el rendimiento de programas Python mediante técnicas básicas.
+- Comprender y aplicar un checklist efectivo para resolver problemas comunes en Python.
+- Mejorar la eficiencia del código mediante optimizaciones basadas en un análisis de rendimiento.
 
-Python es un lenguaje de programación versátil, pero como cualquier otro sistema, puede presentar problemas que afectan su funcionamiento. Para garantizar que los estudiantes sean capaces de manejar situaciones inesperadas y optimizar sus programas, se ha preparado este checklist final. Este documento servirá tanto para detectar errores comunes durante la programación, como para mejorar el rendimiento general del código.
+El objetivo final de esta lección es que los estudiantes puedan identificar y solucionar problemas comunes en sus programas Python utilizando un método sistemático. Este checklist les permitirá abordar problemas desde el análisis inicial hasta la implementación de soluciones, asegurando una mejora continua en su código. Al mismo tiempo, se enfatizará la importancia del rendimiento del código y cómo aplicar técnicas básicas para optimizarlo sin sacrificar la legibilidad.
 
-El checklist incluirá preguntas y tareas específicas que los estudiantes deben completar en cada paso de su desarrollo de software Python. Estas tareas pueden variar desde verificar la sintaxis correcta hasta optimizar bucles y funciones. Al finalizar este módulo, los estudiantes deberán ser capaces de aplicar estas técnicas para resolver problemas comunes y mejorar el rendimiento de sus programas.
+Para ello, los estudiantes deberán revisar un programa existente con errores y utilizar el checklist proporcionado para diagnosticar y corregir estos problemas. Además, se les pedirá que analicen el rendimiento del código utilizando herramientas de perfilaje integradas en Python, como cProfile, y apliquen optimizaciones donde sea necesario.
 
-Para practicar, los estudiantes deben revisar un código Python que realiza una serie de operaciones matemáticas complejas y optimizarlo siguiendo las pautas del checklist. El objetivo es que identifiquen posibles errores y mejoren la eficiencia del código para que se ejecute más rápido.
-
-Los puntos clave a recordar son:
-- La importancia de revisar regularmente el código.
-- La utilización de técnicas específicas para optimizar el rendimiento.
-- La capacidad de identificar y corregir problemas comunes en Python.
+Al finalizar esta lección, los estudiantes deberán haber identificado y solucionado varios problemas comunes en sus programas Python y estarán más familiarizados con técnicas para mejorar el rendimiento del código.
