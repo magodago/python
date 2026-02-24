@@ -1,11 +1,20 @@
 # Como sacar el maximo partido
 
-- Comprender las características principales de Python que lo hacen un lenguaje versátil y fácil de aprender.
-- Identificar herramientas y recursos adicionales para mejorar la eficiencia del código en Python.
+## Objetivos
+- Comprender los fundamentos de Python y su utilidad en la resolución de problemas.
+- Identificar las características clave que permiten a Python ser una herramienta versátil para programadores y no programadores.
 
-En esta lección, se explorarán los aspectos más importantes de Python que permiten al programador sacar el máximo partido de este lenguaje. Se destacará cómo su sintaxis clara y legible facilita la escritura de código eficiente y mantenible. Además, se presentarán algunas bibliotecas populares como NumPy y Pandas, que amplían significativamente las capacidades del lenguaje para el procesamiento numérico y el análisis de datos.
+## Contenido
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Su sintaxis clara y concisa lo hace fácil de aprender y usar, lo que lo convierte en una excelente opción tanto para principiantes como para profesionales experimentados. La flexibilidad de Python radica en su capacidad para ser utilizado en una variedad de aplicaciones, desde desarrollo web hasta ciencia de datos y aprendizaje automático. Al dominar Python, los estudiantes adquieren habilidades valiosas que pueden aplicar en múltiples campos tecnológicos.
 
-Para practicar estos conceptos, los estudiantes deberán desarrollar un programa que utilice estas herramientas. El ejercicio consiste en crear un script que cargue un conjunto de datos, realice operaciones básicas con NumPy y luego visualice los resultados con Pandas. Este ejercicio permitirá a los alumnos aplicar lo aprendido sobre la sintaxis básica y las bibliotecas adicionales.
+## Ejercicio
+Escriba un programa simple en Python que solicite al usuario ingresar su nombre y edad, luego imprima una frase personalizada que indique cuántos años tendrá el usuario en 10 años. Por ejemplo:
+```
+Ingrese su nombre: Juan
+Ingrese su edad: 25
+Juan, en 10 años tendrás 35 años.
+```
 
-- Familiaridad con la sintaxis clara de Python.
-- Conocimiento de herramientas como NumPy y Pandas para mejorar el procesamiento numérico y análisis de datos.
+## Resumen
+- Python es un lenguaje de programación versátil y fácil de aprender.
+- Su sintaxis clara facilita la transición a otros lenguajes y su uso en diversas aplicaciones.
