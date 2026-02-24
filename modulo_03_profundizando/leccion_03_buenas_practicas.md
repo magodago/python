@@ -1,24 +1,17 @@
 # Buenas practicas
 
-### Objetivos
-- Comprender y aplicar las mejores prácticas de codificación en Python.
-- Implementar estilos de codificación consistentes para mejorar la legibilidad del código.
+## Objetivos
+- Comprender y aplicar las buenas prácticas de codificación para mejorar la legibilidad y mantenibilidad del código.
+- Familiarizarse con los estándares PEP8 y PEP257, y su importancia en el desarrollo Python.
 
-### Contenido
-Las buenas prácticas son fundamentales para escribir código Python de calidad. Un buen estilo de codificación no solo facilita la lectura y mantenimiento del código, sino que también reduce errores y mejora la colaboración en proyectos grupales. En este módulo profundizaremos en PEP 8, una guía de estilo ampliamente aceptada para el código Python. Algunas recomendaciones clave incluyen utilizar espacios en lugar de tabulaciones para indentar, limitar las líneas a 79 caracteres, y usar nombres descriptivos para variables y funciones. Además, se recomienda dividir la lógica del código en pequeñas funciones que hagan una sola cosa bien.
+## Contenido
+En esta lección profundizaremos en las mejores prácticas para escribir código Python. La claridad y la legibilidad son fundamentales para que otros desarrolladores puedan entender fácilmente tu código. Para ello, es crucial seguir los estándares de codificación definidos por el PEP8 (Python Enhancement Proposal 8), que proporciona recomendaciones sobre cómo formatear el código, nombrar variables, funciones y clases.
 
-### Ejercicio
-Reescribe el siguiente fragmento de código siguiendo las mejores prácticas descritas:
+Además, la documentación es un aspecto crucial en cualquier proyecto de software. El PEP257 establece las normas para escribir documentación docente, que incluye comentarios explicativos y docstrings (documentación dentro del código). Estos comentarios no solo ayudan a otros desarrolladores a entender el propósito y la funcionalidad de tu código, sino que también facilitan su mantenimiento y actualización en el futuro.
 
-```python
-def calcular_total(importe, iva):
-    total = importe + (importe * iva)
-    return total
-```
+## Ejercicio
+Escribe una función en Python que calcule el área de un círculo dado su radio. Asegúrate de seguir las recomendaciones del PEP8 para el formato del código y del PEP257 para la documentación. Posteriormente, comparte tu código con un compañero y pide que revise si sigue correctamente los estándares.
 
-Copia y pega el código anterior en un editor que soporte Python, como PyCharm o VSCode. Ajusta el código para cumplir con las recomendaciones de PEP 8.
-
-### Resumen
-- Utilizar espacios en lugar de tabulaciones.
-- Limitar las líneas a 79 caracteres.
-- Usar nombres descriptivos y significativos para variables y funciones.
+## Resumen
+- Sigue las recomendaciones del PEP8 para mejorar la legibilidad y mantenibilidad del código.
+- Utiliza el PEP257 para escribir documentación clara y completa.
