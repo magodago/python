@@ -1,20 +1,11 @@
 # Proyecto practico 1
 
-## Objetivos
-- Implementar un proyecto práctico que combine la programación orientada a objetos con la manipulación de archivos.
-- Diseñar y codificar una clase `Libro` que incluya métodos para leer, escribir y actualizar información de libros en archivos.
+- Comprender la integración de funciones personalizadas y módulos estándar para resolver problemas complejos.
+- Implementar técnicas avanzadas de programación orientada a objetos para mejorar la estructura del código.
 
-## Contenido
-En esta lección avanzaremos hacia el desarrollo de un proyecto práctico que combina conceptos clave del curso. Se centrará en la programación orientada a objetos (POO) y la manipulación de archivos utilizando Python. Utilizarás estas herramientas para crear una clase `Libro` que permita gestionar información sobre libros, como título, autor y año de publicación. Además, se implementarán métodos para leer y escribir esta información en archivos locales, lo cual es fundamental para la persistencia de datos.
+En esta lección, se profundizará en el uso de funciones personalizadas y módulos estándar de Python para desarrollar soluciones más eficientes y modularizadas. Se explorará cómo combinar estas herramientas con técnicas avanzadas de programación orientada a objetos (POO), como herencia y polimorfismo, para crear un programa que resuelva problemas complejos de manera estructurada y legible.
 
-Para lograr esto, primero definirás la estructura de la clase `Libro`, incluyendo atributos y métodos. Luego, desarrollarás funciones que permitan guardar la información del libro en un archivo de texto, así como leer esa información desde el mismo archivo. Este ejercicio no solo fortalecerá tus habilidades en POO sino también te familiarizará con las operaciones básicas de manipulación de archivos.
+El ejercicio práctico consistirá en desarrollar una aplicación que simule un sistema bancario básico. Los estudiantes deberán implementar clases para clientes, cuentas y transacciones, utilizando funciones personalizadas y módulos estándar como `math` o `datetime` según sea necesario. La finalidad es aplicar los conceptos de POO y mejorar la capacidad del estudiante para organizar y modular el código.
 
-## Ejercicio
-Diseña y codifica una clase `Libro` que tenga los siguientes atributos: título, autor y año de publicación. Implementa métodos para:
-- Crear un nuevo libro.
-- Guardar la información del libro en un archivo de texto llamado "libros.txt".
-- Leer la información de un libro desde el archivo "libros.txt" y mostrarla.
-
-## Resumen
-- Se ha diseñado una clase `Libro` que combina POO con la manipulación de archivos.
-- Los métodos implementados permiten guardar y recuperar información de libros en archivos locales.
+- Dominio en la integración de funciones personalizadas y módulos estándar.
+- Aplicación efectiva de técnicas avanzadas de programación orientada a objetos.
