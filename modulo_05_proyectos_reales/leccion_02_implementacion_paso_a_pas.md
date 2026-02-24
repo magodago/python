@@ -1,12 +1,20 @@
 # Implementacion paso a paso
 
-- Comprender la estructura básica de un proyecto real en Python.
-- Implementar una pequeña aplicación práctica que utilice múltiples conceptos aprendidos hasta ahora.
+- Comprender cómo estructurar un proyecto real en Python.
+- Implementar una solución para un problema práctico utilizando buenas prácticas de programación.
 
-En esta lección, aprenderás a organizar y estructurar tu código para un proyecto real. Veremos cómo dividir el problema en tareas manejables, seleccionar los módulos adecuados de Python, y cómo escribir, probar y documentar eficazmente tu código. A través de ejemplos prácticos, verás cómo integrar diferentes conceptos como funciones, clases, excepciones y manipulación de archivos.
+Para esta lección, se trabajará con la implementación paso a paso de un proyecto que consiste en crear un sistema simple de gestión de tareas. El objetivo es familiarizarse con el proceso de desarrollo de proyectos reales desde el análisis del problema hasta la implementación y pruebas.
 
-Para practicar, desarrolla un simple sistema de gestión de tareas. Este sistema permitirá al usuario agregar, eliminar y listar tareas pendientes. Utiliza archivos para almacenar la información de las tareas entre ejecuciones del programa. Asegúrate de probar tu aplicación con diferentes escenarios para garantizar su robustez.
+El proyecto requerirá la creación de una clase `Tarea` con atributos como título, descripción y estado (pendiente/completada). Posteriormente, se desarrollará un módulo para gestionar estas tareas, permitiendo agregar nuevas tareas, marcarlas como completadas y listar todas las tareas pendientes. Se utilizarán listas de Python para almacenar la información y funciones para realizar operaciones.
 
-- Desarrollar un proyecto en Python que integre múltiples conceptos.
-- Uso de archivos y bases de datos simples para persistencia de datos.
-- Pruebas y documentación básica del código.
+### Ejercicio
+Implementa el sistema de gestión de tareas siguiendo los siguientes pasos:
+1. Define la clase `Tarea` con atributos `titulo`, `descripcion` y `estado`.
+2. Crea un módulo que incluya una lista vacía para almacenar las tareas.
+3. Implementa funciones para agregar nuevas tareas, marcar tareas como completadas y listar tareas pendientes.
+4. Prueba tu implementación creando varias tareas y utilizando las funciones definidas.
+
+### Resumen
+- Se aprendió a estructurar un proyecto real en Python.
+- Se implementó una solución práctica mediante la creación de clases y módulos.
+- Se practicaron buenas prácticas en el desarrollo de software.
