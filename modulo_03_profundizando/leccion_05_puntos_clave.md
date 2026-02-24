@@ -1,11 +1,14 @@
 # Puntos clave
 
-- Entender la sintaxis avanzada de funciones y comprensión de listas.
-- Aprender a utilizar módulos y paquetes externos para ampliar las capacidades de Python.
+- Familiarizarse con las estructuras de datos avanzadas en Python.
+- Aprender a implementar y utilizar funciones recursivas.
 
-Python es un lenguaje de programación versátil que ofrece una gran flexibilidad en su uso. En esta lección profundizaremos en la sintaxis avanzada de funciones, destacando cómo manejar parámetros variables, anidar funciones y usar decoradores para mejorar el código. Además, veremos cómo aprovechar la comprensión de listas para escribir código más conciso y eficiente, explorando ejemplos prácticos que ilustran sus beneficios.
+Las estructuras de datos avanzadas en Python son fundamentales para resolver problemas complejos. Entre ellas, se encuentran los diccionarios, conjuntos y pilas/colas, que ofrecen operaciones más eficientes que las listas para ciertas tareas. Por ejemplo, los diccionarios permiten una búsqueda rápida de elementos mediante claves, lo cual es útil en aplicaciones donde la velocidad de acceso a datos es crucial.
 
-Para practicar estos conceptos, los estudiantes deberán crear un programa que use una función decoradora para medir el tiempo de ejecución de otras funciones. Posteriormente, utilizarán comprensión de listas para procesar datos y generar nuevas listas basadas en condiciones específicas.
+Las funciones recursivas son otro tema importante. Una función recursiva se llama a sí misma durante su ejecución, lo que puede simplificar ciertos problemas matemáticos y algoritmos. Es fundamental entender cómo controlar el uso de memoria y evitar ciclos infinitos para implementar correctamente estas funciones.
 
-- Decoradores para mejorar la funcionalidad del código.
-- Uso de comprensión de listas para simplificar y optimizar el procesamiento de datos.
+Ejercicio: Implementa una función recursiva en Python que calcule el factorial de un número. Luego, compara su eficiencia con una versión iterativa del mismo algoritmo.
+
+Resumen
+- Familiarizarse con las ventajas y uso de diccionarios, conjuntos y pilas/colas.
+- Comprender cómo implementar funciones recursivas y sus aplicaciones prácticas.
