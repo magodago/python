@@ -1,13 +1,11 @@
 # Criterios de evaluacion
 
-- Comprender y aplicar los criterios de evaluación para el proyecto final de Python.
-- Desarrollar habilidades en la autoevaluación y retroalimentación constructiva.
+- Entender los criterios de evaluación que se aplicarán al proyecto final.
+- Desarrollar habilidades para autoevaluarse y planificar estrategias de mejora basadas en estos criterios.
 
-En esta lección se abordarán los criterios de evaluación que guiarán la calificación del proyecto final de Python. Es crucial que comprendas estos criterios para poder planificar, implementar y presentar tu proyecto de manera efectiva. Los criterios se dividen en tres áreas principales: funcionalidad, diseño y documentación.
+El proyecto final del curso de Python consiste en desarrollar un programa que resuelva un problema real utilizando las técnicas y conceptos aprendidos durante el curso. Los criterios de evaluación se centran en la funcionalidad, eficiencia, claridad del código y la capacidad para documentar y presentar el trabajo.
 
-La funcionalidad evalúa cómo bien el programa cumple con los requisitos especificados. Se considerará la corrección del código, la eficiencia y la capacidad para resolver problemas planteados. El diseño abarca la estructura y organización del código, la modularización y la utilización de buenas prácticas de programación. Finalmente, la documentación evalúa el nivel de detalle en los comentarios, la explicación clara de las funcionalidades y la presentación de resultados.
+Para este ejercicio, cada estudiante debe seleccionar un proyecto que aborde un problema específico (por ejemplo, una calculadora financiera, un sistema de gestión de tareas o un juego simple). Deben preparar una propuesta detallada que incluya los objetivos del programa, la estructura general y el plan para implementarlo. Esta propuesta será evaluada en clase y servirá como guía para el desarrollo del proyecto.
 
-Para practicar, realiza una autoevaluación de un código Python simple que resuelve un problema matemático básico. Evalúa tu propio trabajo según los criterios mencionados: ¿Cómo se comporta el programa? ¿Está bien estructurado y documentado?
-
-- Comprender los criterios de evaluación.
-- Aplicar la autoevaluación a un código simple.
+- Entender los criterios de evaluación.
+- Preparar una propuesta inicial para el proyecto final.
