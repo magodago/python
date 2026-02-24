@@ -1,12 +1,11 @@
 # Despliegue
 
-- Entender los conceptos básicos de despliegue de aplicaciones Python.
-- Aprender a configurar y usar un entorno de producción para una aplicación web.
+- Comprender los conceptos básicos de despliegue web para aplicaciones Python.
+- Implementar un despliegue básico utilizando servicios como Heroku.
 
-El despliegue de una aplicación Python implica asegurarse de que la aplicación funcione correctamente en un entorno de producción. Esto incluye la elección del servidor, la configuración del entorno de ejecución y el manejo de las dependencias. Para aplicaciones web, es común usar servidores como Gunicorn o uWSGI junto con un servidor web como Nginx para optimizar el rendimiento y la escalabilidad.
+Python es una potente herramienta que no solo se utiliza en desarrollo backend, sino también en el despliegue y ejecución de aplicaciones. En esta lección, exploraremos cómo podemos desplegar nuestras aplicaciones Python en la nube para que sean accesibles a nivel global. Para ello, usaremos Heroku, un servicio popular que facilita el despliegue rápido de aplicaciones web sin necesidad de configurar servidores o bases de datos manualmente.
 
-Para este ejercicio, se creará una aplicación simple utilizando Flask y se desplegará en un entorno local. Primero, se instalarán las dependencias necesarias y se configurará el archivo `requirements.txt`. Luego, se configurará Nginx para servir la aplicación y Gunicorn para manejar el procesamiento de solicitudes.
+Como ejercicio práctico, cada estudiante debe crear una cuenta en Heroku y luego desplegar una aplicación simple creada con Flask. El proceso incluirá la creación del archivo `requirements.txt`, la configuración del archivo `Procfile` para indicar cómo ejecutar la aplicación, y el uso de la línea de comandos de Heroku para subir y desplegar la aplicación.
 
-- Se ha instalado Flask y sus dependencias.
-- Se ha configurado Nginx para servir la aplicación Flask.
-- Se ha inicializado Gunicorn para ejecutar la aplicación.
+- Familiarizarse con los conceptos básicos de despliegue en la nube.
+- Implementar un despliegue básico utilizando Heroku.
