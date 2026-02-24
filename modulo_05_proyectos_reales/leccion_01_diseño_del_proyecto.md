@@ -1,11 +1,19 @@
 # Diseño del proyecto
 
-- Diseñar un flujo de trabajo básico para la implementación de un proyecto en Python.
-- Identificar y definir las necesidades del cliente o problema a resolver.
+Objetivos
+- Comprender los pasos iniciales para el diseño de un proyecto Python.
+- Identificar y definir claramente las necesidades del proyecto.
 
-En esta lección se abordará el diseño inicial de un proyecto en Python, enfocándose en comprender los requisitos y estructurar el flujo de trabajo. Se explicarán las etapas clave para identificar las necesidades del cliente o el problema que se desea resolver con la aplicación o script en Python. Los estudiantes aprenderán a crear un diagrama de flujo básico y una especificación de requisitos mínimos, lo cual es fundamental antes de comenzar a codificar.
+Contenido
+El diseño inicial de un proyecto en Python es crucial para asegurar que el desarrollo se realice de manera eficiente y efectiva. En esta lección, aprenderemos a identificar las necesidades del proyecto, definir los objetivos y crear una estructura básica. Para ello, primero analizaremos el problema o la tarea que queremos resolver con nuestro proyecto. Posteriormente, definiremos los requisitos funcionales e no funcionales, lo que nos permitirá establecer metas claras y medibles. Finalmente, crearemos un esquema básico del proyecto, incluyendo las bibliotecas necesarias y el flujo de trabajo.
 
-Ejercicio: El estudiante deberá identificar un problema específico (puede ser personal o de otra fuente) que pueda resolver con Python. Posteriormente, debe crear un diagrama de flujo básico y una lista de requisitos mínimos para este proyecto. Este ejercicio ayudará al estudiante a practicar la identificación del problema y el diseño inicial del proyecto.
+Ejercicio
+Diseña un proyecto Python para crear una aplicación web simple utilizando Flask. Define los siguientes aspectos:
+- ¿Cuál es la finalidad de la aplicación?
+- ¿Qué funcionalidades debe tener?
+- ¿Cuáles son las bibliotecas o frameworks que serán necesarias?
 
-- Crear un diagrama de flujo básico.
-- Especificar los requisitos mínimos necesarios para el proyecto.
+Resumen
+- Identificar claramente el problema a resolver.
+- Definir requisitos funcionales e no funcionales.
+- Crear una estructura básica del proyecto.
