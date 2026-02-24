@@ -1,27 +1,17 @@
 # Bienvenida al curso
 
-## Objetivos
-- Introducir a los estudiantes al lenguaje de programación Python.
-- Explicar la importancia y el contexto actual de Python.
+- Familiarizar a los estudiantes con la plataforma de aprendizaje y las herramientas necesarias para el curso.
+- Establecer expectativas y motivar a los estudiantes sobre la importancia del lenguaje Python en la programación moderna.
 
-## Contenido
-Python es un lenguaje de programación de alto nivel que se ha convertido en uno de los más utilizados en el mundo debido a su simplicidad, versatilidad y amplia comunidad de desarrolladores. Este curso te guiará desde cero hasta poder crear tus propias aplicaciones utilizando Python, explorando sus características principales como sintaxis clara, bibliotecas robustas y un gran soporte comunitario.
+En esta lección inicial, les damos la bienvenida al curso de Python. Aprenderemos sobre el poderoso lenguaje de programación que se utiliza en una amplia gama de campos, desde desarrollo web hasta inteligencia artificial y análisis de datos. Python es conocido por su sintaxis clara y legible, lo que facilita a los principiantes adentrarse en la programación sin barreras innecesarias. Este curso está diseñado para proporcionar una base sólida en Python, equipándolos con las habilidades necesarias para crear programas efectivos y resolver problemas complejos.
 
-En esta lección, aprenderás sobre la historia del lenguaje, su uso en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más. También se abordarán los beneficios que ofrece Python para principiantes y expertos, destacando su facilidad de aprendizaje y sus aplicaciones prácticas.
-
-## Ejercicio
-Escribe una breve introducción a ti mismo utilizando Python en un script simple. Por ejemplo:
+Para practicar, intenten ejecutar su primer programa en el entorno de desarrollo que hayan instalado. Abra un editor de texto o un IDE (Entorno de Desarrollo Integrado) como PyCharm o Visual Studio Code, cree un nuevo archivo y escriba el siguiente código:
 
 ```python
-# Introducción al curso de Python
-
-print("¡Bienvenido/a al curso de Python!")
-nombre = input("¿Cómo te llamas? ")
-print(f"Mucho gusto, {nombre}! Estoy emocionado/a de aprender Python contigo.")
+print("¡Hola, Python!")
 ```
 
-Ejecuta este script y observa cómo funciona.
+Guarden el archivo con el nombre `primer_programa.py` y ejecútenlo. Deberían ver la salida "¡Hola, Python!" en la consola.
 
-## Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- Se utiliza en múltiples campos como desarrollo web, análisis de datos e inteligencia artificial.
+- Familiaridad con el entorno de desarrollo.
+- Ejecución del primer programa en Python.
