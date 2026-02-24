@@ -1,13 +1,11 @@
 # Temas intermedios
 
-- Comprender la utilización de decoradores en Python y su aplicación práctica.
-- Implementar y utilizar clases y objetos para crear sistemas más complejos.
+- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
+- Aprender a manejar excepciones de manera efectiva para mejorar la robustez del código.
 
-Python es un lenguaje de programación versátil que permite a los desarrolladores abstraer problemas complejos en estructuras más manejables. En esta lección, profundizaremos en la utilización de decoradores, una característica poderosa que nos permitirá modificar el comportamiento de funciones o métodos sin alterar su definición original. Decoradores son útiles para agregar funcionalidades a las funciones existentes, como verificar permisos, medir el tiempo de ejecución o aplicar loggging.
+En esta lección se profundizará en dos temas intermedios fundamentales: los decoradores y el manejo de excepciones. Los decoradores son una característica poderosa que permite modificar o extender las funcionalidades de funciones o métodos sin alterar su estructura original, lo cual es muy útil para implementar comportamientos comunes como la verificación de permisos en aplicaciones web. Por otro lado, el manejo adecuado de excepciones es crucial para evitar que los errores interrumpan la ejecución del programa y permitir una respuesta más gracia y segura ante situaciones inesperadas.
 
-Además, aprenderemos sobre la implementación y utilización de clases y objetos en Python, que forman parte fundamental del paradigma orientado a objetos. Las clases nos permiten definir un conjunto de atributos y métodos que pueden ser compartidos por instancias de esa clase (objetos). Esta estructura es ideal para modelar problemas reales y construir sistemas complejos con componentes bien definidos.
+Para ejercitar estos conceptos, los estudiantes deberán desarrollar un pequeño sistema que utilice decoradores para loggear las llamadas a funciones y manejar excepciones para garantizar que el programa no se detenga en caso de errores. Este ejercicio permitirá consolidar la comprensión de ambos temas y su aplicación práctica.
 
-Para practicar, los estudiantes deberán crear una aplicación simple que use decoradores para validar la entrada en funciones matemáticas. También deberán implementar una clase `Libro` con atributos como título, autor y año de publicación, y métodos para modificar estos atributos y mostrar información del libro.
-
-- Decoradores para validación de entrada.
-- Implementación de clases y objetos en Python.
+- Decoradores: herramienta para modificar funcionalidades sin alterar estructuras originales.
+- Manejo de excepciones: técnica fundamental para mejorar robustez del código, evitando interrupciones en caso de errores.
