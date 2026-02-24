@@ -1,18 +1,13 @@
 # Revision
 
-## Objetivos
-- Consolidar la comprensión de las técnicas avanzadas de programación en Python.
-- Aprender a implementar y optimizar funciones recursivas y iterativas.
+- Dominar la optimización de código mediante técnicas avanzadas.
+- Comprender y aplicar patrones de diseño para mejorar la estructura del código.
 
-## Contenido
-En esta lección, se revisará el concepto de funciones recursivas y iterativas, explorando sus ventajas e inconvenientes. Se profundizará en la optimización de estas técnicas para mejorar el rendimiento del código. Se discutirá cómo elegir entre recursividad e iteración dependiendo del problema a resolver y se proporcionarán ejemplos prácticos.
+Python es un lenguaje de programación versátil que ofrece una amplia gama de herramientas y bibliotecas para desarrollar soluciones eficientes. En esta lección, se revisará el uso avanzado de técnicas como la optimización de bucles, la utilización de decoradores y la implementación de patrones de diseño, con el fin de mejorar no solo la eficiencia del código sino también su legibilidad y mantenibilidad.
 
-Se destacará la importancia de la memoización y la tail recursion, así como las limitaciones de la recursión en Python debido al límite de profundidad de llamadas. Se abordarán también técnicas para manejar problemas que podrían llevar a un bucle infinito o una pila profunda.
+Se explorarán ejemplos prácticos en los que se aplican estas técnicas para resolver problemas comunes en programación. Se discutirá cómo optimizar bucles mediante técnicas como la comprensión de listas, el uso de generadores y el manejo eficiente de memoria. También se profundizará en la utilización de decoradores para encapsular comportamientos comunes y mejorar la modularidad del código.
 
-## Ejercicio
-Implementa una función en Python que calcule el factorial de un número utilizando tanto recursividad como iteración. Luego, compara la eficiencia y los límites de ambas implementaciones para números grandes (por ejemplo, 100). Documenta tus resultados y reflexiona sobre cuándo sería más apropiado usar una técnica u otra.
+Para practicar, los estudiantes deberán optimizar un script que realiza cálculos intensivos sobre una lista grande de datos. Deberán aplicar técnicas vistas durante la lección, como el uso de comprensión de listas y generadores, para mejorar la eficiencia del código sin sacrificar su legibilidad.
 
-## Resumen
-- Se revisarán las técnicas recursivas e iterativas en Python.
-- Se destacará la importancia de considerar la optimización y las limitaciones al elegir entre estas técnicas.
-- Los estudiantes aprenderán a implementar y comparar ambos métodos para resolver problemas similares.
+- Optimización de bucles mediante comprensión de listas y generadores.
+- Uso de decoradores para encapsular comportamientos comunes.
