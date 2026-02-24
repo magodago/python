@@ -1,11 +1,15 @@
 # Entrega y revision
 
-- Los estudiantes deben presentar su proyecto final de Python a la clase.
-- Se evaluarán las habilidades técnicas y el diseño del código, así como la capacidad de explicar los componentes del proyecto.
+Objetivos
+- Entender los aspectos importantes a considerar durante la entrega y revisión del proyecto final.
+- Practicar la presentación de un proyecto de Python de manera efectiva.
 
-Para esta lección, los alumnos deberán preparar una demostración breve de su proyecto final en Python. Esta demostración debe incluir una explicación clara de cómo funciona el programa y qué problemas o tareas resuelve. Además, se recomienda que los estudiantes preparen un documento de presentación que contenga los siguientes elementos: un resumen del propósito del proyecto, una descripción detallada de la funcionalidad principal, cualquier desafío técnico enfrentado durante el desarrollo y cómo fue solucionado, y finalmente, conclusiones o lecciones aprendidas. 
+Contenido
+Durante esta lección, se enfocará en los detalles cruciales para la entrega y revisión del proyecto final. Se discutirá cómo prepararse adecuadamente para el momento de la presentación, incluyendo la organización de código, la documentación y la preparación de una explicación clara sobre las funcionalidades del proyecto. Además, se abordarán los aspectos técnicos que deben ser considerados durante la revisión, como la eficiencia del código, la modularización y el uso apropiado de librerías.
 
-Los estudiantes deben estar preparados para responder preguntas sobre su proyecto y discutir posibles mejoras o alternativas al diseño original.
+Ejercicio
+Presenta tu proyecto final a un compañero de clase. Antes de presentarlo, asegúrate de que esté completamente documentado y organizado. Durante la presentación, explica brevemente las funcionalidades del código y resalta los aspectos más innovadores o complejos de tu proyecto. Después de la presentación, presta atención a las preguntas y comentarios de tu compañero para mejorar tu comprensión sobre lo que se espera en una revisión profesional.
 
-- Los proyectos demostrados deben incluir una explicación clara de la funcionalidad.
-- Se valorará tanto el código como la capacidad del estudiante para comunicar sus ideas.
+Resumen
+- La preparación adecuada es crucial tanto para la entrega como para la revisión del proyecto final.
+- Se debe enfatizar la documentación y la claridad en la explicación durante las presentaciones.
