@@ -1,14 +1,11 @@
 # Mantenimiento
 
-- Comprender los conceptos básicos de mantenimiento de código en Python.
-- Identificar y corregir problemas comunes durante la fase de mantenimiento.
+- Entender los conceptos básicos de mantenimiento de código en Python.
+- Identificar y corregir errores comunes en programas existentes.
 
-El mantenimiento de código es una parte crucial del desarrollo de software, especialmente cuando se trata de proyectos que requieren actualizaciones o mejoras a lo largo del tiempo. En el contexto de Python, este proceso implica revisar, depurar y optimizar el código existente para asegurar su eficiencia y continuidad. Es importante recordar que el mantenimiento no solo se refiere a solucionar errores, sino también a adaptar el código a nuevas tecnologías o requisitos de negocio.
+El mantenimiento de código es una parte crucial del desarrollo de software. En este módulo, se enfatizará la importancia de mantener el código limpio, legible y eficiente. Se abordarán técnicas para identificar y corregir errores comunes que pueden surgir en programas Python existentes, así como prácticas recomendadas para mejorar la calidad del código a lo largo del tiempo.
 
-Durante esta lección, los estudiantes aprenderán técnicas básicas de depuración, como la utilización del debugger integrado en Python (pdb), así como estrategias para documentar y organizar el código de manera efectiva. Se abordará también cómo utilizar herramientas de análisis estático como flake8 o pylint para identificar problemas potenciales antes de que se vuelvan críticos.
+Para practicar estos conceptos, los estudiantes deberán revisar un programa de ejemplo que realiza cálculos financieros. El objetivo es identificar posibles errores y optimizar el código para mejorar su rendimiento y legibilidad. Los estudiantes deben documentar cada paso de su proceso de revisión y correción.
 
-Ejercicio: Los estudiantes deben revisar un código Python proporcionado por el profesor, que incluye errores y malas prácticas. El objetivo es corregir estos problemas y mejorar la estructura del código utilizando las técnicas aprendidas durante esta lección.
-
-- Familiaridad con herramientas de depuración.
-- Aplicación de mejores prácticas en documentación y organización del código.
-- Identificación y corrección de errores mediante análisis estático.
+- Identificación y corrección de errores en Python.
+- Mejora del rendimiento y legibilidad del código existente.
