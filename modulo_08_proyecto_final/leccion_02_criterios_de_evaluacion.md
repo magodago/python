@@ -1,17 +1,11 @@
 # Criterios de evaluacion
 
-- Comprender y aplicar los criterios de evaluación del proyecto final de Python.
-- Desarrollar habilidades para autoevaluarse y ajustar su trabajo según los estándares establecidos.
+- Comprender los criterios de evaluación que se utilizarán para el proyecto final.
+- Identificar las habilidades técnicas y conceptuales necesarias para el éxito del proyecto.
 
-El objetivo principal de esta lección es que los estudiantes comprendan claramente los criterios de evaluación que se utilizarán para el proyecto final de Python. Estos criterios abarcan varios aspectos del desarrollo de software, incluyendo la funcionalidad, la eficiencia, la legibilidad del código y la documentación. Es fundamental que los estudiantes entiendan cómo se evaluará su trabajo para poder trabajar con mayor precisión y efectividad en el proyecto final.
+En esta lección sobre los criterios de evaluación del proyecto final, se abordarán aspectos clave que guiarán la evaluación. Se evaluará no solo la funcionalidad del código Python, sino también la claridad en la documentación y la eficiencia del diseño. Los estudiantes aprenderán a priorizar la legibilidad del código, la modularización y la utilización de buenas prácticas de programación.
 
-Los criterios de evaluación incluyen:
-- Funcionalidad: El programa debe cumplir con todos los requisitos especificados.
-- Eficiencia: El código debe ser eficiente tanto en términos de tiempo como de espacio.
-- Legibilidad del código: La estructura y estilo del código deben ser claros y consistentes.
-- Documentación: Debe haber una documentación adecuada que explique el funcionamiento del programa.
+Como ejercicio, los estudiantes deben revisar un proyecto previamente desarrollado por otro estudiante y evaluarlo según los criterios proporcionados. Deben identificar áreas de mejora en términos de funcionalidad, documentación y diseño general, y presentar sus observaciones en un informe escrito.
 
-Para practicar, los estudiantes deberán evaluar un ejemplo de proyecto final de Python utilizando los criterios proporcionados. Esto les permitirá familiarizarse con la evaluación y ajustar su propio trabajo según sea necesario.
-
-- Familiaridad con los criterios de evaluación.
-- Comprensión del impacto de la autoevaluación en el desarrollo del proyecto.
+- Comprender la importancia de la claridad y eficiencia en el código.
+- Identificar las habilidades técnicas y conceptuales necesarias para el proyecto final.
