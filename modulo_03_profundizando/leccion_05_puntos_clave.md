@@ -1,13 +1,12 @@
 # Puntos clave
 
-- Dominar la utilización de métodos avanzados de las listas y diccionarios.
-- Comprender cómo implementar funciones recursivas para resolver problemas complejos.
+- Dominar la utilización de listas y diccionarios anidados.
+- Aprender a manipular cadenas de texto avanzadas.
+- Comprender y aplicar funciones lambda y map.
 
-Las listas y diccionarios son estructuras fundamentales en Python, pero su poder se amplía cuando se utilizan sus métodos más avanzados. Por ejemplo, la función `map()` puede aplicar una función a cada elemento de una lista, lo que simplifica operaciones como el cálculo de valores o la transformación de datos. Además, el método `filter()` permite crear listas filtradas basadas en ciertas condiciones, lo cual es útil para procesar grandes conjuntos de datos eficientemente.
+En esta lección del módulo Profundizando, se profundizará en el manejo de estructuras de datos complejas como listas y diccionarios anidados. Se explorará cómo estas estructuras permiten organizar y manipular datos de manera eficiente para resolver problemas más complejos. También se abordarán técnicas avanzadas para la manipulación de cadenas de texto, incluyendo el uso de métodos de cadena y expresiones regulares en Python.
 
-Los diccionarios, por otro lado, ofrecen una forma rápida y conveniente de acceder a elementos mediante claves. El método `items()` devuelve un objeto iterador que contiene pares clave-valor, permitiendo el manejo dinámico del contenido del diccionario. Esto es especialmente útil en aplicaciones donde los datos cambian frecuentemente o cuando se necesita recorrer y manipular el contenido de forma eficiente.
+Para practicar estos conceptos, los estudiantes deberán desarrollar un programa que utilice listas anidadas para gestionar una base de datos de productos en una tienda virtual. El programa deberá permitir la adición, eliminación y búsqueda de productos, así como la generación de informes basados en esta información.
 
-Para practicar estos conceptos, realiza la siguiente tarea: Crea una función que tome una lista de números y devuelva un nuevo diccionario donde las claves sean los números originales y los valores sean sus cuadrados. Utiliza `map()` para calcular los cuadrados y `dict()` para crear el diccionario.
-
-- Familiarizarse con métodos avanzados de listas y diccionarios.
-- Aplicar funciones `map()` y `filter()` para procesar datos eficientemente.
+- Utilizar listas y diccionarios anidados para organizar datos.
+- Aplicar técnicas avanzadas para manipular cadenas de texto.
