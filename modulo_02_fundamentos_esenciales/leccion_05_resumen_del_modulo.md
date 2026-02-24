@@ -1,11 +1,16 @@
 # Resumen del modulo
 
-- Comprender los fundamentos esenciales de Python.
-- Aplicar conocimientos básicos de sintaxis y estructuras de datos.
+Objetivos
+- Consolidar los conceptos fundamentales de Python.
+- Aplicar conocimientos adquiridos a través de ejercicios prácticos.
 
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad en la escritura del código. En este módulo, se han explorado los fundamentos esenciales necesarios para comenzar a programar con Python, incluyendo el uso de variables y tipos de datos básicos, estructuras de control como condicionales y bucles, así como funciones y módulos. Estas herramientas forman la base sobre las cuales se construyen programas más complejos.
+Contenido
+En esta lección final del módulo sobre Fundamentos esenciales, se revisará todo lo aprendido hasta ahora. Se abordarán temas como la sintaxis básica, tipos de datos, estructuras de control (condicionales y bucles), funciones y listas. Los estudiantes deben entender cómo utilizar estas herramientas para resolver problemas simples y comprender las mejores prácticas al escribir código en Python.
 
-Para practicar lo aprendido, los estudiantes deben crear un programa que solicite al usuario su nombre y edad, imprima un mensaje personalizado con el nombre proporcionado e indique cuántos años tendrá en 10 años. Este ejercicio permitirá a los alumnos aplicar sus conocimientos sobre entrada de datos, variables, operaciones aritméticas y la impresión de resultados.
+Ejercicio
+Implemente una función que calcule el factorial de un número utilizando un bucle for. Luego, utilice esta función en un programa principal donde solicite al usuario ingresar un número y muestre su factorial calculado. Asegúrese de manejar posibles errores de entrada del usuario.
 
-- Dominio básico de sintaxis Python.
-- Uso efectivo de estructuras de control y funciones.
+Resumen
+- Se ha revisado la sintaxis básica y tipos de datos.
+- Se han profundizado en estructuras de control y funciones.
+- Los estudiantes deben poder aplicar estos conceptos para resolver problemas prácticos.
