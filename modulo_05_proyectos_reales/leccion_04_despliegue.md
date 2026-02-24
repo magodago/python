@@ -1,20 +1,11 @@
 # Despliegue
 
-Objetivos
-- Comprender los conceptos básicos de despliegue web para aplicaciones Python.
-- Aprender a usar un entorno de desarrollo como Heroku para publicar proyectos.
+- Entender los conceptos básicos de despliegue de aplicaciones Python.
+- Aprender a configurar un entorno de producción para una aplicación web.
 
-Contenido
-En esta lección, se explorará el proceso de despliegue de una aplicación Python en Internet. Se comenzará con la configuración del archivo `requirements.txt` y `Procfile`, que son fundamentales para especificar las dependencias y el comando de inicio de la aplicación respectivamente. Posteriormente, se explicará cómo utilizar Heroku como plataforma de despliegue, pasando por los pasos desde la creación de una cuenta hasta el push del código al servidor remoto.
+El despliegue de una aplicación Python implica preparar y ejecutar tu código en un ambiente que sea seguro, eficiente y escalable. En este módulo, aprenderás sobre diferentes métodos de despliegue, incluyendo el uso de servidores locales como Apache o Nginx con WSGI, así como la configuración de servicios basados en nube como Heroku o AWS. Se discutirán también las mejores prácticas para manejar errores y monitorear la aplicación durante su operación.
 
-Ejercicio
-El estudiante deberá crear un simple API con Flask y luego realizar su despliegue en Heroku. Deberá:
-1. Instalar las dependencias necesarias.
-2. Configurar el archivo `Procfile` para que Heroku sepa cómo iniciar la aplicación.
-3. Crear una cuenta gratuita de Heroku.
-4. Conectar el repositorio local con Heroku y desplegar la aplicación.
+Para este ejercicio, configura una aplicación web básica creada con Flask en un servidor local. Primero, instala Flask y crea un simple "Hello World" en tu entorno de desarrollo. Luego, configura Apache o Nginx para servir tu aplicación utilizando WSGI. Finalmente, prueba la configuración desplegando la aplicación y asegúrate de que funcione correctamente.
 
-Resumen
-- Se aprendió a configurar los archivos necesarios para el despliegue web.
-- Se utilizó Heroku como plataforma para publicar la aplicación Flask.
-- Se practicó desde la instalación de dependencias hasta la publicación en producción.
+- Configurar Apache o Nginx con WSGI.
+- Despliegue exitoso de una aplicación Flask en un servidor local.
