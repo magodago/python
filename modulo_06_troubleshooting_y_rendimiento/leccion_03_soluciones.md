@@ -1,11 +1,14 @@
 # Soluciones
 
 ## Contenido
-En esta lección sobre soluciones de problemas y rendimiento en Python, se abordarán técnicas para mejorar la eficiencia del código y resolver errores comunes. Se discutirá cómo utilizar herramientas como `timeit` y `cProfile` para medir el tiempo de ejecución y analizar el rendimiento de diferentes partes del programa. Además, se explorará la optimización de bucles y funciones, así como la selección adecuada entre listas, tuplas y diccionarios para mejorar la velocidad y eficacia del código.
+En esta lección sobre soluciones de problemas y rendimiento en Python, se explorarán técnicas para identificar y resolver errores comunes en el código. Se analizará cómo optimizar el rendimiento del programa mediante la selección adecuada de estructuras de datos y algoritmos. Se proporcionará un conjunto de herramientas y prácticas recomendadas que permitirán a los estudiantes diagnosticar problemas de rendimiento y corregirlos eficazmente.
+
+Python ofrece una amplia gama de bibliotecas para analizar el rendimiento del código, como `cProfile` o `line_profiler`. Estos módulos ayudan a identificar las partes del programa que son más lentas, permitiendo al programador focalizarse en optimizar estas secciones. Además, se discutirá la importancia de la selección adecuada de estructuras de datos y algoritmos para mejorar el rendimiento general del código.
 
 ## Ejercicio
-El estudiante recibirá un fragmento de código que realiza operaciones complejas sobre una lista grande. Tendrá que identificar posibles problemas de rendimiento y aplicar las técnicas aprendidas (como el uso de `cProfile` para analizar la ejecución) para optimizar el código y mejorar su eficiencia.
+Implemente un programa en Python que calcule la suma de los primeros 1000 números naturales utilizando dos métodos diferentes: una lista para almacenar todos los números y un bucle `for` para sumarlos, y una solución más eficiente que no requiere almacenar todos los números. Compare el rendimiento de ambos métodos usando la biblioteca `timeit`.
 
 ## Resumen
-- Se aprendió a utilizar herramientas como `timeit` y `cProfile` para medir y optimizar el rendimiento del código.
-- Se exploraron técnicas para mejorar la eficiencia de bucles y funciones, así como la selección adecuada entre diferentes tipos de estructuras de datos.
+- Se aprendió a identificar problemas de rendimiento en Python utilizando herramientas como `cProfile`.
+- Se destacó la importancia de la selección adecuada de estructuras de datos y algoritmos para optimizar el código.
+- Se practicó la optimización del rendimiento mediante la implementación de soluciones más eficientes.
