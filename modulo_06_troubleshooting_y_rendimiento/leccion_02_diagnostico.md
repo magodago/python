@@ -1,15 +1,11 @@
 # Diagnostico
 
-Objetivos
-- Identificar y diagnosticar problemas comunes en la ejecución de programas Python.
-- Mejorar el rendimiento de aplicaciones Python a través del diagnóstico.
+- Identificar y diagnosticar problemas comunes en programas de Python.
+- Optimizar el rendimiento de scripts Python mediante técnicas básicas de diagnóstico.
 
-Contenido
-En esta lección, se abordará cómo identificar y solucionar problemas que pueden surgir durante la ejecución de código Python. Se explorarán técnicas para detectar errores comunes, como excepciones no manejadas o bucles infinitos, así como estrategias para optimizar el rendimiento del programa. Los estudiantes aprenderán a utilizar herramientas de depuración y monitoreo integradas en los entornos de desarrollo Python para analizar la eficiencia y el comportamiento del código.
+El diagnóstico es una habilidad crucial para cualquier programador. En esta lección, aprenderás a identificar errores comunes en tu código Python y cómo utilizar herramientas de depuración eficazmente. Veremos cómo usar la función `assert` para verificar condiciones durante la ejecución del programa y generar excepciones personalizadas cuando se detecten problemas. También exploraremos el uso de la consola de depuración de Python (PDB) para detener la ejecución en puntos específicos, inspeccionar variables y trazar el flujo del programa.
 
-Ejercicio
-Implemente un pequeño programa que calcule la suma de los primeros 1000 números enteros. Posteriormente, use una herramienta de depuración (como PDB) para identificar posibles problemas en el rendimiento o la ejecución. Documente cualquier error encontrado y proporcione soluciones potenciales.
+Para practicar estos conceptos, realiza el siguiente ejercicio: Escribir un script que calcule el promedio de una lista de números. Implementa `assert` para verificar que los elementos de la lista sean numéricos. Luego, utiliza PDB para depurar y optimizar tu código, identificando posibles áreas de mejora en términos de rendimiento.
 
-Resumen
-- Se aprendió a diagnosticar errores comunes en Python.
-- Se exploraron técnicas para mejorar el rendimiento de aplicaciones Python mediante el uso de herramientas de depuración.
+- Utilización efectiva de `assert` para la validación de datos.
+- Uso de PDB para depurar y optimizar el código Python.
