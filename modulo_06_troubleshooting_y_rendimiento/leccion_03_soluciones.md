@@ -1,14 +1,12 @@
 # Soluciones
 
 ## Contenido
-En esta lección sobre soluciones de problemas y rendimiento en Python, se abordarán técnicas efectivas para identificar y resolver errores comunes en el código. Se explorará cómo optimizar el rendimiento de las aplicaciones Python mediante la utilización eficiente de estructuras de datos y algoritmos. Se proporcionará un enfoque práctico para mejorar la eficiencia del código, incluyendo el uso de módulos y bibliotecas preexistentes que pueden acelerar la implementación y reducir la complejidad.
-
-Se discutirá cómo utilizar herramientas como `timeit` y `cProfile` para medir el rendimiento de diferentes partes del código. Se proporcionará un ejemplo práctico donde los estudiantes podrán aplicar estas técnicas a un problema de codificación real, midiendo la eficiencia antes y después de optimizar.
+En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán estrategias efectivas para identificar y resolver errores comunes y mejorar la eficiencia del código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) y `logging` para depurar y monitorear el comportamiento del programa durante su ejecución. También se discutirá la importancia de la selección adecuada de algoritmos y estructuras de datos, así como técnicas para optimizar el código mediante la minimización de operaciones innecesarias y la utilización eficiente de recursos.
 
 ## Ejercicio
-Implementa una función que calcule la suma de los primeros 1000 números enteros. Primero utiliza un bucle `for` para hacerlo, luego optimiza el código utilizando comprensión de listas o una función recursiva. Utiliza `timeit` para medir el tiempo de ejecución de ambas versiones y compara los resultados.
+Implementa un programa que calcule la suma de los primeros 1000 números naturales. Inicialmente, utiliza un bucle `for` tradicional. Luego, optimiza el código utilizando una fórmula matemática directa para calcular la suma sin necesidad de iteraciones. Mide y compara el tiempo de ejecución de ambas versiones del programa.
 
 ## Resumen
-- Se aprenden técnicas para identificar y resolver errores comunes en Python.
-- Se enseñan métodos para optimizar el rendimiento del código, incluyendo el uso de herramientas de medición.
-- Los estudiantes aplicarán estos conocimientos a un ejercicio práctico.
+- Se aprendió a utilizar herramientas como `pdb` y `logging` para depurar y monitorear el código.
+- Se destacó la importancia de elegir algoritmos y estructuras de datos apropiados para optimizar el rendimiento.
+- Se practicó la optimización del código mediante la eliminación de operaciones innecesarias.
