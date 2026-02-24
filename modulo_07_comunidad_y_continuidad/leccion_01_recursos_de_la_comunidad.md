@@ -1,11 +1,11 @@
 # Recursos de la comunidad
 
-- Familiarizarse con los recursos de la comunidad Python disponibles.
-- Aprender a utilizar foros y plataformas de ayuda para resolver problemas.
+- Los estudiantes aprenderán a identificar y utilizar recursos de la comunidad Python.
+- Comprenderán cómo participar activamente en foros y grupos de discusión para mejorar sus habilidades.
 
-La lección se enfocará en explorar cómo aprovechar al máximo la rica comunidad que rodea el lenguaje de programación Python. Se explicarán las diversas plataformas y recursos disponibles, como Stack Overflow, GitHub, y los grupos de Telegram o Discord. Estos son lugares donde los desarrolladores de todo el mundo comparten conocimientos, soluciones a problemas comunes y nuevas técnicas.
+La lección se centra en los recursos disponibles en la vasta comunidad Python. Se exploran plataformas como Stack Overflow, GitHub y el sitio oficial de Python, donde los estudiantes pueden encontrar soluciones a problemas comunes, contribuir con código o simplemente aprender de otros desarrolladores. El objetivo es que comprendan no solo cómo usar estos recursos, sino también cómo participar constructivamente en la comunidad para promover su propio crecimiento profesional.
 
-El ejercicio para esta lección consistirá en identificar un problema de programación básico, buscar la solución en una plataforma de ayuda como Stack Overflow, documentar el proceso y compartir el resultado con el grupo. Esto permitirá a los estudiantes practicar la búsqueda efectiva de soluciones en línea y entender cómo interactuar con la comunidad.
+Ejercicio: Los estudiantes deben buscar y resumir una solución a un problema técnico en Stack Overflow relacionado con Python. Deben compartir el enlace al hilo de discusión y explicar brevemente qué solucionó el problema.
 
-- Familiaridad con plataformas comunitarias.
-- Capacidad para buscar y utilizar recursos externos eficientemente.
+- Identificar recursos útiles en la comunidad Python.
+- Participar activamente en foros y grupos para mejorar habilidades y contribuir.
