@@ -1,13 +1,19 @@
 # Temas intermedios
 
-- Entender la utilización de decoradores en Python y su aplicación práctica.
-- Aprender a implementar y utilizar clases y objetos para crear estructuras de datos personalizadas.
+## Objetivos
+- Comprender y aplicar la programación orientada a objetos en Python.
+- Implementar manejo de excepciones para mejorar la robustez del código.
 
-En esta lección profundizaremos en temas intermedios de Python, centrándonos en dos conceptos fundamentales: los decoradores y la programación orientada a objetos. Los decoradores son una característica poderosa que permite modificar o extender el comportamiento de funciones o métodos sin alterar su estructura original. Esto es especialmente útil para agregar funcionalidades comunes, como controles de acceso, métricas o logueo, de manera reutilizable y elegante.
+## Contenido
+En esta lección profundizaremos en dos temas intermedios esenciales: programación orientada a objetos (POO) y manejo de excepciones. La POO nos permitirá organizar nuestro código de manera más estructurada, reutilizable y modular. Podremos definir clases con atributos y métodos para modelar entidades del mundo real, así como heredar comportamientos entre clases.
 
-Además, exploraremos en profundidad la programación orientada a objetos (POO) en Python, incluyendo cómo definir clases, instanciar objetos y utilizar herencia. Aprenderemos a crear estructuras de datos personalizadas utilizando clases y métodos para manipularlos eficientemente. Esto nos permitirá abordar problemas complejos de manera modular y organizada.
+El manejo de excepciones es crucial para construir aplicaciones robustas. Veremos cómo capturar errores utilizando bloques `try`, `except` y `finally`. También aprenderemos a definir nuestras propias excepciones personalizadas para manejar situaciones específicas que puedan surgir durante la ejecución del programa.
 
-Para practicar estos conceptos, realiza el siguiente ejercicio: Crea un decorador que mida el tiempo de ejecución de una función y luego aplica este decorador a una función que implemente una estructura de datos personalizada (por ejemplo, una cola o una pila). Documenta los resultados obtenidos.
+## Ejercicio
+Crea una clase `Libro` con atributos como título, autor, año de publicación y métodos para modificar estos atributos. Implementa un método `calcular_antiguedad()` que devuelva cuántos años ha pasado desde su publicación hasta la fecha actual. Luego, crea una función `mostrar_informacion()` en la clase `Libro` que imprima toda la información del libro.
 
-- Decoradores para modificar el comportamiento de funciones.
-- Programación orientada a objetos para crear estructuras de datos personalizadas.
+A continuación, maneja posibles errores en la función `mostrar_informacion()` utilizando bloques `try`, `except` y `finally`. Por ejemplo, si el atributo `año_de_publicacion` no es un número válido, captura la excepción correspondiente y muestra un mensaje de error.
+
+## Resumen
+- La programación orientada a objetos permite organizar código en clases y objetos.
+- El manejo de excepciones ayuda a construir aplicaciones más robustas al capturar y manejar errores.
