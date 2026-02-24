@@ -1,11 +1,15 @@
 # Revision
 
-- Comprender la optimización de código en Python mediante técnicas avanzadas.
-- Implementar y evaluar algoritmos eficientes utilizando estructuras de datos complejas.
+## Objetivos
+- Analizar y optimizar el uso de decoradores en Python.
+- Implementar técnicas avanzadas de programación funcional.
 
-En esta lección revisamos conceptos clave para optimizar el rendimiento del código Python. Exploraremos cómo utilizar listas, diccionarios y conjuntos de manera efectiva para resolver problemas complejos con mayor velocidad. También abordaremos técnicas avanzadas como la programación dinámica y la memoización para evitar cálculos redundantes.
+## Contenido
+En esta lección, profundizaremos en las capacidades más avanzadas que ofrece Python para mejorar la eficiencia y legibilidad del código. Los decoradores son una herramienta poderosa que permite modificar el comportamiento de funciones o métodos sin alterar su estructura original. Además, introduciremos técnicas de programación funcional, como la utilización de funciones lambda y comprensión de listas, para abordar problemas complejos de manera más concisa.
 
-Para practicar, los estudiantes deberán optimizar un algoritmo que calcula números primos utilizando un conjunto en lugar de una lista para mejorar el rendimiento. Se les pedirá que midan el tiempo de ejecución antes y después de realizar las modificaciones.
+## Ejercicio
+Implementa un decorador que mide el tiempo de ejecución de una función y lo imprima en consola. Luego, aplica este decorador a al menos tres funciones diferentes: una que calcule la suma de los primeros 1000 números naturales, otra que genere una lista con los cuadrados de los primeros 50 números y una tercera que realice una operación recursiva para calcular el factorial de un número.
 
-- Uso eficiente de estructuras de datos.
-- Optimización mediante programación dinámica y memoización.
+## Resumen
+- Los decoradores son herramientas esenciales para modificar funcionalidades de funciones o métodos.
+- La programación funcional, con técnicas como las funciones lambda y la comprensión de listas, permite abordar problemas complejos de manera más concisa.
