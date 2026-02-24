@@ -1,29 +1,11 @@
 # Mantenimiento
 
-- Comprender los conceptos básicos de mantenimiento de código en Python.
-- Identificar y corregir problemas comunes durante la revisión del código existente.
+- Comprender los conceptos básicos de mantenimiento de software y su aplicación a proyectos Python.
+- Identificar y corregir errores comunes en código existente para mejorar la calidad del mismo.
 
-El mantenimiento de código es una parte crucial del desarrollo de software, especialmente cuando se trata con proyectos que han estado en funcionamiento durante un tiempo. En Python, como en cualquier otro lenguaje, el código puede volverse obsoleto o ineficiente a medida que las necesidades del proyecto cambian. Es importante entender cómo revisar y actualizar el código para mejorar su rendimiento y asegurar la compatibilidad con nuevas versiones de Python.
+El mantenimiento es un paso crucial en el ciclo de vida de cualquier proyecto de desarrollo de software, incluyendo aquellos desarrollados con Python. Consiste en hacer cambios en un sistema establecido para arreglar fallos, mejorar su rendimiento o adaptarlo a nuevas necesidades. En proyectos de Python, este proceso puede implicar la corrección de errores, optimización del código, actualización de dependencias y mejora de la documentación. Un buen mantenimiento garantiza que el software siga siendo funcional y eficiente con el paso del tiempo.
 
-Durante esta lección, se explorará cómo identificar problemas comunes en el código existente, como variables innecesariamente globales, bucles ineficientes o mal uso de funciones. Se proporcionarán técnicas para refactorizar y optimizar el código sin alterar su funcionalidad original.
+Para practicar estos conceptos, los alumnos deberán revisar un proyecto Python existente proporcionado por el instructor. El objetivo es identificar errores o áreas de mejora en el código y realizar las correcciones necesarias. Los estudiantes deberán documentar sus cambios y explicar cómo mejoran la calidad del software.
 
-### Ejercicio
-
-Revisa y corrige el siguiente fragmento de código que calcula la suma de los primeros 10 números pares:
-
-```python
-def suma_pares(n):
-    total = 0
-    for i in range(2, n+1, 2):
-        total += i
-    return total
-
-print(suma_pares(10))
-```
-
-Identifica posibles problemas y propón una solución mejorada. Explora cómo se puede optimizar el código para que sea más eficiente y legible.
-
-### Resumen
-
-- Identificar áreas de mejora en el código existente.
-- Aplicar técnicas de refactorización para optimizar el rendimiento sin cambiar la funcionalidad original.
+- Identificación y corrección de errores en código Python.
+- Mejora continua del rendimiento y funcionalidad del software.
