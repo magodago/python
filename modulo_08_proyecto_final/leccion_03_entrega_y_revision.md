@@ -1,11 +1,10 @@
 # Entrega y revision
 
-- Los estudiantes aprenderán a presentar su proyecto final de manera efectiva.
-- Comprenderán la importancia de recibir y dar retroalimentación constructiva.
+- Entender los criterios de evaluación y revisión del proyecto final.
+- Desarrollar habilidades para presentar y defender su trabajo ante un panel de evaluadores.
 
-Después de un intenso trabajo en los proyectos finales, llega el momento de compartir sus creaciones con la clase. En esta lección, se enfatizará la presentación clara y concisa del proyecto, así como la importancia de escuchar críticas constructivas para mejorar futuros trabajos. Se discutirá cómo estructurar una presentación exitosa, incluyendo introducción, desarrollo y conclusión, y se proporcionará un formato básico para seguir.
+En esta lección se abordará el proceso de entrega y revisión del proyecto final. Los estudiantes aprenderán a prepararse adecuadamente para la presentación de sus trabajos, así como a responder a las preguntas y críticas que puedan surgir durante la evaluación. Se discutirá cómo estructurar una presentación efectiva y qué aspectos deben ser destacados en el proyecto.
 
-Para practicar estos conceptos, los estudiantes deberán preparar y realizar una breve presentación de su proyecto final ante la clase. Deberán explicar el propósito del proyecto, cómo lo diseñaron y qué técnicas de Python utilizaron. Además, deben estar listos para recibir y responder a preguntas y críticas constructivas.
+Para este ejercicio, los estudiantes deberán preparar un breve resumen de su proyecto final, incluyendo sus objetivos, metodología utilizada y resultados obtenidos. Deben practicar la presentación ante un compañero o familiares para recibir retroalimentación y afinar su discurso. Además, deben reflexionar sobre los posibles cuestionamientos que podrían surgir durante la evaluación y prepararse con respuestas coherentes.
 
-- La presentación efectiva es clave en cualquier proyecto.
-- La retroalimentación constructiva permite el crecimiento personal y profesional.
+Los puntos clave a retener son: la importancia de una preparación adecuada para la presentación, la capacidad de explicar claramente el proyecto y responder a preguntas de manera efectiva.
