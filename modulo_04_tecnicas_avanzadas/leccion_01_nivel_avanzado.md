@@ -1,17 +1,15 @@
 # Nivel avanzado
 
 ### Objetivos
-- Comprender y aplicar técnicas avanzadas de programación orientada a objetos.
-- Familiarizarse con la optimización de código para mejorar el rendimiento.
+- Familiarizar al estudiante con la optimización de código mediante técnicas avanzadas.
+- Introducir el uso de decoradores y metaclasses para mejorar la funcionalidad y flexibilidad del código.
 
 ### Contenido
-En esta lección del módulo de técnicas avanzadas, se explorará profundamente las características avanzadas de Python relacionadas con la programación orientada a objetos (POO). Se abordarán conceptos como herencia múltiple, polimorfismo y métodos especiales. Además, se presentarán estrategias para optimizar el rendimiento del código, incluyendo la utilización eficiente de estructuras de datos complejas y técnicas de programación funcional.
-
-Se discutirá cómo la POO puede ser utilizada para resolver problemas complejos mediante la creación de clases y objetos interconectados. Se explorarán ejemplos prácticos donde se aplican estos conceptos, mejorando así el diseño y la mantenibilidad del código. También se tratará la optimización del rendimiento a través de técnicas como la memoización y la implementación eficiente de algoritmos.
+En esta lección, se profundizará en las técnicas más avanzadas de programación en Python. Se abordarán temas como la optimización del rendimiento del código a través de algoritmos eficientes y la utilización de decoradores para encapsular funcionalidades reutilizables. Además, se explorará el concepto de metaclasses, que son clases de clases, permitiendo un control más细粒度的控制类和实例的创建过程。通过这些高级技术，学生将能够编写更加高效、灵活且易于维护的代码。
 
 ### Ejercicio
-Implemente una clase `Libro` que tenga los atributos `titulo`, `autor` y `año_publicacion`. Luego, cree dos subclases `FictionBook` e `HistoryBook` que hereden de `Libro`. Para cada subclase, implemente un método `resumen()` que devuelva una breve descripción del libro basada en sus atributos. Utilice la herencia múltiple para permitir que las subclases puedan tener métodos adicionales sin duplicar código.
+Implementa una función decoradora que mida el tiempo de ejecución de cualquier otra función y registre los resultados en un archivo. Luego, crea una metaclsase que permita a las clases derivadas añadir automáticamente métodos estáticos o dinámicos.
 
 ### Resumen
-- Se profundizará en la programación orientada a objetos, abordando herencia múltiple y polimorfismo.
-- Se enseñará cómo optimizar el rendimiento del código mediante técnicas como la memoización.
+- Decoradores se utilizan para modificar funcionalidades existentes sin cambiar su estructura.
+- Metaclasses proporcionan control avanzado sobre la creación y configuración de clases, permitiendo una programación más orientada a aspectos.
