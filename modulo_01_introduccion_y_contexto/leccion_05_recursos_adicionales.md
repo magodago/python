@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea disponibles para mejorar la comprensión y práctica del lenguaje Python.
-- Identificar herramientas útiles para la documentación y la gestión de proyectos en Python.
+- Familiarizarse con recursos de documentación y comunidad disponibles.
+- Identificar herramientas adicionales para mejorar la eficiencia en el aprendizaje de Python.
 
-En esta lección sobre recursos adicionales, se explorarán diversas plataformas y herramientas que pueden ser utilizadas por los estudiantes para profundizar su conocimiento sobre Python. Se recomienda el uso de sitios web como Codecademy, Coursera y edX, donde se ofrecen cursos interactivos y gratuitos que van desde principiantes hasta niveles avanzados. Además, se destacará la importancia de utilizar documentación oficial de Python y bibliotecas populares como NumPy o Pandas para mejorar las habilidades en el manejo de datos.
+Python es un lenguaje de programación versátil que se adapta a una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos. Para aprovechar al máximo las capacidades de Python, es crucial conocer recursos adicionales que pueden facilitar la comprensión y el desarrollo de habilidades en este lenguaje. Algunos de estos recursos incluyen la documentación oficial de Python, foros como Stack Overflow, y plataformas educativas como Coursera o edX que ofrecen cursos avanzados.
 
-Para practicar, los estudiantes deben explorar un curso en línea de su elección sobre Python y realizar al menos dos ejercicios proporcionados por la plataforma. Deben documentar sus avances y cualquier duda que surja durante el proceso.
+Para practicar, busca un problema simple en línea, por ejemplo, en Codecademy, y utiliza el recurso de documentación oficial de Python para resolverlo. Documenta tus pasos y reflexiona sobre cómo los recursos adicionales podrían haber acelerado tu proceso de resolución.
 
-- Comprender la importancia de recursos en línea para el aprendizaje continuo.
-- Practicar con cursos interactivos disponibles gratuitamente en plataformas educativas.
+- Familiarizarse con la documentación oficial de Python.
+- Utilizar foros y plataformas educativas para mejorar el aprendizaje.
