@@ -1,11 +1,13 @@
 # Feedback
 
-- El estudiante aprenderá a recibir y manejar feedback constructivo de sus compañeros y profesores.
-- Comprenderán la importancia del feedback en el proceso de mejora continua y cómo aplicarlo para optimizar su proyecto final.
+- Comprender los aspectos clave del feedback constructivo y su importancia en el desarrollo de proyectos.
+- Aplicar técnicas de retroalimentación para mejorar la calidad del código y la estructura del proyecto final.
 
-El feedback es una herramienta valiosa que puede proporcionar perspectivas únicas sobre tu trabajo. A menudo, los compañeros y profesores pueden ofrecer ideas o sugerencias que no habrías considerado por ti mismo. Es importante ser receptivo a este tipo de retroalimentación, ya que puede ayudarte a identificar áreas de mejora en tu proyecto final.
+El feedback es un componente vital en cualquier proceso creativo, incluyendo el desarrollo de software con Python. El objetivo no solo es identificar errores o áreas de mejora, sino también promover un ambiente colaborativo que fomente el aprendizaje mutuo entre los compañeros y el profesor. La retroalimentación debe ser constructiva y centrarse en las soluciones posibles, no solo en los problemas encontrados.
 
-Para practicar esta habilidad, realiza un intercambio de feedback con un compañero de clase. Cada uno presentará su proyecto final y recibirá críticas constructivas sobre sus fortalezas y áreas para mejorar. Asegúrate de escuchar atentamente las observaciones y preguntas que se te hagan, y responde de manera respetuosa y abierta a la retroalimentación.
+Para obtener feedback efectivo, es importante estructurar la comunicación de manera clara y específica. Los estudiantes deben presentar sus proyectos con una explicación detallada del problema a resolver y el proceso seguido para su resolución. El profesor y los compañeros pueden proporcionar feedback sobre la eficiencia del código, la claridad en la documentación, la utilización apropiada de las funciones y estructuras de datos de Python, así como la integración con otros componentes del proyecto.
 
-- El intercambio de feedback es un proceso bidireccional.
-- La receptividad al feedback es crucial para el crecimiento personal y profesional.
+Ejercicio: Cada estudiante presentará su proyecto final a un grupo de compañeros y al profesor. Después de cada presentación, se realizará una reunión grupal donde se compartirán observaciones y sugerencias para mejorar el código y la implementación general. Los estudiantes deberán anotar estos comentarios en sus diarios de aprendizaje.
+
+- Comprender cómo recibir y aplicar feedback constructivo.
+- Aplicar técnicas de retroalimentación a su propio proyecto final.
