@@ -1,18 +1,11 @@
 # Conclusiones
 
-Objetivos
-- Reflexionar sobre los conceptos y técnicas de programación aprendidos durante el curso.
-- Aplicar la teoría a la práctica mediante el análisis del proyecto final desarrollado.
+- Conocer las aplicaciones prácticas de Python en proyectos reales.
+- Analizar los aspectos positivos y negativos del uso de Python en desarrollo de software.
 
-Contenido
-En esta lección final, es importante recapitular y reflexionar sobre todo lo que se ha aprendido en el curso de Python. Se ha abordado desde los fundamentos básicos hasta conceptos más avanzados como estructuras de datos complejas, programación orientada a objetos, manejo de excepciones y la integración de diferentes bibliotecas útiles. El proyecto final permitió poner en práctica estos conocimientos, lo que nos ayudará a identificar fortalezas y áreas para mejorar. Al analizar el proceso de desarrollo del proyecto, se pueden extraer lecciones valiosas sobre diseño de software, gestión de tiempo y colaboración.
+En esta lección final del módulo sobre Proyecto Final, se revisarán las conclusiones obtenidas tras el análisis y desarrollo de un proyecto completo utilizando Python. Se discutirá cómo Python se ha utilizado para resolver problemas específicos dentro del contexto del proyecto, destacando su versatilidad y eficiencia en tareas como la manipulación de datos, creación de interfaces gráficas, o integración con bases de datos. Además, se explorarán los desafíos enfrentados durante el desarrollo, incluyendo problemas de rendimiento o limitaciones de la biblioteca utilizada.
 
-Ejercicio
-Analiza tu proyecto final y responde las siguientes preguntas:
-1. ¿Qué conceptos de Python fueron más útiles en la realización de tu proyecto?
-2. ¿En qué momentos te encontraste con dificultades y cómo las superaste?
-3. ¿Hay áreas específicas donde consideras que podrías mejorar tus habilidades en Python?
+Para practicar y consolidar estos conceptos, los estudiantes deberán evaluar un caso práctico previamente desarrollado en clase, identificando las fortalezas y debilidades del proyecto. Deben presentar una lista de mejoras propuestas para optimizar el código o mejorar la funcionalidad del software.
 
-Resumen
-- Se ha consolidado el conocimiento adquirido durante el curso.
-- El análisis del proyecto final proporciona una oportunidad para aprender de la experiencia práctica.
+- Identificar las aplicaciones prácticas de Python.
+- Analizar los aspectos positivos y negativos del uso de Python en desarrollo de software.
