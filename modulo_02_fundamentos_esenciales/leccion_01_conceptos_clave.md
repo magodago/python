@@ -1,15 +1,28 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos básicos de Python.
-- Familiarizarse con la sintaxis y estructura del lenguaje.
+- Comprender los conceptos básicos de Python como sintaxis y estructuras de datos.
+- Aprender a utilizar variables y operadores aritméticos.
 
 ## Contenido
-Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis clara y concisa facilita el desarrollo de programas complejos sin sacrificar la legibilidad. Los fundamentos clave incluyen variables, tipos de datos básicos (como enteros, cadenas y flotantes), operadores aritméticos y lógicos, y estructuras de control como condicionales (`if`, `elif`, `else`) y bucles (`for`, `while`). Estas herramientas forman la base sobre las cuales se construyen programas más avanzados.
+En esta lección, se introducirá el lenguaje de programación Python, destacando su simplicidad y versatilidad. Se explicará la sintaxis básica del lenguaje, incluyendo cómo escribir comentarios, declarar variables y usar diferentes tipos de datos como enteros, flotantes y cadenas. Además, se explorarán las operaciones aritméticas básicas y cómo combinarlas con variables para realizar cálculos simples.
 
 ## Ejercicio
-Escribe un programa simple que solicite al usuario su nombre y edad, luego imprima una frase de saludo personalizado. Utiliza variables para almacenar el nombre y la edad ingresados por el usuario, y asegúrate de manejar los tipos de datos adecuadamente (por ejemplo, convertir la entrada del usuario a un tipo numérico si es necesario).
+Escribe un programa en Python que solicite al usuario dos números enteros, los sume y muestre el resultado en pantalla. Utiliza comentarios para explicar cada paso del código.
+
+```python
+# Solicitar al usuario dos números enteros
+numero1 = int(input("Introduce el primer número: "))
+numero2 = int(input("Introduce el segundo número: "))
+
+# Sumar los dos números
+suma = numero1 + numero2
+
+# Mostrar el resultado en pantalla
+print(f"La suma de {numero1} y {numero2} es {suma}")
+```
 
 ## Resumen
-- Python es un lenguaje interpretado con una sintaxis clara.
-- Los fundamentos incluyen variables, tipos de datos básicos y estructuras de control.
+- Python es un lenguaje de programación de alto nivel con sintaxis clara.
+- Las variables se declaran sin especificar su tipo, lo que facilita la programación.
+- Las operaciones aritméticas básicas se utilizan comúnmente en programas simples.
