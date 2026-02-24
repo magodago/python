@@ -1,40 +1,52 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizarse con la manipulación de listas y diccionarios.
-- Aprender a utilizar funciones para procesar datos complejos.
+- Aprender a utilizar la biblioteca `collections` para trabajar con estructuras de datos avanzadas.
+- Familiarizarse con el uso de `deque`, una estructura de datos doblemente encolada, y sus aplicaciones prácticas.
 
 ## Contenido
-En esta lección profundizaremos en el manejo de listas y diccionarios, dos estructuras de datos fundamentales en Python. Veremos cómo realizar operaciones más avanzadas con estas estructuras, como la búsqueda, inserción y eliminación de elementos, así como la manipulación de subconjuntos y sublistas. Además, aprenderemos a definir funciones que puedan procesar estos tipos de datos de manera eficiente.
+En esta lección profundizaremos en la biblioteca `collections` de Python, que proporciona varias clases de colecciones adicionales más allá de las implementadas por defecto. Una de estas clases es `deque`, una estructura de datos doblemente encolada (double-ended queue) que permite realizar operaciones de inserción y eliminación tanto en el extremo izquierdo como en el derecho con eficiencia.
+
+`deque` se utiliza comúnmente cuando se necesita un almacén de elementos donde los elementos se añaden o remueven desde ambos extremos. Este tipo de estructura es ideal para implementar tareas como la gestión de colas, buffers y procesamiento de datos en tiempo real.
 
 ## Ejercicio
-Dado un diccionario `libros` donde las claves son los títulos de libros y los valores son listas con información sobre cada libro (título, autor, año de publicación), escribe una función `filtrar_libros_por_autor` que tome como parámetros el diccionario `libros` y un autor específico. La función debe devolver una lista de títulos de libros escritos por ese autor.
+Implementa una función que simule el juego del ahorcado utilizando `deque` para almacenar las letras ingresadas por el usuario. La función debe permitir al usuario ingresar una letra cada vez, verificar si la letra está en la palabra secreta y actualizar la representación de la palabra con guiones bajos y letras reveladas. Utiliza `deque` para gestionar una pila temporal de letras incorrectas.
 
 ```python
-def filtrar_libros_por_autor(libros, autor):
-    # Inicializa una lista para almacenar los títulos del autor
-    titulos_del_autor = []
+from collections import deque
+
+def ahorcado(palabra_secreta):
+    # Inicializar el juego
+    letras_correctas = set()
+    letras_incorrectas = deque(maxlen=5)  # Máximo 5 intentos
+    palabra_mostrada = ['_'] * len(palabra_secreta)
     
-    # Itera a través de cada clave (título) en el diccionario `libros`
-    for titulo in libros.keys():
-        # Verifica si el autor está en la lista de autores asociada con el título actual
-        if autor in libros[titulo]:
-            # Si es así, agrega el título a la lista
-            titulos_del_autor.append(titulo)
+    while '_' in palabra_mostrada and len(letras_incorrectas) < 6:
+        print(' '.join(palabra_mostrada))
+        letra = input("Ingresa una letra: ").lower()
+        
+        if letra in letras_incorrectas or letra in letras_correctas:
+            print("Letra ya utilizada. Inténtalo de nuevo.")
+            continue
+        
+        if letra in palabra_secreta:
+            for i, char in enumerate(palabra_secreta):
+                if char == letra:
+                    letras_correctas.add(letra)
+                    palabra_mostrada[i] = letra
+        else:
+            letras_incorrectas.append(letra)
     
-    return titulos_del_autor
+    print(' '.join(palabra_mostrada))
+    if '_' not in palabra_mostrada:
+        print("¡Ganaste!")
+    else:
+        print(f"Perdiste. La palabra era: {palabra_secreta}")
 
 # Ejemplo de uso
-libros = {
-    "El Gran Gatsby": ["F. Scott Fitzgerald", 1925],
-    "Cien años de soledad": ["Gabriel García Márquez", 1967],
-    "Orgullo y prejuicio": ["Jane Austen", 1813]
-}
-
-print(filtrar_libros_por_autor(libros, "F. Scott Fitzgerald"))
+ahorcado("python")
 ```
 
 ## Resumen
-- Se profundiza en el manejo de listas y diccionarios.
-- Se aprende a definir funciones para procesar datos complejos.
-- Se desarrolla una función que filtra libros por autor utilizando un diccionario.
+- `deque` es una estructura de datos doblemente encolada que permite operaciones eficientes desde ambos extremos.
+- Se puede utilizar para implementar juegos como el ahorcado, gestionando las letras ingresadas y incorrectas.
