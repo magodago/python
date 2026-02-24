@@ -1,11 +1,17 @@
 # Resumen del modulo
 
-- Comprender los fundamentos esenciales de Python.
-- Familiarizarse con la sintaxis básica y estructuras de control.
+## Objetivos
+- Consolidar la comprensión de los conceptos fundamentales de Python.
+- Aplicar conocimientos prácticos para resolver problemas básicos.
 
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad en la escritura del código. En este módulo, se han explorado los fundamentos esenciales necesarios para comenzar a programar con Python, incluyendo variables, tipos de datos básicos (como enteros, cadenas y flotantes), operadores aritméticos y lógicos, así como estructuras de control como condicionales y bucles. Estos conceptos forman la base sobre la cual se construyen programas más complejos.
+## Contenido
+En esta lección final del módulo sobre Fundamentos esenciales, repasaremos los puntos clave que se han cubierto hasta ahora. Hemos explorado la sintaxis básica, tipos de datos, estructuras de control como if-else y bucles, funciones y listas. Estos conceptos son fundamentales para cualquier programador Python, ya que forman la base sobre la cual se construyen soluciones más complejas.
 
-Para practicar lo aprendido, los estudiantes deben escribir un programa que solicite al usuario su nombre y edad, muestre un mensaje saludándolo por su nombre e indique cuántos años tendrá en 10 años. El código debe incluir la declaración de variables para almacenar el nombre y la edad, operaciones aritméticas para calcular la edad futura, y una estructura condicional simple para manejar posibles entradas no numéricas.
+Además, hemos trabajado con archivos y excepciones, aprendiendo cómo leer y escribir datos en archivos locales, así como manejar errores de manera efectiva. Este conocimiento es crucial para desarrollar aplicaciones robustas que puedan manejar diferentes situaciones sin interrumpirse.
 
-- Dominio de los tipos de datos básicos.
-- Uso correcto de estructuras de control.
+## Ejercicio
+Escribe un programa Python que lea una lista de números del archivo `numeros.txt`, sume todos los números y escriba el resultado en un nuevo archivo llamado `suma.txt`. Asegúrate de manejar correctamente cualquier error que pueda ocurrir durante la lectura o escritura de archivos.
+
+## Resumen
+- Consolidación de los conceptos básicos de Python.
+- Aplicación práctica para resolver problemas simples.
