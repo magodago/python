@@ -1,11 +1,17 @@
 # Terminologia basica
 
-- Comprender los conceptos básicos de programación que se aplican en Python.
-- Familiarizarse con la terminología fundamental utilizada en el lenguaje Python.
+Objetivos
+- Comprender y utilizar correctamente los términos básicos de Python.
+- Identificar y describir la importancia de estas terminologías en el desarrollo de programas.
 
-Python es un lenguaje de programación de alto nivel y fácil de leer, lo que facilita su aprendizaje para principiantes. Algunas de las palabras clave y conceptos básicos incluyen variables, tipos de datos, operadores y estructuras de control. Las variables en Python se utilizan para almacenar datos y pueden cambiar a medida que el programa ejecuta diferentes tareas. Los tipos de datos comunes incluyen enteros, cadenas, flotantes y booleanos. Los operadores permiten realizar operaciones matemáticas o lógicas sobre estos valores, como suma (+), resta (-) y comparación (==). Las estructuras de control, como if-else y bucles for/while, permiten que el programa tome decisiones y repita acciones.
+Contenido
+En esta lección, se introducirán conceptos fundamentales que son esenciales para cualquier programador que comienza con Python. Entre estos términos se encuentran variables, tipos de datos, funciones y control de flujo. Las variables permiten almacenar información en el programa, los tipos de datos definen qué tipo de información puede almacenarse (como números o cadenas), las funciones son bloques de código reutilizables que realizan tareas específicas, y el control de flujo se refiere a la secuencia en la que Python ejecuta estas instrucciones. Estos elementos forman la base sobre la cual se construyen programas complejos.
 
-Ejercicio: Escribe un pequeño script en Python que solicite al usuario su edad, determine si es mayor de 18 años y muestre un mensaje correspondiente. Utiliza variables para almacenar la entrada del usuario y condicionales if-else para evaluar si la persona es mayor de edad.
+Ejercicio
+Implementa un programa simple que solicite al usuario su nombre y edad, muestre un mensaje personalizado con esta información e imprima si es mayor de 18 años o no. Utiliza variables para almacenar el nombre y la edad, funciones para pedir la entrada del usuario y mostrar el mensaje, y condicionales para determinar si es mayor de edad.
 
-- Familiarizarse con el uso de variables y tipos de datos en Python.
-- Comprender cómo estructurar decisiones simples utilizando operadores lógicos y sentencias condicionales.
+Resumen
+- Las variables son utilizadas para almacenar datos en un programa.
+- Los tipos de datos definen qué tipo de información puede ser almacenada (por ejemplo, números o texto).
+- Las funciones permiten organizar código en bloques reutilizables que realizan tareas específicas.
+- El control de flujo determina la secuencia en la que Python ejecuta las instrucciones.
