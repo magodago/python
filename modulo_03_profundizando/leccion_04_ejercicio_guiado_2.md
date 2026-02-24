@@ -1,31 +1,43 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizar al estudiante con la manipulación de listas complejas y su uso en funciones.
-- Introducir la utilización de bucles anidados para procesar datos en Python.
+- Familiarizar al estudiante con la manipulación de archivos en Python.
+- Introducir el uso de la biblioteca `csv` para leer y escribir datos.
 
 ## Contenido
-En esta lección, profundizaremos en el manejo avanzado de listas. Veremos cómo crear, modificar y manipular listas complejas utilizando diversas técnicas. Además, exploraremos el uso de bucles anidados para realizar operaciones sobre elementos dentro de estas estructuras de datos. Este conocimiento es fundamental para procesar grandes cantidades de datos de manera eficiente en Python.
-
-Para ilustrar estos conceptos, veremos ejemplos prácticos donde se crean listas multidimensionales y luego se manipulan utilizando bucles anidados. Esto permitirá al estudiante comprender cómo trabajar con datos estructurados complejos y realizar operaciones sobre ellos de manera eficiente.
+En esta lección profundizaremos en la manipulación de archivos utilizando Python. Veremos cómo abrir, leer y escribir archivos utilizando métodos estándar del lenguaje. Además, introduciremos el uso de la biblioteca `csv`, que facilita trabajar con archivos CSV (Comma-Separated Values), un formato común para intercambiar datos entre programas. A través de ejemplos prácticos, aprenderemos a leer y escribir datos en archivos CSV utilizando funciones como `read_csv` y `write_csv`.
 
 ## Ejercicio
-Dado el siguiente código:
+Dado el siguiente código base:
 
 ```python
-def procesar_datos(datos):
-    resultados = []
-    for lista in datos:
-        nueva_lista = [elemento * 2 for elemento in lista]
-        resultados.append(nueva_lista)
-    return resultados
+import csv
 
-datos = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+def cargar_datos(ruta_archivo):
+    with open(ruta_archivo, mode='r', newline='') as archivo:
+        lector = csv.reader(archivo)
+        datos = [fila for fila in lector]
+    return datos
+
+def guardar_datos(ruta_archivo, datos):
+    with open(ruta_archivo, mode='w', newline='') as archivo:
+        escritor = csv.writer(archivo)
+        escritor.writerows(datos)
+
+# Ejemplo de uso
+ruta = 'datos.csv'
+datos = cargar_datos(ruta)
+print("Datos cargados:", datos)
+
+nuevo_dato = ['Nombre', 'Edad', 'Ciudad']
+guardar_datos(ruta, [nuevo_dato] + datos)
 ```
 
-Modifica el código para que en lugar de multiplicar cada elemento por 2, sume 1 a cada elemento y luego multiplique el resultado por 3. Luego, aplica esta función a una nueva lista de datos multidimensionales.
+1. Corrige el código para que funcione correctamente.
+2. Agrega una función `agregar_dato` que permita agregar un nuevo registro a la lista de datos y guarde estos cambios en el archivo CSV.
+3. Prueba tu implementación agregando un nuevo dato y verifica si se ha guardado correctamente.
 
 ## Resumen
-- Se aprendió a manipular listas complejas mediante la creación y modificación.
-- Se introdujo el uso de bucles anidados para procesar elementos dentro de estas estructuras.
-- Se practicó la aplicación de operaciones en listas multidimensionales utilizando funciones.
+- Se aprendió cómo manipular archivos utilizando métodos estándar de Python.
+- Se introdujo el uso de la biblioteca `csv` para trabajar con archivos CSV.
+- Se realizó un ejercicio práctico que involucró cargar, guardar y agregar datos en archivos CSV.
