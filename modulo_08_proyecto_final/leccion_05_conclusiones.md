@@ -1,11 +1,11 @@
 # Conclusiones
 
-- Conocer las aplicaciones prácticas de Python en proyectos reales.
-- Evaluar los aspectos positivos y negativos del uso de Python en el desarrollo de software.
+- Concluye la implementación del proyecto final utilizando Python, reflejando el dominio adquirido durante el curso.
+- Analiza los aspectos técnicos y conceptuales que se aplicaron en el desarrollo del proyecto, identificando áreas de mejora.
 
-Desarrollaremos la lección final con un análisis reflexivo sobre nuestro proyecto final. Reflexionaremos sobre cómo Python se ha utilizado para resolver problemas complejos, identificando las ventajas como la sintaxis limpia y fácil de leer, así como los desafíos como la gestión de dependencias y el rendimiento en ciertas tareas intensivas. También exploraremos cómo nuestras soluciones implementadas han impactado positivamente en la eficiencia y la productividad del equipo.
+Desarrolla un análisis detallado de tu proyecto final, enfocándote en cómo se aplicaron los conceptos teóricos aprendidos durante el curso. Reflexiona sobre las decisiones técnicas tomadas y su impacto en la eficiencia del código. Identifica áreas donde podrías haber utilizado mejores prácticas o herramientas disponibles en Python para optimizar tu trabajo. Considera también cómo este proyecto puede ser aplicado en contextos reales o futuros proyectos.
 
-Para este ejercicio, escoja un aspecto de su proyecto final que le haya parecido especialmente relevante o desafiante. Escriba una reflexión breve (100-200 palabras) sobre por qué ese aspecto fue importante para el éxito del proyecto y cómo puede aplicar lo aprendido en futuros proyectos.
+Escribe un informe de 500 palabras que resuma el desarrollo y los resultados del proyecto final, incluyendo una sección dedicada a las lecciones aprendidas y recomendaciones para futuras implementaciones. Este ejercicio te permitirá consolidar tu comprensión y aplicar tus habilidades en Python de manera práctica.
 
-- Entender las fortalezas y debilidades de Python en contextos reales.
-- Aplicar la experiencia adquirida a situaciones futuras.
+- El informe debe abordar la aplicación efectiva de los conceptos estudiados.
+- Se destacan las áreas de mejora identificadas durante el desarrollo del proyecto.
