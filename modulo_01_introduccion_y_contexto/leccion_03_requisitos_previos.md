@@ -1,21 +1,11 @@
 # Requisitos previos
 
-## Objetivos
-- Comprender los requisitos técnicos necesarios para comenzar a programar con Python.
-- Identificar las habilidades previas recomendadas antes de iniciarse en el curso.
+- Comprender los requisitos previos necesarios para comenzar a aprender Python.
+- Identificar las habilidades y conocimientos básicos que facilitarán la adquisición de nuevas competencias en programación con Python.
 
-## Contenido
-Para poder empezar a aprender Python, es importante tener ciertos conocimientos y herramientas a disposición. En primer lugar, se requiere una computadora o un dispositivo compatible que tenga instalado un intérprete de Python, como CPython, PyPy, u otro interpretador de código abierto. Además, se recomienda contar con un entorno de desarrollo integrado (IDE) o un editor de texto más ligero, como Visual Studio Code, PyCharm, o incluso el simple editor IDLE que viene incluido con Python. Es recomendable tener experiencia básica en programación, aunque no es estrictamente necesaria, ya que Python tiene una sintaxis relativamente sencilla y amigable para principiantes.
+Python es un lenguaje de programación de alto nivel, interpretado y de código abierto, lo que significa que no se compila directamente a instrucciones del hardware. Es conocido por su sintaxis clara y legible, lo que hace que sea fácil de aprender para principiantes. Antes de sumergirse en el estudio de Python, es recomendable tener una base básica en programación, aunque no necesariamente en un lenguaje específico, ya que muchos conceptos son universales entre los lenguajes. Es importante entender lo que es un algoritmo y cómo funciona la computación, así como tener nociones básicas sobre variables, tipos de datos, estructuras de control (condicionales y bucles) y funciones.
 
-## Ejercicio
-Escribe un pequeño programa en Python que imprima "¡Hola, Mundo!" en la consola. Asegúrate de tener Python instalado en tu computadora antes de comenzar a codificar. Luego, abre el editor de texto de tu preferencia y escribe el siguiente código:
+Ejercicio: Identifica y explica brevemente tres conceptos fundamentales en programación que son necesarios para aprender Python. Estos pueden ser algoritmos, variables y condicionales. Describe cómo se implementarían estos conceptos en un pequeño programa de ejemplo.
 
-```python
-print("¡Hola, Mundo!")
-```
-
-Guarda el archivo con un nombre como `hola_mundo.py` y ejecútalo desde la línea de comandos o terminal usando el comando `python3 hola_mundo.py`. Observa cómo se muestra "¡Hola, Mundo!" en la consola.
-
-## Resumen
-- Se necesitan herramientas tecnológicas básicas para programar con Python.
-- Es recomendable tener experiencia previa en programación, aunque no es obligatoria.
+- Comprender la importancia de los fundamentos de la programación.
+- Identificar tres conceptos clave en programación que son esenciales para aprender Python.
