@@ -1,11 +1,11 @@
 # Ejercicio guiado 1
 
-- Comprender la estructura básica de un programa Python.
+- Comprender la estructura básica de un programa en Python.
 - Utilizar variables y operadores aritméticos para resolver problemas simples.
 
-En esta lección, se explorará cómo iniciar un programa en Python, identificar los componentes básicos y aprender a usar variables junto con operaciones matemáticas. Se introducirá el concepto de la sintaxis básica del lenguaje, incluyendo el uso de indentación para definir bloques de código, y se practicará el manejo de variables para almacenar valores numéricos y realizar cálculos simples.
+En esta lección del módulo Fundamentos esenciales, se explorará cómo iniciar un programa básico en Python, introduciendo el concepto de variables y operaciones matemáticas. Se aprenderá a escribir código que permita al usuario realizar cálculos sencillos, como sumar dos números ingresados por teclado. Este ejercicio servirá para familiarizarse con la sintaxis básica del lenguaje y los primeros pasos en el desarrollo de programas.
 
-Para este ejercicio, los estudiantes deberán crear un programa que solicite al usuario ingresar dos números enteros. El programa deberá calcular la suma, resta, multiplicación y división de estos números e imprimir los resultados en pantalla. Esto permitirá a los estudiantes aplicar lo aprendido sobre variables y operadores aritméticos.
+Para practicar estos conceptos, se propone el siguiente ejercicio: Escribir un programa que solicite al usuario que ingrese dos números enteros e imprima su suma. El código debe ser claro y estructurado, utilizando comentarios para explicar cada paso del proceso. Este ejercicio permitirá consolidar la comprensión de las variables y operaciones básicas en Python.
 
-- Familiaridad con la estructura básica del código Python.
-- Capacidad para usar variables y realizar operaciones matemáticas simples.
+- Familiarizarse con la sintaxis básica de Python.
+- Desarrollar un programa que realice una operación matemática simple.
