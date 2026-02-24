@@ -1,15 +1,15 @@
 # Diagnostico
 
 ### Objetivos
-- Identificar y diagnosticar problemas comunes en programas Python.
-- Analizar el rendimiento de un código y optimizarlo.
+- Comprender los métodos básicos para diagnosticar problemas de rendimiento en programas Python.
+- Identificar y corregir errores comunes mediante la interpretación de mensajes de error.
 
 ### Contenido
-En esta lección sobre diagnóstico, exploraremos cómo identificar y resolver problemas comunes que pueden surgir durante la ejecución de programas Python. Comenzaremos revisando técnicas para detectar errores y excepciones utilizando la estructura `try-except` y el uso de herramientas como `traceback`. A continuación, profundizaremos en el análisis del rendimiento de un código mediante la utilización de módulos como `timeit` y `cProfile`, que nos permitirán medir tiempos de ejecución y analizar llamadas recursivas o bucles innecesarios.
+La optimización del código y el diagnóstico de problemas son habilidades cruciales para cualquier programador. En esta lección, aprenderemos a utilizar herramientas y técnicas efectivas para identificar y solucionar problemas que afecten al rendimiento de nuestros programas Python. Comenzaremos por entender cómo leer y analizar mensajes de error, ya que estos pueden proporcionarnos pistas valiosas sobre lo que está fallando en nuestro código. Posteriormente, exploraremos la utilización de módulos como `timeit` para medir el tiempo de ejecución de diferentes partes del programa, y `cProfile` para realizar un perfilaje de rendimiento detallado.
 
 ### Ejercicio
-Implemente una función en Python que calcule los primeros 100 números de Fibonacci. Posteriormente, use el módulo `timeit` para medir el tiempo de ejecución de su función. Identifique posibles áreas de optimización y aplique técnicas vistas en la lección (como memoización) para mejorar el rendimiento.
+Escribe un script que calcule la suma de los primeros 1000 números enteros. Utiliza `timeit` para medir el tiempo de ejecución antes y después de optimizar tu código, y compara ambos resultados. Posteriormente, utiliza `cProfile` para analizar el perfil de rendimiento del script optimizado.
 
 ### Resumen
-- Se aprendió a utilizar `try-except` para manejar excepciones y diagnosticar errores.
-- Se exploraron herramientas como `timeit` y `cProfile` para analizar y optimizar el rendimiento del código.
+- Se aprende a interpretar mensajes de error para identificar problemas.
+- Se utilizan herramientas como `timeit` y `cProfile` para mejorar la eficiencia del código.
