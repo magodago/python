@@ -1,26 +1,25 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender los conceptos básicos de Python y su importancia en la programación.
-- Identificar las características principales que hacen a Python un lenguaje versátil y fácil de aprender.
+- Comprender los fundamentos de Python y su relevancia actual.
+- Identificar las principales características que hacen a Python una excelente opción para iniciarse en la programación.
 
 ## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Su sintaxis clara y concisa lo hace uno de los lenguajes más populares para principiantes y expertos. Este lenguaje se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos e inteligencia artificial. Python es conocido por su simplicidad y legibilidad del código, lo que facilita la escritura y mantenimiento del software.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Fue creado por Guido van Rossum y lanzado por primera vez en 1991. Es conocido por su sintaxis clara y legible, lo que facilita la escritura y mantenimiento del código. Python es ampliamente utilizado en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación y automatización de tareas. Su comunidad activa y el gran número de bibliotecas disponibles hacen de Python una herramienta versátil e inclusiva para principiantes y expertos.
 
-Las características principales de Python incluyen su sintaxis sencilla, que permite a los programadores expresar ideas con menos código; la capacidad para escribir programas de una sola línea; y un gran número de bibliotecas predefinidas que facilitan el desarrollo. Además, es completamente gratuito y de código abierto, lo que significa que se puede utilizar sin costos y contribuir al lenguaje si se desea.
+Este curso te proporcionará una introducción sólida a Python, cubriendo desde los conceptos básicos hasta la sintaxis fundamental del lenguaje. Aprenderás sobre variables, tipos de datos, operadores, estructuras de control (condicionales y bucles) y funciones. Además, se explorarán aplicaciones prácticas para que puedas ver cómo estos conceptos se implementan en el desarrollo real.
 
 ## Ejercicio
-Escribe un programa en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica tu programa para que solicite al usuario su nombre e imprima una personalizada bienvenida.
+Escribe un programa simple en Python que solicite al usuario su nombre y edad, e imprima una frase saludando al usuario y indicando cuántos años tendrá en 10 años. Por ejemplo:
 
 ```python
-# Programa 1: Imprimir ¡Hola, mundo!
-print("¡Hola, mundo!")
-
-# Programa 2: Bienvenida personalizada
-nombre = input("Por favor, introduce tu nombre: ")
-print(f"¡Bienvenido/a {nombre}!")
+nombre = input("¿Cómo te llamas? ")
+edad = int(input("¿Cuántos años tienes? "))
+edad_futura = edad + 10
+print(f"Hola, {nombre}! Tendrás {edad_futura} años en 10 años.")
 ```
 
 ## Resumen
 - Python es un lenguaje de programación versátil y fácil de aprender.
-- Sus características incluyen una sintaxis simple, bibliotecas predefinidas y ser gratuito y de código abierto.
+- Se cubrirán conceptos básicos como variables, operadores y estructuras de control.
+- El ejercicio práctico permitirá aplicar lo aprendido sobre entrada/salida de datos y cálculos sencillos.
