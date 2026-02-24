@@ -2,14 +2,8 @@
 
 - Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
 
-- Explorarán comunidades de desarrollo activas donde pueden intercambiar conocimientos e ideas, así como obtener ayuda y apoyo. Se destacará la importancia de participar en foros de discusión, grupos de Telegram o Discord, y plataformas como Stack Overflow para resolver problemas técnicos.
+- Se explorarán comunidades en línea como Reddit, Stack Overflow, y Foros de Python donde los estudiantes pueden resolver dudas, compartir conocimientos y acceder a tutoriales y proyectos. También se destacará la importancia de seguir actualizándose con nuevas versiones y mejores prácticas del lenguaje.
 
-- Practicarán registrándose en plataformas de aprendizaje en línea como Coursera, Udemy, edX, y Codecademy, donde encontrarán cursos avanzados y especializados que les permitirán profundizar sus habilidades en Python.
+- Los estudiantes realizarán una búsqueda en línea para identificar y evaluar tres plataformas o comunidades de Python que les resulten interesantes, justificando por qué las consideran útiles para su aprendizaje continuo.
 
-## Ejercicio
-Registren su cuenta en una plataforma de aprendizaje en línea (por ejemplo, Coursera o Udemy) y busquen un curso avanzado de Python. Resuman brevemente el contenido del curso seleccionado e identifiquen los temas que les resultarían más interesantes para profundizar.
-
-## Resumen
-- Los estudiantes aprenderán sobre las diversas plataformas y comunidades disponibles para continuar su aprendizaje en Python.
-- Practicarán la búsqueda y registro en cursos avanzados de Python en línea.
-- Se enfatizará la importancia de participar en comunidades de desarrollo para obtener apoyo y compartir conocimientos.
+- Los estudiantes aprenderán sobre la importancia de participar activamente en comunidades de programación como una forma efectiva de mejorar sus habilidades y conocimientos.
