@@ -1,18 +1,18 @@
 # Soluciones
 
-## Objetivos
-- Identificar y corregir errores comunes en Python.
-- Mejorar la eficiencia de código para optimizar su rendimiento.
+### Objetivos
+- Identificar y resolver problemas comunes en Python.
+- Mejorar la eficiencia del código para optimizar su rendimiento.
 
-## Contenido
-En esta lección, se abordarán técnicas efectivas para resolver problemas que surgen durante el desarrollo de programas en Python. Se explorará cómo identificar y corregir errores comunes, como excepciones no manejadas, bucles infinitos y variables globales mal utilizadas. Además, se proporcionarán consejos prácticos para mejorar la eficiencia del código, optimizando operaciones repetitivas y utilizando estructuras de datos apropiadas.
+### Contenido
+En esta lección se abordarán varios aspectos clave relacionados con el diagnóstico y solución de problemas, así como la optimización del rendimiento en Python. Se explorará cómo identificar errores comunes a través de mensajes de error y trazas de pila, y se proporcionarán estrategias para corregirlos. Además, se analizará cómo mejorar el desempeño del código mediante técnicas como la minimización de operaciones innecesarias, la utilización eficiente de estructuras de datos y la optimización de bucles.
 
-Se discutirá el uso de herramientas como `pdb` (Python Debugger) para depurar código en tiempo de ejecución, así como la importancia de realizar pruebas unitarias con `unittest` o `pytest`. Se ilustrará cómo medir el rendimiento del código utilizando módulos como `timeit` y `cProfile`, y se presentarán técnicas para identificar y optimizar partes críticas del programa.
+Se explicará también cómo utilizar herramientas de depuración integradas en los entornos de desarrollo para facilitar la identificación y resolución de problemas. Se proporcionarán ejemplos prácticos que permitirán al estudiante aplicar estos conocimientos a situaciones reales, mejorando así su capacidad para resolver problemas complejos y optimizar el rendimiento del código.
 
-## Ejercicio
-Implementa un script en Python que calcule la suma de los primeros 1000 números naturales. Utiliza el módulo `timeit` para medir el tiempo de ejecución inicial. Luego, optimiza tu código utilizando una estructura de datos más eficiente y vuelve a medir el tiempo de ejecución. Compara ambos resultados y explica las diferencias observadas.
+### Ejercicio
+Implementa una función en Python que calcule la suma de los primeros 100 números pares. Inicialmente, escribe un código simple pero poco eficiente, luego identifica posibles mejoras y refactoriza el código para optimizar su rendimiento. Mide el tiempo de ejecución antes y después del refactoring e interpreta los resultados.
 
-## Resumen
+### Resumen
 - Se aprendió a identificar y corregir errores comunes en Python.
-- Se destacó la importancia de utilizar herramientas de depuración y pruebas para mejorar la calidad del código.
-- Se enfatizó la optimización del rendimiento mediante el uso adecuado de estructuras de datos y técnicas de medición.
+- Se aplicaron técnicas para mejorar la eficiencia y el rendimiento del código.
+- Se practicó la optimización del desempeño mediante la refactorización de un ejemplo práctico.
