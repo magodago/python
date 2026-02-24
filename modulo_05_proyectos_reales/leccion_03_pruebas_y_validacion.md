@@ -1,11 +1,15 @@
 # Pruebas y validacion
 
-- Comprender la importancia de las pruebas y validación en el desarrollo de software.
-- Implementar técnicas básicas de pruebas unitarias utilizando `unittest` en Python.
+Objetivos
+- Comprender la importancia de pruebas y validación en proyectos de Python.
+- Aprender a implementar métodos de prueba básicos utilizando la biblioteca unittest.
 
-Las pruebas y validaciones son esenciales para asegurar que nuestro código funcione correctamente. En este módulo, aprenderemos a utilizar la biblioteca `unittest` de Python para escribir pruebas unitarias que nos permitirán verificar el comportamiento correcto de nuestras funciones y métodos. A través de ejemplos prácticos, veremos cómo definir casos de prueba, ejecutarlas y obtener resultados que nos ayuden a mejorar nuestra implementación.
+Contenido
+En el desarrollo de software, las pruebas y la validación son elementos cruciales para asegurar que el código funcione correctamente. En Python, se puede utilizar la biblioteca `unittest` para escribir pruebas unitarias. Estas pruebas ayudan a detectar errores temprano en el ciclo de desarrollo, lo cual reduce el tiempo de depuración y mejora la calidad del software. La estructura básica de una prueba con `unittest` incluye la definición de un caso de prueba, la ejecución de acciones y la verificación de resultados esperados.
 
-Para el ejercicio, se te proporcionará un código simple que calcula la suma de dos números. Tu tarea es escribir pruebas unitarias utilizando `unittest` para verificar que el método sume correctamente en diferentes escenarios, como números enteros positivos, negativos y cero. Además, deberás probar cómo maneja el método los casos en los que se le pasan parámetros no numéricos.
+Ejercicio
+Implementa un programa simple que calcule el área de un círculo dado su radio. Luego, escribe pruebas unitarias utilizando `unittest` para verificar que el programa funcione correctamente con diferentes valores de radio.
 
-- Comprender la estructura básica de una prueba unitaria con `unittest`.
-- Identificar errores comunes a través del proceso de pruebas y validaciones.
+Resumen
+- Las pruebas y validación son fundamentales en el desarrollo de software.
+- Se puede utilizar la biblioteca `unittest` en Python para escribir y ejecutar pruebas unitarias.
