@@ -1,17 +1,17 @@
 # Soluciones
 
-- Comprender y aplicar técnicas de depuración avanzadas para solucionar problemas comunes en Python.
-- Mejorar la eficiencia del código mediante la optimización de rendimiento.
+## Objetivos
+- Identificar y solucionar errores comunes en Python.
+- Mejorar la eficiencia del código para optimizar su rendimiento.
 
-Python es un lenguaje de programación versátil, pero como en cualquier otro lenguaje, puede presentar problemas que requieren solución. Uno de los primeros pasos para resolver estos problemas es utilizar técnicas de depuración efectivas. Existen varias herramientas y métodos que pueden ayudarte a identificar y corregir errores en tu código Python, tales como la utilización del depurador integrado `pdb`, la impresión de variables clave o el uso de logs.
+## Contenido
+En esta lección se abordarán varios problemas que pueden surgir al programar en Python, así como las estrategias para resolverlos. Se discutirá cómo leer y entender los errores de sintaxis y ejecución, y cómo utilizar la función `traceback` para localizar el origen del problema. También se explorará cómo mejorar la eficiencia del código a través de la optimización de estructuras de datos y algoritmos.
 
-Para optimizar el rendimiento de tu código, es importante considerar factores como la complejidad algorítmica, la gestión eficiente de recursos y la selección adecuada de estructuras de datos. Algunas prácticas recomendadas incluyen minimizar el uso innecesario de bucles y listas, utilizar comprensiones de lista cuando sea apropiado, y considerar la utilización de bibliotecas o módulos que proporcionen optimizaciones predefinidas.
+Para mejorar el rendimiento, se analizarán técnicas como la utilización de listas comprensivas en lugar de bucles `for` anidados, y la implementación de funciones recursivas. Se explicará cómo utilizar las bibliotecas estándar de Python para realizar tareas comunes de manera más eficiente.
 
-### Ejercicio
+## Ejercicio
+Implementa una función que calcule el factorial de un número utilizando dos métodos: uno con un bucle `for` y otro mediante la utilización del módulo `math`. Compara su rendimiento utilizando el módulo `timeit`. Identifica cuál es más eficiente y explica por qué.
 
-Escribe un programa en Python que calcule la suma de los primeros 1000 números enteros. Asegúrate de utilizar técnicas de depuración para identificar y corregir cualquier error potencial. Luego, realiza una optimización del código para mejorar su rendimiento y compara el tiempo de ejecución antes y después de la optimización.
-
-### Resumen
-
-- Utilizar herramientas de depuración como `pdb` para identificar errores en el código.
-- Optimizar el rendimiento mediante técnicas algorítmicas y estrategias de programación eficiente.
+## Resumen
+- Se aprendió a identificar y corregir errores en Python.
+- Se optimizó el código para mejorar su eficiencia, utilizando técnicas como listas comprensivas y funciones del módulo `math`.
