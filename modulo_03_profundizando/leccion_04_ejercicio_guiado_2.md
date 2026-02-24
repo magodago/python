@@ -1,23 +1,18 @@
 # Ejercicio guiado 2
 
-## Objetivos
-- Familiarizarse con la implementación de estructuras de datos complejas como árboles binarios.
-- Aprender a utilizar métodos recursivos para resolver problemas en Python.
+### Objetivos
+- Implementar funciones recursivas en Python.
+- Optimizar el uso de listas y diccionarios para resolver problemas complejos.
 
-## Contenido
-En esta lección, profundizaremos en el uso de árboles binarios y cómo implementarlos en Python. Un árbol binario es una estructura de datos en la que cada nodo tiene hasta dos hijos: un hijo izquierdo y un hijo derecho. Los árboles binarios son útiles para representar jerarquías, como las relaciones entre los archivos en un sistema de archivos o la organización de palabras en un diccionario.
+### Contenido
+En esta lección profundizaremos en la implementación de funciones recursivas, una técnica fundamental para resolver problemas que se pueden descomponer en subproblemas similares. A través del estudio de ejemplos prácticos, aprenderemos a definir y utilizar funciones recursivas de manera eficiente. Además, exploraremos cómo optimizar el uso de estructuras de datos como listas y diccionarios para mejorar la eficiencia de nuestro código.
 
-Vamos a crear una clase `ArbolBinario` que permita la inserción de nodos y el recorrido del árbol utilizando métodos recursivos. Este conocimiento nos ayudará a resolver problemas complejos de manera eficiente, especialmente aquellos que involucran estructuras jerárquicas.
+Para ilustrar estos conceptos, veremos un ejemplo donde se implementa una función recursiva para calcular el factorial de un número. Posteriormente, discutiremos cómo almacenar y recuperar información utilizando listas y diccionarios en contextos donde la recursividad es aplicable, lo que permitirá manejar datos complejos con mayor facilidad.
 
-## Ejercicio
-Implementar una clase `ArbolBinario` con los siguientes métodos:
+### Ejercicio
+Implementa una función recursiva para calcular el factorial de un número. Luego, utiliza esta función para resolver el problema del "Cálculo de números triangulares", donde cada número triangular se obtiene sumando los números naturales consecutivos hasta ese punto (por ejemplo, 1, 3, 6, 10, ...). Almacena y recupera estos números en una lista y en un diccionario para comparar la eficiencia de ambas estructuras de datos.
 
-1. `insertar(valor)`: Inserta un nuevo nodo en el árbol.
-2. `recorrido_preorden()`: Realiza un recorrido preorden del árbol y devuelve una lista de valores visitados.
-3. `recorrido_inorden()`: Realiza un recorrido inorden del árbol y devuelve una lista de valores visitados.
-
-Puedes comenzar con la implementación básica de la clase y luego agregar los métodos de recorrido.
-
-## Resumen
-- Se ha creado una clase `ArbolBinario` para representar estructuras jerárquicas.
-- Se han implementado métodos recursivos para insertar nodos y realizar recorridos del árbol.
+### Resumen
+- Se ha implementado una función recursiva para calcular el factorial de un número.
+- Se han utilizado listas y diccionarios para almacenar y recuperar información relacionada con los números triangulares.
+- Se ha optimizado el uso de estas estructuras de datos en contextos donde la recursividad es aplicable.
