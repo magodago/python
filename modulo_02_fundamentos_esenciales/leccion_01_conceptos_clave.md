@@ -1,29 +1,24 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos básicos de Python.
-- Familiarizarse con la sintaxis y estructura fundamental del lenguaje.
+- Comprender los conceptos básicos de Python como sintaxis y tipos de datos.
+- Familiarizarse con las estructuras de control de flujo.
 
 ## Contenido
-En esta lección, se explorarán los fundamentos esenciales de Python. Se tratará el entorno de desarrollo integrado (IDE) como PyCharm o Jupyter Notebook, que proporcionan un espacio para escribir y ejecutar código. Se explicará la sintaxis básica, incluyendo cómo declarar variables, tipos de datos primitivos como enteros, flotantes y cadenas, así como operadores aritméticos y comparativos. También se presentarán las estructuras condicionales básicas, como `if`, `elif` y `else`, y las estructuras iterativas con bucles `for` e `while`.
+En esta lección, se introducirá a los estudiantes en la sintaxis básica de Python. Se explicará que Python es un lenguaje de programación interpretado, lo que significa que el código se ejecuta línea por línea sin necesidad de compilarlo previamente. Los tipos de datos fundamentales incluyen enteros (int), flotantes (float), cadenas de texto (str) y booleanos (bool). Además, se presentarán las estructuras de control de flujo básicas como if-else y los bucles for y while, que permiten al programa tomar decisiones y repetir tareas.
 
 ## Ejercicio
-Escribe un programa en Python que solicite al usuario su nombre y edad, muestre un mensaje de bienvenida personalizado, y luego calcule y muestre la edad del usuario en el año 2050.
+Escribe un programa en Python que solicite al usuario su edad y determine si es mayor de 18 años. Si la edad es mayor o igual a 18, imprime "Eres mayor de edad". En caso contrario, imprime "Eres menor de edad".
 
 ```python
-nombre = input("¿Cuál es tu nombre? ")
-edad = int(input("¿Cuántos años tienes? "))
-
-print(f"¡Bienvenido/a {nombre}!")
-
-año_actual = 2023
-años_futuro = 2050 - año_actual
-
-edad_2050 = edad + años_futuro
-print(f"En el año 2050 tendrás {edad_2050} años.")
+edad = int(input("Introduce tu edad: "))
+if edad >= 18:
+    print("Eres mayor de edad")
+else:
+    print("Eres menor de edad")
 ```
 
 ## Resumen
-- Entorno de desarrollo integrado (IDE) para Python.
-- Sintaxis básica, incluyendo variables y tipos de datos primitivos.
-- Estructuras condicionales y iterativas.
+- Python es un lenguaje interpretado.
+- Los tipos de datos básicos incluyen int, float, str y bool.
+- Se utilizan estructuras de control de flujo como if-else para tomar decisiones.
