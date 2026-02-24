@@ -1,15 +1,11 @@
 # Cierre del modulo
 
-Objetivos
-- Consolidar los conocimientos adquiridos durante el módulo de Python.
-- Fomentar la continuidad del aprendizaje y la práctica constante.
+- Consolidar conocimientos adquiridos durante el módulo de Python.
+- Preparar a los estudiantes para aplicar sus habilidades prácticas en proyectos futuros.
 
-Contenido
-En esta lección final, nos enfocaremos en resumir lo más importante que se ha cubierto en el módulo sobre Python. Hemos explorado desde las bases fundamentales hasta conceptos avanzados como estructuras de datos complejas, funciones, clases y objetos, así como la manipulación de archivos y la programación orientada a objetos. El objetivo es asegurarnos de que los estudiantes no solo hayan adquirido una comprensión sólida de Python, sino también se sientan motivados para seguir profundizando en sus conocimientos.
+En esta lección final del módulo sobre Python, revisaremos los conceptos clave y las herramientas que han aprendido. Hemos cubierto desde la sintaxis básica hasta la programación orientada a objetos, pasando por el manejo de datos y la integración de bibliotecas externas. Es importante que comprendan cómo estos elementos se integran en proyectos más complejos y cómo pueden aplicar sus habilidades para resolver problemas reales.
 
-Ejercicio
-Implementa un programa en Python que permita al usuario ingresar datos sobre varios libros (título, autor y año de publicación). El programa debe almacenar esta información en un archivo CSV. Luego, implementa una función que lea este archivo y muestre los libros ordenados por año de publicación.
+Para practicar lo aprendido, los estudiantes deberán desarrollar un pequeño proyecto que combine varios conceptos vistos durante el módulo. Por ejemplo, podrían crear una aplicación simple de gestión de tareas que utilice listas de comprobación y funciones personalizadas para gestionar las tareas. Este ejercicio les permitirá aplicar sus conocimientos en un contexto práctico y prepararse para proyectos más avanzados.
 
-Resumen
-- Recapitulación de las habilidades adquiridas durante el módulo.
-- Importancia de la práctica constante para mejorar y expandir conocimientos en Python.
+- Integración de diferentes conceptos de Python.
+- Desarrollo de habilidades para resolver problemas reales mediante la creación de un proyecto.
