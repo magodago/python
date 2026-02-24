@@ -1,17 +1,11 @@
 # Optimizacion
 
-### Objetivos
-- Comprender y aplicar técnicas de optimización para mejorar el rendimiento del código Python.
-- Implementar estrategias de memoización y caché para funciones recurrentes.
+- Optimizar el rendimiento de los programas Python mediante la utilización eficiente de listas y diccionarios.
+- Implementar técnicas de programación funcional para mejorar la eficiencia del código.
 
-### Contenido
-La optimización es crucial en programación para mejorar la eficiencia y velocidad del código. En Python, existen varias técnicas que pueden ser utilizadas para lograr este objetivo. Una de las más poderosas es la memoización, que consiste en almacenar el resultado de funciones recurrentes para evitar cálculos redundantes. Esto se logra mediante el uso de decoradores o estructuras de datos como diccionarios. Además, la gestión adecuada de recursos y la selección de métodos eficientes también son fundamentales.
+El objetivo principal de esta lección es enseñar a los estudiantes cómo optimizar su código Python, enfocándose en el uso eficiente de estructuras de datos como las listas y los diccionarios. Aprenderán a identificar situaciones donde el uso de estas estructuras puede mejorar significativamente la velocidad y eficiencia del programa. Además, se introducirá la programación funcional como una técnica para simplificar y acelerar el código.
 
-Un ejemplo práctico es la función factorial, que puede ser optimizada utilizando memoización para evitar cálculos repetitivos. Por otro lado, el uso de listas en lugar de bucles innecesarios o la elección entre diferentes tipos de estructuras de datos según el caso pueden mejorar significativamente el rendimiento del código.
+Para practicar estos conceptos, los estudiantes deberán optimizar un script que calcula la frecuencia de aparición de palabras en un texto largo. El script original utilizará listas y bucles tradicionales. Los estudiantes deben reescribirlo utilizando diccionarios para almacenar las frecuencias y aplicando técnicas de programación funcional como map, filter y reduce.
 
-### Ejercicio
-Implementa una función que calcule los primeros 10 números de Fibonacci utilizando memoización. Compara su tiempo de ejecución con un método tradicional basado en recursión sin optimización y explique las diferencias observadas.
-
-### Resumen
-- La memoización es una técnica efectiva para mejorar el rendimiento al evitar cálculos redundantes.
-- La elección adecuada entre diferentes métodos y estructuras de datos puede tener un impacto significativo en la eficiencia del código.
+- Utilización eficiente de diccionarios para mejorar la velocidad de búsqueda.
+- Aplicación de programación funcional para simplificar y acelerar el código.
