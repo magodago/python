@@ -1,11 +1,18 @@
 # Implementacion paso a paso
 
+## Objetivos
 - Comprender la estructura básica de un proyecto real en Python.
-- Implementar una solución práctica utilizando funciones y clases.
+- Aprender a organizar y estructurar archivos en un repositorio de código.
 
-En esta lección, los estudiantes aprenderán a organizar y estructurar un proyecto real en Python. Se enfatizará la importancia de dividir el código en módulos y archivos para mejorar la legibilidad y mantenibilidad del código. Los estudiantes también explorarán cómo utilizar funciones y clases para encapsular el comportamiento y los datos relacionados, lo que facilita la reutilización y el manejo de diferentes aspectos del proyecto.
+## Contenido
+En esta lección, se profundizará en cómo implementar un proyecto real utilizando Python. Se comenzará por el diseño inicial del proyecto, pasando por la creación de directorios y archivos hasta la implementación de código. Es importante organizar los archivos y directorios de manera eficiente para facilitar el mantenimiento y el desarrollo futuro del proyecto.
 
-Para practicar estos conceptos, los estudiantes deberán crear un simple sistema de gestión de tareas. El sistema debe permitir al usuario agregar, eliminar y listar tareas pendientes. Los archivos y módulos necesarios para este proyecto incluirán una clase `Tarea` que encapsula la información de cada tarea, así como un script principal que gestiona las operaciones del usuario.
+Se explicará cómo crear un repositorio en Git para gestionar las versiones del código, así como cómo estructurar el proyecto con carpetas para diferentes módulos o componentes. Se destacará la importancia de mantener un README.md que contenga información sobre el proyecto, instrucciones de instalación y uso.
 
-- Desarrollar un sistema modularizado.
-- Utilizar clases y funciones para organizar el código.
+## Ejercicio
+Implementa un pequeño proyecto en Python que consiste en una calculadora básica con las operaciones de suma, resta, multiplicación y división. Organiza tus archivos en carpetas para diferentes módulos como `operaciones` y `interfaz`. Crea un archivo README.md donde incluyas instrucciones sobre cómo ejecutar el programa.
+
+## Resumen
+- Se aprendió a organizar los archivos y directorios de un proyecto real.
+- Se destacó la importancia del uso de Git para gestionar versiones del código.
+- El ejercicio consistió en crear una calculadora básica con un repositorio bien estructurado.
