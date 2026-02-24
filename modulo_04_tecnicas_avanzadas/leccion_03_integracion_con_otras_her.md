@@ -1,17 +1,23 @@
 # Integracion con otras herramientas
 
-### Objetivos
-- Comprender cómo integrar Python con bases de datos para automatizar tareas y mejorar la eficiencia del análisis de datos.
-- Aprender a utilizar bibliotecas como Selenium para automatización web, mejorando las habilidades en el desarrollo de pruebas de software.
+## Objetivos
+- Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
+- Aprender a utilizar bibliotecas gráficas como Matplotlib para visualizar datos.
 
-### Contenido
-La integración de Python con otras herramientas es una técnica avanzada que permite potenciar sus capacidades y aplicarlos en un amplio rango de escenarios. Una de las áreas más utilizadas es la interacción con bases de datos, donde se pueden automatizar tareas de extracción, transformación e integración de datos (ETL) con bibliotecas como `sqlite3` o `pandas`. Esto no solo facilita el manejo de grandes volúmenes de datos sino que también permite una integración fluida entre Python y sistemas de gestión de bases de datos.
+## Contenido
+En esta lección, se explorará la integración avanzada entre Python y otras herramientas y bibliotecas populares. Se enfocará en cómo usar Python junto con Pandas y NumPy para manipular y analizar datos de manera eficiente. Además, se profundizará en el uso de Matplotlib, una poderosa biblioteca gráfica que permite crear visualizaciones detalladas y personalizadas de los datos procesados.
 
-Además, la automatización web es otro campo donde Python destaca. La biblioteca Selenium permite crear scripts para interactuar con páginas web, lo cual es útil en pruebas de software o para realizar acciones repetitivas en Internet. A través del uso de Selenium, se pueden simular interacciones humanas con las páginas, como clics y entradas de texto, lo que facilita la creación de bots y herramientas de automatización.
+Se discutirá la importancia de estas herramientas en el flujo de trabajo de un científico de datos y cómo Python facilita su integración. Se proporcionarán ejemplos prácticos para ilustrar cómo combinar estos componentes para realizar tareas complejas de análisis y visualización de datos.
 
-### Ejercicio
-Desarrolla un script Python que utilice la biblioteca `pandas` para conectarse a una base de datos SQLite, extraer datos de una tabla específica, realizar algunas transformaciones básicas (como el cálculo de promedios) y guardar los resultados en un nuevo archivo CSV. Luego, utiliza Selenium para automatizar el proceso de navegación hasta una página web dada, introducir texto en un campo de búsqueda y capturar la URL del resultado.
+## Ejercicio
+Realiza una serie de operaciones en un conjunto de datos utilizando Pandas, luego utiliza Matplotlib para crear un gráfico de dispersión. Los pasos son los siguientes:
 
-### Resumen
-- Integrar Python con bases de datos permite automatización eficiente de tareas de análisis de datos.
-- Utilizando Selenium se pueden crear bots para automatización web, mejorando pruebas y acciones repetitivas.
+1. Importa las bibliotecas necesarias: Pandas y Matplotlib.
+2. Carga un conjunto de datos desde un archivo CSV.
+3. Realiza algunas operaciones básicas de análisis (por ejemplo, calcular la media y la desviación estándar).
+4. Utiliza Matplotlib para crear un gráfico de dispersión entre dos columnas del conjunto de datos.
+
+## Resumen
+- Pandas y NumPy permiten manipular y analizar datos de manera eficiente.
+- Matplotlib es una herramienta poderosa para visualizar los resultados del análisis.
+- La integración de estas herramientas con Python facilita el proceso de trabajo en proyectos de ciencia de datos.
