@@ -1,18 +1,16 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y planificar las necesidades técnicas y funcionales del proyecto.
+- Comprender los elementos fundamentales del diseño de proyectos en Python.
+- Identificar y aplicar metodologías de diseño para la creación de soluciones de software.
 
 Contenido
-En esta lección, se abordará el proceso de diseño de proyectos en Python. El objetivo es proporcionar a los estudiantes una estructura clara y ordenada para desarrollar soluciones eficaces utilizando este lenguaje de programación. Se tratarán aspectos como la definición del problema, la identificación de requisitos técnicos y funcionales, la selección de bibliotecas o frameworks apropiados, y el diseño de la arquitectura general del proyecto.
-
-El proceso de diseño implica varios pasos clave: primero, se define el problema que el proyecto pretende resolver. Luego, se identifican las necesidades técnicas y funcionales, incluyendo los datos a utilizar, las funcionalidades requeridas y cualquier interfaz de usuario o API. Finalmente, se selecciona un marco o biblioteca que cumpla con estas necesidades y se diseña la arquitectura general del proyecto para asegurar su escalabilidad y mantenibilidad.
+El diseño de un proyecto en Python implica una serie de pasos estructurados que aseguran el éxito y la eficacia del desarrollo. En esta lección, se abordará el proceso inicial de planificación y análisis, donde se identifican las necesidades del usuario y se definen los requisitos del sistema. Se explicará cómo crear un diagrama de flujo básico para visualizar los procesos a implementar y cómo estructurar el código en módulos y paquetes para facilitar su mantenimiento y expansión.
 
 Ejercicio
-Diseña un pequeño proyecto en Python que resuelva el problema de gestionar una librería. Define los requisitos técnicos y funcionales, selecciona las bibliotecas necesarias (por ejemplo, Flask para la interfaz web) e indica cómo se organizará la estructura del código.
+Diseña un proyecto simple que permita gestionar una biblioteca digital. Identifica al menos tres funcionalidades básicas (como agregar, eliminar y buscar libros) y esquema mentalmente cómo podrías organizar el código en módulos. Luego, crea un diagrama de flujo para uno de los procesos identificados.
 
 Resumen
-- Definir claramente el problema que resuelve el proyecto.
-- Identificar y planificar las necesidades técnicas y funcionales.
-- Seleccionar bibliotecas o frameworks apropiados.
+- El diseño inicial es crucial para la eficiencia del proyecto.
+- Se deben definir claramente las necesidades y requisitos del sistema.
+- La estructuración del código en módulos y paquetes mejora su mantenibilidad.
