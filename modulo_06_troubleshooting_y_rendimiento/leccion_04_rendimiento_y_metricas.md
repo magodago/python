@@ -1,12 +1,11 @@
 # Rendimiento y metricas
 
-## Contenido
-En esta lección sobre rendimiento y métricas, se explorará cómo medir y optimizar la eficiencia de los programas escritos en Python. Se analizarán diferentes métricas comunes como tiempo de ejecución, uso de memoria y frecuencia de llamadas a funciones. Se enseñarán técnicas para identificar posibles problemas de rendimiento mediante el uso del módulo `timeit` y herramientas como `cProfile`. Se destacará la importancia de realizar pruebas de rendimiento en diferentes escenarios y cómo ajustar el código para mejorar su eficiencia.
+- Comprender cómo medir y mejorar el rendimiento de los programas Python.
+- Identificar y aplicar métricas comunes para evaluar la eficiencia del código.
 
-## Ejercicio
-El estudiante deberá analizar un programa simple que realiza cálculos matemáticos y medir sus tiempos de ejecución utilizando `timeit`. Posteriormente, se le pedirá que optimice el código siguiendo las recomendaciones sobre cómo reducir la complejidad del algoritmo. Finalmente, comparará los resultados antes y después de la optimización.
+En esta lección sobre rendimiento y métricas, se explorará la importancia de optimizar el código Python para mejorar su velocidad y eficiencia. Se presentarán diversas métricas como tiempo de ejecución, uso de memoria y frecuencia de llamadas a funciones, junto con herramientas y técnicas para medir y analizar estas métricas. Los estudiantes aprenderán a utilizar perfiles de rendimiento para identificar secciones del código que pueden optimizarse.
 
-## Resumen
-- Se aprenderán técnicas para medir y mejorar el rendimiento de los programas en Python.
-- Se utilizarán herramientas como `timeit` y `cProfile` para identificar problemas de rendimiento.
-- Se destacará la importancia de realizar pruebas de rendimiento y ajustar el código según sea necesario.
+Para practicar, los alumnos deberán implementar un programa en Python que resuelva un problema dado y luego aplicar diferentes métricas para evaluar su rendimiento inicial. Posteriormente, se les pedirá que optimicen el código siguiendo las técnicas aprendidas y compararán nuevamente las métricas antes y después de la optimización.
+
+- Comprender cómo medir el rendimiento con perfiles de rendimiento.
+- Optimizar un programa Python utilizando métricas de rendimiento.
