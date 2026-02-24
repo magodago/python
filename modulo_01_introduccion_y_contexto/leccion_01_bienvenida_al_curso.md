@@ -1,19 +1,17 @@
 # Bienvenida al curso
 
-- Comprender los fundamentos de Python y su relevancia actual.
-- Familiarizarse con la estructura básica del curso.
+Objetivos
+- Familiarizarse con Python y su importancia en la programación actual.
+- Comprender los beneficios de aprender Python para proyectos de desarrollo.
 
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad en el código, lo que lo hace ideal para principiantes. Este lenguaje ha ganado popularidad debido a su versatilidad, permitiendo aplicaciones desde desarrollo web hasta análisis de datos e inteligencia artificial. En este curso, exploraremos no solo las bases del lenguaje sino también cómo aplicarlo en diversos escenarios prácticos.
+Contenido
+En esta lección inicial, nos introducimos al mundo del lenguaje de programación Python. Python es un lenguaje de alto nivel que se destaca por su simplicidad y claridad en la escritura de código, lo que lo hace accesible tanto para principiantes como para profesionales experimentados. Este curso te guiará a través de las fundamentales herramientas y conceptos necesarios para dominar Python, desde la instalación del entorno de desarrollo hasta la creación de programas complejos.
 
-Para comenzar, es importante instalar Python en tu computadora y familiarizarse con el entorno de desarrollo integrado (IDE) que preferamos usar, ya sea PyCharm, Visual Studio Code o cualquier otro. Este primer paso es crucial para poder escribir y ejecutar código de manera efectiva.
+Python se ha convertido en una herramienta esencial en una amplia gama de campos, incluyendo el análisis de datos, inteligencia artificial, desarrollo web, automatización y más. Su sintaxis limpia y legible facilita la escritura eficiente del código, lo que permite a los desarrolladores enfocarse en resolver problemas reales con mayor facilidad.
 
-Ejercicio: Instala la última versión de Python en tu computadora y crea un archivo con extensión .py. Escribe el siguiente código:
+Ejercicio
+Instala Python en tu sistema operativo (puedes usar Anaconda o cualquier otra distribución). Luego, abre el editor de texto o el intérprete de comandos y escribe la siguiente línea de código: `print("¡Bienvenido al curso de Python!")`. Ejecuta este código para verificar que esté configurado correctamente.
 
-```python
-print("¡Bienvenido al curso de Python!")
-```
-
-Luego, ejecuta este código para ver los resultados. Este ejercicio te ayudará a familiarizarte con el proceso de instalación y la ejecución básica de Python.
-
-- Familiaridad con la instalación de Python.
-- Comprender cómo escribir y ejecutar un programa simple en Python.
+Resumen
+- Python es un lenguaje de programación versátil y fácil de aprender.
+- Su importancia en el desarrollo actual hace que sea una habilidad valiosa.
