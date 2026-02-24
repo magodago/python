@@ -1,24 +1,18 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar las etapas del proceso de diseño y su importancia en la implementación exitosa.
+- Entender los pasos fundamentales para diseñar un proyecto de Python.
+- Identificar y planificar las necesidades técnicas y funcionales del proyecto.
 
 Contenido
-El diseño de un proyecto en Python es crucial para asegurar que el código final sea eficiente, legible y mantenible. Este proceso implica varios pasos clave: definición clara del problema o requisitos, creación de un flujo de trabajo detallado, y planificación de la arquitectura del software. Durante esta lección, se explorará cómo analizar el problema, definir las funcionalidades necesarias, elegir las bibliotecas apropiadas, y establecer una estructura de directorios y archivos que faciliten el desarrollo y la colaboración.
+En esta lección, se explorará el proceso de diseño de proyectos utilizando Python. Se comenzará con la identificación de las necesidades del usuario o cliente, pasando por la definición clara de los requisitos técnicos y funcionales hasta la creación de un esquema básico para organizar el código. Es crucial que los estudiantes comprendan cómo abordar cada aspecto del diseño desde una perspectiva práctica para asegurar que su proyecto sea funcional, eficiente y fácilmente mantenible.
+
+Se discutirá la importancia de definir objetivos claros y alcanzables, así como la necesidad de considerar factores como el rendimiento, la seguridad y la escalabilidad del software. Además, se explorará cómo documentar los requisitos y las decisiones técnicas para facilitar la colaboración con otros miembros del equipo.
 
 Ejercicio
-Diseña un proyecto simple en Python para crear un sistema de gestión de tareas. Define los siguientes aspectos:
-1. **Problema a resolver**: Un sistema que permita al usuario agregar, eliminar y listar tareas.
-2. **Funcionalidades necesarias**:
-   - Agregar una nueva tarea.
-   - Eliminar una tarea existente.
-   - Listar todas las tareas actuales.
-3. **Estructura del proyecto**:
-   - Crea un directorio llamado `tarea_manager`.
-   - Dentro de este, crea subdirectorios para `data` (para almacenar datos), `scripts` (para scripts de Python) y `docs` (para documentación).
-4. **Bibliotecas a utilizar**: Considera la utilización de una base de datos轻量级的，如SQLite）来存储任务数据。
+Diseña un proyecto que permita a los usuarios gestionar una biblioteca virtual online. Identifica al menos tres necesidades de usuario y dos requisitos técnicos. Documenta brevemente cada uno de ellos en un documento, incluyendo cómo se implementará en el código Python.
 
 Resumen
-- El diseño del proyecto es fundamental para garantizar que el desarrollo se realice de manera eficiente y con claridad.
-- Se deben definir claramente los requisitos, planificar las funcionalidades y estructurar adecuadamente la arquitectura.
+- Identificar las necesidades del usuario es crucial para el éxito del proyecto.
+- Definir claramente los requisitos técnicos y funcionales garantiza una implementación efectiva.
+- Documentar las decisiones técnicas facilita la colaboración y el mantenimiento futuro.
