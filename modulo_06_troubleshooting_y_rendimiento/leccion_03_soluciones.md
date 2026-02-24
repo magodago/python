@@ -1,11 +1,12 @@
 # Soluciones
 
 ## Contenido
-En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán técnicas para identificar y corregir errores comunes en el código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) y `logging` para depurar eficientemente. Además, se presentarán estrategias para optimizar el rendimiento de los programas Python, incluyendo la utilización de listas comprensivas vs funciones lambda, y la importancia de usar módulos y bibliotecas precompiladas para mejorar la velocidad de ejecución.
+En esta lección sobre soluciones de problemas y rendimiento en Python, se abordarán técnicas para identificar y resolver errores comunes, así como estrategias para mejorar la eficiencia del código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) para depurar programas y cómo optimizar el rendimiento mediante la utilización de listas en lugar de bucles innecesarios o algoritmos más eficientes.
 
 ## Ejercicio
-Implemente un programa que calcule el factorial de un número utilizando recursividad. Luego, utilice `pdb` para depurar el código y optimice el algoritmo para reducir su tiempo de ejecución. Mida el rendimiento inicial y final del programa y compare los resultados.
+Implementa un programa que calcule los primeros 100 números de Fibonacci utilizando dos métodos: uno con recursión y otro con iteración. Identifica posibles problemas de rendimiento en el método recursivo e implementa una solución para mejorar su eficiencia. Mide el tiempo de ejecución de ambos métodos y compara sus resultados.
 
 ## Resumen
-- Se aprendió a utilizar herramientas como `pdb` y `logging` para depurar eficientemente el código.
-- Se discutieron estrategias para optimizar el rendimiento, incluyendo la elección de estructuras de datos apropiadas y la utilización de bibliotecas precompiladas.
+- Se aprendió a utilizar herramientas como `pdb` para depurar programas.
+- Se discutió la importancia de optimizar el rendimiento del código, especialmente en operaciones intensivas.
+- Se practicó la implementación de algoritmos más eficientes para mejorar el tiempo de ejecución.
