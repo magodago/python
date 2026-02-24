@@ -1,16 +1,20 @@
 # Despliegue
 
-- **Objetivos**
-  - Comprender los pasos necesarios para desplegar una aplicación Python en producción.
-  - Implementar un entorno de desarrollo integrado (IDE) y herramientas de despliegue.
+- Comprender los conceptos básicos de despliegue de aplicaciones Python.
+- Implementar un despliegue básico utilizando servicios cloud como Heroku.
 
-- **Contenido**
-  La lección se centra en el proceso de despliegue de aplicaciones Python, desde la configuración del entorno hasta la implementación en servidores o plataformas como Heroku. Se explicará cómo seleccionar y configurar un servidor web adecuado, así como las mejores prácticas para optimizar el rendimiento y seguridad de la aplicación. Además, se explorarán herramientas populares como Docker para contenerizaciones y Ansible para automatización de despliegues.
+## Contenido
+En esta lección del módulo Proyectos reales, nos enfocaremos en el proceso de despliegue de una aplicación Python. El despliegue es crucial para que nuestro proyecto pueda ser utilizado y mantenido eficientemente. Aprenderemos a configurar un entorno de desarrollo local y luego procederemos a subir nuestra aplicación al cloud utilizando Heroku, un popular servicio PaaS (Platform as a Service) que facilita el despliegue y gestión de aplicaciones web.
 
-- **Ejercicio**
-  Los alumnos deberán configurar una aplicación web simple en Python utilizando Flask o Django y luego desplegarla en un servidor local o en Heroku. Deberán documentar cada paso del proceso, desde la instalación de las dependencias hasta el despliegue final, incluyendo cualquier problema encontrado y cómo lo resolvieron.
+Para ello, primero revisaremos cómo preparar nuestro proyecto para el despliegue. Esto incluirá la creación de un archivo `requirements.txt` con las dependencias necesarias, así como el ajuste del archivo `Procfile` para especificar el comando a ejecutar. Luego, veremos cómo configurar un repositorio Git y utilizarlo para subir nuestro código a Heroku.
 
-- **Resumen**
-  - Se aprende a configurar y optimizar entornos para el despliegue de aplicaciones Python.
-  - Se practica la implementación en servidores locales o plataformas como Heroku.
-  - Se mejora la comprensión de herramientas de contenerización y automatización.
+## Ejercicio
+1. Crea un nuevo proyecto Python utilizando su entorno virtual.
+2. Instala las dependencias necesarias en tu proyecto.
+3. Escribe un simple script que imprima "¡Hola, mundo!".
+4. Configura el archivo `Procfile` para ejecutar tu script.
+5. Inicializa un repositorio Git y sube tu código a Heroku.
+
+## Resumen
+- Preparación del entorno local para despliegue.
+- Uso de Heroku para subir y ejecutar la aplicación Python en el cloud.
