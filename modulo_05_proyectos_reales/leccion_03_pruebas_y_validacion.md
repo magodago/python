@@ -1,30 +1,18 @@
 # Pruebas y validacion
 
-- Comprender la importancia de pruebas y validación en el desarrollo de software.
-- Implementar técnicas básicas de pruebas unitarias utilizando la biblioteca `unittest` de Python.
+Objetivos
+- Comprender la importancia de las pruebas y validación en proyectos de Python.
+- Implementar técnicas básicas de pruebas unitarias utilizando `unittest` para asegurar la calidad del código.
 
-Las pruebas y la validación son fundamentales en el desarrollo de software para asegurar que las funciones se comporten como se espera. En esta lección, aprenderás a utilizar la biblioteca `unittest`, una parte integral del estándar de Python, para escribir y ejecutar pruebas unitarias. Estas pruebas ayudan a detectar errores temprano en el proceso de desarrollo, lo que facilita la corrección de defectos antes de que se propaguen al código final.
+Contenido
+Las pruebas y validaciones son fundamentales en el desarrollo de software, ya que permiten detectar errores temprano en el proceso, lo cual reduce costos y mejora la calidad final. En Python, se puede utilizar el módulo `unittest` para escribir pruebas unitarias. Este módulo proporciona una forma estructurada de definir y ejecutar pruebas, asegurando que las funciones y métodos funcionen como esperado bajo diferentes condiciones.
 
-Para empezar, crea un archivo `test_calculos.py` con las siguientes líneas:
+Para ilustrar esto, consideremos un ejemplo simple: un programa que calcula el área de un círculo. Podríamos escribir una función `calcular_area` que tome el radio como parámetro y devuelva el área. Con `unittest`, podríamos crear pruebas para verificar que la función funcione correctamente con diferentes radios, incluyendo casos borde como un radio de 0.
 
-```python
-import unittest
+Ejercicio
+Implemente las pruebas unitarias para la función `calcular_area` utilizando el módulo `unittest`. Cree al menos tres pruebas: una para un radio normal, otra para un radio igual a cero y una última para un radio negativo. Asegúrese de que sus pruebas capturan los comportamientos esperados.
 
-class TestCalculos(unittest.TestCase):
-    
-    def test_suma(self):
-        from calculos import suma
-        self.assertEqual(suma(1, 2), 3)
-        
-    def test_resta(self):
-        from calculos import resta
-        self.assertEqual(resta(5, 3), 2)
-
-if __name__ == '__main__':
-    unittest.main()
-```
-
-Este código define una clase de prueba `TestCalculos` que incluye dos métodos de prueba: `test_suma` y `test_resta`. Estos métodos utilizan el framework de pruebas `unittest` para verificar que las funciones `suma` y `resta`, importadas desde un módulo llamado `calculos`, funcionen correctamente.
-
-- Implementar pruebas unitarias con la biblioteca `unittest`.
-- Utilizar técnicas básicas de validación en Python.
+Resumen
+- Las pruebas unitarias son esenciales para garantizar la calidad del código.
+- `unittest` en Python ofrece un marco robusto para escribir y ejecutar pruebas.
+- Es importante cubrir tanto casos normales como borde en las pruebas.
