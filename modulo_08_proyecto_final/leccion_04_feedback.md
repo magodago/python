@@ -1,12 +1,11 @@
 # Feedback
 
-- Entender cómo proporcionar y recibir feedback constructivo sobre el proyecto final de Python.
-- Desarrollar habilidades para evaluar la calidad técnica y funcional del código de otros estudiantes.
+- Comprender y aplicar los conceptos de feedback constructivo en el desarrollo del proyecto final.
+- Desarrollar habilidades para recibir críticas de manera positiva y utilizarlas para mejorar la calidad del código.
 
-Para esta lección, es importante reflexionar sobre los aspectos técnicos y funcionales del proyecto final de Python. El feedback debe ser constructivo y centrarse en mejorar el código y las soluciones propuestas por los compañeros. Se recomienda utilizar un lenguaje claro y específico para identificar áreas de mejora y destacar puntos fuertes.
+El feedback es un componente crucial en cualquier proceso creativo, incluyendo el desarrollo de software con Python. En este módulo, aprenderás a valorar los comentarios constructivos que te puedan llegar durante el desarrollo de tu proyecto final. Es importante entender que el feedback no se centra solo en identificar errores o defectos, sino también en reconocer las fortalezas y áreas de mejora del código. Este proceso es fundamental para el crecimiento personal y profesional.
 
-Ejercicio: Evalúa dos proyectos diferentes de Python proporcionados por otros estudiantes, enfocándote en la claridad del código, la eficiencia, la estructura y la resolución del problema propuesto. Luego, comparte tu feedback con cada estudiante, asegurándote de incluir tanto críticas constructivas como alabanzas.
+Para practicar estas habilidades, te invito a compartir tu proyecto final con un compañero de clase y recibir sus comentarios. Asegúrate de escuchar atentamente cada sugerencia, preguntando por claridad si es necesario, y anotándolas en una hoja de trabajo para revisión posterior. Posteriormente, reflexiona sobre estas críticas y considera cómo puedes aplicarlas para mejorar tu código.
 
-Resumen:
-- El feedback debe ser claro, específico y constructivo.
-- Es importante evaluar tanto los aspectos técnicos como funcionales del proyecto.
+- Practicar la recepción y aplicación del feedback constructivo.
+- Reflexionar sobre las fortalezas y áreas de mejora identificadas en el proyecto final.
