@@ -1,27 +1,28 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizarse con la manipulación de listas y diccionarios en Python.
-- Aprender a utilizar bucles anidados para procesar datos complejos.
+- Familiarizar al estudiante con la manipulación de listas y diccionarios en Python.
+- Aprender a utilizar funciones para procesar datos complejos.
 
 ## Contenido
-En esta lección profundizaremos en el manejo avanzado de listas y diccionarios, dos estructuras de datos fundamentales en Python. Veremos cómo manipular estos objetos utilizando diversas funciones incorporadas y métodos propios de cada tipo de dato. Además, exploraremos la utilización de bucles anidados para procesar datos más complejos, como listas de diccionarios o viceversa.
+En esta lección, profundizaremos en el manejo de estructuras de datos más avanzadas como las listas y los diccionarios. Veremos cómo crear, modificar y acceder a estos tipos de datos, así como cómo usar funciones para realizar tareas específicas con ellos. Es importante entender que estas estructuras son fundamentales para la programación en Python y permiten manejar datos complejos de manera eficiente.
 
-Para ilustrar estas técnicas, trabajaremos con un conjunto de datos que representa información sobre estudiantes, donde cada estudiante tiene varios atributos como nombre, edad y notas en diferentes materias. A través del uso de bucles anidados y funciones de Python, aprenderemos a recorrer esta estructura de datos para realizar cálculos estadísticos o extraer información específica.
+Por ejemplo, podríamos trabajar con una lista de diccionarios donde cada diccionario represente un libro con sus respectivas propiedades como título, autor y año de publicación. A través de funciones, podríamos implementar operaciones como buscar un libro por su título o calcular el promedio del año de publicación.
 
 ## Ejercicio
-Dado el siguiente conjunto de datos representando estudiantes:
+Dado el siguiente código:
 
 ```python
-estudiantes = [
-    {"nombre": "Juan", "edad": 18, "notas": [5, 6, 7]},
-    {"nombre": "María", "edad": 19, "notas": [4, 8, 9]},
-    {"nombre": "Carlos", "edad": 20, "notas": [3, 7, 8]}
+libros = [
+    {"título": "El Señor de los Anillos", "autor": "J.R.R. Tolkien", "año": 1954},
+    {"título": "Cien años de soledad", "autor": "Gabriel García Márquez", "año": 1967}
 ]
 ```
 
-Desarrolla un programa que calcule el promedio de notas de cada estudiante y devuelva una lista con los nombres de los estudiantes junto con sus respectivos promedios.
+Desarrolla una función `promedio_anio_publicacion` que tome la lista `libros` como argumento y devuelva el promedio del año de publicación de todos los libros.
+
+Luego, crea otra función `buscar_libro_por_titulo` que acepte tanto la lista `libros` como un título específico como argumentos. Esta función debe buscar si existe un libro con ese título en la lista y retornar el diccionario correspondiente o `None` si no se encuentra.
 
 ## Resumen
-- Se aprendió a manipular listas y diccionarios en Python.
-- Se exploró la utilización de bucles anidados para procesar datos complejos.
+- Se aprendió a manipular listas y diccionarios para manejar datos complejos.
+- Se desarrollaron funciones para procesar datos de manera eficiente.
