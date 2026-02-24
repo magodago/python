@@ -1,25 +1,19 @@
 # Implementacion paso a paso
 
-## Objetivos
-- Implementar un proyecto real que permita al usuario gestionar una lista de tareas.
-- Aprender a utilizar estructuras de datos como listas y diccionarios para almacenar información.
+- Comprender cómo estructurar un proyecto real en Python.
+- Implementar una solución práctica utilizando funciones y clases.
 
-## Contenido
-En esta lección, continuaremos con la implementación del proyecto de gestión de tareas. Hasta ahora, hemos aprendido los fundamentos de Python y cómo trabajar con variables, tipos de datos básicos y control de flujo. Ahora es el momento de aplicar estos conocimientos en un proyecto más complejo.
+Para esta lección, se enfocará en la implementación paso a paso de un proyecto real que consiste en el desarrollo de una calculadora simple. Este proyecto servirá para aplicar conceptos básicos de programación orientada a objetos, incluyendo la definición de funciones y clases, lo cual es fundamental para cualquier desarrollador Python.
 
-Para este ejercicio, crearemos una aplicación que permita al usuario agregar, eliminar y listar tareas pendientes. Usaremos listas para almacenar las tareas y diccionarios para asociar cada tarea con su estado (completada o no). Esto nos permitirá manejar la información de manera eficiente y facilitará el desarrollo del proyecto.
+El alumno aprenderá a crear una interfaz de línea de comandos (CLI) donde el usuario puede realizar operaciones matemáticas básicas como suma, resta, multiplicación y división. Esto involucrará la creación de una clase `Calculadora` con métodos para cada tipo de operación, así como un menú interactivo que permita al usuario seleccionar las operaciones deseadas.
 
-## Ejercicio
-Implementa un programa en Python que permita al usuario realizar las siguientes operaciones:
+### Ejercicio
+Implemente una calculadora simple en Python siguiendo los siguientes pasos:
+1. Crea una clase llamada `Calculadora`.
+2. Dentro de la clase, define métodos para realizar sumas, restas, multiplicaciones y divisiones.
+3. Implementa un menú interactivo que permita al usuario seleccionar las operaciones deseadas y proporcionar los números a utilizar.
+4. Asegúrate de manejar correctamente los errores, como la división por cero.
 
-1. Agregar una nueva tarea.
-2. Eliminar una tarea existente.
-3. Listar todas las tareas pendientes.
-4. Marcar una tarea como completada.
-
-El programa debe proporcionar opciones para el usuario elegir qué acción realizar y continuar hasta que el usuario decida finalizar la aplicación. Recuerda utilizar bucles y estructuras condicionales apropiadas para manejar diferentes casos de uso.
-
-## Resumen
-- Se ha desarrollado una aplicación básica de gestión de tareas.
-- Se han utilizado listas y diccionarios para almacenar y gestionar información.
-- El ejercicio permite a los alumnos aplicar conceptos básicos de Python en un proyecto real.
+### Resumen
+- Se aprendió a estructurar un proyecto real en Python utilizando funciones y clases.
+- Se implementó una calculadora simple con una interfaz CLI que permite realizar operaciones matemáticas básicas.
