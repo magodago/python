@@ -1,10 +1,11 @@
 # Cierre del modulo
 
-- Consolidar el conocimiento adquirido sobre Python y su aplicación práctica.
-- Fomentar la continuidad del aprendizaje post-curso mediante recursos recomendados.
+- Consolidar conocimientos adquiridos durante el módulo de Python.
+- Preparar a los alumnos para aplicar su aprendizaje práctico y teórico en proyectos futuros.
 
-En esta lección final de nuestro módulo sobre Python, reflexionaremos sobre los conceptos clave que hemos explorado durante todo este tiempo. Hemos abordado desde las bases fundamentales como las estructuras de datos y control de flujo hasta la programación orientada a objetos y el trabajo con archivos. Cada uno de estos temas ha sido crucial para construir una sólida base en Python, un lenguaje de programación versátil y ampliamente utilizado.
+En esta lección final del módulo, revisaremos los conceptos clave que se han cubierto hasta ahora. Hemos explorado la sintaxis básica, estructuras de control, funciones, listas, diccionarios, y ha sido crucial entender cómo Python puede ser utilizado para resolver problemas complejos a través de la programación orientada a objetos. Es importante reconocer que el aprendizaje de Python es un proceso continuo; hemos proporcionado una base sólida pero hay mucho más por descubrir.
 
-Para asegurar que sigas avanzando en tu aprendizaje, te recomendamos explorar proyectos personales y cursos adicionales que permitan aplicar y profundizar tus conocimientos. Recursos como la documentación oficial de Python, plataformas de código abierto y comunidades en línea pueden ser valiosos para mantenerte actualizado y conectado con otros entusiastas del lenguaje.
+Para practicar, los alumnos deberán desarrollar un pequeño programa que utilice todos los conceptos estudiados hasta ahora. El programa debe ser capaz de recibir datos del usuario, procesarlos utilizando funciones y estructuras de control, almacenar la información en listas o diccionarios, y finalmente mostrar resultados basándose en las características de programación orientada a objetos.
 
-Escribe un breve resumen de tu experiencia con Python hasta el momento, identificando los conceptos más útiles que has aprendido y cómo puedes aplicarlos en proyectos futuros.
+- Integrar conocimientos adquiridos.
+- Aplicar aprendizaje práctico.
