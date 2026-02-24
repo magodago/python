@@ -1,17 +1,22 @@
 # Primeros pasos practicos
 
 Objetivos
-- Familiarizar a los estudiantes con la instalación y configuración de Python.
-- Introducir los conceptos básicos de sintaxis y estructura del lenguaje.
+- Familiarizarse con la instalación de Python y su entorno de desarrollo.
+- Comprender las primeras instrucciones básicas y cómo ejecutar un programa simple.
 
 Contenido
-En esta lección, se profundizará en los primeros pasos prácticos para comenzar a programar en Python. Los estudiantes aprenderán cómo descargar e instalar Python desde el sitio oficial de la Fundación Python o utilizando herramientas como Anaconda. Posteriormente, se explorará la configuración del entorno de desarrollo, ya sea con un editor de texto simple como Notepad++ o un IDE más completo como PyCharm.
+En esta lección, se explorarán los primeros pasos en el mundo del lenguaje de programación Python. Se comenzará por la instalación adecuada de Python en el ordenador personal o una máquina virtual. Es importante elegir la versión más reciente y compatible con el sistema operativo utilizado para asegurar un funcionamiento óptimo. Posteriormente, se presentarán los conceptos básicos de sintaxis y estructura del lenguaje, incluyendo las variables y tipos de datos fundamentales como enteros, cadenas y flotantes.
 
-Se presentarán los elementos básicos de sintaxis, incluyendo cómo escribir y ejecutar programas simples en el intérprete de Python. Se explicará la estructura básica de un programa (definición del entorno, declaración de variables, tipos de datos primitivos) y se proporcionarán ejemplos prácticos para que los estudiantes puedan experimentar con el lenguaje.
+Se explicará cómo escribir un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Este ejercicio servirá para familiarizarse con el editor de texto o IDE (Entorno de Desarrollo Integrado) utilizado, así como con los comandos básicos de ejecución y depuración.
 
 Ejercicio
-Escribir un pequeño programa en Python que solicite al usuario su nombre y edad. El programa debe imprimir un mensaje personalizado que indique cuántos años tendrá el usuario en 10 años. Ejemplo de salida: "Hola, [nombre]. En 10 años tendrás [edad + 10] años."
+Escribe un programa que solicite al usuario su nombre e imprima un mensaje personalizado. El programa debe tener la siguiente estructura:
+
+```python
+nombre = input("Por favor, introduce tu nombre: ")
+print(f"¡Bienvenido/a {nombre}!")
+```
 
 Resumen
-- Instalación y configuración del entorno de Python.
-- Sintaxis básica y estructura de un programa simple.
+- Se ha instalado Python y se ha familiarizado con el entorno de desarrollo.
+- Se han aprendido las primeras instrucciones básicas, incluyendo variables y entrada/salida.
