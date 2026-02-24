@@ -1,11 +1,11 @@
 # Casos de uso reales
 
-- Entender cómo Python se aplica en soluciones reales de la industria.
-- Analizar casos de uso específicos para mejorar la capacidad de resolución de problemas del estudiante.
+- Entender cómo aplicar Python en proyectos reales y resolver problemas complejos.
+- Analizar casos de uso avanzados de Python en industrias como la financiera y la tecnológica.
 
-Python es ampliamente utilizado en diversas áreas debido a su simplicidad y versatilidad. En este módulo, exploraremos cómo Python se aplica en el desarrollo web con Django, una framework popular que permite crear aplicaciones web robustas y escalables. Además, veremos cómo Python se utiliza en la ciencia de datos para análisis estadísticos complejos utilizando bibliotecas como Pandas y NumPy. Estos casos de uso reales no solo ilustran las capacidades del lenguaje, sino que también proporcionan un marco para aplicar conocimientos teóricos a soluciones prácticas.
+Python es una herramienta versátil que se utiliza en una amplia gama de aplicaciones. En este módulo, exploraremos casos de uso real en el sector financiero, donde Python se emplea para la automatización de tareas, análisis de datos financieros y modelado prediccional. Además, veremos cómo Python es utilizado en la industria tecnológica para desarrollo web, manejo de bases de datos y creación de APIs.
 
-Para practicar, los estudiantes deben desarrollar una pequeña aplicación web utilizando Django que permita a los usuarios ingresar y visualizar datos de ventas. La aplicación debe incluir funcionalidades como la creación de tablas de ventas, gráficos de barras para visualización y un sistema de búsqueda eficiente. Este ejercicio no solo refuerza el uso de Python en desarrollo web sino también fomenta la resolución de problemas prácticas.
+Para ilustrar estos conceptos, los estudiantes deberán desarrollar un proyecto que implemente una solución financiera simple utilizando Python. Por ejemplo, podrían crear un programa que realice una predicción básica del precio de acciones usando regresión lineal o análisis de tendencias. Este ejercicio permitirá a los alumnos experimentar con la manipulación de datos financieros y aplicar técnicas estadísticas en Python.
 
-- Comprender la implementación de Django para aplicaciones web.
-- Aplicar conocimientos de ciencia de datos con Pandas y NumPy en un proyecto real.
+- Comprender el uso de Python en el sector financiero.
+- Desarrollar un proyecto práctico que resuelva un problema real utilizando Python.
