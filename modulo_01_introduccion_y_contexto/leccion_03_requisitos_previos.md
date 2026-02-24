@@ -1,18 +1,11 @@
 # Requisitos previos
 
-## Objetivos
-- Comprender los requisitos previos necesarios para comenzar a aprender Python.
-- Identificar las habilidades y conocimientos básicos que se requieren antes de emprender este curso.
+- Comprender los requisitos previos necesarios antes de comenzar a aprender Python.
+- Identificar las habilidades y conocimientos básicos que se requieren para iniciarse con la programación en Python.
 
-## Contenido
-Antes de sumergirse en el mundo del lenguaje de programación Python, es importante conocer algunos requisitos previos que facilitarán la comprensión y aprendizaje. Primero, se recomienda tener una base en conceptos básicos de informática, como entender lo que son los sistemas operativos, archivos y carpetas, así como el uso básico del mouse y teclado. Segundo, es útil conocer algunos términos fundamentales relacionados con la programación, tales como variables, tipos de datos (como enteros, cadenas o booleanos), y estructuras de control de flujo (como condicionales y bucles). Estas nociones no son necesariamente específicas de Python, sino que son conceptos generales de programación que se aplican en múltiples lenguajes.
+Python es una potente herramienta de programación versátil utilizada en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, entre otros. Antes de sumergirse en el estudio de este lenguaje, es importante tener un cierto nivel de familiaridad con conceptos básicos de programación, como la sintaxis y estructuras de control (bucles, condicionales), así como conocimientos sobre variables y tipos de datos. Aunque Python tiene una curva de aprendizaje relativamente suave, contar con estas habilidades previas facilitará el proceso de adquisición del lenguaje.
 
-Además, tener un entorno de desarrollo integrado (IDE) básico como PyCharm o Visual Studio Code puede ser útil para escribir y ejecutar el código. Aunque no es necesario dominar estos herramientas al 100%, conocer cómo abrir archivos de texto, guardar cambios y ejecutar scripts será beneficioso.
+Para practicar estos conceptos básicos, se recomienda que los estudiantes intenten escribir un pequeño programa que solicite al usuario ingresar su nombre y edad, luego imprima una frase personalizada. Este ejercicio permitirá a los alumnos aplicar sus conocimientos sobre entrada de datos, variables y operaciones con números.
 
-## Ejercicio
-Escribe un programa simple en Python que solicite al usuario su nombre y edad, luego imprima un mensaje que indique cuántos años tendrá el usuario en diez años. Asegúrate de usar variables para almacenar la información ingresada por el usuario y realiza las operaciones necesarias para calcular la edad futura.
-
-## Resumen
-- Los requisitos previos incluyen conocimientos básicos de informática.
-- Es recomendable tener una comprensión elemental de conceptos fundamentales de programación, como variables y estructuras de control de flujo.
-- Un entorno de desarrollo básico puede facilitar el proceso de aprendizaje.
+- Familiaridad con conceptos básicos de programación.
+- Capacidad para escribir un programa simple en Python.
