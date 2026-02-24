@@ -1,22 +1,17 @@
 # Integracion con otras herramientas
 
-### Objetivos
-- Comprender cómo integrar Python con otros lenguajes de programación utilizando interfaces de programación de aplicaciones (APIs).
-- Aprender a utilizar bibliotecas externas en proyectos Python y optimizar el rendimiento del código.
+- Integrar Python con bases de datos SQL para automatizar la gestión de datos.
+- Utilizar bibliotecas como NumPy y Pandas para procesamiento de datos avanzado.
 
-### Contenido
-La integración de Python con otras herramientas es crucial para aprovechar su versatilidad en diversos entornos. Este módulo se centra en la utilización de APIs y la integración con otros lenguajes de programación, permitiendo a los desarrolladores crear soluciones complejas que combinan las fortalezas de Python con otras tecnologías. Además, se explorará cómo importar bibliotecas externas para extender el funcionamiento del código y mejorar su eficiencia, lo cual es fundamental en proyectos de gran escala.
+Python es una potente herramienta que puede integrarse fácilmente con otras tecnologías para ampliar su funcionalidad. En esta lección, aprenderemos a conectar Python con bases de datos SQL utilizando módulos como `sqlite3` o `psycopg2`. Esto nos permitirá realizar consultas, insertar y actualizar registros de manera eficiente. Además, veremos cómo utilizar bibliotecas como NumPy y Pandas para manipular grandes volúmenes de datos numéricos y estructurados, lo que es esencial en el análisis de datos.
 
-La integración con APIs puede realizarse a través de llamadas HTTP o utilizando módulos como `requests` que facilitan la comunicación entre diferentes servicios. Por otro lado, la importación de bibliotecas externas se logra mediante el uso del administrador de paquetes `pip`, permitiendo al estudiante añadir y gestionar dependencias con facilidad.
+Para practicar estos conceptos, los estudiantes deberán realizar un ejercicio donde se conecten a una base de datos SQL local utilizando Python. Tendrán que diseñar e implementar un script que realice las siguientes tareas:
+1. Conectarse a la base de datos.
+2. Crear una tabla si no existe.
+3. Insertar registros en la tabla.
+4. Realizar consultas y mostrar los resultados.
 
-### Ejercicio
-Desarrolla un script Python que utilice una API de terceros para obtener datos meteorológicos y los visualice en una gráfica utilizando la biblioteca matplotlib. El ejercicio debe incluir:
-1. La importación de las bibliotecas necesarias.
-2. La configuración de la API key si es necesario.
-3. La realización de una llamada a la API para obtener datos meteorológicos de una ciudad específica.
-4. La visualización de dichos datos en un gráfico.
+Este ejercicio permitirá consolidar el conocimiento adquirido sobre la integración entre Python y bases de datos, así como sobre el manejo avanzado de datos con NumPy y Pandas.
 
-### Resumen
-- Se aprende a integrar Python con otras herramientas mediante APIs y bibliotecas externas.
-- El uso de `requests` facilita la comunicación entre diferentes servicios.
-- La importación de bibliotecas mejora el rendimiento y funcionalidad del código.
+- Integración con bases de datos SQL para automatización.
+- Uso de NumPy y Pandas en procesamiento de datos.
