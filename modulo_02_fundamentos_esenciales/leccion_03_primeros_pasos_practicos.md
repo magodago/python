@@ -1,17 +1,15 @@
 # Primeros pasos practicos
 
-- Comprender la instalación y configuración de Python en un entorno de desarrollo.
-- Estructurar el primer programa en Python y entender su funcionamiento básico.
+## Objetivos
+- Familiarizar al estudiante con la instalación y configuración de Python.
+- Introducir los conceptos básicos del entorno de desarrollo integrado (IDE) para Python.
 
-En esta lección se presentarán los pasos necesarios para instalar y configurar Python en un entorno de desarrollo, así como la estructura básica de un programa. Se explicará cómo escribir y ejecutar un simple "Hello World" en Python, introduciendo conceptos clave como el uso del editor de texto o IDE, la sintaxis básica y la importancia de indentación.
+## Contenido
+En esta lección, se profundizará en los primeros pasos necesarios para comenzar a programar en Python. Se explicará cómo instalar Python y seleccionar un IDE adecuado que permita una mayor productividad al escribir código. Además, se presentarán los conceptos fundamentales de la sintaxis básica y el uso de variables, lo cual es esencial para cualquier programador que quiera comenzar a explorar este lenguaje de programación.
 
-Para practicar estos conceptos, los estudiantes deben crear un archivo llamado `hola_mundo.py` con el siguiente código:
+## Ejercicio
+Escribe un pequeño programa en Python que solicite al usuario su nombre y edad. El programa deberá imprimir una frase personalizada que indique cuántos años le faltan para llegar a los 100 años. Por ejemplo, si el usuario tiene 25 años, la salida debería ser: "Faltan 75 años para que tengas 100".
 
-```python
-print("¡Hola Mundo!")
-```
-
-Luego, deben ejecutar este programa en su terminal o IDE para ver el resultado. Este ejercicio les ayudará a familiarizarse con la escritura y ejecución de programas simples en Python.
-
-- Familiaridad con la instalación de Python.
-- Comprender cómo estructurar un programa básico en Python.
+## Resumen
+- Se ha cubierto la instalación de Python y la elección del IDE.
+- Se han introducido los conceptos básicos de variables y entrada/salida en Python.
