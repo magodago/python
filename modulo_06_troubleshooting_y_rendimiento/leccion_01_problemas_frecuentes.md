@@ -1,19 +1,16 @@
 # Problemas frecuentes
 
+## Objetivos
+- Identificar y corregir errores comunes en Python.
+- Mejorar la eficiencia del código para optimizar su rendimiento.
+
 ## Contenido
-En esta lección sobre problemas frecuentes en Python, se abordarán errores comunes que pueden surgir durante la programación y cómo resolverlos de manera eficiente. Se aprenderá a identificar y corregir errores como `NameError`, `TypeError` y `SyntaxError`. Además, se discutirá el uso adecuado de las herramientas integradas en Python para depurar código, como el módulo `pdb`.
-
-Python es un lenguaje de programación flexible que ofrece una gran variedad de funcionalidades, pero también puede generar errores que pueden ser difíciles de resolver si no se tienen los conocimientos necesarios. Los errores más comunes incluyen:
-
-- **NameError**: Este error ocurre cuando se intenta usar una variable o función que no ha sido definida en el contexto actual.
-- **TypeError**: Se produce cuando se intenta realizar una operación con tipos de datos incompatibles, como sumar un número entero a una cadena.
-- **SyntaxError**: Aparece cuando el código no sigue las reglas gramaticales del lenguaje Python.
-
-Para prevenir y resolver estos problemas, es crucial entender la sintaxis correcta y utilizar correctamente los nombres de variables. Además, el uso del depurador `pdb` puede ser muy útil para identificar errores de forma más precisa.
+En esta lección se abordarán los problemas frecuentes que pueden surgir al programar con Python, así como las estrategias para resolverlos. Los temas clave incluirán el manejo de excepciones, depuración básica y técnicas para mejorar la eficiencia del código. Se explorará cómo utilizar herramientas de depuración integradas en los entornos de desarrollo populares y cómo identificar y corregir errores comunes como divisiones por cero o acceso a índices fuera de rango.
 
 ## Ejercicio
-Implemente un programa que calcule el promedio de una lista de números enteros. Asegúrese de manejar posibles `TypeError` y `ValueError` al intentar convertir elementos no numéricos en enteros. Utilice el depurador `pdb` para identificar y corregir cualquier error que aparezca.
+Implemente una función que calcule el promedio de una lista de números. Asegúrese de manejar correctamente las excepciones en caso de que la lista esté vacía o contenga elementos no numéricos. Luego, pruebe su función con diferentes listas y registre los errores que surgen para corregirlos.
 
 ## Resumen
-- Identificación y corrección de errores comunes como `NameError`, `TypeError` y `SyntaxError`.
-- Uso del depurador `pdb` para resolver problemas en el código.
+- Se aprendió a identificar y resolver errores comunes como divisiones por cero.
+- Se practicó el uso de excepciones en Python para mejorar la robustez del código.
+- Se destacaron técnicas para optimizar el rendimiento del código, asegurando su eficiencia.
