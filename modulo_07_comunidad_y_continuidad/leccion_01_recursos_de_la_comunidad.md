@@ -1,11 +1,11 @@
 # Recursos de la comunidad
 
-- Familiarizarse con los recursos de la comunidad Python disponibles.
-- Comprender cómo utilizar y contribuir a estos recursos para mejorar la práctica del lenguaje.
+- Los estudiantes aprenderán a identificar y utilizar recursos de la comunidad Python para resolver problemas y mejorar su código.
+- Comprenderán cómo participar activamente en foros y grupos de discusión para obtener ayuda y compartir conocimientos.
 
-Python es un lenguaje de programación ampliamente utilizado en diversas áreas, lo que ha generado una vibrante comunidad global. La comunidad Python ofrece numerosos recursos valiosos para aprendizajes y desarrollo continuo, como foros de discusión, repositorios de código abierto y eventos sociales. Estos recursos no solo proporcionan ayuda técnica y soporte a los programadores en diversos niveles, sino que también fomentan la colaboración y el intercambio de ideas entre miembros de la comunidad.
+La lección se centrará en explorar los diversos recursos disponibles en la comunidad Python, incluyendo plataformas de discusión como Stack Overflow, Reddit y GitHub. Se explicará cómo buscar soluciones a problemas comunes, contribuir con códigos o documentación, y formar parte de grupos locales o virtuales para intercambiar ideas e innovar conjuntamente.
 
-Para practicar, busca un foro de discusión de Python (como Stack Overflow o Reddit) y responde una pregunta relacionada con el lenguaje. Esto no solo te ayudará a reforzar tu conocimiento, sino que también contribuirás positivamente a la comunidad.
+Para el ejercicio, los estudiantes deberán seleccionar un problema simple en Stack Overflow, analizar las respuestas y aplicar una solución similar a su propio código. Posteriormente, compartirán sus experiencias y soluciones en un foro de clase para discutir y recibir retroalimentación.
 
-- Familiaridad con los recursos comunitarios disponibles.
-- Conocer cómo contribuir a estos recursos para mejorar la práctica del lenguaje.
+- Los recursos comunitarios son esenciales para el aprendizaje continuo.
+- Participar activamente fortalece la comprensión y mejora las habilidades de programación.
