@@ -1,17 +1,25 @@
 # Buenas practicas
 
-## Objetivos
-- Comprender y aplicar las mejores prácticas de codificación en Python.
-- Familiarizarse con la importancia del estilo uniforme en proyectos de código.
+- Comprender y aplicar las buenas prácticas de codificación según PEP 8.
+- Implementar técnicas para mejorar la legibilidad del código.
 
-## Contenido
-En esta lección, profundizaremos en las buenas prácticas para escribir código Python eficiente y legible. Una práctica crucial es seguir el PEP 8, una guía de estilo que promueve un código consistente y fácil de leer. Esto incluye aspectos como la indentación uniforme (4 espacios por nivel), la nomenclatura de variables y funciones (snake_case para nombres de variables y funciones), y la separación de módulos en bloques lógicos con comentarios descriptivos.
+Python es un lenguaje de programación versátil que se destaca por su sintaxis clara y concisa. Para maximizar la eficiencia y la comprensión del código, es crucial seguir ciertas buenas prácticas. Una de las guías más reconocidas en Python es PEP 8, que proporciona una serie de recomendaciones para el diseño y estilo del código. Algunas de estas recomendaciones incluyen el uso de espacios en blanco para mejorar la legibilidad, nombrar variables con minúsculas y underscores (snake_case), y limitar las líneas de código a 79 caracteres.
 
-Además, es importante manejar excepciones de manera adecuada. En lugar de capturar excepciones generales sin manejo, se recomienda especificar las excepciones que se esperan y tratarlas de forma apropiada para evitar errores silenciosos. Esto mejora la robustez del código y facilita el depuración.
+Para practicar, crea un script que implemente una función para calcular la suma de los primeros n números naturales. Asegúrate de seguir las recomendaciones de PEP 8 al escribir tu código. Por ejemplo:
 
-## Ejercicio
-Escribe una función en Python que calcule el promedio de una lista de números, utilizando un manejo adecuado de excepciones para casos donde la lista esté vacía o contenga elementos no numéricos. Asegúrate de que tu código cumpla con las recomendaciones del PEP 8.
+```python
+def suma_naturales(n):
+    """
+    Calcula la suma de los primeros n números naturales.
+    
+    :param n: Número natural
+    :return: Suma de los primeros n números naturales
+    """
+    return (n * (n + 1)) // 2
 
-## Resumen
-- Sigue el PEP 8 para mantener un estilo uniforme en el código.
-- Maneja excepciones específicas y documenta adecuadamente los errores.
+# Prueba la función
+print(suma_naturales(5))
+```
+
+- Asegurarse de seguir las recomendaciones de PEP 8.
+- Escribir funciones claras y concisas.
