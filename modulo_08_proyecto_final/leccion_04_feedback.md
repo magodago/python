@@ -1,13 +1,10 @@
 # Feedback
 
-- Comprender los mecanismos de retroalimentación para mejorar la calidad del código final.
-- Implementar técnicas de revisión de código y recibir comentarios constructivos.
+- El estudiante aprenderá a solicitar y recibir feedback constructivo sobre su proyecto final de Python.
+- Se profundizará en las técnicas para manejar críticas de manera efectiva y utilizarlas como herramienta de mejora personal.
 
-Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos. En el módulo de proyecto final, la lección sobre feedback tiene como objetivo principal que los estudiantes comprendan cómo obtener y utilizar retroalimentación constructiva para perfeccionar su código. La retroalimentación es crucial en cualquier etapa del desarrollo de software, ya que permite identificar errores tempranos, mejorar la eficiencia del código y fomentar mejores prácticas.
+Para esta lección, los estudiantes deben preparar una presentación breve (5-7 minutos) donde expliquen el propósito del proyecto final de Python, resalten los aspectos más destacados y soliciten feedback constructivo. Se recomienda que incluyan preguntas abiertas para fomentar la interacción con el público.
 
-Los estudiantes aprenderán a solicitar y recibir críticas de manera efectiva, enfocándose en aspectos como la claridad del código, la estructura y el estilo. Se discutirá cómo utilizar herramientas de revisión de código como GitLab Code Review o GitHub Pull Requests para facilitar el proceso de retroalimentación. Además, se explorará la importancia de ser receptivo a las críticas y cómo integrarlas de manera efectiva en el proyecto final.
-
-Para practicar estos conceptos, los estudiantes deberán presentar su código del proyecto final a un compañero de clase para que lo revise utilizando GitLab Code Review. Deberán proporcionar comentarios constructivos y recibirlos con una actitud abierta y receptiva, trabajando juntos para mejorar la calidad del código.
-
-- Solicitar y recibir retroalimentación de manera efectiva.
-- Utilizar herramientas de revisión de código para facilitar el proceso de mejora continua.
+Los puntos clave a recordar son:
+- La importancia del feedback en el proceso de aprendizaje.
+- Cómo recibir críticas de manera positiva y utilizarlas para mejorar.
