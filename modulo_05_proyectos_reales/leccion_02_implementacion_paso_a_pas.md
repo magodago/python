@@ -1,23 +1,16 @@
 # Implementacion paso a paso
 
 ## Objetivos
-- Comprender cómo implementar un proyecto real utilizando Python.
-- Aprender a estructurar y organizar el código para proyectos más complejos.
+- Implementar un proyecto real que permita al estudiante aplicar conceptos de programación orientada a objetos.
+- Crear una aplicación simple de gestión de biblioteca utilizando Python.
 
 ## Contenido
-En esta lección, se abordará la implementación paso a paso de una aplicación simple que registra tareas. Se comenzará con la definición del problema y la planificación del proyecto, pasando por la instalación de las dependencias necesarias hasta la implementación del código y la prueba de la funcionalidad. Es crucial entender cómo dividir el problema en partes manejables y cómo organizar el código para facilitar su mantenimiento y expansión.
-
-Se explicará la importancia de usar buenas prácticas de codificación, como la creación de funciones claras y reutilizables, así como la documentación del código. También se discutirá la implementación de una base de datos simple para almacenar las tareas registradas, utilizando SQLite como ejemplo.
+En esta lección, se profundizará en la implementación práctica del paradigma de programación orientada a objetos (POO) utilizando Python. Los estudiantes aprenderán cómo definir clases y objetos, así como cómo utilizar herencia y polimorfismo para crear un sistema funcional. Como proyecto real, se desarrollará una aplicación simple de gestión de biblioteca que permita al usuario registrar libros, prestarlos y devolverlos. Este ejercicio no solo reforzará los conocimientos sobre POO sino también fortalecerá la capacidad del estudiante para abordar problemas complejos en Python.
 
 ## Ejercicio
-Implementa un sistema de registro de tareas básico en Python que permita al usuario:
-1. Agregar nuevas tareas.
-2. Ver todas las tareas existentes.
-3. Marcar una tarea como completada.
-
-Puedes usar la biblioteca `sqlite3` para gestionar la base de datos y `tkinter` para crear la interfaz gráfica del usuario (GUI). Recuerda documentar tu código y organizarlo en módulos claros.
+Implemente una clase `Libro` con atributos como título, autor y año de publicación. Luego, cree una clase `Biblioteca` que permita registrar libros, prestarlos a usuarios (representados por objetos de la clase `Usuario`) y devolverlos. La biblioteca debe mantener un registro de los libros prestados y su estado (prestado o disponible). Finalmente, implemente métodos para listar todos los libros disponibles y los libros prestados.
 
 ## Resumen
-- Se aprendió a dividir el problema en partes manejables.
-- Se implementó una aplicación básica utilizando Python, SQLite y tkinter.
-- Se enfatizó la importancia de buenas prácticas de codificación.
+- Se profundizará en el paradigma orientado a objetos con Python.
+- Los estudiantes desarrollarán una aplicación de gestión de biblioteca que incluye clases `Libro`, `Usuario` y `Biblioteca`.
+- El ejercicio permitirá aplicar conocimientos sobre herencia, polimorfismo y manejo de datos en un contexto real.
