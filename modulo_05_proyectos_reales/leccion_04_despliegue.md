@@ -1,16 +1,11 @@
 # Despliegue
 
-Objetivos
-- Comprender los conceptos básicos de despliegue web de aplicaciones Python.
-- Aprender a configurar un entorno local para la ejecución y despliegue de aplicaciones web en Python.
+- Entender los conceptos básicos de despliegue de aplicaciones Python.
+- Aprender a configurar un entorno de desarrollo para el despliegue de proyectos Python.
 
-Contenido
-En esta lección, se explorará el proceso de despliegue de una aplicación web desarrollada con Python. Se aprenderá sobre los diferentes métodos de despliegue, desde el uso de servidores locales hasta servicios en la nube como Heroku y AWS. Se destacarán las herramientas necesarias para configurar un entorno local, incluyendo WSGI servers (como Gunicorn) y frameworks web populares (como Flask o Django). Además, se discutirá la importancia de la documentación y el mantenimiento continuo del proyecto.
+El despliegue de una aplicación Python implica la implementación y ejecución de un proyecto en un entorno externo, lo que puede ser un servidor web o un sistema operativo. Este proceso incluye la preparación del código, la configuración del entorno de producción y la optimización para garantizar el rendimiento y la seguridad. Los pasos clave incluyen la elección del framework adecuado (como Flask u Django), la configuración de una base de datos si es necesario, y la implementación de prácticas de buenas convenciones de codificación y seguridad.
 
-Ejercicio
-Despliega una aplicación simple creada con Flask en un servidor local. Utiliza Gunicorn para ejecutar tu aplicación y configura un archivo `requirements.txt` que incluya todas las dependencias necesarias. Documenta los pasos de configuración y despliegue en un documento markdown.
+Para practicar, los estudiantes deben desplegar un proyecto simple utilizando Flask. El ejercicio consiste en crear un servidor web básico con Flask, integrarlo con una base de datos SQLite para almacenar información, y luego publicar el proyecto en un entorno local o remoto. Los alumnos también deben documentar sus pasos y cualquier problema que hayan enfrentado durante el proceso.
 
-Resumen
-- Se ha aprendido sobre los métodos de despliegue web para aplicaciones Python.
-- Se han configurado y ejecutado una aplicación Flask localmente con Gunicorn.
-- Se ha creado un archivo `requirements.txt` para asegurar la consistencia de las dependencias.
+- Comprender los componentes esenciales del despliegue de aplicaciones Python.
+- Practicar la configuración y publicación de un proyecto Flask básico.
