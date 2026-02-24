@@ -1,11 +1,11 @@
 # Recursos de la comunidad
 
-- Los estudiantes aprenderán a identificar y utilizar recursos de la comunidad Python para resolver problemas y mejorar su código.
-- Comprenderán cómo participar activamente en foros y grupos de discusión para obtener ayuda y compartir conocimientos.
+- Los estudiantes aprenderán a identificar y utilizar recursos de la comunidad Python.
+- Comprenderán la importancia de la colaboración y el apoyo mutuo dentro del ecosistema Python.
 
-La lección se centrará en explorar los diversos recursos disponibles en la comunidad Python, incluyendo plataformas de discusión como Stack Overflow, Reddit y GitHub. Se explicará cómo buscar soluciones a problemas comunes, contribuir con códigos o documentación, y formar parte de grupos locales o virtuales para intercambiar ideas e innovar conjuntamente.
+La lección se centra en los recursos disponibles para los programadores que utilizan Python, destacando la importancia de la comunidad en el desarrollo y mejora constante del lenguaje. Se explorarán diferentes plataformas como Stack Overflow, GitHub, y Foros de PEPs (Python Enhancement Proposals), donde se pueden encontrar soluciones a problemas comunes, colaborar en proyectos o contribuir con propuestas para mejorar Python. Además, se explicará cómo participar en eventos locales o online, como meetups, webinars y conferencias, que son excelentes oportunidades para networking y aprendizaje continuo.
 
-Para el ejercicio, los estudiantes deberán seleccionar un problema simple en Stack Overflow, analizar las respuestas y aplicar una solución similar a su propio código. Posteriormente, compartirán sus experiencias y soluciones en un foro de clase para discutir y recibir retroalimentación.
+Para este ejercicio, los estudiantes deben buscar una solución a un problema técnico utilizando Stack Overflow. Deben copiar el código de la solución elegida, explicar brevemente cómo funciona y adaptarlo a un proyecto personal o ficticio para mostrar su comprensión del uso práctico de esta herramienta.
 
-- Los recursos comunitarios son esenciales para el aprendizaje continuo.
-- Participar activamente fortalece la comprensión y mejora las habilidades de programación.
+- Los recursos comunitarios son esenciales para resolver problemas técnicos.
+- La participación activa en la comunidad puede mejorar el aprendizaje y el desarrollo profesional.
