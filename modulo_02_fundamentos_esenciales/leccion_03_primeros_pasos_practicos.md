@@ -1,28 +1,29 @@
 # Primeros pasos practicos
 
-Objetivos
-- Familiarizar a los estudiantes con la instalación y configuración de Python.
-- Introducir a los estudiantes a la sintaxis básica de Python mediante ejemplos prácticos.
+## Objetivos
+- Familiarizar al estudiante con la instalación y configuración de Python.
+- Introducir los conceptos básicos de sintaxis y estructura de un programa en Python.
 
-Contenido
-En esta lección, exploraremos cómo instalar Python en nuestro sistema operativo y veremos algunos de sus elementos básicos. Primero, es importante que todos tengan Python instalado en su computadora. Pueden usar versiones como Anaconda o simplemente Python desde el sitio oficial. Una vez configurado, podremos comenzar a escribir nuestros primeros programas.
+## Contenido
+En esta lección, se abordarán los primeros pasos prácticos para comenzar a programar en Python. Se explicará cómo instalar Python en el ordenador del estudiante, así como la configuración de un entorno de desarrollo integrado (IDE) o editor de texto que permita escribir y ejecutar código de manera sencilla. Además, se presentarán los elementos básicos de la sintaxis de Python, incluyendo comentarios, variables, tipos de datos primitivos y operadores aritméticos.
 
-Para ilustrar esto, haremos un programa simple: una calculadora básica que suma dos números. El código sería:
+## Ejercicio
+Escribe un programa simple en Python que solicite al usuario ingresar su nombre y edad, e imprima una frase personalizada con esa información. Por ejemplo:
 
 ```python
-# Calculadora básica
+# Solicitar al usuario que ingrese su nombre
+nombre = input("Por favor, introduce tu nombre: ")
 
-numero1 = float(input("Introduce el primer número: "))
-numero2 = float(input("Introduce el segundo número: "))
+# Solicitar al usuario que ingrese su edad
+edad = int(input("Ahora introduce tu edad: "))
 
-suma = numero1 + numero2
-
-print(f"La suma de {numero1} y {numero2} es {suma}")
+# Imprimir un mensaje personalizado
+print(f"¡Hola {nombre}! En 10 años tendrás {edad + 10} años.")
 ```
 
-Ejercicio
-Escribe un programa que solicite al usuario su nombre y edad, e imprima en pantalla una frase personalizada diciendo cuántos años tendrá el usuario en 10 años.
+Asegúrate de ejecutar el programa y verificar que funcione correctamente.
 
-Resumen
-- La instalación de Python es crucial para comenzar a programar.
-- Los primeros programas ayudan a comprender la sintaxis básica de Python.
+## Resumen
+- Se ha instalado Python en el ordenador.
+- Se ha configurado un entorno de desarrollo para escribir código.
+- Se han introducido conceptos básicos como variables, tipos de datos primitivos y operadores aritméticos.
