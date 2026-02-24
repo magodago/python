@@ -1,16 +1,13 @@
 # Temas intermedios
 
-- Comprender la utilización avanzada de las listas y diccionarios.
-- Implementar funciones recursivas y comprensión de listas.
+- Comprender la utilización de decoradores en Python y su aplicación práctica.
+- Implementar y utilizar clases y objetos para crear sistemas más complejos.
 
-El tema intermedio de esta lección se centra en el uso avanzado de colecciones en Python, particularmente listas y diccionarios. Las listas son una estructura fundamental para almacenar múltiples elementos en una sola variable, permitiendo operaciones complejas como la comprensión de listas que facilitan la creación y manipulación de datos. Los diccionarios, por otro lado, ofrecen un método eficiente de mapeo clave-valor, lo cual es útil para almacenar información no lineal.
+Python es un lenguaje de programación versátil que permite a los desarrolladores abstraer problemas complejos en estructuras más manejables. En esta lección, profundizaremos en la utilización de decoradores, una característica poderosa que nos permitirá modificar el comportamiento de funciones o métodos sin alterar su definición original. Decoradores son útiles para agregar funcionalidades a las funciones existentes, como verificar permisos, medir el tiempo de ejecución o aplicar loggging.
 
-Para ejemplificar estos conceptos, se explorará cómo utilizar comprensiones de listas para filtrar y transformar datos en una sola línea de código. También se profundizará en la manipulación de diccionarios, incluyendo el uso de métodos como `get`, `setdefault` y `items()`. Además, se presentarán ejemplos prácticos que combinan ambas estructuras para resolver problemas complejos.
+Además, aprenderemos sobre la implementación y utilización de clases y objetos en Python, que forman parte fundamental del paradigma orientado a objetos. Las clases nos permiten definir un conjunto de atributos y métodos que pueden ser compartidos por instancias de esa clase (objetos). Esta estructura es ideal para modelar problemas reales y construir sistemas complejos con componentes bien definidos.
 
-### Ejercicio
-Escribe una función que tome una lista de números enteros y devuelva un diccionario donde las claves sean los números y los valores sean sus cuadrados. Utiliza comprensión de listas para generar la lista de cuadrados y luego conviertela en un diccionario.
+Para practicar, los estudiantes deberán crear una aplicación simple que use decoradores para validar la entrada en funciones matemáticas. También deberán implementar una clase `Libro` con atributos como título, autor y año de publicación, y métodos para modificar estos atributos y mostrar información del libro.
 
-### Resumen
-- Se profundizará en el uso avanzado de listas y diccionarios.
-- Se explorará la comprensión de listas y su aplicación práctica.
-- Se aprenderá a manipular diccionarios para acceder, modificar y recorrer sus elementos.
+- Decoradores para validación de entrada.
+- Implementación de clases y objetos en Python.
