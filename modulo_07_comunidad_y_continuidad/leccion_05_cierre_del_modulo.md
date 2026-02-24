@@ -1,11 +1,17 @@
 # Cierre del modulo
 
-- Consolidar conocimientos adquiridos durante el módulo de Python.
-- Preparar a los estudiantes para aplicar sus habilidades prácticas en proyectos futuros.
+### Objetivos
+- Consolidar los conocimientos adquiridos durante el módulo de Python.
+- Fomentar la continuidad del aprendizaje y la práctica constante.
 
-En esta lección final del módulo sobre Python, revisaremos los conceptos clave y las herramientas que han aprendido. Hemos cubierto desde la sintaxis básica hasta la programación orientada a objetos, pasando por el manejo de datos y la integración de bibliotecas externas. Es importante que comprendan cómo estos elementos se integran en proyectos más complejos y cómo pueden aplicar sus habilidades para resolver problemas reales.
+### Contenido
+En esta lección final, nos enfocaremos en resumir los conceptos clave que se han abordado a lo largo del módulo. Hemos explorado desde las bases fundamentales de Python hasta el uso avanzado de estructuras de datos y programación orientada a objetos. Es fundamental que comprendas cómo aplicar estos conocimientos en proyectos reales para consolidar tu habilidad con la sintaxis, funciones y clases de Python.
 
-Para practicar lo aprendido, los estudiantes deberán desarrollar un pequeño proyecto que combine varios conceptos vistos durante el módulo. Por ejemplo, podrían crear una aplicación simple de gestión de tareas que utilice listas de comprobación y funciones personalizadas para gestionar las tareas. Este ejercicio les permitirá aplicar sus conocimientos en un contexto práctico y prepararse para proyectos más avanzados.
+Para asegurarte de que estás listo para continuar tu aprendizaje, es crucial practicar regularmente. La repetición constante te ayudará a internalizar los conceptos y a mejorar tu fluidez al programar en Python.
 
-- Integración de diferentes conceptos de Python.
-- Desarrollo de habilidades para resolver problemas reales mediante la creación de un proyecto.
+### Ejercicio
+Implementa un programa en Python que permita al usuario ingresar el nombre de una ciudad y muestre la temperatura actual según una API meteorológica. Utiliza las estructuras de datos aprendidas para manejar los datos de entrada y salida, y aplica programación orientada a objetos para organizar tu código.
+
+### Resumen
+- Revisar y consolidar todos los conceptos abordados en el módulo.
+- Promover la práctica constante para mejorar la fluidez con Python.
