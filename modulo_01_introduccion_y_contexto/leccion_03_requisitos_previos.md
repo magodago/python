@@ -1,18 +1,11 @@
 # Requisitos previos
 
-## Objetivos
-- Identificar los conocimientos previos necesarios para comenzar a aprender Python.
-- Comprender la relevancia de Python en el desarrollo de software y ciencia de datos.
+- Comprender los requisitos previos necesarios para comenzar a aprender Python.
+- Identificar las habilidades básicas y conocimientos que facilitarán la adquisición de nuevas técnicas en programación con Python.
 
-## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una herramienta fundamental tanto para desarrolladores web como para científicos de datos. Para comenzar a aprender Python, es importante tener ciertos conocimientos previos. Aunque no es necesario ser experto en programación antes de empezar con Python, es útil tener una comprensión básica de conceptos matemáticos y lógicos, así como un entendimiento elemental de cómo funcionan los ordenadores.
+En esta lección, se abordarán los requisitos previos fundamentales para iniciarse en el aprendizaje de Python. Es importante tener un entendimiento básico de conceptos como variables, tipos de datos y estructuras de control (bucles y condicionales) antes de comenzar a programar con Python. Estas nociones son cruciales ya que facilitan la comprensión de la sintaxis y lógica del lenguaje, permitiendo al estudiante centrarse en los aspectos más avanzados y específicos de Python sin tener que lidiar simultáneamente con conceptos nuevos.
 
-Además, es recomendable tener experiencia con el manejo de programas informáticos básicos, ya que esto facilitará la comprensión del flujo de trabajo en Python. Aunque no se requiere dominio absoluto de estos conceptos, estar familiarizado con ellos permitirá a los estudiantes abordar rápidamente las primeras lecciones y ejercicios de programación.
+Para practicar estos conceptos básicos, el estudiante deberá escribir un programa simple que solicite al usuario su nombre y edad, muestre un mensaje personalizado y calcule cuántos años tendrá en 10 años. Este ejercicio ayudará a consolidar la comprensión de los tipos de datos (como cadenas y enteros) y las operaciones básicas como la entrada del usuario y la impresión.
 
-## Ejercicio
-Escribe un programa simple que solicite al usuario su nombre y lo salude. El programa debe imprimir en pantalla "¡Hola [nombre]!" donde [nombre] es el texto ingresado por el usuario.
-
-## Resumen
-- Python se utiliza ampliamente en desarrollo web, ciencia de datos y otras áreas.
-- Es recomendable tener una base en matemáticas y lógica, así como experiencia con programas informáticos básicos.
-- Un primer ejercicio práctico es solicitar al usuario su nombre y saludarlo.
+- Dominio básico de conceptos de programación.
+- Familiaridad con variables, tipos de datos y estructuras de control.
