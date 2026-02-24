@@ -1,17 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de documentación y tutoriales en línea.
-- Identificar herramientas para la gestión de proyectos en Python.
+- Familiarizarse con recursos de aprendizaje en línea y documentación oficial.
+- Identificar herramientas útiles para la práctica y mejora continua del código.
 
-## Contenido
-En esta lección sobre recursos adicionales, se explorarán diversas fuentes de información y herramientas que pueden ser útiles para los estudiantes del curso. Es fundamental conocer cómo acceder a la documentación oficial de Python, que es una excelente fuente de información para entender las características y funcionalidades de cada módulo y función. Además, se recomendará el uso de plataformas como Stack Overflow o GitHub, donde se pueden encontrar ejemplos prácticos y soluciones a problemas comunes.
+En esta lección sobre recursos adicionales, se explorarán diversas fuentes de información y herramientas que pueden ser utilizadas para profundizar el conocimiento de Python. Se recomendará revisar la documentación oficial de Python, que proporciona una guía detallada y actualizada sobre las características del lenguaje. Además, se sugiere utilizar plataformas como Codecademy, Coursera o edX para seguir cursos interactivos y prácticos. Estos recursos no solo ayudarán a reforzar el conocimiento adquirido en clase sino que también permitirán explorar nuevas áreas de la programación con Python.
 
-También se presentarán herramientas de gestión de proyectos como virtualenv o conda, que permiten crear entornos virtuales para Python. Estos entornos son cruciales para mantener la consistencia en el desarrollo y evitar conflictos entre las dependencias de diferentes proyectos.
+Para practicar, los estudiantes deben elegir un proyecto pequeño (por ejemplo, una calculadora simple o un juego de adivinanza) y documentarlo paso a paso. Deben buscar y utilizar al menos dos recursos adicionales para resolver dudas y mejorar su código. Al finalizar, deben compartir sus proyectos y la experiencia de aprendizaje en un foro de discusión del curso.
 
-## Ejercicio
-El estudiante deberá buscar y documentar tres recursos útiles (una página de documentación oficial, un tutorial específico y una herramienta de gestión de proyectos) que puedan ser utilizados durante el curso. Deberá presentar brevemente cada recurso y explicar cómo puede ser beneficioso para su aprendizaje.
-
-## Resumen
-- Acceder a la documentación oficial de Python.
-- Utilizar plataformas como Stack Overflow o GitHub.
-- Familiarizarse con herramientas de gestión de proyectos.
+- Familiarización con la documentación oficial y plataformas educativas.
+- Uso efectivo de recursos para el desarrollo personal y profesional.
