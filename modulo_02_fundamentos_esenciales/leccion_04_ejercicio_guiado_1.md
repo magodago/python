@@ -1,13 +1,11 @@
 # Ejercicio guiado 1
 
-- Entender la sintaxis básica de Python.
-- Practicar la creación y ejecución de programas simples.
+- Familiarizarse con la sintaxis básica de Python.
+- Comprender cómo estructurar un programa simple utilizando instrucciones básicas.
 
-Para esta lección, nos enfocaremos en introducir algunos conceptos fundamentales de Python. Comenzaremos con la sintaxis básica del lenguaje, incluyendo el uso correcto de los paréntesis, llaves y comillas para definir bloques de código. También exploraremos cómo escribir y ejecutar programas simples que imprima mensajes en pantalla.
+En esta lección, se explorará la sintaxis fundamental de Python y cómo organizar un programa básico. Se aprenderá sobre las variables, los tipos de datos primitivos (como enteros, flotantes y cadenas) y cómo realizar operaciones simples con ellos. Además, se introducirán conceptos básicos como las estructuras de control de flujo, incluyendo la utilización de condicionales (`if`, `elif`, `else`) y bucles (`for`, `while`), para que los estudiantes puedan comenzar a resolver problemas de manera programática.
 
-Ejercicio: Escribe un programa en Python que imprima "¡Hola, mundo!" en la consola. Asegúrate de que tu código tenga una indentación correcta y utiliza los caracteres apropiados para imprimir el texto.
+Para practicar estos conceptos, los alumnos deberán crear un programa que solicite al usuario su edad, calcule si es mayor de 18 años y muestre un mensaje correspondiente. El código debe incluir la declaración de variables para almacenar la entrada del usuario y el resultado final, así como una estructura condicional simple para determinar la acción a realizar basada en la edad proporcionada.
 
-Resumen:
-- La sintaxis básica es crucial para escribir programas correctos.
-- El uso adecuado de paréntesis, llaves y comillas es fundamental.
-- Practicar la impresión de mensajes en pantalla ayuda a entender cómo se estructuran los programas.
+- Familiarizarse con las variables y tipos de datos básicos.
+- Utilizar condiciones para tomar decisiones en un programa.
