@@ -2,15 +2,15 @@
 
 ## Objetivos
 - Comprender los conceptos fundamentales de Python.
-- Aprender a escribir y ejecutar programas básicos en Python.
+- Familiarizarse con la sintaxis básica y estructuras de datos.
 
 ## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Su sintaxis clara y concisa hace que sea fácil de aprender y usar para principiantes. En esta lección, se introducirá la estructura básica del código Python, incluyendo los tipos de datos primitivos como enteros, cadenas y flotantes, así como las operaciones matemáticas básicas. Se explicará también cómo definir variables y funciones simples.
+En esta lección se abordarán los conceptos clave que forman parte del núcleo de Python. Se comenzará por presentar las características principales del lenguaje, como su naturaleza interpretada, dinámica y orientada a objetos. Luego, se explorarán los tipos básicos de datos, incluyendo números, cadenas y booleanos, junto con sus operaciones fundamentales. Finalmente, se introducirán las estructuras de datos más utilizadas en Python, como listas, tuplas y diccionarios, y se explicará cómo manipularlos.
 
 ## Ejercicio
-Escribe un programa en Python que solicite al usuario su nombre y edad, luego imprima un mensaje personalizado con esa información. El programa debe incluir la declaración de variables para almacenar el nombre y la edad del usuario, así como una función que muestre el mensaje final.
+Escribe un programa que solicite al usuario ingresar su nombre y edad. El programa debe imprimir una frase que indique cuántos años tendrá el usuario en 10 años. Utiliza variables para almacenar la información ingresada por el usuario y realiza las operaciones necesarias para calcular la edad futura.
 
 ## Resumen
-- Python es un lenguaje de programación fácil de aprender.
-- Los tipos de datos primitivos son fundamentales en cualquier programa.
-- Las funciones permiten organizar el código de manera más eficiente.
+- Python es un lenguaje interpretado, dinámico y orientado a objetos.
+- Los tipos de datos básicos incluyen números, cadenas y booleanos.
+- Las estructuras de datos fundamentales son listas, tuplas y diccionarios.
