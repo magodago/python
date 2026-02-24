@@ -1,19 +1,13 @@
 # Ejercicio guiado 1
 
-## Objetivos
-- Familiarizar a los estudiantes con la sintaxis básica de Python.
-- Introducir conceptos fundamentales como variables y tipos de datos.
+- Entender la sintaxis básica de Python.
+- Practicar la creación y ejecución de programas simples.
 
-## Contenido
-En esta lección, se explorará el uso básico de Python para escribir código simple. Se comenzará con una introducción breve a la sintaxis del lenguaje, incluyendo cómo declarar variables y asignarles valores. Se explicarán los diferentes tipos de datos en Python, como enteros, cadenas y flotantes, y se mostrará cómo manipularlos.
+Para esta lección, nos enfocaremos en introducir algunos conceptos fundamentales de Python. Comenzaremos con la sintaxis básica del lenguaje, incluyendo el uso correcto de los paréntesis, llaves y comillas para definir bloques de código. También exploraremos cómo escribir y ejecutar programas simples que imprima mensajes en pantalla.
 
-## Ejercicio
-Escribe un programa simple que haga lo siguiente:
-1. Declara una variable `nombre` y asigne a ella tu nombre.
-2. Declara otra variable `edad` y asigna a ella tu edad como un número entero.
-3. Imprime en pantalla la frase: "Mi nombre es [nombre] y tengo [edad] años."
+Ejercicio: Escribe un programa en Python que imprima "¡Hola, mundo!" en la consola. Asegúrate de que tu código tenga una indentación correcta y utiliza los caracteres apropiados para imprimir el texto.
 
-## Resumen
-- Se aprendió a declarar variables y asignarles valores.
-- Se introdujeron los tipos de datos básicos en Python.
-- Se practicó la impresión de texto en el terminal.
+Resumen:
+- La sintaxis básica es crucial para escribir programas correctos.
+- El uso adecuado de paréntesis, llaves y comillas es fundamental.
+- Practicar la impresión de mensajes en pantalla ayuda a entender cómo se estructuran los programas.
