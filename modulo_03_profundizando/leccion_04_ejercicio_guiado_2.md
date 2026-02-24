@@ -1,33 +1,34 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Implementar funciones recursivas de manera efectiva.
-- Comprender y utilizar la estructura de datos diccionarios para almacenar información dinámica.
+- Familiarizarse con la manipulación de listas y diccionarios en Python.
+- Aprender a utilizar funciones para operar sobre estructuras de datos complejas.
 
 ## Contenido
-En esta lección profundizaremos en el uso de funciones recursivas, una técnica muy poderosa que permite a las funciones llamar a sí mismas durante su ejecución. Las funciones recursivas son útiles para resolver problemas que se pueden dividir en subproblemas similares. Además, aprenderemos cómo utilizar diccionarios en Python para almacenar y acceder a datos de manera eficiente, lo cual es especialmente útil cuando necesitamos manipular conjuntos de datos dinámicos o cuando queremos evitar cálculos repetidos.
+En esta lección, profundizaremos en el manejo de listas y diccionarios, dos tipos de datos fundamentales en Python. Veremos cómo realizar operaciones complejas utilizando estas estructuras, como la búsqueda, la modificación y la agregación de elementos. Además, aprenderemos a definir funciones que puedan procesar y transformar estos tipos de datos de manera eficiente.
 
-Un ejemplo clásico de recursividad es el cálculo del factorial de un número. En lugar de usar un bucle, podemos definir una función que se llame a sí misma hasta alcanzar la condición base. Por otro lado, los diccionarios nos permiten almacenar pares clave-valor, lo cual puede ser muy útil para resolver problemas donde necesitamos acceder rápidamente a datos basados en ciertas condiciones o para optimizar el rendimiento de nuestro código.
+Para ilustrar este concepto, veremos un ejemplo práctico donde se manipularán listas de diccionarios para realizar cálculos estadísticos básicos, como el promedio o la mediana. Esto nos permitirá entender cómo combinar diferentes estructuras de datos y funciones en Python para resolver problemas más complejos.
 
 ## Ejercicio
-Escribe una función recursiva que calcule el factorial de un número. Luego, implementa un diccionario para almacenar y devolver los resultados previos del cálculo del factorial, evitando así realizar cálculos repetidos. Por ejemplo:
+Dado el siguiente código:
 
 ```python
-def factorial(n, memo={}):
-    if n in memo:
-        return memo[n]
-    elif n == 0 or n == 1:
-        memo[n] = 1
-        return 1
-    else:
-        resultado = n * factorial(n - 1)
-        memo[n] = resultado
-        return resultado
-
-# Prueba la función con algunos valores
-print(factorial(5))  # Debería imprimir 120
+def calcular_promedio_temperaturas(temperaturas):
+    # La función debe recibir una lista de diccionarios, donde cada diccionario representa un día con su temperatura máxima y mínima.
+    # Cada diccionario tiene la forma: {"dia": "2023-10-XX", "max": XX, "min": YY}
+    
+    # Tu tarea es completar esta función para calcular el promedio de las temperaturas máximas y minimas en una lista de días.
+    # Devuelve un diccionario con dos claves: "promedio_max" y "promedio_min".
+    
+    # Ejemplo de entrada:
+    # [{'dia': '2023-10-01', 'max': 25, 'min': 18}, {'dia': '2023-10-02', 'max': 27, 'min': 20}]
+    
+    # Ejemplo de salida:
+    # {"promedio_max": 26.0, "promedio_min": 19.0}
 ```
 
+Completar la función `calcular_promedio_temperaturas` para que funcione correctamente.
+
 ## Resumen
-- Las funciones recursivas son útiles para resolver problemas que pueden ser divididos en subproblemas similares.
-- Los diccionarios en Python permiten almacenar y acceder a datos de manera eficiente, especialmente útil para evitar cálculos repetidos.
+- Se aprendió a manipular listas de diccionarios en Python.
+- Se desarrolló una función para calcular promedios basados en datos almacenados en estructuras complejas.
