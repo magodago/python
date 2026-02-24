@@ -1,17 +1,17 @@
 # Primeros pasos practicos
 
-- Entender la sintaxis básica de Python y cómo escribir un programa simple.
-- Familiarizarse con los primeros comandos en la consola de Python y ejecutar programas básicos.
+Objetivos
+- Familiarizar a los estudiantes con la instalación y configuración de Python.
+- Introducir los conceptos básicos de sintaxis y estructura del lenguaje.
 
-Python es una potente herramienta para el desarrollo de software, gracias a su sintaxis clara y legible. En esta lección, aprenderemos a instalar Python en nuestro sistema, abrir la consola de Python y escribir nuestro primer programa: "¡Hola, Mundo!". Este simple ejemplo nos permitirá familiarizarnos con los conceptos básicos como la declaración de variables, la entrada de texto e impresión.
+Contenido
+En esta lección, se profundizará en los primeros pasos prácticos para comenzar a programar en Python. Los estudiantes aprenderán cómo descargar e instalar Python desde el sitio oficial de la Fundación Python o utilizando herramientas como Anaconda. Posteriormente, se explorará la configuración del entorno de desarrollo, ya sea con un editor de texto simple como Notepad++ o un IDE más completo como PyCharm.
 
-Para practicar, ejecutaremos el siguiente código en la consola de Python:
+Se presentarán los elementos básicos de sintaxis, incluyendo cómo escribir y ejecutar programas simples en el intérprete de Python. Se explicará la estructura básica de un programa (definición del entorno, declaración de variables, tipos de datos primitivos) y se proporcionarán ejemplos prácticos para que los estudiantes puedan experimentar con el lenguaje.
 
-```python
-print("¡Hola, Mundo!")
-```
+Ejercicio
+Escribir un pequeño programa en Python que solicite al usuario su nombre y edad. El programa debe imprimir un mensaje personalizado que indique cuántos años tendrá el usuario en 10 años. Ejemplo de salida: "Hola, [nombre]. En 10 años tendrás [edad + 10] años."
 
-Este ejercicio nos ayudará a entender cómo se estructuran y ejecutan las instrucciones en Python. Después de esto, podrás probar a cambiar el texto entre comillas para ver cómo se modifica la salida.
-
-- Familiarizarse con la consola de Python.
-- Escribe y ejecuta un programa simple: "¡Hola, Mundo!".
+Resumen
+- Instalación y configuración del entorno de Python.
+- Sintaxis básica y estructura de un programa simple.
