@@ -1,17 +1,20 @@
 # Terminologia basica
 
 Objetivos
-- Comprender los conceptos básicos de programación relevantes para Python.
-- Identificar y explicar la terminología fundamental utilizada en Python.
+- Comprender los conceptos básicos de programación relacionados con Python.
+- Familiarizarse con la terminología fundamental del lenguaje.
 
 Contenido
-En esta lección se presentan los términos esenciales que cualquier estudiante de Python debe conocer. Estos incluyen variables, tipos de datos, funciones, condicionales y bucles. Las variables son contenedores para almacenar información, mientras que los tipos de datos definen el tipo específico de información (por ejemplo, enteros, cadenas o listas). Las funciones permiten agrupar código en bloques reutilizables, y las estructuras condicionales y de bucle controlan el flujo del programa.
+En esta lección sobre términos básicos en Python, se introducirá a los estudiantes a la jerga y vocabulario esencial que utilizan en el desarrollo de programas con este lenguaje. Se explicarán conceptos fundamentales como variables, tipos de datos, operadores, funciones, y estructuras de control (condicionales y bucles). Estos elementos son cruciales para cualquier programador que desee trabajar con Python, ya que proporcionan la base sobre la cual se construyen programas más complejos.
 
 Ejercicio
-Escribe un pequeño script que solicite al usuario su nombre e imprima un saludo personalizado. Utiliza variables para almacenar la entrada del usuario y una función para formatear el mensaje de salida.
+Cree un programa simple en Python que realice lo siguiente:
+1. Declare tres variables: una entera llamada "edad", otra flotante llamada "altura" y una booleana llamada "tiene_permiso".
+2. Asigne valores a estas variables.
+3. Utilice operadores para realizar algunas operaciones básicas (por ejemplo, suma de enteros y comparación entre variables).
+4. Imprima los resultados en pantalla.
 
 Resumen
-- Variables: contenedores para información.
-- Tipos de datos: enteros, cadenas, listas.
-- Funciones: bloques de código reutilizables.
-- Condicionales: controlan el flujo basándose en condiciones.
+- Variables: elementos utilizados para almacenar datos que pueden cambiar durante la ejecución del programa.
+- Tipos de datos: categorías de información que Python reconoce como números, texto, booleanos, etc.
+- Operadores: símbolos que indican a Python realizar ciertas operaciones matemáticas o lógicas.
