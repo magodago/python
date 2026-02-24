@@ -1,18 +1,14 @@
 # Certificacion y siguiente nivel
 
-### Objetivos
-- Comprender los pasos necesarios para obtener la certificación en Python.
-- Explorar las oportunidades de aprendizaje y desarrollo después de obtener la certificación.
+- Los alumnos aprenderán sobre las certificaciones disponibles en Python y cómo obtenerlas.
+- Se discutirá la importancia de las certificaciones para mejorar su perfil profesional y avanzar a un nivel superior.
 
-### Contenido
-La certificación en Python es un paso importante que demuestra a empleadores y colegas tu dedicación y habilidades en el lenguaje. Existen varias organizaciones que ofrecen certificaciones, como la Python Software Foundation (PSF) o plataformas como Coursera y Udemy que colaboran con empresas tecnológicas para crear programas de certificación. Estas certificaciones no solo validan tus conocimientos técnicos, sino que también pueden abrir puertas a oportunidades laborales más avanzadas. Además, después de obtener la certificación, es crucial mantenerse actualizado con las últimas tendencias y tecnologías en Python, ya sea a través de cursos adicionales, conferencias o contribuciones al código abierto.
+Python es una de las tecnologías más demandadas actualmente, y contar con una certificación puede ser crucial para demostrar competencias técnicas sólidas. Existen varias certificaciones en Python ofrecidas por organizaciones como Cisco, IBM y la misma comunidad Python, cada una enfocada en diferentes aspectos del lenguaje. Por ejemplo, la certificación de Cisco es ideal para desarrolladores que buscan aplicar Python en redes e Internet de las Cosas (IoT), mientras que la certificación de IBM se centra en el uso empresarial y análisis de datos con Python.
+
+Para obtener una certificación, los alumnos deben completar un curso o examen específico. En este módulo, se recomienda que los estudiantes tomen el curso oficial de la comunidad Python antes de presentarse al examen. Este curso cubre desde fundamentos hasta temas avanzados como programación funcional y orientada a objetos.
 
 ### Ejercicio
-Investiga y selecciona dos organizaciones que ofrezcan certificaciones en Python. Para cada una, responde lo siguiente:
-- ¿Qué tipo de certificación ofrecen?
-- ¿Cuáles son los requisitos para obtener la certificación?
-- ¿Qué beneficios ofrece a nivel profesional?
+Desarrolla un script en Python que resuelva un problema de optimización utilizando una biblioteca de optimización como SciPy o PuLP. Documenta tu código con comentarios claros y ejecútalo para verificar su funcionamiento. Posteriormente, busca la certificación oficial de Python a través del sitio web oficial de la comunidad.
 
-### Resumen
-- La certificación en Python es valiosa para demostrar habilidades y abrir oportunidades laborales.
-- Es importante mantenerse actualizado con nuevas tecnologías y tendencias en Python después de obtener la certificación.
+- Los alumnos entenderán el valor de las certificaciones en Python.
+- Se familiarizarán con el proceso de obtención de una certificación oficial.
