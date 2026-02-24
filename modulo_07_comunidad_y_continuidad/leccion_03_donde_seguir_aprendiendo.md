@@ -1,9 +1,11 @@
 # Donde seguir aprendiendo
 
-- El estudiante comprenderá las diferentes plataformas y recursos disponibles para continuar aprendiendo Python.
+- Los estudiantes aprenderán sobre las comunidades de Python y cómo participar en ellas para continuar su aprendizaje.
+- Comprenderán la importancia de la continuidad en el aprendizaje de Python y cómo mantenerse actualizado con nuevas herramientas y tecnologías.
 
-- Se explorarán sitios web como Codecademy, Coursera y Udemy que ofrecen cursos de nivel intermedio y avanzado. También se mencionará la importancia de participar en comunidades de desarrolladores a través de plataformas como Stack Overflow y GitHub para resolver problemas y compartir conocimientos.
+El contenido de esta lección se centrará en explorar las diversas comunidades de Python disponibles tanto en línea como fuera de ella. Se discutirá cómo participar en foros, grupos de chat y conferencias para mejorar habilidades y conocimientos. Además, se proporcionará información sobre recursos útiles como documentación oficial, tutoriales y plataformas de aprendizaje en línea que ayudan a los estudiantes a continuar su viaje en el mundo del lenguaje de programación Python.
 
-- El estudiante realizará una investigación sobre dos recursos recomendados y presentará un breve informe sobre su experiencia, incluyendo las ventajas y desventajas de cada plataforma.
+Para practicar, los estudiantes deberán seleccionar una comunidad de Python y participar activamente durante un mes. Esto puede incluir la lectura de discusiones, hacer preguntas o contribuir con respuestas, asistir a sesiones web o conferencias en línea, y finalmente presentar un resumen de su experiencia y lo que aprendieron.
 
-- Los estudiantes aprenderán que la continuidad en el aprendizaje es crucial y se recomienda mantenerse actualizado con las últimas tendencias y tecnologías en Python.
+- Los estudiantes aprenderán sobre las comunidades de Python y cómo participar en ellas.
+- Se enfatizará la importancia de la continuidad en el aprendizaje y los recursos disponibles para ello.
