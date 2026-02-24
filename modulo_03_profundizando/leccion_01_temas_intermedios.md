@@ -1,13 +1,31 @@
 # Temas intermedios
 
-- Comprender la utilización de decoradores en Python y su aplicación práctica.
-- Familiarizarse con el manejo avanzado de excepciones y sus beneficios en la programación.
+- Dominar la utilización de comprensión de listas para manipular datos.
+- Implementar funciones recursivas y entender su uso adecuado.
 
-Python ofrece una amplia gama de características que permiten a los desarrolladores escribir código más limpio, eficiente y mantenible. Uno de estos recursos es el uso de decoradores, que son funciones que se utilizan para modificar o extender el comportamiento de otras funciones sin alterar su estructura original. Los decoradores en Python pueden ser aplicados a cualquier función o método, lo que los hace un poderoso mecanismo para la programación orientada a aspectos (AOP). Por ejemplo, un decorador puede agregar funcionalidades como autenticación, loggear de eventos, o validaciones a una función existente.
+Python nos permite realizar operaciones complejas con una sintaxis simple. Una de las características más poderosas es la comprensión de listas, que nos permite crear listas de manera concisa y eficiente. Por ejemplo:
 
-Además, el manejo avanzado de excepciones es crucial en la resolución de problemas y la mejora del flujo de control en los programas. Python proporciona una amplia gama de excepciones predefinidas que pueden ser capturadas y manejadas para evitar que un programa se detenga abruptamente. Los desarrolladores deben familiarizarse con cómo estructurar bloques `try`, `except`, `else` y `finally` para manejar excepciones de manera eficiente, así como con la importancia del uso adecuado de las excepciones en lugar de simplemente usar `return None` o `return -1`. Este conocimiento ayuda a escribir código más robusto y menos propenso a errores.
+```python
+# Crear una lista de números pares hasta 10
+pares = [x for x in range(11) if x % 2 == 0]
+print(pares)
+```
 
-Para practicar, escribe un decorador que registre el tiempo de ejecución de una función matemática. Luego, aplica este decorador a una función que calcule la raíz cuadrada de un número. Observa cómo se modifica el comportamiento de la función original sin alterar su estructura.
+Además, las funciones recursivas son un concepto fundamental en programación que permite a una función llamar a sí misma para resolver problemas. Este método es especialmente útil cuando se trabaja con estructuras de datos jerárquicas o problemas que pueden dividirse en subproblemas similares.
 
-- Decoradores para modificar funcionalidades.
-- Manejo avanzado y eficiente de excepciones en Python.
+Implementa una función recursiva que calcule el factorial de un número:
+
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n - 1)
+
+print(factorial(5))
+```
+
+Este ejercicio te permitirá practicar tanto la comprensión de listas como la implementación de funciones recursivas.
+
+- Comprender y utilizar eficientemente la comprensión de listas.
+- Implementar y entender el uso de funciones recursivas en Python.
