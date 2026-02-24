@@ -1,11 +1,11 @@
 # Actualizaciones
 
-- Los estudiantes aprenderán sobre las actualizaciones frecuentes de Python y cómo mantenerse informado sobre ellas.
-- Comprenderán la importancia de actualizar regularmente su entorno de desarrollo para aprovechar nuevas funcionalidades y corregir posibles errores.
+- Comprender las actualizaciones más recientes de Python y su impacto en la programación.
+- Identificar y aplicar nuevas características introducidas en versiones recientes de Python.
 
-Las actualizaciones de Python son cruciales para cualquier desarrollador, ya que traen consigo mejoras en rendimiento, correcciones de bugs y nuevas características que pueden hacer más eficiente el código. Es importante estar al tanto de estas actualizaciones no solo para mantenerse a la vanguardia tecnológica, sino también para aprovechar las mejoras en seguridad y funcionalidad que Python introduce constantemente.
+Python continúa evolucionando constantemente, incorporando nuevas funcionalidades que mejoran el rendimiento y facilitan la escritura de código. En esta lección, se explorará las actualizaciones más significativas en Python 3.9 y 3.10, destacando características como el operador walrus (:=), patrones de muestreo en f-strings, mejoras en el manejo de excepciones y nuevas bibliotecas estándar. Estas actualizaciones no solo reflejan los avances en la industria de la programación, sino que también abren nuevas posibilidades para desarrolladores al permitirles escribir código más eficiente y legible.
 
-Para practicar esta lección, los estudiantes deben buscar en línea la versión más reciente de Python y realizar una actualización en su sistema operativo. Posteriormente, deben revisar el sitio oficial de Python (https://www.python.org/) para familiarizarse con las nuevas características y cambios introducidos en esa versión.
+Para practicar, los estudiantes deberán actualizar un proyecto existente a una versión reciente de Python (3.9 o 3.10) y documentar cómo se implementaron las mejoras. Este ejercicio requerirá que exploren los cambios en la documentación oficial de Python y apliquen estas nuevas características para optimizar su código.
 
-- Los estudiantes entenderán la importancia de mantenerse informado sobre las actualizaciones de Python.
-- Practicarán la actualización de Python en su sistema operativo.
+- Familiaridad con las actualizaciones más recientes de Python.
+- Capacidad para aplicar nuevas características en proyectos existentes.
