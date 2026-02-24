@@ -1,11 +1,18 @@
 # Casos de uso reales
 
-- Entender cómo Python se utiliza en la industria de la inteligencia artificial para desarrollar modelos predictivos.
-- Aplicar conocimientos de Python a la resolución de problemas reales mediante el uso de bibliotecas especializadas.
+- Comprender cómo Python se utiliza en la industria de la inteligencia artificial para procesar y analizar grandes volúmenes de datos.
+- Implementar un ejemplo práctico utilizando bibliotecas como TensorFlow o PyTorch para crear un modelo simple de machine learning.
 
-Python es ampliamente utilizado en la industria de la inteligencia artificial (IA) y el aprendizaje automático debido a su simplicidad, versatilidad y disponibilidad de bibliotecas poderosas. En este módulo, exploraremos cómo Python se emplea para desarrollar modelos predictivos utilizando técnicas avanzadas de IA. A través del uso de bibliotecas como Scikit-learn, TensorFlow y PyTorch, los estudiantes podrán comprender y aplicar conceptos teóricos a prácticas reales.
+Python es ampliamente utilizado en el campo de la inteligencia artificial (IA) debido a su simplicidad y flexibilidad. En este módulo, se explorará cómo Python facilita el procesamiento y análisis de grandes volúmenes de datos mediante la utilización de bibliotecas especializadas como TensorFlow y PyTorch. Estas herramientas permiten a los desarrolladores construir modelos de aprendizaje automático eficientemente.
 
-Para ilustrar esto, el estudiante trabajará en un proyecto donde se utilizará Python para predecir el precio de casas basándose en características como el tamaño del terreno, el número de habitaciones y la ubicación. Se proporcionará un conjunto de datos real y se guiará a los estudiantes paso a paso a través del proceso de carga de datos, preparación, modelado y evaluación.
+Para ilustrar esto, se creará un ejemplo práctico donde se utilizará TensorFlow para entrenar un modelo de clasificación simple utilizando datos de ejemplo. Los estudiantes aprenderán cómo importar datos, prepararlos y ajustar un modelo de aprendizaje profundo, todo ello en Python.
 
-- Familiaridad con bibliotecas de IA y aprendizaje automático.
-- Capacidad para desarrollar modelos predictivos utilizando Python.
+El ejercicio consistirá en:
+- Importar el conjunto de datos de iris desde `sklearn.datasets`.
+- Preprocesar los datos para su uso en un modelo de machine learning.
+- Crear y entrenar un modelo de clasificación con TensorFlow.
+- Evaluar el rendimiento del modelo utilizando métricas apropiadas.
+
+Puntos clave:
+- Python es una herramienta vital en la implementación de soluciones IA debido a sus bibliotecas especializadas.
+- La práctica con TensorFlow permite comprender mejor los procesos detrás del aprendizaje automático.
