@@ -1,15 +1,16 @@
 # Entrega y revision
 
-Objetivos
-- Entender los aspectos importantes a considerar durante la entrega y revisión del proyecto final.
-- Practicar la presentación de un proyecto de Python de manera efectiva.
+- El estudiante presentará su proyecto final de Python a la clase.
+- Los estudiantes recibirán feedback constructivo sobre sus proyectos y aprenderán cómo mejorar sus habilidades de programación.
 
-Contenido
-Durante esta lección, se enfocará en los detalles cruciales para la entrega y revisión del proyecto final. Se discutirá cómo prepararse adecuadamente para el momento de la presentación, incluyendo la organización de código, la documentación y la preparación de una explicación clara sobre las funcionalidades del proyecto. Además, se abordarán los aspectos técnicos que deben ser considerados durante la revisión, como la eficiencia del código, la modularización y el uso apropiado de librerías.
+Desarrollaremos las habilidades adquiridas durante el curso, aplicándolas en un proyecto práctico que abordó diversas áreas del lenguaje Python. Este proyecto final es una oportunidad para demostrar la comprensión y dominio del estudiante sobre los conceptos aprendidos. Los estudiantes presentarán sus proyectos a sus compañeros y recibirán críticas constructivas, lo cual les permitirá identificar áreas de mejora en su código.
 
-Ejercicio
-Presenta tu proyecto final a un compañero de clase. Antes de presentarlo, asegúrate de que esté completamente documentado y organizado. Durante la presentación, explica brevemente las funcionalidades del código y resalta los aspectos más innovadores o complejos de tu proyecto. Después de la presentación, presta atención a las preguntas y comentarios de tu compañero para mejorar tu comprensión sobre lo que se espera en una revisión profesional.
+Ejercicio: Cada estudiante debe preparar una presentación breve (5-7 minutos) para explicar su proyecto final. La presentación debe incluir:
+1. Un resumen del problema o tarea que se abordó.
+2. El proceso de diseño y desarrollo del proyecto.
+3. Resultados obtenidos y conclusiones.
+4. Preguntas para discusión.
 
-Resumen
-- La preparación adecuada es crucial tanto para la entrega como para la revisión del proyecto final.
-- Se debe enfatizar la documentación y la claridad en la explicación durante las presentaciones.
+Resumen - Los estudiantes presentarán sus proyectos a la clase.
+- Se recibirá feedback constructivo sobre los proyectos.
+- Se identificarán áreas de mejora en el código y las habilidades de programación.
