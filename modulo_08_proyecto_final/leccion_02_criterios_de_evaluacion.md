@@ -1,15 +1,15 @@
 # Criterios de evaluacion
 
-## Objetivos
-- Comprender los criterios de evaluación para el proyecto final.
-- Identificar las áreas de mejora y fortaleza en el desarrollo del proyecto.
+- Comprender los criterios de evaluación para el proyecto final de Python.
+- Identificar y aplicar correctamente los criterios de evaluación a su propio trabajo.
 
 ## Contenido
-Los criterios de evaluación para el proyecto final de Python se basan en varios aspectos clave. Primero, la funcionalidad del programa es fundamental; se evaluará si el código resuelve eficazmente el problema planteado. Segundo, la claridad y legibilidad del código son cruciales, ya que reflejan las habilidades de programación y organización del estudiante. Finalmente, la eficiencia y optimización del programa también serán consideradas, evaluando cómo se han implementado algoritmos y estructuras de datos para mejorar el rendimiento.
+Los criterios de evaluación del proyecto final en Python son fundamentales para asegurar que se cumplan los objetivos propuestos. El primer criterio implica la implementación correcta y eficiente de algoritmos y estructuras de datos relevantes para el problema asignado. Esto incluye no solo la resolución del problema, sino también la optimización del código para rendimiento y legibilidad. El segundo criterio se centra en la documentación del proyecto, lo que implica la elaboración de comentarios claros y precisos tanto en el código como en un informe escrito sobre el desarrollo del proyecto. Finalmente, el tercer criterio evalúa la presentación final del proyecto, incluyendo la interactividad (si es aplicable) y la usabilidad del programa.
 
 ## Ejercicio
-Desarrolla un programa en Python que realice la siguiente tarea: Crea una aplicación simple que permita a los usuarios ingresar sus notas de diferentes asignaturas y calcule el promedio final. Asegúrate de incluir comentarios claros en tu código, utilizar buenas prácticas de diseño de interfaces de usuario y optimizar el algoritmo para manejar un gran número de entradas.
+Desarrolla una breve descripción de cómo aplicarías los tres criterios de evaluación a tu propio proyecto final. Por ejemplo, para el primer criterio, identifica al menos dos algoritmos o estructuras de datos que utilizarías y explica por qué son apropiados. Para el segundo criterio, propón una estrategia para documentar tu código y el informe escrito. Finalmente, describe cómo asegurarías la interactividad y usabilidad del programa.
 
 ## Resumen
-- Los criterios de evaluación se centran en la funcionalidad, claridad del código y eficiencia.
-- Es importante que el estudiante identifique áreas de mejora y fortalezas en su proyecto.
+- Identificar al menos dos algoritmos o estructuras de datos relevantes.
+- Documentar claramente el código y el informe escrito.
+- Asegurar la interactividad y usabilidad del programa.
