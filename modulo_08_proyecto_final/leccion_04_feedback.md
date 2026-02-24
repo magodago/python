@@ -1,11 +1,18 @@
 # Feedback
 
-- Comprender los conceptos de feedback constructivo y retroalimentación crítica para mejorar el proyecto final.
-- Aplicar técnicas de recepción y análisis de feedback para refinar su código Python.
+Objetivos
+- Comprender la importancia del feedback constructivo en el desarrollo de proyectos.
+- Aprender a proporcionar y recibir feedback de manera efectiva.
 
-El feedback es un componente crucial en cualquier proceso de desarrollo, especialmente en proyectos como este que se enfoca en la aplicación práctica del lenguaje de programación Python. El objetivo principal es aprender a recibir críticas constructivas de manera efectiva, identificar áreas de mejora y aplicar estas observaciones para optimizar el código y mejorar la funcionalidad del proyecto final. Este proceso no solo fortalece habilidades técnicas sino también competencias blandas como la comunicación y el trabajo en equipo.
+Contenido
+El feedback es un componente crucial en cualquier proyecto, ya que permite mejorar continuamente el trabajo. En Python, como en otros lenguajes de programación, el código puede ser optimizado y refacturado para lograr una mayor eficiencia y claridad. El objetivo del feedback no solo es identificar errores o áreas de mejora, sino también promover un ambiente colaborativo donde se fomente la comunicación y el aprendizaje mutuo entre los miembros del equipo.
 
-Para practicar esta habilidad, los alumnos deben presentar una versión preliminar de su proyecto a un grupo de pares o instructores, quienes proporcionarán feedback detallado. Los estudiantes deberán documentar este feedback recibido, analizarlo y proponer modificaciones específicas para mejorar el código y la funcionalidad del proyecto.
+Es importante que al proporcionar feedback, se haga con objetividad y respeto, enfocándose en las ideas y no en las personas. Se recomienda utilizar el "enfoque de sándwich", donde primero se reconoce lo bien hecho, luego se ofrecen críticas constructivas y finalmente se cierra con un nuevo reconocimiento positivo. Esto ayuda a mantener una actitud positiva y motivadora durante el proceso.
 
-- Documentación efectiva del feedback recibido.
-- Identificación y propuesta de mejoras basadas en el feedback proporcionado.
+Ejercicio
+Desarrolla un feedback para tu proyecto final de Python, siguiendo el enfoque de sándwich. Comienza por identificar tres aspectos del código que funcionan bien y luego propón dos áreas donde podrías mejorar. Finaliza con una afirmación positiva sobre los progresos realizados.
+
+Resumen
+- El feedback es fundamental para el crecimiento y mejora continua en proyectos de programación.
+- Se debe proporcionar feedback de manera constructiva, respetuosa y objetiva.
+- Utilizar el enfoque de sándwich puede facilitar la recepción del feedback.
