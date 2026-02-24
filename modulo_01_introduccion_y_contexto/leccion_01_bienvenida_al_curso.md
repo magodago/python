@@ -1,11 +1,11 @@
 # Bienvenida al curso
 
-- Entender los fundamentos de Python y su importancia en la programación.
-- Familiarizarse con el entorno de desarrollo y herramientas básicas.
+- Familiarizarse con Python como lenguaje de programación.
+- Comprender la relevancia y amplia utilización de Python en diversos campos.
 
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad. Su sintaxis, basada en inglés, facilita la lectura del código, lo que hace que sea ideal para principiantes y profesionales. Además, Python cuenta con una gran comunidad y una vasta biblioteca estándar que permiten desarrollar aplicaciones de todo tipo, desde scripts simples hasta sistemas complejos.
+En esta lección introductoria al curso de Python, aprenderás a instalarte el entorno de desarrollo adecuado para comenzar a programar. A través de este curso, nos adentraremos en un lenguaje que se destaca por su simplicidad y versatilidad, utilizado en áreas como análisis de datos, inteligencia artificial, desarrollo web, automatización, entre otros. Python es conocido por ser fácil de aprender pero poderoso al mismo tiempo, lo que lo hace ideal para principiantes y expertos.
 
-Para comenzar, es necesario instalar un entorno de desarrollo como PyCharm o Visual Studio Code, configurarlo para trabajar con Python, y familiarizarse con la ejecución de programas básicos. El primer ejercicio consiste en escribir un programa que imprima "¡Bienvenido al curso de Python!".
+Para practicar, crea un pequeño programa que imprima "¡Bienvenido a la programación con Python!" en la consola. Esto te ayudará a familiarizarte con el entorno de desarrollo e iniciar tu viaje en este fascinante mundo.
 
-- Comprender los objetivos del curso.
-- Instalar y configurar el entorno de desarrollo.
+- Familiaridad con la instalación del entorno de desarrollo.
+- Creación y ejecución de un primer programa en Python.
