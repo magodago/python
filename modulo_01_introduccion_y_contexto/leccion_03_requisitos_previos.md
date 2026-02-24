@@ -1,18 +1,19 @@
 # Requisitos previos
 
-## Objetivos
-- Comprender los requisitos técnicos necesarios para comenzar a aprender Python.
-- Identificar las habilidades básicas que facilitan la adquisición del lenguaje.
+- Comprender los requisitos previos necesarios para comenzar a aprender Python.
+- Identificar las habilidades y conocimientos básicos que facilitarán el aprendizaje del lenguaje de programación.
 
-## Contenido
-Para iniciarse en el aprendizaje de Python, es importante conocer los requisitos previos que permiten una introducción fluida y eficiente. Primero, se necesita un entorno de desarrollo integrado (IDE) como PyCharm, VSCode o incluso el simple editor de texto Notepad++. Estos IDEs facilitan la escritura, ejecución y depuración del código Python. Además, es recomendable tener conocimientos básicos de programación orientada a objetos, aunque no son estrictamente necesarios, ya que Python es un lenguaje con sintaxis clara y fácil de leer.
+Python es un lenguaje de programación de alto nivel, interpretado, dinámico e interactivo. Su sintaxis clara y concisa lo hace ideal para principiantes en programación, pero también cuenta con características avanzadas que lo hacen valioso para desarrolladores experimentados. Antes de sumergirse en el estudio de Python, es recomendable tener ciertas habilidades previas, como comprensión básica de conceptos matemáticos y lógica, así como familiaridad con el uso de la computadora y navegación por internet.
 
-Además, un entendimiento básico de estructuras de datos como listas, diccionarios y conjuntos puede ser útil, ya que estos conceptos se utilizan frecuentemente en Python. Finalmente, familiarizarse con el uso de la terminal o línea de comandos es beneficioso para ejecutar scripts y comandos del intérprete interactivo.
+Para los estudiantes que no tienen experiencia previa en programación, se recomienda familiarizarse con conceptos fundamentales como variables, tipos de datos básicos (entero, flotante, cadena), operadores aritméticos y lógicos. Además, es útil tener conocimientos básicos sobre estructuras de control como condicionales y bucles, ya que estos son elementos cruciales en la programación.
 
-## Ejercicio
-Escribe un pequeño programa que imprima "¡Hola, Mundo!" utilizando la sintaxis básica de Python en tu IDE favorito. Luego, ejecuta el programa desde la terminal o línea de comandos para ver los resultados.
+### Ejercicio
+Escribe un programa simple en Python que solicite al usuario su nombre y edad, luego imprima un mensaje personalizado que indique cuántos años tendrá el usuario en 10 años. Por ejemplo:
+```
+Ingrese su nombre: Juan
+Ingrese su edad: 25
+¡Hola, Juan! En 10 años tendrás 35 años.
+```
 
-## Resumen
-- El entorno de desarrollo integrado es fundamental para escribir y ejecutar código.
-- Conocimientos básicos de programación orientada a objetos facilitan el aprendizaje.
-- Familiarizarse con estructuras de datos y la terminal o línea de comandos es útil.
+- Comprender los requisitos previos para aprender Python.
+- Familiarizarse con conceptos básicos de programación.
