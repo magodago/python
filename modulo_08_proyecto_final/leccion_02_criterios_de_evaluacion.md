@@ -1,11 +1,15 @@
 # Criterios de evaluacion
 
-- Comprender los criterios de evaluación que se utilizarán para el proyecto final.
-- Identificar las habilidades técnicas y conceptuales necesarias para el éxito del proyecto.
+Objetivos
+- Comprender los criterios de evaluación para el proyecto final de Python.
+- Identificar las áreas a mejorar en el desarrollo del proyecto.
 
-En esta lección sobre los criterios de evaluación del proyecto final, se abordarán aspectos clave que guiarán la evaluación. Se evaluará no solo la funcionalidad del código Python, sino también la claridad en la documentación y la eficiencia del diseño. Los estudiantes aprenderán a priorizar la legibilidad del código, la modularización y la utilización de buenas prácticas de programación.
+Contenido
+Los criterios de evaluación para el proyecto final de Python se centran en la implementación efectiva y eficiente del lenguaje, así como en la resolución de problemas complejos. Se evaluará no solo el resultado final, sino también el proceso de desarrollo, incluyendo la planificación, diseño y documentación. Los aspectos clave incluyen la estructura del código, la utilización adecuada de las características de Python, la eficiencia y legibilidad del programa, así como la capacidad para abordar errores y optimizar el rendimiento.
 
-Como ejercicio, los estudiantes deben revisar un proyecto previamente desarrollado por otro estudiante y evaluarlo según los criterios proporcionados. Deben identificar áreas de mejora en términos de funcionalidad, documentación y diseño general, y presentar sus observaciones en un informe escrito.
+Ejercicio
+Desarrolla un programa en Python que resuelva el problema del "Camino más corto" utilizando algoritmos de búsqueda. Asegúrate de documentar tu código con comentarios claros y detallados, explicando cada paso del proceso. Luego, evalúa tu propio trabajo según los criterios mencionados: estructura del código, uso de características de Python, eficiencia y legibilidad.
 
-- Comprender la importancia de la claridad y eficiencia en el código.
-- Identificar las habilidades técnicas y conceptuales necesarias para el proyecto final.
+Resumen
+- Los criterios de evaluación abarcan desde la implementación hasta el proceso de desarrollo.
+- Se enfatiza en la eficiencia, legibilidad y documentación del código.
