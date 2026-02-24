@@ -1,15 +1,16 @@
 # Cierre del modulo
 
-Objetivos
+## Objetivos
 - Consolidar los conocimientos adquiridos durante el módulo sobre Python.
-- Fomentar la continuidad del aprendizaje y la práctica constante con ejercicios adicionales.
+- Preparar a los estudiantes para aplicar sus habilidades en proyectos futuros.
 
-Contenido
-En esta última lección, nos enfocaremos en resumir los conceptos clave que se han abordado a lo largo del módulo. Hemos explorado desde las bases de Python hasta estructuras más avanzadas como funciones, clases y objetos. Además, hemos trabajado con diferentes tipos de datos, control de flujo y la manipulación de archivos. Para concluir, es importante recordar que el aprendizaje en programación es un proceso continuo que requiere práctica regular. Se recomienda revisar los ejercicios realizados durante el módulo y explorar nuevos proyectos para aplicar lo aprendido.
+## Contenido
+En esta lección final del módulo, revisaremos los conceptos clave que se han cubierto hasta ahora. Hablaremos de la importancia de la continuidad en el aprendizaje y cómo Python puede ser una herramienta vital para diversos campos como la ciencia de datos, desarrollo web o inteligencia artificial. Discutiremos ejemplos prácticos de cómo los conocimientos adquiridos pueden ser aplicados en proyectos reales, y reflexionaremos sobre el camino que queda por recorrer en el aprendizaje de Python.
 
-Ejercicio
-Implementa una pequeña aplicación en Python que permita al usuario ingresar su nombre, edad y ciudad de origen. Luego, la aplicación debe generar un mensaje personalizado que incluya esta información. Este ejercicio servirá para revisar los conceptos de entrada/salida, variables y concatenación de cadenas.
+## Ejercicio
+Implementa un pequeño proyecto que integre varios conceptos vistos durante el módulo. Por ejemplo, puedes crear una aplicación web simple con Flask que utilice pandas para manejar datos y matplotlib para visualizar información. Recuerda documentar tu proceso y reflexionar sobre cómo podrías mejorar tu código en futuras iteraciones.
 
-Resumen
-- Recapitulamos las habilidades adquiridas en el módulo.
-- Se enfatiza la importancia del aprendizaje continuo a través de la práctica regular.
+## Resumen
+- Recapitulación de los conceptos clave del módulo.
+- Importancia de la continuidad en el aprendizaje de Python.
+- Aplicación práctica de los conocimientos adquiridos a través de un proyecto integrador.
