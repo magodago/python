@@ -1,16 +1,16 @@
 # Terminologia basica
 
-Objetivos
-- Comprender los conceptos básicos de programación relevantes para Python.
-- Familiarizarse con la terminología esencial del lenguaje.
+## Objetivos
+- Comprender y utilizar correctamente las terminologías básicas de Python.
+- Identificar los componentes fundamentales del lenguaje.
 
-Contenido
-En esta lección se introducirá la terminología fundamental que todo estudiante de Python debe conocer. Aprenderemos sobre variables, tipos de datos, operadores y estructuras de control básicas como if, else y loops. Estos conceptos son esenciales para escribir código eficiente y legible en Python.
+## Contenido
+En esta lección se introducirá la terminología esencial para entender y trabajar con el lenguaje de programación Python. Los conceptos clave incluyen variables, tipos de datos, funciones y estructuras de control. Las variables son contenedores que almacenan valores, mientras los tipos de datos definen qué tipo de información puede almacenarse en una variable (por ejemplo, enteros, cadenas o booleanos). Las funciones permiten agrupar instrucciones para realizar tareas específicas y facilitan la reutilización del código. Las estructuras de control, como if-else y bucles for/while, determinan el flujo de ejecución del programa.
 
-Ejercicio
-Implementa un programa simple que solicite al usuario su nombre y edad. Luego, imprime un mensaje que diga "Hola [nombre], en 10 años tendréis [edad+10] años". Utiliza variables para almacenar la entrada del usuario y realiza cálculos básicos con los tipos de datos numéricos.
+## Ejercicio
+Escribe un programa simple en Python que solicite al usuario su nombre, lo imprima en mayúsculas y luego verifique si la longitud del nombre es par o impar. Utiliza variables para almacenar los datos ingresados y funciones para organizar el código de manera más clara.
 
-Resumen
-- Variables: objetos que almacenan información.
-- Tipos de datos: enteros, flotantes, cadenas, booleanos.
-- Estructuras de control: permiten el flujo condicional y repetitivo del programa.
+## Resumen
+- Variables: contenedores para almacenar valores.
+- Tipos de datos: definen el tipo de información que una variable puede almacenar.
+- Funciones: agrupan instrucciones para realizar tareas específicas.
