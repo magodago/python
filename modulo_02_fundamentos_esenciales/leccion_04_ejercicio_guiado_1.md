@@ -1,13 +1,12 @@
 # Ejercicio guiado 1
 
 - Comprender la estructura básica de un programa Python.
-- Utilizar variables y operadores aritméticos para resolver problemas simples.
+- Utilizar variables y operadores aritméticos para realizar cálculos simples.
 
-En esta lección del módulo Fundamentos esenciales, aprenderás a escribir tu primera línea de código en Python. Veremos cómo estructurar un script básico y usar variables junto con operaciones matemáticas sencillas. La práctica constante es clave para dominar cualquier lenguaje de programación, por lo que te desafiamos a aplicar los conceptos aprendidos al resolver un problema práctico.
+En esta lección del módulo Fundamentos esenciales, se explorará la creación de programas básicos en Python. Se aprenderá a escribir código que utilice variables para almacenar valores numéricos y operadores aritméticos para realizar cálculos sencillos. Los estudiantes también descubrirán cómo imprimir resultados en pantalla utilizando la función `print()`.
 
-Ejercicio: Crea un programa en Python que solicite al usuario su edad y calcule cuántos días de vida ha vivido (asumiendo 365 días por año). El programa debe mostrar el resultado en pantalla. Recuerda usar variables para almacenar los datos ingresados y operadores aritméticos para realizar el cálculo.
+El ejercicio consiste en crear un programa que solicite al usuario dos números enteros, realice las cuatro operaciones básicas (suma, resta, multiplicación y división) entre ellos, e imprima los resultados. Esto permitirá a los estudiantes aplicar lo aprendido sobre variables y operadores aritméticos.
 
-Resumen:
-- Se introdujo la estructura básica de un script Python.
-- Se aprendió a utilizar variables y operadores aritméticos para resolver problemas simples.
-- El ejercicio consistió en crear un programa que calcula la cantidad de días vividos basado en la edad ingresada por el usuario.
+- Dominio de la sintaxis básica para definir variables.
+- Uso correcto de operadores aritméticos en Python.
+- Impresión de resultados utilizando `print()`.
