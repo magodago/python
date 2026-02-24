@@ -1,17 +1,11 @@
 # Bienvenida al curso
 
-- Familiarizarse con Python y su relevancia actual.
-- Comprender los fundamentos del lenguaje de programación.
+- Familiarizar a los estudiantes con la plataforma y herramientas de aprendizaje.
+- Motivarles para que se comprometan con su aprendizaje de Python.
 
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad en la escritura de código. Su sintaxis amigable facilita el aprendizaje para principiantes, pero también ofrece funcionalidades avanzadas que lo hacen adecuado para proyectos complejos. Este curso te guiará a través del camino hacia una comprensión sólida de Python, desde sus fundamentos hasta su aplicación en diversas áreas como desarrollo web, análisis de datos y más.
+En este primer módulo, introduciremos al curso y a la potente lenguaje de programación Python. Este lenguaje es ampliamente utilizado en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más debido a su simplicidad y versatilidad. Durante esta lección, aprenderán sobre los beneficios del uso de Python, sus aplicaciones prácticas y cómo este curso les ayudará a dominar las habilidades necesarias para ser programadores eficientes.
 
-Para comenzar, es importante instalar Python en tu computadora. Puedes descargar la última versión de Python desde el sitio oficial. Una vez instalado, puedes probar si Python se ha configurado correctamente ejecutando un simple script en tu terminal o consola de comandos:
+Ejercicio: Cada estudiante debe crear una cuenta en un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code. Luego, escribirán su primera línea de código Python que imprima "¡Bienvenido al curso de Python!" en la consola.
 
-```python
-print("¡Bienvenido al curso de Python!")
-```
-
-Este ejercicio te ayudará a verificar que Python esté correctamente instalado y listo para comenzar a codificar.
-
-- Instalar Python.
-- Ejecutar el primer programa.
+- Familiarización con el IDE.
+- Creación del primer programa en Python.
