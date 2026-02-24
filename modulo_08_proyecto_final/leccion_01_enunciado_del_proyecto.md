@@ -1,15 +1,18 @@
 # Enunciado del proyecto
 
 ## Objetivos
-- Entender y aplicar los conceptos avanzados de Python para desarrollar un proyecto completo.
-- Diseñar y planificar la implementación del proyecto final de manera efectiva.
+- Comprender los requisitos y objetivos del proyecto final.
+- Desarrollar habilidades para la planificación y diseño de un proyecto basado en Python.
 
 ## Contenido
-En esta lección, se presentará el enunciado del proyecto final. El objetivo es que cada estudiante desarrolle una aplicación real utilizando Python que integre varios conceptos vistos durante el curso, como programación orientada a objetos, manejo de archivos y bases de datos, así como integración con APIs externas. Los estudiantes deberán elegir un tema relevante y propuesto por la asignatura o personalizar su propio proyecto.
+El proyecto final de este curso es diseñar e implementar una aplicación de línea de comandos (CLI) que resuelva problemas complejos utilizando lógica de programación avanzada. La aplicación debe ser capaz de realizar al menos tres funciones distintas y estar bien documentada para facilitar su comprensión y uso por otros desarrolladores. Este proyecto te permitirá aplicar los conocimientos adquiridos durante el curso en un entorno real, mejorando tus habilidades de programación y resolución de problemas.
+
+El desarrollo del proyecto se dividirá en varias etapas: definición del problema a resolver, diseño arquitectónico, implementación y pruebas. Es importante que documentes cada paso del proceso para poder presentar tu trabajo de manera clara y concisa.
 
 ## Ejercicio
-El estudiante deberá seleccionar un proyecto entre los temas proporcionados: una aplicación de gestión de tareas, un sistema de recomendaciones basado en algoritmos, o un analizador de datos web. Para cada opción, se proporcionará una descripción detallada y las competencias técnicas requeridas. El estudiante debe elegir su proyecto preferido e iniciar la planificación del mismo, incluyendo los pasos necesarios para completarlo.
+Desarrolla un esbozo inicial del proyecto final. Define el problema que quieres resolver con la aplicación CLI, identifica las tres funciones principales que incluirá y crea una estructura básica del código que permita implementar estas funcionalidades. Documenta cada decisión tomada en tu proceso de diseño.
 
 ## Resumen
-- Seleccionar un proyecto que integre diversos conceptos de Python.
-- Planificar el desarrollo del proyecto final en etapas claras.
+- Definir claramente el problema a resolver.
+- Diseñar e implementar al menos tres funciones distintas.
+- Documentar cada paso del proceso para facilitar la presentación y comprensión del proyecto.
