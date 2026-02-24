@@ -1,28 +1,29 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos básicos de Python como sintaxis y estructuras de datos.
-- Aprender a utilizar variables y operadores aritméticos.
+- Comprender los conceptos básicos de Python.
+- Familiarizarse con la sintaxis y estructura fundamental del lenguaje.
 
 ## Contenido
-En esta lección, se introducirá el lenguaje de programación Python, destacando su simplicidad y versatilidad. Se explicará la sintaxis básica del lenguaje, incluyendo cómo escribir comentarios, declarar variables y usar diferentes tipos de datos como enteros, flotantes y cadenas. Además, se explorarán las operaciones aritméticas básicas y cómo combinarlas con variables para realizar cálculos simples.
+En esta lección, se explorarán los fundamentos esenciales de Python. Se tratará el entorno de desarrollo integrado (IDE) como PyCharm o Jupyter Notebook, que proporcionan un espacio para escribir y ejecutar código. Se explicará la sintaxis básica, incluyendo cómo declarar variables, tipos de datos primitivos como enteros, flotantes y cadenas, así como operadores aritméticos y comparativos. También se presentarán las estructuras condicionales básicas, como `if`, `elif` y `else`, y las estructuras iterativas con bucles `for` e `while`.
 
 ## Ejercicio
-Escribe un programa en Python que solicite al usuario dos números enteros, los sume y muestre el resultado en pantalla. Utiliza comentarios para explicar cada paso del código.
+Escribe un programa en Python que solicite al usuario su nombre y edad, muestre un mensaje de bienvenida personalizado, y luego calcule y muestre la edad del usuario en el año 2050.
 
 ```python
-# Solicitar al usuario dos números enteros
-numero1 = int(input("Introduce el primer número: "))
-numero2 = int(input("Introduce el segundo número: "))
+nombre = input("¿Cuál es tu nombre? ")
+edad = int(input("¿Cuántos años tienes? "))
 
-# Sumar los dos números
-suma = numero1 + numero2
+print(f"¡Bienvenido/a {nombre}!")
 
-# Mostrar el resultado en pantalla
-print(f"La suma de {numero1} y {numero2} es {suma}")
+año_actual = 2023
+años_futuro = 2050 - año_actual
+
+edad_2050 = edad + años_futuro
+print(f"En el año 2050 tendrás {edad_2050} años.")
 ```
 
 ## Resumen
-- Python es un lenguaje de programación de alto nivel con sintaxis clara.
-- Las variables se declaran sin especificar su tipo, lo que facilita la programación.
-- Las operaciones aritméticas básicas se utilizan comúnmente en programas simples.
+- Entorno de desarrollo integrado (IDE) para Python.
+- Sintaxis básica, incluyendo variables y tipos de datos primitivos.
+- Estructuras condicionales y iterativas.
