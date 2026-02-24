@@ -1,11 +1,20 @@
 # Integracion con otras herramientas
 
-- Familiarizarse con la integración de Python con bibliotecas matemáticas y científicas como NumPy y SciPy.
-- Aprender a utilizar interfaces gráficas de usuario (GUI) con Tkinter para crear aplicaciones interactivas.
+### Objetivos
+- Comprender cómo integrar Python con bases de datos para automatizar tareas de análisis y procesamiento de datos.
+- Aprender a utilizar bibliotecas externas en proyectos de Python para ampliar su funcionalidad.
 
-Python se ha convertido en una herramienta fundamental no solo por su simplicidad, sino también por su capacidad de integrarse con otras tecnologías. En esta lección, exploraremos cómo Python puede trabajar junto a bibliotecas matemáticas y científicas como NumPy y SciPy para realizar cálculos complejos y análisis de datos. Además, veremos cómo utilizar Tkinter, una biblioteca incorporada en Python, para crear interfaces gráficas de usuario (GUI) que permiten interactuar con nuestros programas de manera más intuitiva.
+### Contenido
+La integración de Python con otras herramientas es crucial para potenciar su uso en diversos escenarios. En esta lección, se explorará cómo Python puede interactuar con bases de datos utilizando librerías como `sqlite3` y `pandas`. Estas bibliotecas permiten a los desarrolladores leer, escribir y manipular datos directamente desde Python, lo que facilita el análisis y la visualización de información. Además, se aprenderá cómo importar y utilizar otras herramientas externas, como `NumPy`, para realizar cálculos numéricos complejos y mejorar el rendimiento de los programas.
 
-Para practicar, los estudiantes deberán desarrollar un programa que use NumPy para realizar cálculos matemáticos y luego integre Tkinter para crear una GUI donde el usuario pueda ingresar datos y ver resultados en tiempo real. Este ejercicio no solo fortalecerá sus habilidades en Python, sino también les dará una idea de cómo combinar diferentes herramientas para solucionar problemas complejos.
+### Ejercicio
+Escribe un script en Python que:
+1. Cree una base de datos SQLite.
+2. Crea una tabla con dos columnas: `id` (entero) y `nombre` (texto).
+3. Inserta cinco registros en la tabla.
+4. Consulte todos los registros de la tabla e imprima el resultado.
 
-- Integración de NumPy y SciPy para cálculos matemáticos.
-- Uso de Tkinter para crear interfaces gráficas interactivas.
+### Resumen
+- Se aprendió a utilizar `sqlite3` para interactuar con bases de datos desde Python.
+- Se exploró cómo importar y usar bibliotecas externas como `pandas`, `NumPy` y `sqlite3`.
+- Se practicó la creación, manipulación y consulta de una base de datos SQLite en un script de Python.
