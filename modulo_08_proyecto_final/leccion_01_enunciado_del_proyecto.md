@@ -1,18 +1,19 @@
 # Enunciado del proyecto
 
-## Objetivos
-- Describir claramente los requisitos y objetivos del proyecto final.
-- Identificar las habilidades técnicas necesarias para completar el proyecto.
+Objetivos
+- Comprender los requisitos del proyecto final.
+- Desarrollar habilidades para formular un enunciado de proyecto claro y detallado.
 
-## Contenido
-El enunciado del proyecto final es un documento crucial que proporciona una visión general de lo que se espera del estudiante. Este enunciado incluirá detalles sobre la funcionalidad requerida, las tecnologías a utilizar y los criterios de evaluación. El objetivo principal es asegurar que cada estudiante comprenda exactamente qué debe hacer para completar el proyecto de manera exitosa.
+Contenido
+El enunciado del proyecto final es una parte crucial que define el alcance, objetivos y requisitos técnicos del trabajo a realizar. Un buen enunciado debe ser específico, detallado y comprensible tanto para los desarrolladores principiantes como para los más experimentados. Debe incluir información sobre la funcionalidad requerida, las tecnologías permitidas, los plazos de entrega y cualquier otro detalle relevante que asegure un desarrollo coherente del proyecto.
 
-El enunciado del proyecto final también servirá como guía para la implementación del código. Se detallará las partes específicas del proyecto, como la creación de una interfaz de usuario, la integración de algoritmos y la optimización de rendimiento. Es fundamental que los estudiantes leas y comprendan completamente este documento antes de comenzar a trabajar en el proyecto.
+Ejercicio
+Formule el enunciado de un proyecto final utilizando Python como lenguaje principal. El proyecto debe ser una aplicación web simple que permita a los usuarios registrar y consultar libros en una biblioteca virtual. En su enunciado, incluya:
+- Funcionalidades básicas: registro de usuario, inicio de sesión, búsqueda de libros por título o autor.
+- Uso recomendado de frameworks web como Flask o Django.
+- Plazo estimado para la entrega del proyecto.
 
-## Ejercicio
-Escribe un resumen breve (1-2 párrafos) del enunciado del proyecto final para tu grupo, incluyendo los aspectos más importantes como la funcionalidad requerida, las tecnologías permitidas y los criterios de evaluación. Asegúrate de que tu resumen sea claro y conciso.
-
-## Resumen
-- El enunciado del proyecto final proporciona una descripción clara de lo que se espera del estudiante.
-- Incluye detalles sobre la funcionalidad, tecnologías y criterios de evaluación.
-- Es crucial para el éxito del proyecto que los estudiantes comprendan completamente este documento.
+Resumen
+- El enunciado del proyecto final debe ser claro y detallado.
+- Incluya todas las funcionalidades requeridas y tecnologías permitidas.
+- Facilite un desarrollo coherente y eficiente del proyecto.
