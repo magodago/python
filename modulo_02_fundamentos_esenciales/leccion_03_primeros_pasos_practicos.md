@@ -1,18 +1,22 @@
 # Primeros pasos practicos
 
-Objetivos
-- Familiarizar a los estudiantes con la instalación y configuración de Python.
-- Introducir los conceptos básicos de sintaxis y estructura del lenguaje.
+- Familiarizarse con la instalación y configuración de Python.
+- Comprender cómo iniciar un entorno de desarrollo e introducir los primeros comandos.
 
-Contenido
-En esta lección, exploraremos los primeros pasos en el mundo de Python. Comenzaremos por instalar Python en nuestro sistema operativo, ya sea Windows, macOS o Linux. Es importante que todos tengan Python 3 instalado, ya que es la versión más actual y compatible con las últimas características del lenguaje.
+Para comenzar, es importante tener Python instalado en nuestro sistema. Existen varias distribuciones disponibles, pero la más común es Anaconda, que viene con una versión de Python preconfigurada y un entorno de desarrollo integrado llamado Jupyter Notebook, muy útil para principiantes. Una vez instalado, podemos abrir el terminal o línea de comandos y escribir `python` (o `python3` si tenemos múltiples versiones) para iniciar la consola interactiva de Python.
 
-Posteriormente, veremos cómo ejecutar programas simples desde la línea de comandos para asegurarnos de que el entorno está configurado correctamente. Aprenderemos a escribir nuestros primeros programas, como imprimir texto en pantalla utilizando la función `print()`, y entenderemos la importancia de indentación, ya que es crucial para la estructura correcta del código.
+En esta lección, practicaremos algunos comandos básicos en la consola. Intentemos imprimir un mensaje simple: `print("¡Hola, mundo!")`. También podemos definir variables y realizar operaciones matemáticas sencillas, como `x = 5; y = 10; print(x + y)`.
 
-Ejercicio
-Escribe un programa simple que imprima "¡Hola, Mundo!" en la consola. Asegúrate de que tu código esté correctamente indentado. Ejecuta el programa y verifica los resultados.
+Ejercicio:
+1. Abre el terminal o línea de comandos.
+2. Escribe `python` (o `python3`) para iniciar la consola interactiva.
+3. Introduce los siguientes comandos en orden: 
+   - `print("¡Bienvenido a Python!")`
+   - `nombre = "Juan"`
+   - `edad = 25`
+   - `print(f"Mi nombre es {nombre} y tengo {edad} años")`
 
-Resumen
-- Se ha instalado Python 3.
-- Se han escrito y ejecutado programas básicos utilizando `print()`.
-- La importancia de la correcta indentación se ha resaltado.
+Resumen:
+- Se instaló correctamente Python.
+- Se inició la consola interactiva de Python.
+- Se practicaron comandos básicos como imprimir texto, definir variables y realizar operaciones matemáticas.
