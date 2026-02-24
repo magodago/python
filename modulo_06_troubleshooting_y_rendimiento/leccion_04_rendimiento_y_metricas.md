@@ -1,11 +1,12 @@
 # Rendimiento y metricas
 
 ## Contenido
-En esta lección sobre rendimiento y métricas de Python, se explorarán técnicas para evaluar la eficiencia del código y cómo mejorar su rendimiento. Se aprenderá a utilizar herramientas como `timeit` y `cProfile` para medir el tiempo de ejecución y analizar el perfil de rendimiento de las funciones, respectivamente. Además, se discutirá la importancia de seleccionar los algoritmos más adecuados y optimizar estructuras de datos para aumentar la velocidad del programa.
+En esta lección, se explorará la importancia de medir y optimizar el rendimiento de las aplicaciones Python. Se aprenderá a utilizar herramientas como `timeit` para medir el tiempo de ejecución de código, y `cProfile` para analizar la eficiencia del uso de recursos en un programa. Además, se discutirá cómo identificar y corregir problemas de rendimiento mediante técnicas de optimización y el uso adecuado de estructuras de datos.
 
 ## Ejercicio
-Implementa un código que calcule la suma de los primeros 1000 números enteros utilizando dos métodos diferentes: una lista comprensiva y un bucle `for`. Utiliza la función `timeit` para medir el tiempo de ejecución de cada método. Luego, compara los resultados y discute cuál es más eficiente en términos de rendimiento.
+El alumno deberá escribir una función que calcule los primeros 1000 números de Fibonacci utilizando dos métodos diferentes: recursión y iteración. Luego, medirá el tiempo de ejecución para cada método usando la biblioteca `timeit`. Finalmente, comparará los tiempos obtenidos y discutirá cuál es más eficiente en términos de rendimiento.
 
 ## Resumen
-- Se aprendió a utilizar herramientas como `timeit` y `cProfile` para evaluar el rendimiento del código.
-- Se destacó la importancia de seleccionar algoritmos y optimizar estructuras de datos para mejorar la velocidad del programa.
+- Se utilizarán herramientas como `timeit` y `cProfile` para medir y analizar el rendimiento.
+- Se aprenderá a identificar problemas de rendimiento mediante la comparación de diferentes métodos de implementación.
+- Se enfatizará la importancia de elegir el enfoque más eficiente según las necesidades del proyecto.
