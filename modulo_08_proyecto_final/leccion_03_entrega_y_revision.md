@@ -1,10 +1,17 @@
 # Entrega y revision
 
-- Entender los criterios de evaluación y revisión del proyecto final.
-- Desarrollar habilidades para presentar y defender su trabajo ante un panel de evaluadores.
+Objetivos
+- Entender los aspectos importantes a considerar durante la entrega y revisión del proyecto final.
+- Desarrollar habilidades para proporcionar y recibir comentarios constructivos sobre el código Python.
 
-En esta lección se abordará el proceso de entrega y revisión del proyecto final. Los estudiantes aprenderán a prepararse adecuadamente para la presentación de sus trabajos, así como a responder a las preguntas y críticas que puedan surgir durante la evaluación. Se discutirá cómo estructurar una presentación efectiva y qué aspectos deben ser destacados en el proyecto.
+Contenido
+Durante esta lección, se enfocará en el proceso de entrega y revisión del proyecto final. Se discutirá cómo prepararse adecuadamente para la entrega, incluyendo la documentación clara y la presentación del código. También se abordarán técnicas efectivas para recibir y procesar los comentarios de los compañeros y el instructor, con el fin de mejorar la calidad del trabajo final.
 
-Para este ejercicio, los estudiantes deberán preparar un breve resumen de su proyecto final, incluyendo sus objetivos, metodología utilizada y resultados obtenidos. Deben practicar la presentación ante un compañero o familiares para recibir retroalimentación y afinar su discurso. Además, deben reflexionar sobre los posibles cuestionamientos que podrían surgir durante la evaluación y prepararse con respuestas coherentes.
+Se resaltarán aspectos importantes como la importancia de la claridad en la comunicación, la comprensión mutua durante las revisiones grupales, y la utilización de herramientas colaborativas para facilitar el proceso. Se explicará cómo los comentarios constructivos pueden ser valiosos tanto para el aprendizaje individual como para el desarrollo del equipo.
 
-Los puntos clave a retener son: la importancia de una preparación adecuada para la presentación, la capacidad de explicar claramente el proyecto y responder a preguntas de manera efectiva.
+Ejercicio
+Practique la entrega y revisión de un proyecto final simulado en grupo. Cada estudiante presentará su proyecto, seguido por una sesión de revisiones en grupo donde se intercambiarán comentarios constructivos sobre el código utilizado, las prácticas de documentación y otros aspectos relevantes del trabajo.
+
+Resumen
+- Se destacó la importancia de prepararse adecuadamente para la entrega y revisión.
+- Se enfatizó la necesidad de comunicación clara y la capacidad de recibir y procesar comentarios constructivos.
