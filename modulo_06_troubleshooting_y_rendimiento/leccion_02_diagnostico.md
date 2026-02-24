@@ -1,11 +1,11 @@
 # Diagnostico
 
-- Comprender los métodos básicos de diagnóstico de errores en Python.
-- Identificar y corregir problemas comunes relacionados con rendimiento en programas de Python.
+- Identificar y corregir errores comunes en programas de Python.
+- Optimizar el rendimiento de scripts Python mediante la identificación de posibles problemas.
 
-La lección se centrará en el diagnóstico de errores y problemas de rendimiento en el lenguaje de programación Python. Se explicarán técnicas para identificar errores comunes, como excepciones no manejadas o bucles infinitos, y cómo utilizar herramientas de depuración integradas en los entornos de desarrollo populares. Además, se discutirán métodos para optimizar el rendimiento de las aplicaciones Python, incluyendo la selección adecuada de estructuras de datos y algoritmos.
+Python es un lenguaje de programación versátil que puede enfrentar diversos problemas, desde errores sintácticos hasta problemas de rendimiento. En esta lección, aprenderemos a diagnosticar y solucionar estos problemas de manera efectiva. Comenzaremos analizando mensajes de error y trazando el flujo del programa para identificar áreas problemáticas. Posteriormente, exploraremos técnicas para optimizar la eficiencia de nuestros scripts, incluyendo la gestión adecuada de recursos y la utilización de estructuras de datos apropiadas.
 
-Para practicar estos conceptos, los estudiantes deberán identificar y corregir un conjunto de errores en un código Python proporcionado. El ejercicio consistirá en analizar el código, ejecutarlo para observar los resultados inesperados, depurar el código utilizando un entorno de desarrollo integrado (IDE) y finalmente optimizar la solución para mejorar su eficiencia.
+Para practicar estos conceptos, los estudiantes deberán analizar un script Python que realiza operaciones matemáticas complejas. El objetivo es identificar posibles errores en el código y sugerir mejoras para aumentar su eficiencia. Los pasos a seguir incluyen leer el código proporcionado, ejecutarlo y observar los resultados, así como utilizar herramientas de depuración integradas en Python o IDEs populares.
 
-- Familiaridad con técnicas de diagnóstico de errores.
-- Capacidad para optimizar el rendimiento de programas Python.
+- Comprender cómo interpretar mensajes de error.
+- Identificar áreas de optimización en un script Python.
