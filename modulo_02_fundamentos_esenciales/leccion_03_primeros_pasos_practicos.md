@@ -1,22 +1,15 @@
 # Primeros pasos practicos
 
 Objetivos
-- Familiarizarse con la instalación de Python y su entorno de desarrollo.
-- Comprender las primeras instrucciones básicas y cómo ejecutar un programa simple.
+- Familiarizar a los estudiantes con el entorno de desarrollo integrado (IDE) de Python.
+- Introducir los conceptos básicos de sintaxis y estructuras de datos en Python.
 
 Contenido
-En esta lección, se explorarán los primeros pasos en el mundo del lenguaje de programación Python. Se comenzará por la instalación adecuada de Python en el ordenador personal o una máquina virtual. Es importante elegir la versión más reciente y compatible con el sistema operativo utilizado para asegurar un funcionamiento óptimo. Posteriormente, se presentarán los conceptos básicos de sintaxis y estructura del lenguaje, incluyendo las variables y tipos de datos fundamentales como enteros, cadenas y flotantes.
-
-Se explicará cómo escribir un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Este ejercicio servirá para familiarizarse con el editor de texto o IDE (Entorno de Desarrollo Integrado) utilizado, así como con los comandos básicos de ejecución y depuración.
+En esta lección, comenzaremos explorando cómo instalar e iniciar un IDE de Python. A través del uso práctico, aprenderemos a escribir nuestro primer programa, que es simplemente imprimir "¡Hola, Mundo!" en la consola. También se introducirán las variables y tipos de datos básicos como enteros, cadenas y booleanos. Para proporcionar una base sólida, se explicará cómo declarar estas variables y realizar operaciones simples con ellos.
 
 Ejercicio
-Escribe un programa que solicite al usuario su nombre e imprima un mensaje personalizado. El programa debe tener la siguiente estructura:
-
-```python
-nombre = input("Por favor, introduce tu nombre: ")
-print(f"¡Bienvenido/a {nombre}!")
-```
+Escribe un programa simple que solicite al usuario su nombre y edad, luego imprima en la consola "¡Hola [nombre]! Tienes [edad] años". Asegúrate de manejar los tipos de datos adecuadamente para la entrada del usuario.
 
 Resumen
-- Se ha instalado Python y se ha familiarizado con el entorno de desarrollo.
-- Se han aprendido las primeras instrucciones básicas, incluyendo variables y entrada/salida.
+- Se ha familiarizado con el entorno de desarrollo de Python.
+- Se han introducido conceptos básicos como variables y operaciones simples.
