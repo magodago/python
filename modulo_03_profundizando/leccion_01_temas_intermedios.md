@@ -1,36 +1,17 @@
 # Temas intermedios
 
-- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
-- Implementar y utilizar clases y objetos avanzados para resolver problemas complejos.
+- Comprender la utilización de las excepciones y manejo de errores en Python.
+- Implementar funciones recursivas y comprender sus implicaciones.
 
-Python nos permite mejorar la funcionalidad de nuestras funciones mediante el uso de decoradores, que son una forma elegante de modificar comportamientos de funciones o métodos. Un decorador es simplemente un patrón de diseño que permite a los programadores agregar nuevas capacidades a las funciones y clases existentes sin alterar su estructura.
+Python es una potente herramienta para la programación general, pero su verdadero poder se despliega cuando se dominan conceptos más avanzados. En esta lección, profundizaremos en dos temas cruciales: el manejo de excepciones y las funciones recursivas. El manejo adecuado de excepciones es fundamental para desarrollar software robusto que pueda manejar errores de manera gracia. Las funciones recursivas, por otro lado, permiten abordar problemas complejos de forma elegante y eficiente.
 
-Por ejemplo, podemos crear un decorador para medir el tiempo de ejecución de una función:
+Para ilustrar estos conceptos, considera un ejemplo donde necesitas leer datos desde un archivo. Sin el manejo adecuado de excepciones, un error como un archivo no encontrado podría interrumpir la ejecución del programa. Con las excepciones, puedes capturar este error y tomar medidas apropiadas, tal vez mostrando un mensaje al usuario o intentando recuperar los datos desde una fuente alternativa.
 
-```python
-import time
+En cuanto a las funciones recursivas, estas son funciones que se llaman a sí mismas durante su ejecución. Un ejemplo simple podría ser una función para calcular el factorial de un número. La funcionalidad básica sería: si el número es 1, devolver 1; en caso contrario, multiplicar el número por el resultado de la misma función con el número decrementado en uno.
 
-def timer_decorator(func):
-    def wrapper():
-        start_time = time.time()
-        func()
-        end_time = time.time()
-        print(f"Tiempo de ejecución: {end_time - start_time} segundos")
-    return wrapper
+### Ejercicio
+Implementa una función que calcule el factorial de un número utilizando recursividad. Luego, añade un bloque `try-except` para manejar posibles errores, como ingresar un valor no numérico o negativo.
 
-@timer_decorator
-def mi_funcion():
-    # Código a medir
-    for _ in range(1000000):
-        pass
-
-mi_funcion()
-```
-
-Este decorador `timer_decorator` mide el tiempo que tarda en ejecutarse la función `mi_funcion`. La sintaxis `@timer_decorator` antes de definir `mi_funcion` indica que queremos aplicar este decorador a dicha función.
-
-Para el ejercicio, implemente un decorador que registre las llamadas a una función y cuente cuántas veces se ha ejecutado. Luego, utilícelo en una función que genere números primos hasta cierto límite.
-
-## Resumen
-- Decoradores permiten extender funcionalidades de funciones o métodos sin modificar su estructura.
-- Las clases avanzadas y objetos pueden ser utilizados para resolver problemas complejos mediante la encapsulación, herencia y polimorfismo.
+### Resumen
+- Manejo de excepciones permite desarrollar software más robusto.
+- Las funciones recursivas son útiles para resolver problemas complejos de manera elegante.
