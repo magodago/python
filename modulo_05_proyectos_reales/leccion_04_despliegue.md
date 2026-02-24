@@ -1,11 +1,11 @@
 # Despliegue
 
-- Comprender los conceptos básicos de despliegue web para aplicaciones Python.
-- Implementar un despliegue básico utilizando servicios como Heroku.
+- Entender los conceptos básicos de despliegue de aplicaciones Python.
+- Aprender a implementar un entorno de desarrollo integrado (IDE) y herramientas de gestión de paquetes.
 
-Python es una potente herramienta que no solo se utiliza en desarrollo backend, sino también en el despliegue y ejecución de aplicaciones. En esta lección, exploraremos cómo podemos desplegar nuestras aplicaciones Python en la nube para que sean accesibles a nivel global. Para ello, usaremos Heroku, un servicio popular que facilita el despliegue rápido de aplicaciones web sin necesidad de configurar servidores o bases de datos manualmente.
+El despliegue de una aplicación Python implica asegurarse de que el código funcione correctamente en un entorno de producción. Esto incluye la instalación del software necesario, la configuración del servidor web y la optimización del rendimiento. Para este curso, es importante entender cómo utilizar herramientas como `pip` para gestionar dependencias y paquetes, así como plataformas como Heroku o AWS para desplegar aplicaciones.
 
-Como ejercicio práctico, cada estudiante debe crear una cuenta en Heroku y luego desplegar una aplicación simple creada con Flask. El proceso incluirá la creación del archivo `requirements.txt`, la configuración del archivo `Procfile` para indicar cómo ejecutar la aplicación, y el uso de la línea de comandos de Heroku para subir y desplegar la aplicación.
+Para practicar estos conceptos, los estudiantes deben configurar un entorno de desarrollo local con Python y Flask. Deben crear una aplicación simple utilizando Flask y luego desplegarla en Heroku siguiendo las instrucciones proporcionadas por la plataforma.
 
-- Familiarizarse con los conceptos básicos de despliegue en la nube.
-- Implementar un despliegue básico utilizando Heroku.
+- Familiarizarse con el uso de `pip` para gestionar dependencias.
+- Configurar y desplegar una aplicación Flask en Heroku.
