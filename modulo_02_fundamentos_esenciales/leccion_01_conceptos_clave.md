@@ -1,26 +1,16 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos básicos de Python, incluyendo su sintaxis y estructura.
-- Familiarizarse con las variables y tipos de datos fundamentales en Python.
+- Comprender los conceptos fundamentales de Python.
+- Aprender a escribir y ejecutar programas básicos en Python.
 
 ## Contenido
-Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis limpia y concisa facilita la escritura y mantenimiento del código. Los conceptos básicos incluyen el uso de variables para almacenar información y los tipos de datos primitivos como enteros, cadenas y flotantes. Estas herramientas forman la base sobre las cuales se construirán programas más complejos.
-
-Las variables en Python son contenedores dinámicos que almacenan datos. Pueden ser declaradas sin especificar su tipo, lo cual es una característica distintiva de este lenguaje. Los tipos de datos primitivos incluyen números (enteros y flotantes), cadenas de texto y booleanos. Cada uno de estos tipos permite diferentes operaciones y manejo de información.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Su sintaxis clara y concisa hace que sea fácil de aprender y usar para principiantes. En esta lección, se introducirá la estructura básica del código Python, incluyendo los tipos de datos primitivos como enteros, cadenas y flotantes, así como las operaciones matemáticas básicas. Se explicará también cómo definir variables y funciones simples.
 
 ## Ejercicio
-Escribe un programa simple en Python que solicite al usuario su nombre, lo guarde en una variable llamada `nombre` e imprima un mensaje de saludo personalizado. Utiliza variables para almacenar el nombre y los datos del mensaje.
-
-```python
-# Solicita al usuario que ingrese su nombre
-nombre = input("Por favor, introduce tu nombre: ")
-
-# Imprime un mensaje de bienvenida
-print(f"¡Bienvenido, {nombre}!")
-```
+Escribe un programa en Python que solicite al usuario su nombre y edad, luego imprima un mensaje personalizado con esa información. El programa debe incluir la declaración de variables para almacenar el nombre y la edad del usuario, así como una función que muestre el mensaje final.
 
 ## Resumen
-- Las variables en Python son dinámicas y se utilizan para almacenar datos.
-- Los tipos de datos primitivos incluyen enteros, cadenas y booleanos.
-- La sintaxis limpia de Python facilita la escritura y comprensión del código.
+- Python es un lenguaje de programación fácil de aprender.
+- Los tipos de datos primitivos son fundamentales en cualquier programa.
+- Las funciones permiten organizar el código de manera más eficiente.
