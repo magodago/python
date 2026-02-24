@@ -1,10 +1,11 @@
 # Cierre del modulo
 
-- Consolidar los conocimientos adquiridos durante el módulo de Python.
-- Preparar a los estudiantes para aplicar sus habilidades prácticas y teóricas en proyectos futuros.
+- Consolidar el conocimiento adquirido durante el módulo de Python.
+- Preparar a los estudiantes para aplicar sus habilidades en proyectos prácticos y futuros módulos.
 
-El cierre del módulo sobre Python nos permite revisitar los conceptos fundamentales que se han cubierto, desde la sintaxis básica hasta las estructuras de control y funciones. Es crucial entender cómo estos elementos forman parte integral del lenguaje, permitiendo a los programadores crear soluciones eficientes y escalables. Durante esta lección, es importante reflexionar sobre cómo Python se integra en el desarrollo de software moderno, destacando su versatilidad y la comunidad activa que lo rodea.
+En esta lección final, es importante reflexionar sobre lo que se ha aprendido durante el módulo de Python. Se revisará brevemente los temas principales cubiertos: sintaxis básica, estructuras de control (condicionales y bucles), funciones y listas, así como la importancia de la documentación y la continuidad en el aprendizaje de programación.
 
-Para practicar, los estudiantes deberán desarrollar un pequeño proyecto que combine varios conceptos aprendidos a lo largo del módulo. Por ejemplo, podrían crear una aplicación simple que utilice bucles, funciones y listas para gestionar una base de datos de libros, incluyendo operaciones básicas como añadir, eliminar y buscar información.
+Se recomienda a los estudiantes practicar resolviendo problemas que combinan varios conceptos vistos durante el módulo. Por ejemplo, podrían crear un programa que utilice funciones para manipular listas y condicionales para tomar decisiones basadas en la información proporcionada por estas listas.
 
-Los puntos clave a resaltar son la integración de múltiples conceptos en un solo proyecto y la importancia de la práctica continua para el dominio del lenguaje Python.
+- Recapitulación de los fundamentos de Python.
+- Importancia del aprendizaje continuo y práctica constante.
