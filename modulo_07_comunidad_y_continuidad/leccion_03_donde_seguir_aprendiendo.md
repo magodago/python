@@ -1,17 +1,11 @@
 # Donde seguir aprendiendo
 
-- Comprender las diversas opciones disponibles para continuar aprendiendo Python.
+- Familiarizarse con recursos de aprendizaje adicional disponibles para profundizar conocimientos en Python.
+- Identificar y evaluar comunidades online y locales enfocadas en la programación con Python.
 
-- Identificar y evaluar recursos de aprendizaje adicionales relevantes para mejorar habilidades en Python.
+La lección se centrará en explorar diferentes opciones para continuar el aprendizaje de Python después de completar este curso. Se abordarán recursos como tutoriales, documentación oficial, plataformas de código abierto y foros de discusión donde los estudiantes pueden practicar y mejorar sus habilidades. Además, se presentarán comunidades locales y online que promueven el intercambio de conocimientos entre programadores.
 
-## Contenido
-En esta lección, exploraremos diferentes plataformas y recursos donde puedes seguir profundizando tus conocimientos sobre Python. Es importante mantenerse actualizado en programación ya que el campo está en constante evolución. Algunos de los recursos más populares incluyen tutoriales interactivos, cursos online completos, documentación oficial, foros de discusión y comunidades de desarrolladores. Estas herramientas ofrecen una amplia gama de contenidos, desde principiantes hasta avanzados, lo que permite adaptarse a cualquier nivel de conocimiento.
+Ejercicio: El estudiante debe buscar y evaluar tres recursos adicionales para aprender Python, describiendo brevemente cada uno (tutorial, curso en línea, foro) y explicando cómo podría ser útil para su aprendizaje personal. Deben presentar sus hallazgos en un documento de texto.
 
-Además, es crucial participar en proyectos colaborativos o contribuir al código abierto para obtener experiencia práctica y entender mejor cómo se aplican los conceptos teóricos. Algunas comunidades destacadas incluyen GitHub, Stack Overflow y las listas de correo de Python. Estas plataformas no solo proporcionan recursos valiosos sino también una oportunidad para conectarse con otros programadores y obtener retroalimentación.
-
-## Ejercicio
-Elija tres de los recursos sugeridos (tutoriales interactivos, cursos online, foros de discusión) y explore cada uno durante una hora. Luego, escribe un resumen breve de cada recurso en términos de su contenido, facilidad de uso y utilidad para tu nivel actual de conocimientos.
-
-## Resumen
-- Identificar recursos variados para continuar aprendiendo Python.
-- Participar en proyectos colaborativos o contribuir al código abierto puede mejorar la práctica y comprensión de los conceptos.
+- Identificar recursos útiles para continuar el aprendizaje.
+- Evaluar la relevancia y utilidad de diferentes comunidades para mejorar las habilidades en Python.
