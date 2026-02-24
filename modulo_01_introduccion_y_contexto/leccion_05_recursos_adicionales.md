@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea para Python.
-- Identificar herramientas y comunidades útiles que apoyen el desarrollo de habilidades en Python.
+- Familiarizarse con recursos de documentación y tutoriales en línea.
+- Identificar herramientas útiles para la gestión del entorno de desarrollo y depuración.
 
-Python es una potente herramienta de programación versátil, utilizada en diversos campos como el análisis de datos, la inteligencia artificial, el desarrollo web y más. Para complementar tu aprendizaje teórico, existen numerosos recursos disponibles que pueden ayudarte a profundizar tus conocimientos y practicar habilidades específicas. Algunas opciones incluyen plataformas de tutoría como Codecademy o Coursera, que ofrecen cursos interactivos; sitios web como W3Schools para aprender sintaxis básica; y plataformas de código colaborativo como GitHub donde puedes encontrar proyectos y contribuir a ellos.
+Python es un lenguaje de programación versátil que se utiliza ampliamente en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más. Para aprovechar al máximo el potencial de Python, es fundamental conocer recursos adicionales que faciliten el aprendizaje y la práctica del lenguaje. Algunos de estos recursos incluyen documentación oficial detallada, tutoriales interactivos y comunidades en línea donde se comparte conocimiento y ayuda mutua.
 
-Para este ejercicio, busca en línea un tutorial introductorio a Python y completa el primer par de ejercicios proporcionados. Luego, comparte tu experiencia con la clase: ¿cuál fue tu recurso favorito? ¿Qué te resultó más útil para comenzar a programar en Python?
+Un ejercicio práctico consiste en buscar y leer una guía introductoria a Python desde el sitio web oficial (docs.python.org) y luego escribir un pequeño programa que imprima "¡Hola, Mundo!" utilizando la sintaxis de Python. Este ejercicio no solo ayudará a familiarizarse con la documentación sino también a entender cómo estructurar código básico en Python.
 
-- Familiarizarse con recursos de aprendizaje en línea.
-- Practicar habilidades básicas de programación utilizando Python.
+- Familiarizarse con la documentación oficial de Python.
+- Practicar el uso de recursos en línea para aprender y resolver problemas.
