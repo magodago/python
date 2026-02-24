@@ -1,11 +1,11 @@
 # Rendimiento y metricas
 
 ## Contenido
-En esta lección sobre rendimiento y métricas de Python, se explorará cómo medir y optimizar el desempeño de los programas escritos en Python. Se aprenderá a utilizar herramientas como `timeit` para medir tiempos de ejecución y `cProfile` para realizar perfiles de rendimiento. Además, se discutirá la importancia de seleccionar algoritmos eficientes y cómo el uso adecuado de estructuras de datos puede mejorar significativamente el rendimiento del código.
+En esta lección sobre rendimiento y métricas, se abordarán los aspectos más importantes para medir y optimizar el desempeño de los programas escritos en Python. Se aprenderá a utilizar herramientas como `timeit` y `cProfile` para evaluar la eficiencia del código y identificar posibles áreas de mejora. Además, se discutirá cómo interpretar las métricas obtenidas y ajustar el código para incrementar su velocidad y reducir el consumo de recursos.
 
 ## Ejercicio
-Escribe un programa en Python que implemente dos versiones diferentes para calcular los primeros 100 números de Fibonacci. La primera versión debe ser recursiva, mientras que la segunda debe utilizar iteración. Utiliza `timeit` para medir cuánto tiempo tarda cada versión en ejecutarse y compara los resultados.
+El estudiante deberá escribir un programa que implemente una función recursiva para calcular la suma de los primeros `n` números naturales. Posteriormente, utilizará la herramienta `cProfile` para analizar el rendimiento del código. Finalmente, se le pedirá que optimice la función utilizando iteración en lugar de recursión y compare nuevamente las métricas obtenidas.
 
 ## Resumen
-- Se aprende a utilizar herramientas como `timeit` y `cProfile` para medir y perfilear el rendimiento de Python.
-- Se entiende la importancia de seleccionar algoritmos eficientes y cómo optimizar el uso de estructuras de datos.
+- Se aprenderá a usar herramientas como `timeit` y `cProfile` para medir el rendimiento del código.
+- Se discutirá cómo interpretar los resultados obtenidos y optimizar el programa según las métricas.
