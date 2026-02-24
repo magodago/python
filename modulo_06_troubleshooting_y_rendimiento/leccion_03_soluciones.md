@@ -1,18 +1,14 @@
 # Soluciones
 
-### Objetivos
-- Identificar y resolver problemas comunes en Python.
-- Mejorar la eficiencia y rendimiento del código.
+## Contenido
+Cuando se enfrenta a problemas de rendimiento y soluciones en Python, es crucial entender cómo identificar y corregir errores eficientemente. En esta lección, exploraremos técnicas para optimizar el código y mejorar la velocidad de ejecución. Al final del módulo, los estudiantes aprenderán a utilizar herramientas como `cProfile` para analizar el rendimiento de sus programas y aplicar mejoras basadas en estos análisis.
 
-### Contenido
-En esta lección, se explorarán estrategias efectivas para diagnosticar y solucionar problemas que puedan surgir durante el desarrollo de programas en Python. Se abordarán temas como depuración básica, uso adecuado de excepciones y optimización de algoritmos. Para mejorar la eficiencia del código, se discutirá sobre la selección apropiada de estructuras de datos y técnicas de programación orientada a objetos que pueden aumentar el rendimiento.
+Para ilustrar este concepto, consideremos un ejemplo donde se implementa una función recursiva que calcula la suma de los primeros \(n\) números enteros. A menudo, esta implementación puede ser lenta para valores grandes de \(n\), debido a la sobrecarga de llamadas recursivas. Usaremos `cProfile` para identificar el punto de bloqueo y luego optimizaremos el código utilizando una iterativa en lugar de recursiva.
 
-Se enfatizará la importancia de comprender los errores y mensajes de depuración para abordar problemas de manera eficaz. Además, se proporcionará un enfoque práctico para implementar estas soluciones mediante ejemplos concretos y mejores prácticas.
+## Ejercicio
+Implemente una función recursiva que calcule los primeros 1000 números enteros y mida su tiempo de ejecución usando `timeit`. Luego, reescriba la misma función de manera iterativa e intente mejorar el rendimiento. Compare ambos métodos en términos de tiempo de ejecución.
 
-### Ejercicio
-Implementa una función que calcule la suma de todos los números pares hasta n, donde n es un número ingresado por el usuario. Utiliza técnicas de depuración para asegurar que tu programa funcione correctamente. Luego, optimiza tu código para mejorar su rendimiento y reduce el tiempo de ejecución.
-
-### Resumen
-- Se aprenden técnicas para identificar y resolver problemas comunes en Python.
-- Se discute la importancia de la eficiencia y rendimiento del código.
-- Los estudiantes aplican estos conocimientos mediante la implementación y optimización de un ejemplo práctico.
+## Resumen
+- Se aprende a utilizar herramientas como `cProfile` para analizar y optimizar el rendimiento del código.
+- Se entiende cómo transformar funciones recursivas en iterativas para mejorar la eficiencia.
+- Se desarrollan habilidades prácticas para medir y comparar diferentes implementaciones de un mismo algoritmo.
