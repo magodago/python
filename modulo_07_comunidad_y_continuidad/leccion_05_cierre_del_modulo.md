@@ -1,11 +1,10 @@
 # Cierre del modulo
 
-- Revisar y consolidar los conceptos aprendidos durante el módulo de Python.
-- Desarrollar habilidades prácticas para aplicar conocimientos adquiridos a proyectos reales.
+- Consolidar los conocimientos adquiridos durante el módulo de Python.
+- Preparar a los estudiantes para aplicar sus habilidades prácticas y teóricas en proyectos futuros.
 
-En esta lección final del módulo, nos enfocaremos en resumir y consolidar los conceptos clave que se han abordado. Hemos explorado desde las bases de Python hasta la programación orientada a objetos, pasando por estructuras de datos y funciones avanzadas. El objetivo es asegurarnos de que cada estudiante comprenda cómo integrar estos conocimientos en proyectos prácticos.
+El cierre del módulo sobre Python nos permite revisitar los conceptos fundamentales que se han cubierto, desde la sintaxis básica hasta las estructuras de control y funciones. Es crucial entender cómo estos elementos forman parte integral del lenguaje, permitiendo a los programadores crear soluciones eficientes y escalables. Durante esta lección, es importante reflexionar sobre cómo Python se integra en el desarrollo de software moderno, destacando su versatilidad y la comunidad activa que lo rodea.
 
-Para practicar, los estudiantes deberán desarrollar un pequeño programa que resuelva un problema real utilizando múltiples conceptos aprendidos durante el módulo. Por ejemplo, podrían crear una aplicación simple de gestión de tareas, donde se puedan añadir, eliminar y listar tareas, utilizando listas, funciones y clases para organizar el código.
+Para practicar, los estudiantes deberán desarrollar un pequeño proyecto que combine varios conceptos aprendidos a lo largo del módulo. Por ejemplo, podrían crear una aplicación simple que utilice bucles, funciones y listas para gestionar una base de datos de libros, incluyendo operaciones básicas como añadir, eliminar y buscar información.
 
-- Integrar conocimientos adquiridos en proyectos prácticos.
-- Desarrollar habilidades de resolución de problemas aplicando múltiples conceptos de Python.
+Los puntos clave a resaltar son la integración de múltiples conceptos en un solo proyecto y la importancia de la práctica continua para el dominio del lenguaje Python.
