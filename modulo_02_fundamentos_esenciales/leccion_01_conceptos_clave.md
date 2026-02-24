@@ -1,18 +1,18 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos básicos de Python.
-- Familiarizarse con la sintaxis y estructura fundamental del lenguaje.
+- Comprender los conceptos fundamentales de Python.
+- Familiarizarse con la sintaxis básica y las estructuras de datos.
 
 ## Contenido
-En esta lección, se introducirá a los estudiantes en los fundamentos esenciales de Python. Se abordarán temas como la sintaxis básica, tipos de datos primitivos y las estructuras de control más comunes (if-else, bucles for y while). Los estudiantes aprenderán cómo escribir y ejecutar programas simples utilizando estas herramientas.
+En esta lección sobre los fundamentos esenciales del curso de Python, se introducirá a los estudiantes en algunos de los conceptos clave que son necesarios para comenzar a programar eficazmente. Se tratarán temas como la sintaxis básica de Python, incluyendo cómo escribir y ejecutar un programa simple, así como las estructuras de datos más comunes, tales como listas y diccionarios. Estos elementos forman la base sobre la cual se construirá el conocimiento del estudiante en programación con Python.
 
-Se explicará que Python es un lenguaje de programación interpretado, lo que significa que el código se ejecuta línea por línea sin la necesidad de compilarlo previamente. Los tipos de datos primitivos incluyen enteros (int), flotantes (float), cadenas de texto (str) y booleanos (bool). Las estructuras de control permiten al programador especificar el flujo del programa, decidir qué código se ejecuta en función de ciertas condiciones.
+Python es conocido por su sintaxis clara y legible, lo que facilita a los principiantes entender cómo funciona el código. Un ejemplo básico podría ser un programa que imprime "¡Hola, mundo!" utilizando la función `print()`. Además, se explicará cómo trabajar con listas, que son una colección ordenada de elementos, y diccionarios, que almacenan pares clave-valor, permitiendo a los estudiantes manipular datos de manera más eficiente.
 
 ## Ejercicio
-Escribe un pequeño script que solicite al usuario su nombre y edad. El programa debe verificar si la edad es mayor o igual a 18 años y, dependiendo de eso, imprimir "Mayor de edad" o "Menor de edad". Asegúrate de manejar el caso en que el usuario ingrese una edad no numérica.
+Escribe un programa en Python que solicite al usuario su nombre y edad. Luego, imprime en pantalla un mensaje que diga "Hola [nombre], en 5 años tendrás [edad + 5] años."
 
 ## Resumen
-- Python es un lenguaje interpretado.
-- Los tipos de datos primitivos incluyen int, float, str y bool.
-- Las estructuras de control permiten decidir el flujo del programa.
+- Python es una lengua de programación con sintaxis clara.
+- Las listas y diccionarios son estructuras de datos fundamentales para manejar datos.
+- El programa básico debe solicitar al usuario su nombre y edad, y luego imprimir un mensaje personalizado.
