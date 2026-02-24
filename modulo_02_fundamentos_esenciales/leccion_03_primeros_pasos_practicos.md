@@ -1,23 +1,18 @@
 # Primeros pasos practicos
 
 Objetivos
-- Familiarizar al estudiante con la instalación y configuración de Python.
-- Introducir los conceptos básicos de sintaxis y ejecución de código.
+- Familiarizar a los estudiantes con la instalación y configuración de Python.
+- Introducir los conceptos básicos de sintaxis y estructura del lenguaje.
 
 Contenido
-En esta lección, aprenderemos a instalar Python en nuestro sistema operativo y a escribir nuestro primer programa. La sintaxis básica es crucial para cualquier programador, por lo que veremos cómo estructurar un script básico y entender los elementos fundamentales como las variables, tipos de datos básicos y la impresión de texto.
+En esta lección, exploraremos los primeros pasos en el mundo de Python. Comenzaremos por instalar Python en nuestro sistema operativo, ya sea Windows, macOS o Linux. Es importante que todos tengan Python 3 instalado, ya que es la versión más actual y compatible con las últimas características del lenguaje.
 
-Para comenzar, instalaremos Python desde el sitio oficial (https://www.python.org/downloads/) asegurándonos de seleccionar la versión adecuada para nuestro sistema operativo. Una vez instalado, podremos comprobar si funciona correctamente ejecutando en una terminal o línea de comandos: `python --version` o `python3 --version`.
+Posteriormente, veremos cómo ejecutar programas simples desde la línea de comandos para asegurarnos de que el entorno está configurado correctamente. Aprenderemos a escribir nuestros primeros programas, como imprimir texto en pantalla utilizando la función `print()`, y entenderemos la importancia de indentación, ya que es crucial para la estructura correcta del código.
 
 Ejercicio
-Escribe y ejecuta tu primer programa en Python. Abre un editor de texto como Notepad++ o Visual Studio Code, escribe lo siguiente:
-
-```python
-print("¡Hola, mundo!")
-```
-
-Guarda el archivo con la extensión .py (por ejemplo, hola_mundo.py) y ejecútalo desde una terminal o línea de comandos usando `python hola_mundo.py` o `python3 hola_mundo.py`. Deberías ver la salida: "¡Hola, mundo!" en tu terminal.
+Escribe un programa simple que imprima "¡Hola, Mundo!" en la consola. Asegúrate de que tu código esté correctamente indentado. Ejecuta el programa y verifica los resultados.
 
 Resumen
-- Se ha instalado Python correctamente.
-- Se ha escrito y ejecutado el primer programa en Python.
+- Se ha instalado Python 3.
+- Se han escrito y ejecutado programas básicos utilizando `print()`.
+- La importancia de la correcta indentación se ha resaltado.
