@@ -1,17 +1,11 @@
 # Temas intermedios
 
-Objetivos
-- Comprender la utilización de decoradores para mejorar y reutilizar código.
-- Aprender a trabajar con módulos y paquetes externos en Python.
+- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
+- Aprender a trabajar con context managers para gestionar recursos eficientemente.
 
-Contenido
-En esta lección profundizaremos en temas intermedios de Python, enfocándonos en dos aspectos cruciales: los decoradores y la gestión de módulos y paquetes. Los decoradores son una característica poderosa que permite modificar o extender las funcionalidades de otras funciones sin alterar su estructura original. Esto es especialmente útil para aplicaciones como manejo de errores, métricas y autenticación. Para ilustrarlo, veremos ejemplos prácticos donde se utiliza el decorador `@property` para gestionar atributos en una clase.
+Python es un lenguaje de programación versátil que ofrece características avanzadas para mejorar la eficiencia y claridad del código. En esta lección, profundizaremos en dos temas intermedios: decoradores y context managers. Los decoradores son una forma elegante de modificar funcionalidades existentes sin alterar su estructura interna. Por ejemplo, podrás crear un decorador que mide el tiempo de ejecución de una función o añade loggear a otra. Context managers, por otro lado, permiten administrar recursos de manera eficiente, asegurando que se liberan correctamente cuando ya no son necesarios. Usualmente, esto se hace utilizando la instrucción `with`, que garantiza la ejecución de bloques de código antes y después del bloque principal.
 
-Además, aprenderemos a instalar y utilizar módulos externos desde PyPI (Python Package Index), que amplían significativamente las capacidades de Python. Esto incluirá cómo importar módulos, cómo crear un archivo de configuración `setup.py` para paquetes propios y cómo publicarlos en PyPI.
+Ejercicio: Crea un decorador que muestre el tiempo de ejecución de una función. Luego, aplica este decorador a diferentes funciones matemáticas para medir su rendimiento. Además, escribe un context manager que maneje archivos, asegurándose de que se cierran correctamente después de su uso.
 
-Ejercicio
-Implemente un decorador personalizado llamado `tiempo_ejecucion` que muestre el tiempo de ejecución de una función. Luego, aplíquelo a una función matemática cualquiera (por ejemplo, la función `factorial`). Pruebe su implementación y analice los resultados.
-
-Resumen
-- Los decoradores son herramientas poderosas para modificar funcionalidades existentes.
-- La gestión de módulos externos permite aprovechar el gran ecosistema de Python.
+- Decoradores permiten modificar funcionalidades sin alterar el código base.
+- Context managers facilitan la gestión eficiente de recursos como archivos o conexiones a bases de datos.
