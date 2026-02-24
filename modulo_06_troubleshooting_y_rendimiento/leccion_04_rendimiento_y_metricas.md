@@ -1,15 +1,14 @@
 # Rendimiento y metricas
 
-## Objetivos
-- Comprender las métricas de rendimiento más comunes utilizadas en Python.
-- Aprender a medir y analizar el rendimiento de código Python utilizando herramientas específicas.
-
 ## Contenido
-En esta lección, se explorarán los aspectos clave relacionados con el rendimiento del código escrito en Python. Se presentarán las métricas más utilizadas para evaluar el rendimiento, como tiempo de ejecución y uso de memoria. Además, se explicará cómo utilizar herramientas como `timeit` y `cProfile` para medir eficientemente estos parámetros. Estos conocimientos permitirán a los estudiantes identificar posibles problemas de rendimiento en sus programas y optimizarlos de manera efectiva.
+En esta lección sobre rendimiento y métricas de Python, se profundizará en la importancia de medir y optimizar el desempeño del código. Se explicarán conceptos clave como tiempos de ejecución, memoria utilizada y recursos computacionales. Se presentará cómo utilizar herramientas como `timeit`, `cProfile` y `memory_profiler` para analizar y mejorar la eficiencia del código.
+
+Además, se discutirá el uso de métricas como FLOPS (Flops por Segundo) y MFLOPS para medir la velocidad de ejecución de operaciones matemáticas. Se proporcionará un ejemplo práctico de cómo implementar estas herramientas en un script Python y analizar sus resultados.
 
 ## Ejercicio
-Implemente un programa que calcule la suma de los primeros 10,000 números naturales utilizando dos métodos diferentes: una solución iterativa y otra recursiva. Utilice las herramientas `timeit` y `cProfile` para medir el tiempo de ejecución y el uso de memoria en cada caso. Compare los resultados y explique por qué un método es más eficiente que el otro.
+Implementa un programa que calcule el producto de matrices utilizando dos métodos diferentes: una implementación básica y otra optimizada con la biblioteca NumPy. Utiliza las herramientas mencionadas (timeit, cProfile, memory_profiler) para comparar el rendimiento de ambos métodos en términos de tiempo de ejecución y memoria utilizada.
 
 ## Resumen
-- Se aprendió a utilizar métricas como tiempo de ejecución y uso de memoria para evaluar el rendimiento del código Python.
-- Se practicó la medición y análisis del rendimiento utilizando herramientas específicas como `timeit` y `cProfile`.
+- Se aprende a medir y mejorar el rendimiento del código Python.
+- Se entiende la importancia de utilizar herramientas específicas como timeit, cProfile y memory_profiler.
+- Se practica la optimización de código mediante la comparación de implementaciones básicas y avanzadas.
