@@ -1,23 +1,14 @@
 # Ejercicio guiado 1
 
-- Entender la sintaxis básica de Python.
-- Practicar la escritura y ejecución de un programa simple.
+- Familiarizarse con la sintaxis básica de Python.
+- Comprender cómo estructurar un programa simple utilizando sentencias básicas.
 
-Para esta lección, exploraremos los fundamentos esenciales de Python, enfocándonos en la sintaxis básica. Veremos cómo escribir y ejecutar programas simples utilizando el entorno de desarrollo integrado (IDE) o una terminal de comandos. La sintaxis de Python es conocida por su claridad y simplicidad, lo que facilita a los principiantes aprender rápidamente.
+En esta lección del módulo Fundamentos esenciales, se explorará el uso de variables y operadores aritméticos en Python. Los estudiantes aprenderán a declarar variables, asignar valores y realizar cálculos simples. Se proporcionará un ejemplo práctico donde los alumnos deberán crear un programa que calcule la suma, resta, multiplicación y división entre dos números ingresados por el usuario.
 
-Como ejercicio práctico, los estudiantes deberán escribir un programa que solicite al usuario su nombre y luego imprima un mensaje personalizado diciendo "¡Hola [nombre]! ¿Cómo estás?".
+### Ejercicio
+Escribe un programa en Python que solicite al usuario ingresar dos números y luego realice las operaciones de suma, resta, multiplicación y división. El resultado de cada operación debe ser impreso en la consola. Asegúrate de manejar correctamente los posibles errores, como la división por cero.
 
-## Ejercicio
-1. Abre tu IDE de Python o abre una terminal de comandos.
-2. Escribe el siguiente código:
-```python
-nombre = input("Por favor, introduce tu nombre: ")
-print(f"¡Hola {nombre}! ¿Cómo estás?")
-```
-3. Guarda el archivo con un nombre apropiado, por ejemplo `bienvenida.py`.
-4. Ejecuta el programa y prueba ingresando diferentes nombres.
-
-Este ejercicio te ayudará a familiarizarte con la estructura básica de los programas en Python, incluyendo la declaración de variables, la función `input()` para solicitar datos al usuario y la función `print()` para mostrar información en pantalla.
-
-- Familiaridad con la sintaxis básica de Python.
-- Capacidad para escribir y ejecutar un programa simple.
+### Resumen
+- Se aprendió a declarar variables y asignarles valores.
+- Se exploró el uso de operadores aritméticos básicos.
+- Se realizó un ejercicio práctico para aplicar conocimientos sobre entrada de datos y cálculos.
