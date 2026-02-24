@@ -1,12 +1,11 @@
 # Resumen del modulo
 
-- Comprender los conceptos básicos de Python, incluyendo variables, tipos de datos y operadores.
-- Familiarizarse con la estructura básica del código en Python, incluyendo comentarios, indentación y estructuras condicionales.
+- Entender los conceptos básicos de Python y su sintaxis.
+- Familiarizarse con la estructura de un programa básico en Python.
 
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad. En este módulo, se ha explorado cómo Python maneja variables y tipos de datos básicos como cadenas, enteros, flotantes y booleanos. Además, se han presentado operadores aritméticos y comparativos, permitiendo a los estudiantes realizar cálculos simples y comparaciones entre valores. La indentación en Python es crucial para definir bloques de código, lo que distingue esta sintaxis del estilo de otros lenguajes como Java o C++. Se ha introducido también la utilización de comentarios para documentar el código.
+Python es una de las lenguas de programación más utilizadas debido a su simplicidad y versatilidad. En este módulo, se han explorado los fundamentos esenciales del lenguaje, incluyendo variables, tipos de datos básicos (números, cadenas, listas), estructuras de control como condicionales y bucles, así como funciones y sus usos prácticos. Estos conceptos son cruciales para cualquier programador que desee comenzar a aprender Python.
 
-Para practicar estos conceptos, los estudiantes deben escribir un programa simple que solicite al usuario dos números enteros, realice operaciones básicas (suma, resta, multiplicación y división) y muestre los resultados. Este ejercicio permitirá a los estudiantes aplicar lo aprendido sobre variables, tipos de datos y operadores en una situación práctica.
+Para poner en práctica lo aprendido, los estudiantes deben escribir un programa simple que solicite al usuario su nombre y edad, muestre un mensaje de saludo personalizado e informe cuántos años tendrá el usuario en 10 años. Este ejercicio permitirá a los alumnos aplicar los conocimientos adquiridos sobre variables, entrada/salida de datos y operaciones básicas.
 
-- Variables y tipos de datos se utilizan para almacenar información.
-- La indentación es fundamental en Python para definir bloques de código.
-- Comentarios ayudan a documentar el código.
+- Variables y tipos de datos.
+- Estructuras de control y funciones.
