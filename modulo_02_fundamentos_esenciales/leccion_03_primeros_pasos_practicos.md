@@ -1,15 +1,12 @@
 # Primeros pasos practicos
 
-## Objetivos
-- Familiarizar al estudiante con la instalación y configuración de Python.
-- Introducir los conceptos básicos del entorno de desarrollo integrado (IDE) para Python.
+- Familiarizarse con la instalación y configuración de Python.
+- Comenzar a escribir y ejecutar programas básicos en Python.
 
-## Contenido
-En esta lección, se profundizará en los primeros pasos necesarios para comenzar a programar en Python. Se explicará cómo instalar Python y seleccionar un IDE adecuado que permita una mayor productividad al escribir código. Además, se presentarán los conceptos fundamentales de la sintaxis básica y el uso de variables, lo cual es esencial para cualquier programador que quiera comenzar a explorar este lenguaje de programación.
+En esta lección se introducirá a los estudiantes en los primeros pasos para comenzar a programar con Python. Se explicará cómo instalar Python, seleccionando una versión adecuada según las necesidades del estudiante (3.9 o superior). Posteriormente, se guiará al estudiante a través de la configuración del entorno de desarrollo integrado (IDE) de su elección, como PyCharm o Visual Studio Code, y cómo escribir y ejecutar un programa simple que imprima "¡Hola, mundo!".
 
-## Ejercicio
-Escribe un pequeño programa en Python que solicite al usuario su nombre y edad. El programa deberá imprimir una frase personalizada que indique cuántos años le faltan para llegar a los 100 años. Por ejemplo, si el usuario tiene 25 años, la salida debería ser: "Faltan 75 años para que tengas 100".
+El ejercicio consistirá en instalar Python y elegir un IDE, luego crear un nuevo proyecto, escribir el código para imprimir "¡Hola, mundo!", y ejecutarlo para verificar que funcione correctamente. Los estudiantes deberán documentar cada paso del proceso y cualquier error o problema encontrado durante la instalación y ejecución.
 
-## Resumen
-- Se ha cubierto la instalación de Python y la elección del IDE.
-- Se han introducido los conceptos básicos de variables y entrada/salida en Python.
+- Instalación de Python.
+- Configuración del IDE.
+- Escribe y ejecuta un programa simple.
