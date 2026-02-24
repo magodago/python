@@ -1,12 +1,19 @@
 # Terminologia basica
 
-- Comprender y utilizar correctamente los términos básicos de Python para facilitar la comunicación entre programadores.
-- Identificar y explicar las principales características de un programa en Python.
+Objetivos
+- Comprender los conceptos básicos de programación utilizados en Python.
+- Familiarizarse con la terminología fundamental del lenguaje.
 
-En esta lección se exploran los conceptos fundamentales que cualquier programador debe conocer al trabajar con Python. Se abordarán temas como variables, tipos de datos, estructuras de control (condicionales y bucles) y funciones. Estos elementos forman la base sobre la cual se construyen programas en Python, permitiendo a los estudiantes comprender cómo el lenguaje organiza y manipula información.
+Contenido
+La terminología básica es crucial para cualquier aprendizaje de programación, y en el caso de Python, se presentan términos que son distintivos y útiles. Los principales conceptos incluyen variables, tipos de datos, operadores y funciones. Las variables permiten almacenar información en memoria del programa, mientras los tipos de datos definen el tipo específico de información (entero, flotante, cadena, booleano, etc.). Los operadores se utilizan para realizar operaciones matemáticas o lógicas sobre estos datos. Finalmente, las funciones son bloques de código reutilizables que realizan tareas específicas y pueden recibir parámetros como entrada.
 
-Para practicar, los alumnos deberán escribir un programa que solicite al usuario su nombre y edad, muestre un mensaje de bienvenida personalizado y calcule cuántos años tendrá el usuario en 10 años. Este ejercicio permitirá a los estudiantes aplicar los conceptos aprendidos sobre variables, entrada/salida de datos y operaciones matemáticas básicas.
+Ejercicio
+Crea un programa simple en Python que realice lo siguiente:
+1. Solicita al usuario que ingrese su nombre.
+2. Almacena el nombre en una variable llamada `nombre`.
+3. Imprime "¡Hola, [nombre]!" en la consola, donde `[nombre]` es el valor ingresado por el usuario.
 
-- Variables y tipos de datos
-- Estructuras de control para procesamiento lógico
-- Funciones para organizar el código
+Resumen
+- Variables y tipos de datos son fundamentales para almacenar y manipular información.
+- Operadores permiten realizar cálculos o comparaciones entre variables.
+- Las funciones facilitan la reutilización del código y encapsulan tareas específicas.
