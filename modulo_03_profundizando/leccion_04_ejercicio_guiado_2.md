@@ -1,33 +1,31 @@
 # Ejercicio guiado 2
 
-### Objetivos
-- Familiarizarse con la manipulación de listas y diccionarios en Python.
-- Aprender a utilizar funciones para procesar datos complejos.
+## Objetivos
+- Familiarizar al estudiante con la manipulación de listas complejas y su uso en funciones.
+- Introducir la utilización de bucles anidados para procesar datos en Python.
 
-### Contenido
-En esta lección, profundizaremos en el manejo avanzado de colecciones en Python, centrándonos específicamente en las listas y los diccionarios. Veremos cómo realizar operaciones complejas como la manipulación de elementos dentro de estas estructuras de datos, así como cómo utilizar funciones para automatizar tareas repetitivas. A través de ejemplos prácticos, aprenderás a organizar y procesar datos de manera eficiente.
+## Contenido
+En esta lección, profundizaremos en el manejo avanzado de listas. Veremos cómo crear, modificar y manipular listas complejas utilizando diversas técnicas. Además, exploraremos el uso de bucles anidados para realizar operaciones sobre elementos dentro de estas estructuras de datos. Este conocimiento es fundamental para procesar grandes cantidades de datos de manera eficiente en Python.
 
-Por ejemplo, podrás trabajar con listas para realizar operaciones matemáticas complejas sobre conjuntos de datos, o utilizar diccionarios para gestionar información no estructurada de forma dinámica. Además, se explorará cómo combinar estas estructuras de datos con funciones para crear programas más robustos y versátiles.
+Para ilustrar estos conceptos, veremos ejemplos prácticos donde se crean listas multidimensionales y luego se manipulan utilizando bucles anidados. Esto permitirá al estudiante comprender cómo trabajar con datos estructurados complejos y realizar operaciones sobre ellos de manera eficiente.
 
-### Ejercicio
+## Ejercicio
 Dado el siguiente código:
 
 ```python
-def procesa_datos(datos):
-    # Tu tarea es completar esta función.
-    pass
+def procesar_datos(datos):
+    resultados = []
+    for lista in datos:
+        nueva_lista = [elemento * 2 for elemento in lista]
+        resultados.append(nueva_lista)
+    return resultados
 
-datos = [
-    {"nombre": "Juan", "edad": 25, "ciudad": "Madrid"},
-    {"nombre": "Ana", "edad": 30, "ciudad": "Barcelona"},
-    {"nombre": "Carlos", "edad": 35, "ciudad": "Valencia"}
-]
-
-procesa_datos(datos)
+datos = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ```
 
-Completa la función `procesa_datos` para que imprima el nombre y la edad de todas las personas en la lista de diccionarios. Luego, modifica la función para que ordene los datos por edad en orden descendente.
+Modifica el código para que en lugar de multiplicar cada elemento por 2, sume 1 a cada elemento y luego multiplique el resultado por 3. Luego, aplica esta función a una nueva lista de datos multidimensionales.
 
-### Resumen
-- Se profundiza en la manipulación de listas y diccionarios.
-- Se aprende a utilizar funciones para automatizar tareas complejas con estos tipos de datos.
+## Resumen
+- Se aprendió a manipular listas complejas mediante la creación y modificación.
+- Se introdujo el uso de bucles anidados para procesar elementos dentro de estas estructuras.
+- Se practicó la aplicación de operaciones en listas multidimensionales utilizando funciones.
