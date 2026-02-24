@@ -1,11 +1,11 @@
 # Actualizaciones
 
-- Los alumnos aprenderán sobre las actualizaciones de Python y cómo mantenerse informado sobre ellas.
-- Comprenderán la importancia de seguir las actualizaciones para aprovechar nuevas funcionalidades y mejoras de rendimiento.
+- Comprender las formas de mantenerse actualizado con las últimas versiones y mejoras de Python.
+- Identificar fuentes confiables para obtener información sobre nuevas características y cambios en la sintaxis.
 
-Python es un lenguaje de programación dinámicamente tipado que se renueva constantemente con nuevas versiones. Estas actualizaciones pueden incluir mejoras en el rendimiento, corrección de errores, introducción de nuevas funciones y bibliotecas, así como cambios en la sintaxis o comportamiento del lenguaje. Mantenerse al día con estas actualizaciones es crucial para los programadores que desean aprovechar las últimas características y optimizar su código.
+Python es un lenguaje de programación dinámico que se actualiza regularmente, incorporando nuevas funcionalidades y corrigiendo errores. Mantenerse al día con estas actualizaciones es crucial para aprovechar al máximo las capacidades del lenguaje. Una forma efectiva de hacerlo es suscribirse a la lista de correo de Python (mailing list) o seguir el blog oficial de Python, donde se anuncian regularmente nuevas versiones y cambios significativos en la sintaxis. Además, los repositorios oficiales de GitHub como el de PEPs (Python Enhancement Proposals) son una excelente fuente para entender las propuestas y mejoras que están siendo consideradas o implementadas.
 
-Para practicar, los alumnos deberán revisar el sitio web oficial de Python (https://www.python.org/) y buscar la sección dedicada a las actualizaciones. Deberán identificar al menos tres cambios significativos en una versión reciente del lenguaje y explicar cómo estos cambios podrían afectar el desarrollo de programas existentes o mejorar su eficiencia.
+Para practicar esta lección, busca y lee el resumen del último informe de Python 3.10, disponible en el sitio web oficial de Python. Identifica tres nuevas características importantes mencionadas en el resumen y explícalas brevemente, indicando cómo podrían ser útiles en proyectos de programación.
 
-- Los alumnos entenderán la importancia de seguir las actualizaciones de Python.
-- Serán capaces de buscar información sobre las últimas versiones y mejoras en el sitio web oficial.
+- Comprender las fuentes de información para actualizaciones de Python.
+- Identificar y explicar nuevas características de una versión reciente de Python.
