@@ -1,15 +1,11 @@
 # Diagnostico
 
-### Objetivos
-- Comprender los métodos básicos para diagnosticar problemas de rendimiento en programas Python.
-- Identificar y corregir errores comunes mediante la interpretación de mensajes de error.
+- Comprender los métodos básicos de diagnóstico de problemas comunes en Python.
+- Identificar y corregir errores de sintaxis y lógica en programas de Python.
 
-### Contenido
-La optimización del código y el diagnóstico de problemas son habilidades cruciales para cualquier programador. En esta lección, aprenderemos a utilizar herramientas y técnicas efectivas para identificar y solucionar problemas que afecten al rendimiento de nuestros programas Python. Comenzaremos por entender cómo leer y analizar mensajes de error, ya que estos pueden proporcionarnos pistas valiosas sobre lo que está fallando en nuestro código. Posteriormente, exploraremos la utilización de módulos como `timeit` para medir el tiempo de ejecución de diferentes partes del programa, y `cProfile` para realizar un perfilaje de rendimiento detallado.
+El diagnóstico es un paso crucial para resolver problemas en el desarrollo de software. En Python, este proceso implica identificar y corrigir errores que pueden surgir durante la ejecución del código. Los errores más comunes incluyen problemas de sintaxis, como la falta de paréntesis o comillas, y errores lógicos donde el programa no realiza las operaciones esperadas debido a malas decisiones en el diseño del algoritmo. Para diagnosticar estos problemas, es importante utilizar herramientas como los mensajes de error proporcionados por Python, que indican exactamente dónde se ha producido el fallo, y también entender la estructura y el flujo del código para rastrear posibles errores lógicos.
 
-### Ejercicio
-Escribe un script que calcule la suma de los primeros 1000 números enteros. Utiliza `timeit` para medir el tiempo de ejecución antes y después de optimizar tu código, y compara ambos resultados. Posteriormente, utiliza `cProfile` para analizar el perfil de rendimiento del script optimizado.
+Para practicar, realiza el siguiente ejercicio: Escribe un programa en Python que calcule el promedio de una lista de números. Asegúrate de manejar correctamente los casos donde la lista puede estar vacía o contener valores no numéricos. Luego, ejecuta tu código y utiliza los mensajes de error para corregir cualquier problema que aparezca.
 
-### Resumen
-- Se aprende a interpretar mensajes de error para identificar problemas.
-- Se utilizan herramientas como `timeit` y `cProfile` para mejorar la eficiencia del código.
+- Familiarizarse con el uso de mensajes de error para identificar problemas de sintaxis.
+- Practicar la corrección de errores lógicos en programas simples de Python.
