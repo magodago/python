@@ -1,11 +1,11 @@
 # Donde seguir aprendiendo
 
-- Los alumnos aprenderán sobre las comunidades de Python y cómo participar en ellas.
-- Los estudiantes comprenderán la importancia de la continuidad en su aprendizaje de Python.
+- El estudiante comprenderá las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
+- El estudiante identificará y evaluará fuentes de aprendizaje apropiadas según su nivel actual y objetivos.
 
-En esta lección, se explorará el panorama de las comunidades de Python y cómo estas pueden ser un recurso invaluable para continuar creciendo como desarrolladores. Se abordarán diferentes plataformas donde los estudiantes pueden encontrar tutoriales avanzados, discutir problemas con otros programadores o contribuir a proyectos open source. Además, se destacará la importancia de mantenerse actualizado con las últimas novedades en el lenguaje y en la comunidad.
+El contenido de esta lección se centra en la exploración de diferentes comunidades y recursos que permiten al estudiante seguir creciendo en sus conocimientos de Python. Se abordarán plataformas como Codecademy, Coursera y edX, que ofrecen cursos estructurados con certificados; foros como Stack Overflow y Reddit, donde se pueden resolver dudas y aprender de la experiencia de otros programadores; y comunidades locales o en línea a través de meetups y grupos de Facebook. Además, se mencionarán recursos gratuitos como la documentación oficial de Python, tutoriales en YouTube y repositorios en GitHub que proporcionan ejemplos prácticos.
 
-Para este ejercicio, los estudiantes deben elegir una plataforma de desarrollo comunitario (como Stack Overflow, GitHub o Reddit) y realizar una búsqueda sobre un tema avanzado de Python. Posteriormente, deben participar en una discusión o contribuir con un código a un proyecto open source relacionado con ese tema.
+Para el ejercicio, los estudiantes deberán seleccionar tres plataformas o recursos de aprendizaje que les interesen y realizar una breve evaluación sobre su utilidad para un nivel intermedio en Python. Deben justificar por qué creen que son útiles y cómo pueden ayudarles a mejorar sus habilidades.
 
-- Los alumnos entenderán cómo integrarse en las comunidades de Python.
-- La continuidad es fundamental para el crecimiento como desarrollador de Python.
+- Los estudiantes identificarán diversas fuentes de aprendizaje disponibles.
+- Evaluarán la relevancia de estos recursos según su nivel actual y objetivos.
