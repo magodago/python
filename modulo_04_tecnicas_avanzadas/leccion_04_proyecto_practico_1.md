@@ -1,10 +1,11 @@
 # Proyecto practico 1
 
-- Implementar una clase que simule un banco y permita la creación de cuentas, depósitos y retiros.
-- Desarrollar una función que genere reportes diarios de todas las transacciones realizadas en el sistema.
+- Comprender la integración de múltiples módulos en un proyecto Python.
+- Desarrollar habilidades para manejar excepciones y errores de manera eficiente.
 
-La lección se centrará en aplicar técnicas avanzadas de programación en Python para desarrollar un proyecto práctico. Los estudiantes aprenderán a crear clases complejas, manejar herencia y polimorfismo, así como implementar funcionalidades de gestión bancaria básicas. Este ejercicio les permitirá consolidar su conocimiento sobre la estructura de datos y el diseño orientado a objetos en Python.
+En esta lección del módulo de técnicas avanzadas, se profundizará en la construcción de un proyecto práctico que requiere el uso de varios módulos de Python. El objetivo es aplicar conocimientos previos sobre estructuras de datos complejas, manejo de archivos y programación orientada a objetos para crear una aplicación funcional. Los estudiantes aprenderán a modularizar su código, gestionar excepciones con eficacia y optimizar el rendimiento del programa.
 
-Ejercicio: Crea una clase `Banco` que contenga métodos para crear cuentas (`Cuenta`), realizar depósitos y retiros, y generar un reporte diario. La clase `Cuenta` debe tener atributos como número de cuenta, saldo inicial, y métodos para depositar y retirar dinero.
+Para este ejercicio, se les pedirá a los alumnos que desarrollen un sistema simple de gestión bibliotecaria. El sistema debe permitir la adición, eliminación y búsqueda de libros en una base de datos local. Los estudiantes deberán utilizar módulos como `sqlite3` para interactuar con la base de datos y `os` para manejar archivos. Además, se les pedirá que implementen un menú interactiva utilizando `input()` y `print()`. El ejercicio incluirá la gestión de excepciones para capturar errores comunes durante la ejecución del programa.
 
-Resumen - Se ha desarrollado una clase `Banco` con funcionalidades bancarias básicas. - Se ha implementado la herencia y polimorfismo a través de la clase `Cuenta`. - Se ha generado un reporte diario de transacciones, consolidando el uso de métodos y clases en Python.
+- Modularización del código.
+- Uso eficiente de módulos y manejo de excepciones.
