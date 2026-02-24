@@ -1,11 +1,21 @@
 # Nivel avanzado
 
-- Dominar la optimización de código mediante técnicas avanzadas.
-- Implementar patrones de diseño y librerías para resolver problemas complejos.
+### Objetivos
+- Comprender la optimización de código mediante técnicas avanzadas.
+- Aprender a utilizar el módulo `multiprocessing` para mejorar el rendimiento del programa.
 
-Python es un lenguaje de programación versátil que ofrece una gran cantidad de bibliotecas y frameworks para resolver problemas complejos. En este nivel avanzado, se explorará la optimización del código mediante técnicas como el uso eficiente de list comprehensions, generator expressions y decoradores. Además, se profundizará en patrones de diseño como el Singleton y el Factory Method, que pueden ser utilizados para mejorar la estructura y mantenibilidad del código.
+### Contenido
+En esta lección, se profundizará en técnicas que permiten optimizar el rendimiento y eficiencia del código Python. Se explorará la utilización de la biblioteca `multiprocessing`, que permite ejecutar tareas en paralelo utilizando múltiples procesos, lo cual es especialmente útil para tareas intensivas en CPU o que requieren acceso a recursos externos como bases de datos o archivos.
 
-Para practicar estos conceptos, los estudiantes deberán optimizar un script que procesa grandes cantidades de datos. El objetivo es mejorar la eficiencia del código original utilizando list comprehensions y generator expressions en lugar de bucles for tradicionales. Los estudiantes también deberán implementar el patrón Singleton para asegurar que una clase tenga solo una instancia y proporcionar un punto de acceso global a ella.
+Se discutirá cómo crear y gestionar procesos utilizando el módulo `multiprocessing`, incluyendo la creación de procesos, comunicación entre ellos mediante colas y pipes, y manejo de excepciones. Se proporcionará un ejemplo práctico donde se implementa una aplicación que realiza cálculos intensivos en paralelo.
 
-- Optimización mediante list comprehensions y generator expressions.
-- Implementación del patrón Singleton para controlar la creación de instancias.
+### Ejercicio
+Implemente un programa que calcule el factorial de números grandes utilizando múltiples procesos para dividir la tarea entre ellos. El programa debe:
+1. Pedir al usuario un número entero positivo.
+2. Dividir el trabajo entre 4 procesos, cada uno calculando el factorial de una porción del rango de números (por ejemplo, si el número es 100, los procesos pueden calcular el factorial de 1 a 25, 26 a 50, etc.).
+3. Utilice `multiprocessing.Queue` para comunicar los resultados entre los procesos.
+4. Imprimir el tiempo total necesario para completar la tarea y compararlo con una implementación secuencial.
+
+### Resumen
+- Se aprendió cómo utilizar el módulo `multiprocessing` para mejorar el rendimiento de aplicaciones Python mediante la ejecución paralela de tareas.
+- Se destacó la importancia de la comunicación entre procesos utilizando colas (`Queue`) y pipes.
