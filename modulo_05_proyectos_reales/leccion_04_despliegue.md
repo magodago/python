@@ -1,15 +1,11 @@
 # Despliegue
 
 - Entender los conceptos básicos de despliegue de aplicaciones Python.
-- Aprender a utilizar un entorno virtual y herramientas de gestión de paquetes para preparar la aplicación antes del despliegue.
+- Aprender a configurar un entorno de desarrollo para la implementación de proyectos Python.
 
-Para el despliegue de una aplicación Python, es crucial tener en cuenta varios aspectos clave. En primer lugar, se recomienda el uso de un entorno virtual para aislar las dependencias de la aplicación de las del sistema operativo. Esto asegura que la aplicación funcione correctamente incluso si otros proyectos o aplicaciones utilizan versiones diferentes de los mismos paquetes. Además, es importante utilizar herramientas como `pip` y `virtualenv` (o `venv` en Python 3.3+) para gestionar las dependencias del proyecto.
+El despliegue de una aplicación Python implica asegurarse de que el código funcione correctamente en un entorno de producción. Esto incluye la selección del servidor web, la configuración del entorno de ejecución y la optimización del rendimiento. Es crucial tener en cuenta factores como la seguridad, la escalabilidad y la compatibilidad con diferentes sistemas operativos.
 
-En segundo lugar, se deben preparar los archivos necesarios para el despliegue, como el archivo `requirements.txt`, que lista todas las dependencias de la aplicación, y el archivo `setup.py`, que define cómo instalar la aplicación. Estos archivos facilitan el proceso de despliegue en diferentes entornos.
+Para practicar estos conceptos, los estudiantes deberán desplegar una aplicación simple creada previamente utilizando Flask o Django, en un servidor local o en la nube. Los pasos incluirán instalar el framework elegido, configurar el entorno de desarrollo y producción, y probar la aplicación en diferentes ambientes.
 
-### Ejercicio
-Despliega una pequeña aplicación Python en un servidor local utilizando un entorno virtual. Primero, crea un entorno virtual y asegúrate de que las dependencias especificadas en `requirements.txt` se instalan correctamente. Luego, configura un archivo `setup.py` para la aplicación e implementa el despliegue.
-
-### Resumen
-- El uso de entornos virtuales es crucial para garantizar la consistencia y seguridad del despliegue.
-- Los archivos `requirements.txt` y `setup.py` son fundamentales para preparar la aplicación antes del despliegue.
+- Familiaridad con los conceptos básicos del despliegue de aplicaciones Python.
+- Capacidades para configurar un servidor web local o en la nube.
