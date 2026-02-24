@@ -1,15 +1,18 @@
 # Optimizacion
 
-### Objetivos
+## Objetivos
 - Comprender las técnicas de optimización para mejorar la eficiencia del código Python.
-- Implementar algoritmos de optimización en programas prácticos.
+- Implementar algoritmos de optimización básicos y medir su rendimiento.
 
-### Contenido
-La optimización es crucial para mejorar el rendimiento y la eficiencia de los programas escritos en Python. Algunas técnicas fundamentales incluyen la compresión de listas, el uso de decoradores `@lru_cache` para memoización, y la gestión adecuada de estructuras de datos. La comprensión de listas permite crear listas de manera más eficiente, evitando bucles innecesarios. El decorador `@lru_cache` es útil para acelerar funciones recursivas o que realizan cálculos costosos al almacenar y reutilizar resultados previos. Además, elegir la estructura de datos adecuada puede tener un gran impacto en el rendimiento del programa.
+## Contenido
+En esta lección, se explorará cómo optimizar el código en Python mediante diversas técnicas. La eficiencia es crucial cuando trabajamos con grandes conjuntos de datos o aplicaciones que requieren altas velocidades de procesamiento. Se abordarán temas como la eliminación de bucles innecesarios, el uso de listas comprensivas y funciones puras en lugar de funciones impuras, así como la optimización del uso de módulos y bibliotecas externas para mejorar el rendimiento.
 
-### Ejercicio
-Implementa una función `fibonacci` utilizando memoización con el decorador `@lru_cache`. La función debe calcular los primeros 50 números de la secuencia de Fibonacci y medir el tiempo de ejecución antes y después de aplicar la optimización. Compara los tiempos y explica los resultados.
+Se explicará cómo utilizar perfiles de rendimiento (profilers) para identificar los puntos críticos donde se puede aplicar mejoras. Se proporcionarán ejemplos prácticos en los que se demostrará cómo transformar un código menos eficiente a uno más optimizado, con énfasis en mantener la legibilidad del código.
 
-### Resumen
-- La comprensión de listas y el uso de decoradores son técnicas efectivas para optimizar código Python.
-- La memoización puede reducir significativamente el tiempo de ejecución en funciones recursivas o que realizan cálculos repetitivos.
+## Ejercicio
+Implemente una función que calcule el producto de todos los números pares hasta n. Primero, escriba una versión básica utilizando bucles y luego optimice su implementación utilizando listas comprensivas y funciones puras. Mida el tiempo de ejecución de ambas versiones usando `timeit` e indique cuál es más eficiente.
+
+## Resumen
+- Se identificaron técnicas para optimizar el código Python, incluyendo la eliminación de bucles innecesarios.
+- Se demostró cómo utilizar listas comprensivas y funciones puras para mejorar la eficiencia del código.
+- Se utilizó `timeit` para medir y comparar el rendimiento de diferentes implementaciones.
