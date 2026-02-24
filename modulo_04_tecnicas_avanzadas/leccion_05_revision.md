@@ -1,16 +1,30 @@
 # Revision
 
 ## Objetivos
-- Revisar y consolidar los conceptos avanzados de Python.
-- Analizar casos prácticos para aplicar técnicas complejas.
+- Comprender y aplicar técnicas avanzadas de programación con Python.
+- Analizar y optimizar código existente utilizando patrones de diseño.
 
 ## Contenido
-En esta lección, se revisará detenidamente el uso de decoradores en Python, su propósito y cómo pueden ser utilizados para modificar comportamientos de funciones o métodos sin alterar su estructura. Se explorará también la implementación de patrones de diseño como Singleton y Factory Method, destacando sus ventajas y desventajas frente a otras soluciones. Se profundizará en el manejo de excepciones avanzado, incluyendo la creación personalizada de excepciones y la gestión jerárquica de excepciones.
+En esta lección revisaremos técnicas avanzadas en Python, enfocándonos en la optimización del código y el uso efectivo de patrones de diseño. Veremos cómo mejorar el rendimiento y la legibilidad del código a través de la utilización de decoradores, métodos de clase estáticos y propiedades de clase. Además, exploraremos cómo implementar patrones de diseño como Singleton y Factory para resolver problemas comunes en la programación orientada a objetos.
 
 ## Ejercicio
-Implemente un decorador que mida el tiempo de ejecución de una función matemática compleja, como la factorización de números grandes. Luego, utilice este decorador para medir el tiempo de ejecución de diferentes funciones matemáticas y compare los resultados.
+Dado el siguiente código:
+
+```python
+class Persona:
+    def __init__(self, nombre):
+        self.nombre = nombre
+
+def saludar(persona):
+    return f"Hola, {persona.nombre}"
+
+personas = [Persona("Juan"), Persona("María"), Persona("Pedro")]
+
+# Implemente una función que utilice un decorador para contar cuántas veces se llama a la función `saludar`.
+```
+
+Implemente el código necesario para cumplir con este requisito y luego optimice la función `saludar` utilizando métodos de clase estáticos o propiedades de clase.
 
 ## Resumen
-- Decoradores: su uso y aplicación.
-- Patrones de diseño: Singleton y Factory Method.
-- Gestión avanzada de excepciones.
+- Se revisaron técnicas avanzadas como decoradores, métodos de clase estáticos y propiedades de clase.
+- Se exploró cómo implementar patrones de diseño para mejorar el código.
