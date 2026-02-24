@@ -1,9 +1,13 @@
 # Recursos de la comunidad
 
-- Los estudiantes aprenderán a identificar y utilizar recursos de la comunidad Python para mejorar su aprendizaje.
+- Familiarizarse con los recursos de la comunidad Python disponibles.
+- Identificar y evaluar herramientas y plataformas para colaborar y aprender.
 
-- En esta lección se explorarán los diversos recursos disponibles en línea que pueden ayudar a los estudiantes a profundizar en sus conocimientos de Python, como foros de discusión, repositorios de código, documentación oficial y grupos locales o virtuales. Se enfatizará la importancia de participar activamente en estas comunidades para resolver problemas, compartir conocimientos e inspirarse mutuamente.
+La lección se centrará en explorar los diversos recursos que ofrece la comunidad Python, desde foros y listas de correo hasta repositorios de código abierto. Se destacará cómo estas herramientas facilitan el aprendizaje continuo y la colaboración entre desarrolladores, permitiendo a los estudiantes acceder a soluciones, consejos y proyectos de otros miembros de la comunidad.
 
-- Los estudiantes deberán buscar y presentar a sus compañeros un recurso útil que hayan encontrado durante el curso del módulo. Deberán explicar brevemente qué tipo de contenido ofrece y cómo les ha sido de utilidad en su aprendizaje.
+Los recursos clave incluyen plataformas como Stack Overflow para resolver problemas técnicos, GitHub para colaborar en proyectos de código abierto, y el sitio oficial de Python.org para obtener documentación y noticias. Además, se discutirá cómo participar activamente en estas comunidades puede mejorar las habilidades de programación y fomentar la continuidad del aprendizaje.
 
-- Los estudiantes entenderán la importancia de involucrarse en la comunidad Python para continuar creciendo como desarrolladores y adquirir nuevas habilidades.
+**Ejercicio:** Buscar y evaluar tres recursos de la comunidad Python que puedan ser útiles para un proyecto actual o futuro. Escribir una breve reseña sobre cada uno, explicando cómo podría utilizarse en el desarrollo de software.
+
+- Familiarizarse con los recursos disponibles.
+- Identificar herramientas prácticas para colaborar y aprender.
