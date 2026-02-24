@@ -1,29 +1,17 @@
 # Problemas frecuentes
 
 ## Objetivos
-- Identificar y resolver problemas comunes relacionados con errores de sintaxis y lógica en Python.
-- Mejorar la eficiencia del código mediante la optimización de funciones y estructuras de datos.
+- Identificar y resolver problemas comunes relacionados con la sintaxis de Python.
+- Mejorar el rendimiento del código a través de técnicas básicas.
 
 ## Contenido
-En esta lección, se abordarán los problemas frecuentes que pueden surgir durante el desarrollo de programas en Python. Comenzaremos con errores de sintaxis, que son comunes cuando hay un problema con la gramática del lenguaje, como la falta de una coma o paréntesis. Para resolver estos errores, es crucial revisar cuidadosamente el código y utilizar herramientas de depuración integradas en los entornos de desarrollo.
+A lo largo de este módulo, se abordarán algunos de los problemas más frecuentes que pueden surgir al programar en Python. Uno de ellos es la comprobación y corrección de errores de sintaxis, ya que estos pueden ser difíciles de identificar si no se tiene experiencia. Por ejemplo, olvidar cerrar paréntesis o usar un operador incorrecto pueden causar errores de sintaxis que ralentizan el desarrollo del programa.
 
-Además, se discutirá cómo mejorar el rendimiento del código mediante técnicas de optimización. Esto incluirá la utilización eficiente de funciones, la compresión de listas y la gestión adecuada de memoria para evitar sobrecargas innecesarias. Se proporcionarán ejemplos prácticos de cómo reescribir código menos eficiente en versiones más óptimas.
+Además, se discutirá cómo optimizar el rendimiento del código. Esto incluye la compresión de listas y diccionarios, que son eficientes en Python pero su uso inadecuado puede llevar a un aumento significativo en el tiempo de ejecución. Se proporcionarán ejemplos prácticos para entender cómo reemplazar bucles innecesarios con métodos más eficientes.
 
 ## Ejercicio
-Reescribe el siguiente código para corregir los errores de sintaxis y mejorar su rendimiento:
-
-```python
-def calcular_suma(lista):
-    suma = 0
-    for i in range(len(lista)):
-        suma += lista[i]
-    return sum
-
-calcular_suma([1, 2, 3, 4])
-```
-
-Corrige el error de sintaxis y ajusta la función para que devuelva correctamente la suma de los elementos de la lista.
+Escribe una función que genere una lista de números pares hasta 100 utilizando comprensión de listas y luego compara su rendimiento con un bucle `for` tradicional. Mide el tiempo de ejecución de ambas versiones del código e interpreta los resultados.
 
 ## Resumen
-- Se han identificado y corregido errores comunes en Python relacionados con sintaxis.
-- Se ha optimizado código mediante técnicas como la compresión de listas y el uso eficiente de funciones.
+- La corrección de errores de sintaxis es crucial para evitar problemas en la ejecución del programa.
+- Mejorar el rendimiento mediante técnicas como la comprensión de listas puede resultar en un código más eficiente y rápido.
