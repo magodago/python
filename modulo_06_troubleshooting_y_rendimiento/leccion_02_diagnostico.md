@@ -1,23 +1,11 @@
 # Diagnostico
 
-- Comprender los métodos básicos de diagnóstico de errores en Python.
-- Identificar y corregir problemas comunes relacionados con rendimiento.
+- Comprender los métodos básicos de diagnóstico de problemas comunes en Python.
+- Identificar y corregir errores en el código para mejorar la eficiencia del programa.
 
-En esta lección sobre diagnóstico, se explorarán técnicas para identificar y resolver errores en el código Python. Se discutirá cómo utilizar la consola de depuración incorporada de Python (PDB) para rastrear errores y entender su origen. Además, se presentarán herramientas como `timeit` y `cProfile` para analizar el rendimiento del código y optimizarlo según sea necesario.
+El diagnóstico es un paso crucial en el desarrollo de software. En este módulo, se enfatiza la importancia de identificar y resolver problemas de manera eficiente. Los estudiantes aprenderán a utilizar herramientas como `pdb` (Python Debugger) para depurar código y encontrar errores. También se cubrirá cómo usar `logging` para registrar eventos y mensajes de diagnóstico que pueden ayudar en el proceso de resolución de problemas.
 
-El objetivo es equipar a los estudiantes con las habilidades necesarias para abordar problemas de depuración y rendimiento de manera eficiente. Se recomienda que los alumnos practiquen la utilización de estas herramientas en ejercicios reales, lo que permitirá una mejor comprensión del material.
+Para ejemplificar, los estudiantes realizarán un ejercicio donde deben identificar y corregir errores en un script de Python que calcula la suma de una serie de números. El código original contiene varios errores sintácticos y lógicos que los alumnos deberán detectar y solucionar utilizando `pdb` para depurar el programa.
 
-Ejercicio: Analiza el siguiente código Python que intenta calcular la suma de los primeros 1000 números enteros y utiliza `timeit` para medir su rendimiento. Identifica posibles mejoras en el código y realiza las modificaciones necesarias para optimizarlo.
-
-```python
-def sumar_numeros(n):
-    return (n * (n + 1)) // 2
-
-tiempo = timeit.timeit('sumar_numeros(1000)', globals=globals(), number=1)
-print(f"Tiempo de ejecución: {tiempo} segundos")
-```
-
-Resumen:
-- Se aprendió a utilizar la consola de depuración PDB para identificar errores.
-- Se introdujo el uso de `timeit` y `cProfile` para evaluar y optimizar el rendimiento del código.
-- Las técnicas enseñadas permiten un diagnóstico efectivo de problemas de depuración y rendimiento en Python.
+- Familiaridad con `pdb` y su uso en depuración.
+- Capacidad para identificar y corregir errores de código mediante el registro de eventos con `logging`.
