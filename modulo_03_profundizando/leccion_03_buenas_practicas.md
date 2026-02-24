@@ -1,12 +1,18 @@
 # Buenas practicas
 
-- Mejorar la legibilidad y mantenibilidad del código.
-- Optimizar el rendimiento de las aplicaciones mediante buenas prácticas.
+## Objetivos
+- Comprender y aplicar las buenas prácticas de codificación en Python.
+- Familiarizarse con la importancia del estilo de código uniforme.
 
-Python es una lengua de programación que promueve la claridad y eficiencia, pero para aprovechar al máximo su potencial, es crucial seguir ciertas convenciones y mejores prácticas. En esta lección, aprenderemos sobre el uso de nombres de variables y funciones descriptivos, la importancia del formato PEP 8 y cómo optimizar el rendimiento mediante técnicas como la evitación innecesarias de llamadas a funciones.
+## Contenido
+En esta lección sobre buenas prácticas, se enfatizará la importancia de mantener un código limpio, legible y consistente. La comunidad de Python utiliza PEP 8 como guía estandar para el estilo de codificación, que incluye reglas detalladas sobre espaciado, indentación, nombres de variables y más. Adherirse a estas convenciones no solo facilita la lectura del código por otros desarrolladores sino que también puede ayudar a detectar errores tempranamente.
 
-Para practicar estos conceptos, los alumnos deberán refactorizar un código existente que realiza cálculos matemáticos. El objetivo es mejorar la legibilidad del código manteniendo su funcionalidad. Se les proporcionará el código original y se pedirá que lo renombren variables y funciones de manera más descriptiva, asegurándose de seguir las convenciones PEP 8.
+Las buenas prácticas en Python van más allá del estilo de codificación; incluyen el uso adecuado de comentarios, documentación y pruebas. Los comentarios deben ser claros y útiles, proporcionando información relevante sin sobrecargar el código con detalles innecesarios. La documentación debe cubrir la funcionalidad de las funciones y clases, facilitando su comprensión para otros usuarios. Finalmente, la implementación de pruebas unitarias puede ayudar a garantizar que el código funcione correctamente y se mantenga estable.
 
-- Uso de nombres descriptivos.
-- Adherencia a la guía de estilo PEP 8.
-- Mejora en la legibilidad y mantenibilidad del código.
+## Ejercicio
+Escribe una función en Python que calcule el factorial de un número entero. Asegúrate de seguir las convenciones de PEP 8 para tu código, incluyendo la indentación, los nombres de variables y los comentarios. Luego, escribe pruebas unitarias para verificar que tu función funcione correctamente con varios casos de prueba.
+
+## Resumen
+- Adherirse a PEP 8 para un estilo de codificación uniforme.
+- Incluir comentarios y documentación claras en el código.
+- Implementar pruebas unitarias para asegurar la estabilidad del código.
