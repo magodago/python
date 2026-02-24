@@ -1,24 +1,20 @@
 # Primeros pasos practicos
 
-## Objetivos
-- Familiarizarse con la instalación y configuración de Python.
-- Comprender y utilizar los primeros comandos básicos del intérprete de Python.
+- Comprender la estructura básica de un programa Python.
+- Practicar la escritura y ejecución de código simple.
 
-## Contenido
-En esta lección, exploraremos cómo instalar Python en tu sistema operativo y veremos algunos comandos esenciales que puedes ejecutar desde el intérprete interactivo. La instalación varía ligeramente dependiendo si usas Windows, macOS o Linux, pero la mayoría de las distribuciones ofrecen paquetes precompilados para facilitar este proceso.
+Para comenzar con los primeros pasos prácticos en Python, es importante familiarizarse con el entorno de desarrollo. Existen varias opciones para escribir y ejecutar programas Python: puedes utilizar un editor de texto simple como Notepad++ o Sublime Text, o un IDE (Entorno Integrado de Desarrollo) como PyCharm o Visual Studio Code con las extensiones necesarias. Una buena opción es también usar Jupyter Notebook, que permite mezclar código, texto y visualizaciones.
 
-Para comenzar, abre tu terminal o línea de comandos y ejecuta `python --version` (o `python3 --version` en sistemas que tienen Python 2 instalado). Esto te permitirá verificar si Python está correctamente configurado. Si no estás seguro de cómo instalarlo, puedes buscar "instalar Python [tu sistema operativo]" en tu motor de búsqueda preferido para obtener instrucciones paso a paso.
+Para practicar, crea un archivo llamado `primer_programa.py` en tu editor de texto favorito. Escribe el siguiente código:
 
-## Ejercicio
-Ejecuta los siguientes comandos desde el intérprete interactivo de Python:
+```python
+# Este programa imprime "¡Hola, mundo!" en la consola
 
-1. `print("¡Hola, mundo!")`
-2. `2 + 3`
-3. `5 * 6`
+print("¡Hola, mundo!")
+```
 
-Luego, guarda estos comandos en un archivo llamado `primeros_pasos.py` y ejecútalo con el comando `python primeros_pasos.py`. Observa las diferencias entre ejecutar los comandos directamente en el intérprete interactivo versus guardándolos en un archivo.
+Guarda el archivo y ejecútalo desde la terminal o línea de comandos usando el comando `python primer_programa.py`. Deberías ver la salida "¡Hola, mundo!" en la pantalla.
 
-## Resumen
-- Python puede instalarse fácilmente en diferentes sistemas operativos.
-- Los comandos básicos como `print`, `+` y `*` son fundamentales para comenzar a programar.
-- Es importante distinguir entre la ejecución de código directamente en el intérprete interactivo versus guardarlo en un archivo y ejecutarlo.
+Puntos clave:
+- Python es sensible a las mayúsculas/minúsculas.
+- El uso correcto de espacios y tabulaciones es crucial para la sintaxis.
