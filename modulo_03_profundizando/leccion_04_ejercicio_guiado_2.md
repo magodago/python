@@ -1,11 +1,30 @@
 # Ejercicio guiado 2
 
-- Familiarizarse con la manipulación de listas y diccionarios en Python.
-- Implementar funciones que operen sobre colecciones para resolver problemas complejos.
+Objetivos
+- Familiarizar al estudiante con la utilización de listas y diccionarios en Python.
+- Introducir el uso de bucles anidados para manipulación de datos complejos.
 
-En esta lección profundizaremos en la manipulación de listas y diccionarios, dos estructuras de datos fundamentales en Python. Veremos cómo realizar operaciones avanzadas como filtrado, mapeo y reducción de datos utilizando estas estructuras. Además, aprenderemos a combinar funciones con estas colecciones para resolver problemas más complejos.
+Contenido
+En esta lección profundizaremos en la manipulación de estructuras de datos más avanzadas, como las listas y los diccionarios. Aprenderemos a utilizar estos tipos de datos para almacenar y organizar información de manera eficiente. Además, exploraremos cómo combinar bucles anidados con estas estructuras para realizar operaciones complejas sobre conjuntos de datos.
 
-Para practicar, los estudiantes deberán desarrollar una función que tome una lista de diccionarios donde cada diccionario representa un libro con las claves 'título', 'autor' y 'año'. La función deberá filtrar los libros publicados después del año 2000, ordenarlos por autor y por título en caso de empate. El resultado debe ser una lista de tuplas (título, autor) para cada libro que cumpla con la condición.
+Por ejemplo, podríamos tener una lista de diccionarios donde cada diccionario contiene información detallada sobre un libro (título, autor, género). Usando bucles anidados, podríamos recorrer esta lista y extraer información específica o realizar cálculos basados en los datos del conjunto.
 
-- Comprender la manipulación avanzada de listas y diccionarios.
-- Desarrollar funciones que operen sobre colecciones de datos complejas.
+Ejercicio
+Dado el siguiente código base:
+
+```python
+libros = [
+    {"titulo": "Cien años de soledad", "autor": "Gabriel García Márquez", "género": "Realismo mágico"},
+    {"titulo": "1984", "autor": "George Orwell", "género": "Ciencia ficción"}
+]
+
+# Tu tarea es:
+# 1. Recorrer la lista de libros
+# 2. Imprimir el título y autor de cada libro en un formato legible
+
+# Aquí debes completar tu código
+```
+
+Resumen
+- Se aprendió a trabajar con listas y diccionarios para almacenar y manipular datos.
+- Se exploró cómo usar bucles anidados para procesar conjuntos de datos complejos.
