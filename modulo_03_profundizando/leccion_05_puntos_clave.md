@@ -1,11 +1,11 @@
 # Puntos clave
 
-- Comprender la utilización avanzada de listas y diccionarios.
-- Aprender a implementar funciones recursivas y comprensión de listas.
+- Comprender la utilización avanzada de las estructuras de datos en Python.
+- Implementar funciones y métodos personalizados para resolver problemas complejos.
 
-El uso avanzado de listas y diccionarios en Python es fundamental para manejar datos complejos y realizar operaciones eficientes. Las listas permiten almacenar múltiples elementos en una sola variable, lo que facilita el procesamiento masivo de datos. La comprensión de listas ofrece una sintaxis concisa para crear listas basadas en iteraciones o condiciones. Por otro lado, los diccionarios son estructuras de datos clave-valor ideales para almacenar información asociativa y permiten un acceso rápido a los elementos mediante sus claves.
+Las estructuras de datos avanzadas como diccionarios anidados, conjuntos y pilas son fundamentales para manejar datos complejos eficientemente. Por ejemplo, los diccionarios anidados permiten almacenar información jerárquica en un solo objeto, lo que es muy útil en aplicaciones de gestión de datos o configuración de sistemas. Los conjuntos se utilizan para realizar operaciones matemáticas rápidas y eficientes con elementos únicos, mientras que las pilas son ideales para problemas de procesamiento secuencial.
 
-Para ejemplificar el uso de estas estructuras, se propone la siguiente tarea: Dado una lista de números enteros, crear una nueva lista que contenga solo los números pares utilizando comprensión de listas. Posteriormente, para cada número par en la lista original, crear un diccionario con las claves siendo el número par y sus valores siendo la suma de todos los números pares hasta ese punto.
+Para practicar, crea un programa que use una pila para simular el funcionamiento de un navegador web. La pila debe almacenar URLs recientes visitadas y permitir al usuario navegar hacia adelante y atrás en la historia de navegación.
 
-- Comprender la sintaxis y aplicaciones de la comprensión de listas.
-- Implementar funciones recursivas para resolver problemas complejos.
+- Familiaridad con las pilas como estructura de datos.
+- Capacidad para implementar funciones que manipulen pilas.
