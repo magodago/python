@@ -1,13 +1,12 @@
 # Checklist final
 
-- Identificar y corregir errores comunes en el código Python.
-- Optimizar el rendimiento de programas Python mediante técnicas básicas.
+- Familiarizarse con un checklist de troubleshooting básico y avanzado para Python.
+- Optimizar el rendimiento del código mediante prácticas recomendadas y herramientas.
 
-En esta lección final del módulo de Troubleshooting y Rendimiento, se proporcionará un checklist exhaustivo para ayudar a los estudiantes a resolver problemas comunes y mejorar la eficiencia de sus programas. Este checklist cubre desde errores sintácticos hasta optimizaciones en el uso de recursos.
+El objetivo final de esta lección es que los estudiantes comprendan cómo aplicar un conjunto estructurado de pasos para resolver problemas comunes en Python, desde errores sencillos hasta situaciones más complejas. Estudiarán también técnicas para mejorar el rendimiento del código, incluyendo la optimización del uso de memoria y la gestión eficiente de recursos.
 
-Se recomienda que los alumnos revisen su código utilizando esta guía paso a paso, identificando áreas donde pueden introducir mejoras tanto en términos de funcionalidad como de velocidad de ejecución. Los estudiantes también aprenderán a utilizar herramientas de depuración y análisis de rendimiento disponibles para Python.
+Para practicar estos conceptos, los estudiantes deberán implementar un programa que resuelva problemas de rendimiento en una aplicación existente. El programa debe ser capaz de manejar grandes volúmenes de datos sin caer en errores de memoria o demoras innecesarias. Posteriormente, deben documentar sus decisiones y las mejoras realizadas utilizando el checklist de troubleshooting proporcionado.
 
-Para practicar, los alumnos deberán revisar un programa de ejemplo que realiza operaciones matemáticas complejas y optimizarlo siguiendo el checklist proporcionado. El objetivo es asegurar que todos comprendan cómo aplicar estos conceptos en situaciones reales.
-
-- Utilización efectiva del checklist para resolver problemas.
-- Mejora significativa en la eficiencia de los programas Python.
+Los puntos clave a retener son:
+- La importancia de un checklist estructurado para abordar problemas de Python.
+- Estrategias efectivas para optimizar el rendimiento del código.
