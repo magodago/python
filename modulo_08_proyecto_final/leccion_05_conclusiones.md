@@ -1,15 +1,10 @@
 # Conclusiones
 
-Objetivos
-- Reflexionar sobre los conocimientos adquiridos durante el curso de Python.
-- Identificar las habilidades y competencias desarrolladas al finalizar el módulo.
+- Conocer las aplicaciones prácticas de Python en proyectos reales.
+- Analizar los desafíos y soluciones encontradas durante la realización del proyecto final.
 
-Contenido
-En esta lección final del módulo, es importante que reflexionen sobre todo lo aprendido en el curso de Python. Durante este recorrido, hemos explorado desde los fundamentos básicos hasta la implementación avanzada de diversas estructuras y herramientas propias de Python. Hemos trabajado con variables, tipos de datos, control de flujo, funciones, clases y objetos, así como con librerías útiles para realizar tareas específicas. Además, hemos aplicado estos conceptos prácticamente a través del desarrollo de proyectos que han permitido consolidar la teoría aprendida.
+Durante este módulo, se ha trabajado intensamente en el desarrollo de un proyecto final utilizando Python. Los estudiantes han tenido la oportunidad de aplicar conocimientos teóricos a contextos prácticos, demostrando habilidades en programación orientada a objetos, manejo de bases de datos y integración de diferentes librerías. A pesar de los desafíos enfrentados, como errores de sintaxis o problemas con la integración de componentes, se han logrado superar estos obstáculos mediante la búsqueda de soluciones en documentación oficial e Internet.
 
-Ejercicio
-Desarrollen un pequeño proyecto integrador que combine los conocimientos adquiridos durante el curso. Este proyecto puede ser una aplicación simple en Python que resuelva un problema real o un ejercicio práctico que muestre la combinación de diferentes conceptos vistos, como la manipulación de archivos, la creación de interfaces gráficas y la integración con bases de datos.
+Para el ejercicio práctico, los estudiantes deben revisar su proyecto final y preparar una presentación breve (5-7 minutos) que resuma sus objetivos iniciales, las decisiones tomadas durante el desarrollo y las lecciones aprendidas. La presentación debe incluir un análisis crítico de lo que funcionó bien y qué aspectos podrían mejorar en futuros proyectos.
 
-Resumen
-- Los conocimientos adquiridos se han aplicado en proyectos prácticos.
-- Se ha desarrollado una sólida comprensión de Python desde sus fundamentos hasta herramientas avanzadas.
+Los puntos clave a recordar son la importancia del pensamiento lógico en la resolución de problemas complejos y la necesidad de adaptarse ante los desafíos inesperados durante el desarrollo de un proyecto.
