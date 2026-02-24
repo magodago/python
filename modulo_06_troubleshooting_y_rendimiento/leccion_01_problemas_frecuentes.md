@@ -1,17 +1,34 @@
 # Problemas frecuentes
 
-## Objetivos
-- Identificar y solucionar problemas comunes en Python.
-- Mejorar la eficiencia del código mediante técnicas de optimización.
-
 ## Contenido
-En esta lección se abordarán problemas frecuentes que los programadores pueden encontrar al trabajar con Python. Entre ellos, destacan errores de sintaxis y excepciones no controladas. Para resolver estos problemas, es crucial entender cómo funciona el intérprete de Python y cómo interpretar los mensajes de error proporcionados por la consola.
+En esta lección abordaremos algunos de los problemas más frecuentes que pueden surgir al trabajar con Python y cómo resolverlos. Uno de los problemas comunes es la **timeout** o tiempo de espera excesivo, especialmente en aplicaciones web donde las operaciones pueden tardar demasiado. Para solucionarlo, se puede ajustar el valor del parámetro `timeout` en peticiones HTTP utilizando bibliotecas como `requests`. Por ejemplo:
 
-Además, se discutirá sobre la optimización del código para mejorar su rendimiento. Esto incluirá técnicas como la minimización del uso innecesario de recursos, la selección adecuada de estructuras de datos, y la utilización eficiente de funciones y métodos predefinidos.
+```python
+import requests
+
+response = requests.get('https://api.example.com/data', timeout=10)
+```
+
+Otro problema común es la **memoria insuficiente**, que puede ocurrir con algoritmos ineficientes o grandes volúmenes de datos. Para optimizar el uso de memoria, se pueden utilizar técnicas como la programación dinámica y la gestión eficiente de objetos. Por ejemplo:
+
+```python
+def fibonacci(n):
+    memo = {}
+    def fibo(n, memo=memo):
+        if n in memo:
+            return memo[n]
+        elif n <= 2:
+            result = 1
+        else:
+            result = fibo(n-1) + fibo(n-2)
+        memo[n] = result
+        return result
+    return fibo(n)
+```
 
 ## Ejercicio
-Escribe un script en Python que genere una lista con 100.000 números aleatorios entre 1 y 1.000.000. Luego, ordena esta lista de mayor a menor utilizando el método `sort()`. Analiza la eficiencia del código y realiza al menos dos modificaciones para mejorar su rendimiento.
+Implementa una función que realice un **cálculo intensivo** en Python y ajuste el tiempo de espera para la solicitud HTTP utilizando la biblioteca `requests`. Luego, optimiza tu código para reducir el uso de memoria.
 
 ## Resumen
-- Identificación de errores comunes como sintaxis incorrecta y excepciones.
-- Optimización del código mediante técnicas de programación eficiente.
+- Ajustar el valor del parámetro `timeout` puede solucionar problemas de tiempo de espera.
+- Optimizar algoritmos y gestionar eficientemente la memoria pueden resolver problemas de rendimiento.
