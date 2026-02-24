@@ -1,15 +1,11 @@
 # Casos de uso reales
 
-- Comprender cómo Python se aplica en la resolución de problemas reales.
-- Analizar y discutir casos prácticos donde Python es utilizado en diferentes industrias.
+- Comprender cómo Python se aplica en el análisis de datos para procesar grandes volúmenes de información.
+- Implementar soluciones prácticas utilizando bibliotecas como Pandas y NumPy.
 
-Python se ha convertido en una herramienta indispensable para desarrollar soluciones complejas en diversas áreas. En este módulo, exploraremos algunos de los casos de uso más comunes de Python en el mundo real, desde la ciencia de datos hasta la automatización de tareas diarias y la creación de aplicaciones web.
+El uso real de Python en el análisis de datos es una aplicación vital que permite a los profesionales manejar, limpiar y analizar datos de manera eficiente. Pandas, una biblioteca de código abierto para manipulación y análisis de datos, proporciona estructuras de datos flexibles y operaciones rápidas. Por ejemplo, un investigador puede utilizar Python para analizar patrones en datos climáticos a gran escala, procesar grandes conjuntos de datos meteorológicos y extraer información valiosa sobre tendencias climáticas. NumPy, otra biblioteca clave, ofrece soporte para arreglos multidimensionales y operaciones matemáticas eficientes, lo que es crucial para el cálculo numérico en aplicaciones científicas.
 
-Por ejemplo, en el campo de la inteligencia artificial y machine learning, Python es una de las tecnologías más utilizadas debido a su amplia gama de bibliotecas como TensorFlow, Keras y Scikit-learn. Estas herramientas permiten a los desarrolladores crear modelos predictivos y sistemas de recomendación que se aplican en servicios como Netflix o Amazon.
+Para practicar, los estudiantes deben crear un script Python que utilice Pandas para cargar un conjunto de datos de ejemplo (puede ser cualquier conjunto de datos disponible en línea), limpiar y preparar los datos, y finalmente realizar una análisis básico utilizando funciones de agregación como la media o la mediana.
 
-Además, en la industria de las finanzas, Python se utiliza para automatizar tareas como la gestión de carteras, el análisis de riesgos y la generación de informes financieros. Un caso práctico podría ser el uso de Python para analizar grandes conjuntos de datos financieros en tiempo real, permitiendo a las empresas tomar decisiones más informadas.
-
-Para este ejercicio, desarrolla un programa que utilice la biblioteca pandas para leer un archivo CSV con datos financieros y genera un resumen estadístico básico del conjunto de datos. Este ejercicio te ayudará a entender cómo Python se puede aplicar en el análisis de datos reales.
-
-- Familiarizarse con las bibliotecas utilizadas en ciencia de datos.
-- Practicar la manipulación de datos utilizando pandas.
+- Comprender el uso de Pandas y NumPy en el análisis de datos.
+- Implementar técnicas de procesamiento de datos con Python.
