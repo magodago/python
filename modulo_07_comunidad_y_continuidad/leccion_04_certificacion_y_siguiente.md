@@ -1,13 +1,11 @@
 # Certificacion y siguiente nivel
 
-- Comprender los pasos necesarios para obtener la certificación de Python.
-- Identificar las habilidades adicionales requeridas para avanzar al siguiente nivel en programación con Python.
+- Los estudiantes comprenderán los beneficios de obtener una certificación en Python.
+- Los estudiantes identificarán las habilidades necesarias para alcanzar el siguiente nivel en su dominio del lenguaje.
 
-Python es una de las lenguas de programación más populares y versátiles. Para continuar creciendo como desarrollador, es crucial adquirir conocimientos que permitan certificarse en Python. La certificación de Python no solo demuestra competencia técnica a futuros empleadores, sino que también refuerza el entendimiento de los conceptos fundamentales del lenguaje y promueve mejores prácticas de codificación. Para avanzar al siguiente nivel, es necesario dominar áreas como la programación orientada a objetos, manejo de excepciones, optimización de código y uso eficiente de bibliotecas y frameworks.
+En esta lección, se explorará la importancia de obtener certificaciones en Python y cómo estas pueden mejorar la carrera profesional. Se discutirá la estructura general de una certificación, incluyendo los conocimientos técnicos requeridos y las habilidades prácticas que se evalúan. Además, se analizarán ejemplos de certificaciones populares como la Certificación en Python de Cisco y la Certificación Professional en Python de DataCamp, destacando cómo estas pueden ser un paso crucial hacia el siguiente nivel en la carrera de programación.
 
-### Ejercicio
-Desarrolla un programa que use la librería `requests` para hacer una solicitud GET a la API pública de OpenWeatherMap. El programa debe mostrar la temperatura actual en JSON recibida y manejar correctamente cualquier error HTTP que pueda ocurrir durante la solicitud.
+Para practicar, los estudiantes deberán investigar una certificación de su interés y preparar un resumen de lo que aprenderían si obtuvieran dicha certificación. El resumen debe incluir al menos tres habilidades técnicas y dos habilidades prácticas que se evalúan en la certificación.
 
-### Resumen
-- Comprender el valor de obtener la certificación de Python.
-- Identificar habilidades adicionales necesarias para avanzar al siguiente nivel en programación con Python.
+- Los estudiantes entenderán cómo una certificación puede mejorar sus oportunidades laborales.
+- Se identificarán las habilidades necesarias para avanzar en el dominio de Python.
