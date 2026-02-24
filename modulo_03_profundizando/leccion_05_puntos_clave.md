@@ -1,11 +1,13 @@
 # Puntos clave
 
-- Dominar la utilización de listas y diccionarios para manejo de datos complejos.
-- Implementar funciones recursivas y comprensión de listas para optimizar código.
+- Dominar la utilización de métodos avanzados de las listas y diccionarios.
+- Comprender cómo implementar funciones recursivas para resolver problemas complejos.
 
-Las listas y los diccionarios son estructuras de datos fundamentales en Python que permiten el manejo eficiente de datos complejos. Las listas son colecciones ordenadas y mutables de elementos, mientras que los diccionarios son colecciones desordenadas de pares clave-valor. Estas estructuras facilitan la manipulación de grandes conjuntos de datos y permiten acceso rápido a información mediante claves específicas.
+Las listas y diccionarios son estructuras fundamentales en Python, pero su poder se amplía cuando se utilizan sus métodos más avanzados. Por ejemplo, la función `map()` puede aplicar una función a cada elemento de una lista, lo que simplifica operaciones como el cálculo de valores o la transformación de datos. Además, el método `filter()` permite crear listas filtradas basadas en ciertas condiciones, lo cual es útil para procesar grandes conjuntos de datos eficientemente.
 
-Para practicar, escribe una función que use comprensión de listas para filtrar números primos de una lista dada y otra función recursiva que calcule el factorial de un número. Asegúrate de incluir comentarios en tu código para explicar su funcionamiento.
+Los diccionarios, por otro lado, ofrecen una forma rápida y conveniente de acceder a elementos mediante claves. El método `items()` devuelve un objeto iterador que contiene pares clave-valor, permitiendo el manejo dinámico del contenido del diccionario. Esto es especialmente útil en aplicaciones donde los datos cambian frecuentemente o cuando se necesita recorrer y manipular el contenido de forma eficiente.
 
-- Comprender la utilidad de las listas y diccionarios.
-- Implementar funciones recursivas y comprensión de listas.
+Para practicar estos conceptos, realiza la siguiente tarea: Crea una función que tome una lista de números y devuelva un nuevo diccionario donde las claves sean los números originales y los valores sean sus cuadrados. Utiliza `map()` para calcular los cuadrados y `dict()` para crear el diccionario.
+
+- Familiarizarse con métodos avanzados de listas y diccionarios.
+- Aplicar funciones `map()` y `filter()` para procesar datos eficientemente.
