@@ -1,11 +1,21 @@
 # Ejercicio guiado 1
 
-- Familiarizarse con la sintaxis básica de Python.
-- Comprender cómo estructurar un programa simple utilizando instrucciones básicas.
+Objetivos
+- Familiarizar al estudiante con la sintaxis básica de Python.
+- Introducir conceptos fundamentales como variables y operadores aritméticos.
 
-En esta lección, se explorará la sintaxis fundamental de Python y cómo organizar un programa básico. Se aprenderá sobre las variables, los tipos de datos primitivos (como enteros, flotantes y cadenas) y cómo realizar operaciones simples con ellos. Además, se introducirán conceptos básicos como las estructuras de control de flujo, incluyendo la utilización de condicionales (`if`, `elif`, `else`) y bucles (`for`, `while`), para que los estudiantes puedan comenzar a resolver problemas de manera programática.
+Contenido
+En esta lección, exploraremos los primeros pasos en el mundo del lenguaje de programación Python. Comenzaremos con la definición de variables y su asignación, así como con los operadores aritméticos básicos. Aprenderemos a escribir código simple que realice cálculos sencillos, lo cual nos permitirá comprender mejor cómo funcionan las estructuras básicas del lenguaje.
 
-Para practicar estos conceptos, los alumnos deberán crear un programa que solicite al usuario su edad, calcule si es mayor de 18 años y muestre un mensaje correspondiente. El código debe incluir la declaración de variables para almacenar la entrada del usuario y el resultado final, así como una estructura condicional simple para determinar la acción a realizar basada en la edad proporcionada.
+Por ejemplo, podríamos escribir un pequeño programa que solicite al usuario que introduzca dos números y luego muestre la suma de estos. Este ejercicio no solo reforzará los conceptos aprendidos sino que también nos dará una idea de cómo interactuar con el usuario a través del código.
 
-- Familiarizarse con las variables y tipos de datos básicos.
-- Utilizar condiciones para tomar decisiones en un programa.
+Ejercicio
+Escribe un programa en Python que realice lo siguiente:
+1. Solicite al usuario que introduzca dos números.
+2. Muestre la suma, resta, multiplicación y división de estos números.
+3. Imprima los resultados en una frase clara para el usuario.
+
+Resumen
+- Se ha introducido la definición y asignación de variables.
+- Se han explicado los operadores aritméticos básicos.
+- Se ha realizado un ejercicio práctico que combina ambos conceptos.
