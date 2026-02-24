@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea para Python.
-- Identificar herramientas y plataformas útiles para la práctica y mejora continua.
+- Familiarizarse con recursos y herramientas de desarrollo disponibles para Python.
+- Aprender a utilizar entornos virtuales y plataformas online para practicar.
 
-La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de opciones para profundizar su conocimiento y habilidades en Python. Se recomienda que los alumnos exploren foros como Stack Overflow, donde pueden resolver dudas o aprender soluciones a problemas comunes. Además, se sugiere que utilicen plataformas interactivas como Codecademy o edX, que ofrecen cursos gratuitos con ejercicios prácticos y certificaciones. Estos recursos no solo ayudan en la resolución de problemas técnicos, sino también en el desarrollo de una comunidad de aprendizaje activa.
+En esta lección, se explorarán los recursos adicionales que facilitan el aprendizaje y la práctica del lenguaje de programación Python. Se destacará la importancia de contar con un entorno de desarrollo apropiado, como PyCharm o Visual Studio Code, así como la utilización de entornos virtuales para gestionar dependencias de manera eficiente. Además, se presentarán plataformas web como Repl.it y Jupyter Notebook, que permiten escribir y ejecutar código en línea de forma sencilla.
 
-Para este ejercicio, los estudiantes deben buscar y explorar tres diferentes plataformas de aprendizaje en línea para Python y realizar un breve informe sobre cada una. El informe debe incluir información sobre la interfaz del usuario, la variedad de cursos disponibles, el costo (si es que lo hay), y cómo se puede beneficiar como estudiante de programación al utilizar dicha plataforma.
+Para practicar, los estudiantes deberán crear un entorno virtual utilizando la herramienta `venv` incluida en Python 3.3 o superior, e instalar el paquete `requests`. Luego, deberán escribir un script que realice una solicitud HTTP a la API de OpenWeatherMap para obtener el clima actual en su ciudad y mostrar los resultados.
 
-- Familiarizarse con diversas plataformas de aprendizaje en línea.
-- Realizar un análisis comparativo de tres plataformas para Python.
+- Comprender la importancia de entornos virtuales.
+- Familiarizarse con plataformas web para practicar Python.
