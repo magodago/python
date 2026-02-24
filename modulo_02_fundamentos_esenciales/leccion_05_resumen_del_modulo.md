@@ -1,12 +1,18 @@
 # Resumen del modulo
 
-- Comprender los fundamentos esenciales de Python.
-- Aplicar conocimientos básicos sobre sintaxis y estructuras de datos.
+## Objetivos
+- Consolidar la comprensión de los conceptos básicos fundamentales de Python.
+- Aplicar conocimientos adquiridos sobre sintaxis y estructuras de control.
 
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad en la escritura del código. En este módulo, se han explorado los fundamentos esenciales necesarios para comenzar a programar con Python. Se ha cubierto una introducción a las variables y tipos de datos básicos, así como las estructuras condicionales y cíclicas que permiten al programa tomar decisiones y realizar iteraciones. Estas herramientas son cruciales para construir programas funcionales y eficientes.
+## Contenido
+En esta lección, se revisará el material cubierto en el módulo de Fundamentos esenciales. Se enfatizará la importancia de entender las variables y tipos de datos básicos, así como la utilización de operadores aritméticos y lógicos. Además, se explorarán las estructuras condicionales (if-elif-else) y ciclos (for y while), destacando su aplicación práctica en el desarrollo de pequeños programas.
 
-Para practicar estos conceptos, los alumnos deben escribir un pequeño script que solicite al usuario ingresar su nombre y edad, luego determine si la persona es mayor de 18 años y, en función de esto, imprima un mensaje indicando si puede votar o no. Este ejercicio permitirá a los estudiantes aplicar sus conocimientos sobre variables, tipos de datos, estructuras condicionales y entrada/salida de datos.
+Se explicará cómo Python maneja diferentes tipos de datos como enteros, flotantes, cadenas y booleanos, y cómo realizar operaciones con ellos. Se proporcionarán ejemplos prácticos para ilustrar estos conceptos, incluyendo la resolución de problemas simples utilizando estas estructuras.
 
-- Dominio de la sintaxis básica.
-- Uso efectivo de variables y tipos de datos.
-- Implementación de estructuras condicionales para tomar decisiones.
+## Ejercicio
+Escribe un programa en Python que solicite al usuario ingresar su nombre y edad. El programa debe verificar si la persona es mayor de 18 años y mostrar un mensaje apropiado. Utiliza una estructura condicional para realizar esta verificación.
+
+## Resumen
+- Variables y tipos de datos básicos.
+- Uso de operadores aritméticos y lógicos.
+- Estructuras condicionales (if, elif, else) y ciclos (for, while).
