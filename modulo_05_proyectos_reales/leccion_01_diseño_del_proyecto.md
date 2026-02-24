@@ -2,15 +2,15 @@
 
 Objetivos
 - Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y definir las necesidades del cliente o problema a resolver.
+- Identificar las etapas del proceso de diseño y su importancia en la implementación final.
 
 Contenido
-El diseño de un proyecto en Python implica varios pasos clave que aseguran la eficacia y el éxito del desarrollo. En esta lección, se enfatizará la importancia de entender las necesidades del cliente o el problema a resolver desde el principio. Se explicará cómo realizar una investigación inicial para recolectar información relevante, definir los requisitos funcionales e no funcionales, y crear un esquema de diseño básico que incluya arquitectura, diagramas de clases y flujo de datos. Estos pasos son cruciales para establecer una base sólida sobre la cual construir el proyecto.
+El diseño del proyecto es una fase crucial que precede a la implementación. Incluye la definición clara del problema, el análisis de requisitos, la planificación de la arquitectura y la elaboración de un diagrama de flujo o pseudocódigo para cada módulo. Este proceso ayuda a garantizar que el proyecto se desarrollará de manera eficiente y efectiva. Es importante considerar las interacciones entre diferentes componentes del sistema y prever posibles problemas técnicos antes de comenzar a codificar.
 
 Ejercicio
-El estudiante deberá seleccionar un problema o necesidad real (por ejemplo, automatización de tareas diarias, análisis de datos, desarrollo web) y realizar una investigación inicial. Deberá documentar sus hallazgos en un documento, identificar los requisitos funcionales e no funcionales, y crear un esquema de diseño básico que incluya al menos un diagrama de clases o flujo de datos.
+Diseña un proyecto simple en Python para crear una aplicación de gestión de tareas. Define los requisitos del proyecto, es decir, qué debe hacer la aplicación (añadir, eliminar, listar tareas). Luego, esboza el flujo de trabajo y dibuja un diagrama de flujo básico que muestre cómo se interactúa con las funciones principales.
 
 Resumen
-- Identificación del problema o necesidad.
-- Recolección de información relevante a través de investigación inicial.
-- Definición de requisitos funcionales e no funcionales.
+- El diseño del proyecto implica definir claramente los requisitos y planificar la arquitectura.
+- Es importante crear un flujo de trabajo detallado antes de comenzar a codificar.
+- Este proceso ayuda a prever problemas potenciales y asegurar una implementación exitosa.
