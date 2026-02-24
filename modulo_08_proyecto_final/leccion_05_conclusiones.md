@@ -1,11 +1,13 @@
 # Conclusiones
 
-- Conocer los aspectos más destacados del proyecto final desarrollado durante el curso de Python.
-- Analizar las habilidades adquiridas y su aplicación práctica en la resolución de problemas complejos.
+- Comprender los conceptos fundamentales de Python aplicados durante el curso.
+- Aplicar conocimientos adquiridos para resolver problemas complejos mediante la creación del proyecto final.
 
-En esta lección, se revisarán los logros alcanzados a lo largo del proyecto final en Python. Se discutirá cómo se aplicaron conceptos teóricos aprendidos durante el curso a situaciones prácticas, destacando las soluciones innovadoras y eficientes desarrolladas por los estudiantes. Se analizará también la evolución de habilidades técnicas y de resolución de problemas, identificando áreas donde se mostraron fortalezas y posibles áreas de mejora.
+Durante esta lección, se enfocará en reflexionar sobre el recorrido realizado a lo largo del curso y cómo cada uno de los conceptos aprendidos ha contribuido al desarrollo del proyecto final. Se revisarán las principales estructuras de datos, control de flujo, funciones y orientación a objetos que se utilizaron para resolver problemas complejos. Además, se discutirá la importancia de la documentación y el manejo eficiente del código.
 
-Para el ejercicio, cada estudiante deberá preparar una presentación breve (5-7 minutos) que resuma su proyecto final. Deberán incluir los objetivos iniciales del proyecto, las tecnologías utilizadas, la solución propuesta y un análisis crítico de lo aprendido a lo largo del proceso. Se recomienda utilizar diapositivas para presentar el código y resultados clave.
+Para esta práctica, los estudiantes deben preparar una presentación breve (5-7 minutos) donde resuman sus logros en el proyecto final, destacando cómo aplicaron diferentes conceptos de Python que se han estudiado durante el curso. La presentación debe incluir ejemplos de código y explicaciones claras sobre la funcionalidad del mismo.
 
-- Recapitular los logros técnicos y conceptuales del proyecto final.
-- Identificar áreas de mejora y reflexionar sobre la aplicación práctica de Python en soluciones complejas.
+Puntos clave:
+- Integración de conocimientos adquiridos.
+- Importancia de la documentación en el desarrollo de proyectos.
+- Resumen de logros y aplicaciones prácticas de Python.
