@@ -1,16 +1,15 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y planificar las necesidades técnicas y no técnicas del proyecto.
+- Comprender los aspectos clave del diseño de proyectos en Python.
+- Identificar y aplicar un proceso de planificación para la implementación de soluciones con Python.
 
 Contenido
-En esta lección, se explorará el proceso de diseño de proyectos en Python. Se tratarán aspectos clave como la identificación de requisitos, la selección de herramientas y bibliotecas apropiadas, y la planificación del flujo de trabajo. El objetivo es que los estudiantes aprendan a estructurar su proyecto desde cero, considerando tanto las necesidades técnicas como no técnicas, para asegurarse de que el resultado final sea funcional, eficiente y sostenible.
+El diseño de proyectos es una etapa crucial antes de comenzar a codificar. En esta lección, aprenderás cómo estructurar tu proyecto desde el principio hasta asegurarte de que cada componente funcione en armonía. El proceso comienza con la definición clara del problema o requisitos del proyecto, seguido por la creación de un esquema general y los detalles específicos de la implementación. Es importante considerar la modularidad del código desde el inicio para facilitar su mantenimiento y escalabilidad en el futuro.
 
 Ejercicio
-Diseña un proyecto simple en Python que permita gestionar una biblioteca digital. Identifica los requisitos del sistema (por ejemplo, agregar libros, buscar libros por autor o título) y selecciona las herramientas necesarias para implementarlo (como una base de datos SQLite). Describa brevemente el flujo de trabajo y cómo se organizará la estructura del código.
+Diseña un pequeño sistema que permita a los usuarios registrar, modificar y eliminar libros de una biblioteca. Define los requisitos funcionales básicos (como agregar títulos, autores y fechas de publicación) y no funcionales (como la interfaz de usuario). Luego, crea un esquema básico del proyecto en forma de diagrama o flujo de trabajo.
 
 Resumen
-- Identificación clara de los requisitos técnicos y no técnicos.
-- Selección adecuada de herramientas y bibliotecas para el proyecto.
-- Planificación inicial del flujo de trabajo y estructura del código.
+- Identificar claramente los requisitos y objetivos del proyecto.
+- Crear un plan detallado que incluya el diseño modular del código.
