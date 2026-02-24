@@ -1,11 +1,11 @@
 # Rendimiento y metricas
 
 ## Contenido
-En esta lección sobre rendimiento y métricas en Python, se explorará cómo medir y mejorar la eficiencia de los programas. Se aprenderá a utilizar herramientas como `timeit` para medir el tiempo de ejecución y `cProfile` para analizar el rendimiento del código. Además, se discutirá la importancia de seleccionar las estructuras de datos adecuadas y optimizar bucles para mejorar la velocidad y eficiencia del programa.
+En esta lección sobre rendimiento y métricas de Python, se explorarán técnicas para evaluar la eficiencia del código y cómo mejorar su rendimiento. Se aprenderá a utilizar herramientas como `timeit` y `cProfile` para medir el tiempo de ejecución y analizar el perfil de rendimiento de las funciones, respectivamente. Además, se discutirá la importancia de seleccionar los algoritmos más adecuados y optimizar estructuras de datos para aumentar la velocidad del programa.
 
 ## Ejercicio
-Implementa un algoritmo que busque un número en una lista ordenada utilizando búsqueda binaria y compara su rendimiento con una búsqueda lineal. Utiliza `timeit` para medir el tiempo de ejecución de ambas implementaciones en listas de diferentes tamaños y tamaño de muestra.
+Implementa un código que calcule la suma de los primeros 1000 números enteros utilizando dos métodos diferentes: una lista comprensiva y un bucle `for`. Utiliza la función `timeit` para medir el tiempo de ejecución de cada método. Luego, compara los resultados y discute cuál es más eficiente en términos de rendimiento.
 
 ## Resumen
-- Se aprende a utilizar herramientas como `timeit` y `cProfile` para analizar el rendimiento del código.
-- La selección adecuada de estructuras de datos y optimización de bucles es crucial para mejorar la eficiencia.
+- Se aprendió a utilizar herramientas como `timeit` y `cProfile` para evaluar el rendimiento del código.
+- Se destacó la importancia de seleccionar algoritmos y optimizar estructuras de datos para mejorar la velocidad del programa.
