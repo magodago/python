@@ -1,22 +1,26 @@
 # Problemas frecuentes
 
-## Objetivos
-- Identificar y resolver problemas comunes en Python.
-- Mejorar la eficiencia del código para optimizar su rendimiento.
-
 ## Contenido
-En esta lección se abordarán algunos de los problemas más frecuentes que pueden surgir al programar en Python. Entre ellos, se encuentran errores sintácticos y lógicos, problemas con las bibliotecas externas, y dificultades para optimizar el rendimiento del código.
+En esta lección, abordaremos algunos de los problemas más frecuentes que se pueden encontrar al trabajar con Python y cómo resolverlos. Uno de estos problemas es la optimización del código para mejorar su rendimiento. A menudo, el código puede ser lento debido a la utilización ineficiente de bucles o funciones innecesarias. Otro problema común es la gestión de errores y excepciones, ya que no todos los errores se capturan correctamente, lo cual puede llevar a comportamientos inesperados en tu programa.
 
-Una de las causas más comunes son errores sintácticos o de lógica. Estos pueden ser difíciles de detectar si no se tiene experiencia en programación; sin embargo, la mayoría de los entornos de desarrollo integrado (IDE) y editores de texto con soporte para Python ofrecen herramientas que ayudan a identificar estos errores. Un ejemplo es el uso incorrecto de paréntesis o corchetes, o una lógica que no se ajusta al problema propuesto.
-
-Además, los problemas con las bibliotecas externas son comunes, especialmente si se utilizan paquetes no documentados adecuadamente o si hay incompatibilidades entre diferentes versiones de Python y sus dependencias. Es crucial asegurarse de tener todas las bibliotecas requeridas instaladas y actualizadas.
-
-Finalmente, la optimización del rendimiento es un aspecto importante en el desarrollo de aplicaciones de Python. Algunos métodos para mejorar el rendimiento incluyen el uso eficiente de bucles, la minimización del uso de funciones innecesarias o lentas, y la implementación de algoritmos más eficientes.
+Para mejorar el rendimiento, es importante identificar las partes del código que consumen más tiempo y optimizarlas. Esto puede implicar reescribir ciertas funciones para utilizar métodos más eficientes o incluso cambiar la lógica de los algoritmos utilizados. Además, Python ofrece varias bibliotecas y herramientas como `timeit` para medir el rendimiento del código y `cProfile` para analizar la eficiencia.
 
 ## Ejercicio
-Implemente un programa en Python que calcule la suma de los primeros 100 números pares. Asegúrese de optimizar su código para que sea lo más eficiente posible. Pruebe el rendimiento inicial del programa y luego realice ajustes para mejorar su velocidad. Compare los tiempos de ejecución antes y después de las modificaciones.
+Analiza el siguiente código y realiza las modificaciones necesarias para mejorar su rendimiento:
+
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+for i in range(365):
+    print(factorial(i))
+```
+
+Tu tarea es reescribir la función `factorial` para que sea más eficiente y luego comparar el tiempo de ejecución antes y después de hacer las modificaciones.
 
 ## Resumen
-- Identificación de errores comunes en sintaxis y lógica.
-- Manejo de problemas con bibliotecas externas.
-- Optimización del rendimiento mediante técnicas de codificación eficiente.
+- Identificar y optimizar partes del código que consumen más tiempo.
+- Mejorar la gestión de errores y excepciones en el programa.
