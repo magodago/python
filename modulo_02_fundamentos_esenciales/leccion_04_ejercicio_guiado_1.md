@@ -1,21 +1,33 @@
 # Ejercicio guiado 1
 
-## Objetivos
-- Comprender la sintaxis básica de Python.
-- Aprender a ejecutar y corregir un código simple.
+- Comprender la estructura básica de un programa Python.
+- Practicar la escritura y ejecución de código simple.
 
-## Contenido
-En esta lección, se introducirá a los estudiantes en el entorno de desarrollo integrado (IDE) de Python. Se explicará cómo instalar y configurar una herramienta de línea de comandos como `Python` o `PyCharm`. Posteriormente, se presentarán las primeras instrucciones de programación: la declaración `print()`, los comentarios, y la asignación de variables. Los estudiantes aprenderán a escribir y ejecutar un programa simple que imprima "¡Hola, mundo!" en la consola.
+En esta lección del módulo Fundamentos esenciales, aprenderás a escribir tu primer programa en Python. Veremos cómo estructurar un script básico, incluyendo la declaración de variables, el uso de operadores aritméticos y la impresión de resultados en pantalla. Este ejercicio te ayudará a familiarizarte con el entorno de desarrollo integrado (IDE) o editor de texto que estés utilizando.
 
-## Ejercicio
-Escribe e implementa un pequeño script Python que realice las siguientes tareas:
-1. Asigna el valor 50 a una variable llamada `edad`.
-2. Usa la función `print()` para mostrar el mensaje: "Mi edad es [edad]". Asegúrate de incluir el valor de la variable en el mensaje.
-3. Agrega un comentario que diga "Esta línea no se ejecutará".
+Para comenzar, crea un nuevo archivo de texto y guardalo como `primer_programa.py`. Dentro del archivo, escribe lo siguiente:
 
-Guarda este script con el nombre `ejercicio1.py` y ejecútalo en tu IDE para verificar que todo funcione correctamente.
+```python
+# Esto es un comentario en Python
 
-## Resumen
-- Se introdujo el uso del entorno de desarrollo Python.
-- Se aprendió a escribir, asignar valores a variables y usar la función `print()`.
-- Se practicó la escritura de comentarios en código.
+# Declaración de variables
+numero1 = 5
+numero2 = 3
+
+# Operaciones aritméticas
+suma = numero1 + numero2
+resta = numero1 - numero2
+multiplicacion = numero1 * numero2
+division = numero1 / numero2
+
+# Imprimir resultados en pantalla
+print("La suma es:", suma)
+print("La resta es:", resta)
+print("La multiplicación es:", multiplicacion)
+print("La división es:", division)
+```
+
+Guarda el archivo y ejecútalo utilizando un intérprete de Python o un IDE que soporte la ejecución de scripts. Observa cómo se muestran los resultados en la consola.
+
+- Familiarización con la sintaxis básica de Python.
+- Práctica en la escritura y ejecución de código simple.
