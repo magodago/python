@@ -1,16 +1,18 @@
 # Resumen del modulo
 
 ## Objetivos
-- Consolidar el conocimiento adquirido sobre las características básicas de Python.
-- Resumir los fundamentos esenciales del lenguaje.
+- Consolidar la comprensión de las estructuras básicas del lenguaje Python.
+- Aprender a utilizar correctamente los tipos de datos más comunes.
 
 ## Contenido
-En esta lección final del módulo, se revisará todo lo aprendido en los anteriores sesiones. Se abordaron temas como la sintaxis básica, tipos de datos primitivos (entero, flotante, cadena y booleano), operadores aritméticos y lógicos, estructuras condicionales (if-elif-else) y bucles (for y while). También se introdujeron las listas, tuplas y diccionarios como estructuras de datos fundamentales. Se destacó la importancia del uso correcto de indentación para definir bloques de código en Python.
+En esta lección, se revisará el material cubierto en el módulo de Fundamentos esenciales. Se ha explorado cómo Python permite la definición y uso de variables, así como las diferentes formas de declararlas. Además, se han estudiado los tipos de datos más utilizados: enteros, flotantes, cadenas de texto, booleanos y listas. Cada tipo de dato se ha explicado con ejemplos prácticos que demuestran su uso en programas simples.
+
+Se ha destacado la importancia de comprender cómo Python maneja estos tipos de datos para facilitar el desarrollo de código eficiente y legible. Se han proporcionado ejemplos de operaciones básicas entre diferentes tipos de datos, así como las funciones más comunes asociadas a cada tipo.
 
 ## Ejercicio
-Escribe un programa que solicite al usuario ingresar tres números enteros e imprima el mayor entre ellos. Utiliza una estructura condicional if-elif-else para determinar el número más grande.
+Escribe un programa en Python que solicite al usuario su nombre y edad. El programa debe mostrar el siguiente mensaje: "Hola [nombre], en 10 años tendrás [edad + 10] años".
 
 ## Resumen
-- Se resumieron los fundamentos esenciales de Python, incluyendo sintaxis y tipos de datos.
-- Se practicaron estructuras condicionales y bucles básicos.
-- Se introdujeron las listas, tuplas y diccionarios como estructuras de datos.
+- Se ha revisado la declaración de variables y los tipos de datos básicos.
+- Se han explicado las operaciones y funciones asociadas a cada tipo de dato.
+- El uso práctico de estos conceptos se ha ilustrado con ejemplos.
