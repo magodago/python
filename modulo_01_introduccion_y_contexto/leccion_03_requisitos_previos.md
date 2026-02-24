@@ -1,11 +1,11 @@
 # Requisitos previos
 
-- Comprender los requisitos previos necesarios para comenzar a aprender Python.
-- Identificar las habilidades y conocimientos básicos que facilitarán la adquisición de nuevas competencias en programación con Python.
+- Comprender los requisitos previos necesarios antes de comenzar a aprender Python.
+- Identificar las habilidades y conocimientos básicos que facilitarán la adquisición del lenguaje.
 
-Python es un lenguaje de programación de alto nivel, interpretado y de código abierto, lo que significa que no se compila directamente a instrucciones del hardware. Es conocido por su sintaxis clara y legible, lo que hace que sea fácil de aprender para principiantes. Antes de sumergirse en el estudio de Python, es recomendable tener una base básica en programación, aunque no necesariamente en un lenguaje específico, ya que muchos conceptos son universales entre los lenguajes. Es importante entender lo que es un algoritmo y cómo funciona la computación, así como tener nociones básicas sobre variables, tipos de datos, estructuras de control (condicionales y bucles) y funciones.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Antes de sumergirse en el estudio de este poderoso lenguaje, es importante tener ciertos requisitos previos para asegurar una mejor comprensión y aprendizaje. En primer lugar, se recomienda tener un conocimiento básico de conceptos matemáticos y lógicos, ya que estos son fundamentales para la programación en general. Además, poseer habilidades básicas con cualquier otro lenguaje de programación, aunque no sea necesario dominarlo por completo, puede ser muy útil al momento de aprender Python, ya que permitirá a los estudiantes transferir conocimientos y facilitar el aprendizaje.
 
-Ejercicio: Identifica y explica brevemente tres conceptos fundamentales en programación que son necesarios para aprender Python. Estos pueden ser algoritmos, variables y condicionales. Describe cómo se implementarían estos conceptos en un pequeño programa de ejemplo.
+Para practicar estos conceptos previos, se sugiere a los alumnos que resuelvan problemas matemáticos simples utilizando pseudocódigo o cualquier otro lenguaje de programación con el que se sientan cómodos. Esto ayudará a reforzar los fundamentos necesarios y prepararles para la introducción formal a Python en las siguientes lecciones.
 
-- Comprender la importancia de los fundamentos de la programación.
-- Identificar tres conceptos clave en programación que son esenciales para aprender Python.
+- Conceptos matemáticos y lógicos son esenciales.
+- Habilidad básica con otros lenguajes de programación puede facilitar el aprendizaje.
