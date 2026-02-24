@@ -1,16 +1,40 @@
 # Buenas practicas
 
-- **Objetivos**
-  - Comprender y aplicar las buenas prácticas de codificación en Python.
-  - Implementar estándares de estilo y convenciones recomendadas para mejorar la legibilidad del código.
+- Comprender y aplicar las buenas prácticas de codificación para mejorar la legibilidad y mantenibilidad del código.
+- Implementar estándares de estilo PEP 8 y otras convenciones comunes en proyectos Python.
 
-- **Contenido**
-  En esta lección, profundizaremos en las mejores prácticas para escribir código Python. Estas prácticas no solo mejoran la claridad y mantenibilidad del código, sino que también facilitan su colaboración con otros desarrolladores. Para ello, abordaremos el uso de PEP 8, una guía de estilo ampliamente aceptada en la comunidad Python. Entre los aspectos clave se encuentran la indentación uniforme, el uso adecuado de espacios y tabulaciones, la nomenclatura de variables y funciones, así como la estructura del código.
+Las buenas prácticas son fundamentales para escribir código que sea no solo funcional, sino también fácil de leer y mantener. En Python, una de las mejores guías es la documentación oficial PEP 8, que proporciona recomendaciones sobre cómo estructurar el código, nombrar variables y funciones, y formatear el texto. Adherirse a estas convenciones no solo mejora la calidad del código, sino que también facilita su colaboración en proyectos de equipo.
 
-- **Ejercicio**
-  Implementa un script que lea una lista de números desde un archivo de texto, calcule su promedio y guarde el resultado en otro archivo. Asegúrate de seguir las convenciones de estilo PEP 8 al escribir tu código. Por ejemplo, utiliza espacios para separar operadores aritméticos, evita líneas excesivamente largas y asegúrate de que el nombre de tus variables y funciones sean descriptivos.
+Para ilustrar esto, vamos a realizar un ejercicio práctico. Se te proporcionará un fragmento de código que realiza una operación matemática simple. Tu tarea es refactorizar este código siguiendo las recomendaciones de PEP 8 y otras convenciones comunes. El objetivo es hacer el código más claro y legible.
 
-- **Resumen**
-  - Aplicar PEP 8 en la codificación Python.
-  - Mantener un código claro y fácil de leer.
-  - Utilizar nombres de variables y funciones descriptivos.
+```python
+# Código original
+def calculo(x, y):
+    z = (x * 2) + (y / 3)
+    return z
+
+print(calculo(4, 6))
+```
+
+**Refactorizado:**
+
+```python
+# Código refactorizado
+def calculo(x: float, y: float) -> float:
+    """Realiza una operación matemática simple.
+
+    Args:
+        x (float): Primer valor.
+        y (float): Segundo valor.
+
+    Returns:
+        float: Resultado de la operación.
+    """
+    z = (x * 2) + (y / 3)
+    return z
+
+print(calculo(4, 6))
+```
+
+- Adherirse a las convenciones de estilo PEP 8.
+- Documentar claramente el código con comentarios y docstrings.
