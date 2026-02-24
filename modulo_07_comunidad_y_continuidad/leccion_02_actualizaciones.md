@@ -1,11 +1,11 @@
 # Actualizaciones
 
-- Comprender las fuentes de actualizaciones y mejoras en Python.
-- Identificar la importancia de mantenerse informado sobre nuevas versiones y características.
+- Los estudiantes aprenderán a seguir las actualizaciones de Python y sus implicaciones para el desarrollo.
+- Comprenderán cómo leer y analizar la documentación oficial de Python para estar al día con nuevas características.
 
-Python es un lenguaje de programación dinámico que se actualiza regularmente para incorporar nuevas funcionalidades, corregir errores y mejorar la estabilidad. Las principales fuentes de estas actualizaciones son las comunidades de desarrolladores y los mantenedores del proyecto oficial de Python. La comunidad contribuye a través de pull requests en GitHub, reportando bugs o sugiriendo nuevas características. Los mantenedores del proyecto revisan y fusionan estos cambios para liberar nuevas versiones.
+Python es un lenguaje de programación dinámico que se actualiza regularmente, lo que permite a los desarrolladores aprovechar las últimas mejoras en funcionalidad. Es importante mantenerse informado sobre estas actualizaciones para poder incorporarlas en proyectos futuros y mantener el código actualizado. La documentación oficial de Python es una excelente fuente de información; al leerla regularmente, se pueden identificar nuevas características que podrían ser útiles en diversos escenarios de programación.
 
-Para mantenerse al día con las últimas actualizaciones y mejoras, es crucial seguir los canales oficiales de comunicación de Python, como el sitio web oficial, las listas de correo electrónico de la comunidad o los repositorios en GitHub. Asistir a conferencias, workshops y talleres también puede ser muy beneficioso para conocer directamente a otros desarrolladores y aprender sobre nuevas tendencias.
+Para practicar la habilidad de seguir las actualizaciones, los estudiantes deben visitar el sitio web oficial de Python (python.org) y revisar la sección "What's New" al menos una vez por semana. Deben identificar tres nuevas características o cambios importantes en la documentación y discutir cómo podrían implementarse en un proyecto de ejemplo.
 
-Ejercicio: 
-Investiga y escribe un breve informe (100-200 palabras) sobre la última versión de Python lanzada en 2023, incluyendo las principales novedades y cómo podrían afectar a los proyectos existentes.
+- Los estudiantes comprenderán la importancia de mantenerse actualizados con las últimas versiones de Python.
+- Aprenderán a consultar la documentación oficial para conocer nuevas características.
