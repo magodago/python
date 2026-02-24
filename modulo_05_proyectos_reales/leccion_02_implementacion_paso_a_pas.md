@@ -1,12 +1,16 @@
 # Implementacion paso a paso
 
-- Entender la estructura básica de un proyecto en Python.
-- Implementar un pequeño proyecto que resuelva un problema práctico utilizando conceptos aprendidos.
+## Objetivos
+- Implementar un proyecto real que permita a los estudiantes aplicar conceptos de programación orientada a objetos.
+- Familiarizar a los estudiantes con la integración de diferentes módulos y paquetes en Python.
 
-Para esta lección, vamos a implementar un proyecto real: una calculadora simple que puede realizar operaciones básicas como suma, resta, multiplicación y división. Este proyecto nos permitirá aplicar conocimientos sobre variables, funciones y control de flujo en Python.
+## Contenido
+En esta lección, se continuará el desarrollo de un sistema simple de gestión de biblioteca. Los estudiantes aprenderán cómo estructurar clases y métodos para representar libros, usuarios y prestamos. Se explorará la importancia del encapsulamiento y herencia en este contexto. Además, se integrarán módulos como `datetime` para gestionar fechas y horas, y se discutirá la utilización de archivos JSON para persistir datos.
 
-El primer paso es definir las funcionalidades que nuestra calculadora debe tener. Luego, dividiremos el problema en subproblemas más pequeños para implementar cada una de estas funcionalidades. Por ejemplo, podríamos crear funciones separadas para cada operación matemática y luego combinarlas para permitir a los usuarios realizar cálculos complejos.
+## Ejercicio
+Desarrolla una clase `Prestamo` que tenga los siguientes atributos: `id_prestamo`, `libro`, `usuario`, `fecha_prestamo`, `fecha_devolucion`. Implementa un método `generar_recibo` que devuelva un string con la información del préstamo en formato legible. Utiliza archivos JSON para almacenar y recuperar los datos de los préstamos realizados.
 
-Para practicar, desarrolla un programa que solicite al usuario ingresar dos números y una operación (+, -, *, /). Dependiendo de la elección del usuario, tu programa debe realizar la operación correspondiente y mostrar el resultado. Recuerda manejar las excepciones para casos como división por cero.
-
-Al finalizar esta lección, habrás creado un proyecto completo en Python que resuelve un problema práctico, lo cual te ayudará a entender mejor cómo aplicar los conceptos de programación aprendidos en proyectos reales.
+## Resumen
+- Se ha desarrollado una clase `Prestamo` que maneja la información relacionada con el préstamo de libros.
+- Se ha integrado el uso de archivos JSON para persistir la información de los préstamos.
+- Se ha aplicado el concepto de encapsulamiento y se ha explorado la importación de módulos en Python.
