@@ -2,14 +2,17 @@
 
 Objetivos
 - Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y aplicar estrategias efectivas para la planificación del proyecto.
+- Identificar y planificar las necesidades técnicas y funcionales del proyecto.
 
 Contenido
-El diseño de un proyecto en Python implica varios pasos clave que aseguran el éxito del desarrollo. En primer lugar, es crucial definir claramente los requisitos del proyecto, incluyendo las funcionalidades deseadas y cualquier restricción técnica o legal. Esto se logra a través de una entrevista con el cliente o un análisis detallado de la necesidad del proyecto. Posteriormente, se debe crear un esquema general del diseño, donde se especifican los módulos y clases que compondrán el programa, así como sus interacciones. Este diagrama de clases puede ser útil para visualizar cómo se organiza la estructura del código.
+En esta lección, se abordará el proceso de diseño de proyectos en Python. El objetivo es proporcionar a los estudiantes una estructura clara y ordenada para desarrollar soluciones eficaces utilizando este lenguaje de programación. Se tratarán aspectos como la definición del problema, la identificación de requisitos técnicos y funcionales, la selección de bibliotecas o frameworks apropiados, y el diseño de la arquitectura general del proyecto.
+
+El proceso de diseño implica varios pasos clave: primero, se define el problema que el proyecto pretende resolver. Luego, se identifican las necesidades técnicas y funcionales, incluyendo los datos a utilizar, las funcionalidades requeridas y cualquier interfaz de usuario o API. Finalmente, se selecciona un marco o biblioteca que cumpla con estas necesidades y se diseña la arquitectura general del proyecto para asegurar su escalabilidad y mantenibilidad.
 
 Ejercicio
-Diseña un proyecto simple en Python para una aplicación de gestión de tareas diarias. Define los requisitos básicos y crea un esquema de diseño que incluya al menos tres módulos: uno para la entrada de tareas, otro para el seguimiento y actualización de las tareas, y un tercero para la salida o visualización de las tareas completadas.
+Diseña un pequeño proyecto en Python que resuelva el problema de gestionar una librería. Define los requisitos técnicos y funcionales, selecciona las bibliotecas necesarias (por ejemplo, Flask para la interfaz web) e indica cómo se organizará la estructura del código.
 
 Resumen
-- Definir claramente los requisitos del proyecto.
-- Crear un esquema general del diseño utilizando diagramas de clases.
+- Definir claramente el problema que resuelve el proyecto.
+- Identificar y planificar las necesidades técnicas y funcionales.
+- Seleccionar bibliotecas o frameworks apropiados.
