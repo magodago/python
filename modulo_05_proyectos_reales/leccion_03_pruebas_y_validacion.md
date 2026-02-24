@@ -1,11 +1,15 @@
 # Pruebas y validacion
 
+Objetivos
 - Comprender la importancia de las pruebas y validaciones en el desarrollo de software.
-- Implementar técnicas básicas de pruebas unitarias y de integración utilizando Python.
+- Implementar técnicas básicas de pruebas unitarias en proyectos Python.
 
-Python es una potente herramienta para desarrollar aplicaciones, pero su eficacia se ve aún mejor cuando se acompañan con buenas prácticas de pruebas. Las pruebas permiten asegurar que el código funcione como se espera y facilitan la detección rápida de errores o fallos durante el desarrollo. En esta lección, se explorarán técnicas básicas para implementar pruebas unitarias y de integración en proyectos Python utilizando bibliotecas como `unittest` e `pytest`. Estas prácticas no solo mejoran la calidad del código final sino que también facilitan la mantenibilidad y el refactoring.
+Contenido
+Las pruebas y validaciones son fundamentales para garantizar que un proyecto Python funcione correctamente. Permiten identificar errores temprano en el ciclo de desarrollo, lo que resulta en productos más robustos y confiables. En esta lección, se explorará cómo implementar pruebas unitarias utilizando la biblioteca `unittest` de Python. Se aprenderá a escribir casos de prueba para funciones simples y cómo utilizar assertions para verificar el comportamiento esperado.
 
-Para ilustrar estos conceptos, los estudiantes deberán desarrollar un pequeño programa que calcule el área de figuras geométricas básicas (círculo, rectángulo y triángulo) y luego implementar pruebas para verificar su funcionamiento. Este ejercicio permitirá a los alumnos comprender cómo estructurar pruebas en Python y apreciar la importancia de validar cada componente del código.
+Ejercicio
+Implemente una función que calcule el área de un círculo dado su radio. Luego, escribe pruebas unitarias utilizando la biblioteca `unittest` para verificar que la función funcione correctamente con diferentes valores de entrada. Por ejemplo, verifica que el área sea 0 cuando el radio es 0, o que el valor esté cerca del correcto cuando el radio es 1.
 
-- Comprender el uso de `unittest` e `pytest`.
-- Implementar pruebas unitarias y de integración para un programa simple.
+Resumen
+- Las pruebas y validaciones son cruciales para asegurar la calidad del software.
+- Se utilizó `unittest` de Python para escribir casos de prueba y verificar el comportamiento esperado.
