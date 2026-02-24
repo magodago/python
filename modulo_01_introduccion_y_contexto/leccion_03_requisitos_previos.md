@@ -1,14 +1,16 @@
 # Requisitos previos
 
-- Comprender los requisitos previos necesarios para comenzar a aprender Python.
-- Identificar las habilidades básicas y conocimientos que se deben tener antes de emprender el estudio de la programación en Python.
+### Objetivos
+- Identificar los requisitos previos necesarios para comenzar a aprender Python.
+- Comprender la importancia de estos requisitos en el proceso de aprendizaje.
 
-En esta lección, se explorará qué conocimientos y habilidades son necesarias para empezar a aprender Python. Es importante destacar que Python es un lenguaje de programación versátil y fácil de leer, pero como cualquier otro lenguaje de programación, requiere ciertas competencias previas. Los requisitos previos más comunes incluyen tener una comprensión básica de conceptos matemáticos, conocimientos elementales sobre la estructura de los programas y un entendimiento de cómo funcionan las computadoras en términos generales.
+### Contenido
+Antes de sumergirse en el mundo del lenguaje de programación Python, es importante conocer algunos requisitos previos que facilitarán tu aprendizaje y te permitirán aprovechar al máximo las lecciones posteriores. Primero, es recomendable tener una comprensión básica de conceptos fundamentales como variables, tipos de datos y estructuras de control (bucles y condicionales). Estos conceptos son universales en la programación y proporcionarán un sólido fundamento para el estudio de Python. Segundo, aunque no es estrictamente necesario, tener conocimientos previos sobre lenguajes de programación como C o Java puede ser beneficioso ya que compartirán similitudes con Python en cuanto a sintaxis y estructura.
 
-Para facilitar el aprendizaje, se recomienda que los estudiantes tengan familiaridad con el uso de software de código abierto, como editor de texto o entorno de desarrollo integrado (IDE). Además, es útil tener una comprensión básica de la lógica y los fundamentos de la programación, ya que estos conceptos son cruciales para aprender a escribir código en Python.
+### Ejercicio
+Escribe un programa simple en Python que solicite al usuario su nombre y luego imprima un mensaje personalizado. Utiliza variables, tipos de datos básicos (como cadenas) y una estructura condicional para verificar si el nombre ingresado tiene más de 5 caracteres.
 
-Ejercicio: Identifica qué habilidades básicas se requieren para empezar a aprender Python. Enumera tres habilidades o conocimientos previos que crees serían beneficiosos y explica brevemente por qué consideras que son importantes.
-
-- Comprender los conceptos matemáticos básicos.
-- Tener familiaridad con el uso de software de código abierto.
-- Conocer los fundamentos de la programación.
+### Resumen
+- Requisitos previos incluyen conocimientos básicos de programación.
+- Es recomendable tener familiaridad con conceptos como variables y estructuras de control.
+- El ejercicio práctico ayudará a aplicar estos conceptos iniciales en Python.
