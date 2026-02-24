@@ -1,11 +1,12 @@
 # Soluciones
 
 ## Contenido
-En esta lección sobre soluciones de problemas y optimización del rendimiento en Python, se abordarán técnicas para identificar y corregir errores comunes, así como estrategias para mejorar la eficiencia del código. Se explorará cómo utilizar herramientas internas de Python, como los módulos `pdb` (Python Debugger) y `time`, para depurar programas y medir su rendimiento. Además, se discutirá el uso de listas comprehensives y funciones generadoras en lugar de bucles for tradicionales para optimizar la ejecución del código.
+En esta lección sobre soluciones de problemas y rendimiento en Python, se abordarán técnicas para diagnosticar y resolver errores comunes en el código, así como estrategias para optimizar el rendimiento del programa. Se explorará cómo utilizar la función `assert` para verificar condiciones durante la ejecución del programa, y se presentarán herramientas como `timeit` y `cProfile` para medir y mejorar el tiempo de ejecución y el uso de memoria.
 
 ## Ejercicio
-Implementa un programa que calcule la suma de los primeros 1000 números pares utilizando listas comprehensives. Luego, compara el rendimiento de esta implementación con una versión que utiliza un bucle for tradicional. Utiliza el módulo `time` para medir el tiempo de ejecución de ambas versiones y explica tus resultados.
+Implementa una función que calcule los primeros 10 números de la secuencia de Fibonacci. Utiliza `assert` para verificar que la función devuelva los valores correctos en diferentes casos. Luego, optimiza tu implementación utilizando técnicas de programación dinámica y compara el rendimiento antes y después del optimización usando `timeit`.
 
 ## Resumen
-- Se aprendió a utilizar herramientas internas como `pdb` y `time` para depurar y optimizar código.
-- Se discutieron técnicas para mejorar la eficiencia del rendimiento, como el uso de listas comprehensives y funciones generadoras.
+- Se aprendió a utilizar `assert` para verificar condiciones durante la ejecución.
+- Se exploraron herramientas como `timeit` y `cProfile` para medir y mejorar el rendimiento.
+- Se aplicó programación dinámica para optimizar un algoritmo.
