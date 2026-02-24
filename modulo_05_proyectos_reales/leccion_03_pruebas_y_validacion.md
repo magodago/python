@@ -1,13 +1,11 @@
 # Pruebas y validacion
 
-- Comprender los conceptos básicos de pruebas y validación en Python.
-- Implementar técnicas de pruebas unitarias utilizando la biblioteca `unittest`.
+- Comprender la importancia de pruebas y validación en el desarrollo de software.
+- Implementar técnicas básicas de pruebas unitarias utilizando Python.
 
-Python es un lenguaje de programación versátil que, aunque no requiere una declaración explícita de tipos, ofrece herramientas robustas para garantizar el correcto funcionamiento de los programas a través del desarrollo de pruebas. En esta lección, se explorará cómo utilizar la biblioteca `unittest` para escribir y ejecutar pruebas unitarias en Python.
+En esta lección se explorará la importancia de las pruebas y validaciones en el desarrollo de aplicaciones con Python. Se aprenderá sobre diferentes tipos de pruebas, como pruebas unitarias y pruebas integrales, así como cómo implementar pruebas unitarias utilizando la biblioteca `unittest` que viene incorporada con Python. Se discutirá también la importancia de escribir código limpio y mantenible desde el principio para facilitar las pruebas posteriores.
 
-La validación es un proceso crucial que asegura que las funciones o métodos de nuestro código produzcan resultados correctos bajo diferentes condiciones. La biblioteca `unittest` proporciona una estructura para organizar estas pruebas, permitiendo a los desarrolladores escribir casos de prueba concretos y ejecutarlos fácilmente.
+Para practicar, los alumnos deberán desarrollar una pequeña aplicación que realice cálculos matemáticos básicos (suma, resta, multiplicación y división). Luego, se les pedirá implementar pruebas unitarias utilizando `unittest` para asegurarse de que la aplicación funcione correctamente en diferentes casos.
 
-Para practicar, los estudiantes deberán implementar un simple programa que calcule el área de un círculo. Luego, utilizarán `unittest` para escribir y ejecutar pruebas unitarias que verifiquen la funcionalidad del programa.
-
-- Familiarizarse con la estructura básica de pruebas en `unittest`.
-- Implementar pruebas unitarias para validar el cálculo del área de un círculo.
+- Comprender el valor de las pruebas en la calidad del software.
+- Implementar pruebas unitarias con la biblioteca `unittest`.
