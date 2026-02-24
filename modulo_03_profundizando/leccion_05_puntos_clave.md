@@ -1,11 +1,16 @@
 # Puntos clave
 
-- Entender la utilización avanzada de las estructuras de datos en Python.
-- Implementar funciones y métodos personalizados para optimizar el código.
+- Entender la optimización de código en Python.
+- Implementar patrones de diseño para mejorar la legibilidad y mantenibilidad del código.
 
-Las estructuras de datos avanzadas como diccionarios con vistas (dictviews) y colecciones como `collections.defaultdict`, `OrderedDict` y `Counter` son fundamentales para manejar datos complejos eficientemente. Por ejemplo, `defaultdict` permite asignar un valor predeterminado a una clave inexistente, lo que simplifica la lógica de manejo de errores en el código. Además, `Counter` es útil para contar elementos en una secuencia y proporciona métodos útiles como `most_common()`.
+Python es un lenguaje de programación versátil que se destaca por su simplicidad y claridad. Para profundizar en el uso de Python, es crucial entender cómo optimizar el rendimiento de los programas y cómo aplicar patrones de diseño para mejorar la estructura y mantenibilidad del código. La optimización puede implicar desde la elección adecuada de las funciones integradas hasta la implementación eficiente de bucles y listas. Los patrones de diseño, como el Singleton o el Factory Method, pueden ayudar a resolver problemas comunes de forma modular y reutilizable.
 
-Para practicar, implementa una función que use `defaultdict` para contar la frecuencia de aparición de cada palabra en un texto dado, ignorando mayúsculas y minúsculas. La función debe devolver el diccionario con las palabras y sus respectivas frecuencias.
+Para ejemplificar estos conceptos, consideremos un ejercicio práctico: se requiere desarrollar una aplicación que administre una biblioteca digital. La tarea consiste en crear una clase `Libro` con atributos como título, autor y año de publicación. Luego, implementar un patrón de diseño para gestionar la lista de libros, utilizando el Singleton para asegurar que solo exista una instancia de la lista global.
 
-- Utilizar `defaultdict` para manejar contadores de elementos.
-- Implementar funciones personalizadas que optimicen la lógica del código.
+### Ejercicio
+1. Crea una clase `Libro` con los siguientes atributos: título (str), autor (str) y año_de_publicacion (int).
+2. Implementa un patrón Singleton para crear una única instancia de la lista de libros en toda la aplicación.
+3. Añade métodos a la clase Singleton que permitan agregar, eliminar y listar todos los libros.
+
+- Comprender la importancia de la optimización del código.
+- Aplicar patrones de diseño como el Singleton para mejorar la estructura del código.
