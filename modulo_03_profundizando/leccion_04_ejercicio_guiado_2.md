@@ -1,52 +1,21 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Aprender a utilizar la biblioteca `collections` para trabajar con estructuras de datos avanzadas.
-- Familiarizarse con el uso de `deque`, una estructura de datos doblemente encolada, y sus aplicaciones prácticas.
+- Aprender a utilizar la biblioteca `numpy` para realizar operaciones matemáticas avanzadas.
+- Familiarizarse con el uso de arrays multidimensionales y sus aplicaciones en Python.
 
 ## Contenido
-En esta lección profundizaremos en la biblioteca `collections` de Python, que proporciona varias clases de colecciones adicionales más allá de las implementadas por defecto. Una de estas clases es `deque`, una estructura de datos doblemente encolada (double-ended queue) que permite realizar operaciones de inserción y eliminación tanto en el extremo izquierdo como en el derecho con eficiencia.
+En esta lección del módulo "Profundizando" sobre Python, profundizaremos en el manejo de datos utilizando la biblioteca `numpy`, una herramienta vital para el procesamiento numérico en Python. `numpy` nos permite trabajar con arrays multidimensionales y realizar operaciones matemáticas complejas con eficiencia. A través de ejemplos prácticos, aprenderemos a crear, manipular y operar sobre estos arrays.
 
-`deque` se utiliza comúnmente cuando se necesita un almacén de elementos donde los elementos se añaden o remueven desde ambos extremos. Este tipo de estructura es ideal para implementar tareas como la gestión de colas, buffers y procesamiento de datos en tiempo real.
+Para ilustrar la utilidad de `numpy`, veremos cómo se puede utilizar para resolver problemas que involucran cálculos numéricos intensivos, como la generación de matrices aleatorias, la realización de operaciones matriciales básicas (suma, resta, multiplicación) y el cálculo de estadísticas descriptivas.
 
 ## Ejercicio
-Implementa una función que simule el juego del ahorcado utilizando `deque` para almacenar las letras ingresadas por el usuario. La función debe permitir al usuario ingresar una letra cada vez, verificar si la letra está en la palabra secreta y actualizar la representación de la palabra con guiones bajos y letras reveladas. Utiliza `deque` para gestionar una pila temporal de letras incorrectas.
+Crea un array 3x3 con números enteros aleatorios entre 0 y 10 utilizando `numpy`. Luego, realiza las siguientes tareas:
 
-```python
-from collections import deque
-
-def ahorcado(palabra_secreta):
-    # Inicializar el juego
-    letras_correctas = set()
-    letras_incorrectas = deque(maxlen=5)  # Máximo 5 intentos
-    palabra_mostrada = ['_'] * len(palabra_secreta)
-    
-    while '_' in palabra_mostrada and len(letras_incorrectas) < 6:
-        print(' '.join(palabra_mostrada))
-        letra = input("Ingresa una letra: ").lower()
-        
-        if letra in letras_incorrectas or letra in letras_correctas:
-            print("Letra ya utilizada. Inténtalo de nuevo.")
-            continue
-        
-        if letra in palabra_secreta:
-            for i, char in enumerate(palabra_secreta):
-                if char == letra:
-                    letras_correctas.add(letra)
-                    palabra_mostrada[i] = letra
-        else:
-            letras_incorrectas.append(letra)
-    
-    print(' '.join(palabra_mostrada))
-    if '_' not in palabra_mostrada:
-        print("¡Ganaste!")
-    else:
-        print(f"Perdiste. La palabra era: {palabra_secreta}")
-
-# Ejemplo de uso
-ahorcado("python")
-```
+1. Calcula la suma de todos los elementos del array.
+2. Encuentra el valor máximo y mínimo en cada fila.
+3. Crea una copia del array original y cambia todos los valores pares a cero.
 
 ## Resumen
-- `deque` es una estructura de datos doblemente encolada que permite operaciones eficientes desde ambos extremos.
-- Se puede utilizar para implementar juegos como el ahorcado, gestionando las letras ingresadas y incorrectas.
+- `numpy` es una biblioteca fundamental para el procesamiento numérico en Python, permitiendo la manipulación de arrays multidimensionales.
+- Se puede utilizar `numpy` para realizar operaciones matemáticas complejas con eficiencia y precisión.
