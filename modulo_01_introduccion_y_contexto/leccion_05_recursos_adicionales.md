@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de aprendizaje en línea y offline disponibles para mejorar el dominio del lenguaje de programación Python.
-- Comprender la importancia de documentación oficial y comunidades de apoyo en el desarrollo de habilidades en Python.
+- Familiarizarse con recursos de aprendizaje en línea y documentación oficial.
+- Identificar herramientas útiles para la práctica y mejora del código.
 
-En esta lección, se explorarán diferentes recursos que pueden ser útiles para los estudiantes interesados en profundizar sus conocimientos sobre Python. Es importante destacar que el lenguaje Python es ampliamente utilizado en diversas áreas como la ciencia de datos, inteligencia artificial y desarrollo web, por lo que contar con una fuente confiable de información es crucial. Se recomienda a los alumnos revisar regularmente la documentación oficial de Python, participar en foros de discusión y utilizar tutoriales y cursos en línea para mantenerse actualizados sobre las últimas novedades y mejores prácticas.
+La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de opciones para profundizar y expandir sus conocimientos en Python. Se recomienda que los alumnos exploren plataformas como Codecademy, Coursera o edX, donde encontrarán cursos gratuitos e intensivos que cubren desde conceptos básicos hasta temas más avanzados. Además, se invita a familiarizarse con la documentación oficial de Python, disponible en python.org, ya que es una valiosa fuente de información y ejemplos prácticos.
 
-Para practicar, los estudiantes deben buscar y leer el manual de usuario de Python más reciente. Posteriormente, escribir un breve resumen (alrededor de 100 palabras) explicando qué es lo que se encuentra en la documentación y cómo puede ser útil para ellos en su aprendizaje.
+Para el ejercicio, los estudiantes deben elegir un recurso recomendado y realizar un breve resumen de su contenido, destacando al menos dos características útiles para su aprendizaje. Este ejercicio no solo ayudará a consolidar la información adquirida sino que también fomentará la habilidad de investigación y análisis.
 
-- Familiaridad con recursos oficiales y comunitarios.
+- Familiarización con recursos en línea.
 - Uso efectivo de la documentación oficial de Python.
