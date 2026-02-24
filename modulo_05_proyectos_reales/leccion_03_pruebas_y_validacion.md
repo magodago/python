@@ -1,21 +1,15 @@
 # Pruebas y validacion
 
-- Comprender las técnicas básicas de pruebas y validación en Python.
-- Implementar pruebas unitarias utilizando la biblioteca `unittest` para asegurar la integridad del código.
+- Comprender la importancia de pruebas y validación en el desarrollo de software utilizando Python.
+- Implementar técnicas básicas de pruebas unitarias para asegurar la calidad del código.
 
-El objetivo principal de esta lección es que los estudiantes adquieran una comprensión sólida sobre cómo implementar pruebas y validaciones en sus proyectos Python. A través del uso de la biblioteca `unittest`, aprenderán a escribir pruebas unitarias que permiten verificar si las partes individuales de su código funcionan correctamente. Esto es crucial para mantener un código limpio, eficiente y fácilmente mantenible.
+Python es un lenguaje de programación versátil que se utiliza ampliamente en diversos proyectos, desde desarrollo web hasta ciencia de datos. Sin embargo, para garantizar que el código funcione correctamente y sea mantenible a largo plazo, es crucial incorporar pruebas y validaciones en el proceso de desarrollo. Las pruebas ayudan a detectar errores temprano en el ciclo de vida del proyecto, lo que reduce el tiempo de depuración y mejora la calidad final del software.
 
-Los estudiantes explorarán cómo estructurar sus pruebas, qué tipos de pruebas son comunes en el desarrollo de software y cómo integrar pruebas automatizadas en su flujo de trabajo habitual. A través de ejemplos prácticos, verán cómo detectar errores temprano en el proceso de desarrollo, lo que reduce significativamente la posibilidad de bugs en producción.
+Para esta lección, se utilizará la biblioteca `unittest` incorporada en Python para implementar pruebas unitarias. Se comenzará con una breve introducción a las pruebas unitarias y luego se creará un ejemplo simple: un programa que realiza cálculos matemáticos básicos como suma y resta. Los estudiantes aprenderán cómo escribir pruebas para verificar que estas operaciones funcionen correctamente utilizando métodos de prueba proporcionados por `unittest`.
 
-### Ejercicio
+Ejercicio:
+Implementar pruebas unitarias para una función que realiza la suma y resta de dos números. Utilizar el framework de pruebas `unittest` para asegurarse de que las funciones suman y restan correctamente diferentes conjuntos de datos.
 
-Escribe una función `suma(a, b)` que sume dos números enteros y luego escribe una prueba unitaria utilizando `unittest` para verificar su funcionamiento. La función debe cumplir con los siguientes casos:
-
-- `suma(2, 3)` debería devolver `5`.
-- `suma(-1, -1)` debería devolver `-2`.
-
-Implementa la función y las pruebas correspondientes en un archivo separado. Ejecuta las pruebas para asegurarte de que tu implementación funcione correctamente.
-
-### Resumen
-- Se aprendió a utilizar la biblioteca `unittest` para escribir pruebas unitarias.
-- Se destacó la importancia de realizar pruebas tempranas y frecuentes en el desarrollo de software.
+Resumen:
+- Pruebas unitarias son esenciales para verificar que cada parte del código funcione como se espera.
+- Se utilizó la biblioteca `unittest` en Python para implementar pruebas básicas, lo que ayudará a asegurar la calidad del código.
