@@ -1,11 +1,11 @@
 # Pruebas y validacion
 
 - Comprender los conceptos básicos de pruebas y validación en Python.
-- Implementar técnicas de pruebas unitarias utilizando la biblioteca `unittest`.
+- Implementar pruebas unitarias utilizando la biblioteca `unittest` para asegurar la integridad del código.
 
-El objetivo principal de esta lección es proporcionar a los estudiantes las herramientas necesarias para asegurarse de que el código escrito cumpla con los requisitos esperados, mediante la implementación de pruebas y validaciones. A través del uso de la biblioteca `unittest`, se enseñará cómo estructurar y ejecutar pruebas unitarias en Python, lo cual es fundamental para mantener un control sobre la calidad del software desarrollado.
+En esta lección se explorará el proceso de pruebas y validación en proyectos de Python, enfocándose en la implementación de pruebas unitarias con la biblioteca `unittest`. Las pruebas son esenciales para garantizar que el código funcione correctamente y que las modificaciones no afecten a otros aspectos del programa. A través del uso de pruebas unitarias, se puede asegurar que cada parte del software cumple con sus requisitos funcionales.
 
-Se recomienda a los estudiantes que practiquen el desarrollo de pruebas unitarias utilizando ejemplos sencillos antes de pasar a más complejos. La práctica consiste en escribir una serie de pruebas para una función simple que realiza cálculos matemáticos, y luego refinar la implementación de dicha función para que pase todas las pruebas.
+El ejercicio práctico consistirá en escribir pruebas unitarias para una función que calcula el área de un círculo dado su radio. Los estudiantes deberán definir la función `calcular_area_circulo` y luego crear pruebas utilizando `unittest` para verificar que esta función funcione correctamente con diferentes valores de entrada.
 
-- Familiarizarse con la biblioteca `unittest`.
-- Implementar pruebas unitarias básicas.
+- Dominar la implementación de pruebas unitarias con `unittest`.
+- Asegurar el funcionamiento correcto del código mediante pruebas.
