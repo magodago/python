@@ -1,13 +1,17 @@
 # Soluciones
 
-## Contenido
-En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán técnicas efectivas para identificar y resolver errores comunes en el código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) para depurar programas y corregir errores. Además, se discutirá la importancia de la optimización del rendimiento a través de la utilización de listas comprensivas, funciones generadoras y la evitación de bucles innecesarios.
+## Objetivos
+- Identificar y resolver problemas comunes en Python.
+- Mejorar la eficiencia de los programas mediante técnicas de optimización.
 
-Se profundizará en el uso de `timeit` para medir el tiempo de ejecución de diferentes fragmentos de código y seleccionar la solución más eficiente. Se proporcionará un ejemplo práctico donde se comparan distintas formas de implementar una función que calcula los primeros 100 números primos, con el objetivo de identificar qué enfoque resulta más rápido.
+## Contenido
+En esta lección se abordarán soluciones a problemas frecuentes que pueden surgir al programar con Python. Se tratará cómo identificar errores utilizando herramientas como `try-except`, y cómo utilizar el módulo `pdb` para depurar código paso a paso. Además, se explorará la optimización del rendimiento de los programas mediante técnicas como la minimización de bucles innecesarios, la utilización eficiente de listas y diccionarios, y la implementación de algoritmos más eficientes.
+
+Para mejorar el rendimiento, es crucial comprender cómo Python maneja la memoria y las operaciones. Se explicará cómo utilizar `timeit` para medir el tiempo de ejecución y cómo optimizar funciones mediante técnicas como el uso de list comprehensions y la memoización.
 
 ## Ejercicio
-Implemente una función `calcular_primos` que genere y devuelva una lista de los primeros 100 números primos. Pruebe esta función utilizando `timeit` para medir su tiempo de ejecución. Luego, modifique la función utilizando listas comprensivas o funciones generadoras para optimizar el rendimiento, y compare nuevamente los tiempos de ejecución.
+Implemente una función que calcule los primeros 100 números de Fibonacci utilizando recursión, y luego optimice la misma función para mejorar su rendimiento. Utilice `timeit` para comparar la eficiencia de ambas versiones.
 
 ## Resumen
-- Se aprendió a utilizar herramientas como `pdb` y `timeit` para depurar errores y medir el rendimiento.
-- Se exploró la importancia de técnicas de optimización en Python, como listas comprensivas y funciones generadoras.
+- Se aprendió a identificar y resolver problemas comunes en Python.
+- Se destacó la importancia de técnicas de optimización para mejorar el rendimiento de los programas.
