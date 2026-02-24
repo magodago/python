@@ -1,17 +1,11 @@
 # Casos de uso reales
 
-## Objetivos
-- Comprender cómo Python se aplica en la resolución de problemas reales.
-- Analizar casos de uso específicos para fortalecer el conocimiento sobre aplicaciones prácticas del lenguaje.
+- Entender cómo Python se aplica en soluciones reales de la industria.
+- Analizar casos de uso avanzados de Python en proyectos empresariales.
 
-## Contenido
-En esta lección, profundizaremos en la aplicación práctica de Python a través de varios casos de uso. Uno de los campos donde Python ha demostrado ser fundamental es en el análisis de datos. Por ejemplo, se utiliza para procesar grandes volúmenes de información y realizar análisis estadísticos complejos. Además, Python es una herramienta versátil en el desarrollo web, permitiendo la creación de aplicaciones dinámicas con frameworks como Django o Flask.
+Python es una herramienta versátil que se ha consolidado como lenguaje preferido para desarrollar aplicaciones en diversas áreas. En este módulo, profundizaremos en su utilización a través de ejemplos prácticos y reales. Por ejemplo, en el sector financiero, Python se emplea para analizar grandes volúmenes de datos financieros, predecir tendencias del mercado e implementar algoritmos de trading automático. Además, en la industria de la salud, el lenguaje permite el procesamiento y análisis de datos genómicos, lo que es crucial para el desarrollo de terapias personalizadas.
 
-Otro caso de uso relevante es en el campo del machine learning, donde Python ofrece bibliotecas poderosas como Scikit-learn y TensorFlow para implementar modelos predictivos. Estos casos muestran la versatilidad y eficacia de Python en diferentes sectores, desde análisis científicos hasta desarrollo web.
+Para ilustrar estos conceptos, los estudiantes deberán desarrollar un programa que utilice machine learning para predecir el precio de las acciones basado en datos históricos. El ejercicio consistirá en recopilar un conjunto de datos desde una fuente pública, prepararlo y luego entrenar un modelo utilizando bibliotecas como Pandas y Scikit-learn.
 
-## Ejercicio
-Implementa un programa que use la biblioteca Pandas para leer un archivo CSV con datos de ventas diarias, calcular el total mensual por producto y generar un informe. Utiliza Scikit-learn para predecir las ventas futuras basándote en los patrones detectados.
-
-## Resumen
-- Python se aplica eficazmente en análisis de datos y machine learning.
-- Se ilustran casos prácticos como el uso en desarrollo web y análisis científicos.
+- Comprender la aplicación de Python en finanzas.
+- Desarrollar habilidades para el análisis predictivo con machine learning.
