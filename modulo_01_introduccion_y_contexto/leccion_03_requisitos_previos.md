@@ -1,13 +1,16 @@
 # Requisitos previos
 
-- Comprender los requisitos previos necesarios antes de comenzar a aprender Python.
-- Identificar las habilidades y conocimientos básicos que facilitan la adquisición del lenguaje de programación.
+- Comprender los requisitos previos necesarios antes de aprender Python.
+- Identificar las habilidades y conocimientos básicos que facilitarán la comprensión del lenguaje de programación.
 
-En esta lección, se explorará qué conocimientos y habilidades son recomendables poseer antes de embarcarse en el aprendizaje de Python. Es importante tener claridad sobre estos requisitos previos para optimizar el proceso de aprendizaje y asegurar una comprensión sólida del lenguaje.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Para comenzar a aprender Python, se recomienda tener ciertos requisitos previos para asegurar una mejor comprensión y aprendizaje eficiente. En primer lugar, es recomendable tener conocimientos básicos en matemáticas y lógica, ya que estos conceptos son fundamentales para la programación. Además, tener experiencia con otros lenguajes de programación puede facilitar la adaptación a Python, aunque no es estrictamente necesario. Finalmente, una comprensión básica de estructuras de datos simples, como listas y diccionarios, también resulta útil.
 
-Se recomienda que los estudiantes tengan un conocimiento básico de conceptos matemáticos, como operaciones aritméticas y variables numéricas. Además, es beneficioso tener experiencia con algún otro lenguaje de programación o al menos entender conceptos fundamentales como la sintaxis básica, las estructuras de datos simples (como listas) y el uso de bucles y condicionales. Estos conocimientos facilitarán la transición a Python y permitirán un aprendizaje más eficiente.
+Ejercicio: Identifica cuáles de los siguientes conceptos son requisitos previos para aprender Python:
+1. Variables
+2. Estructura condicional if-else
+3. Funciones matemáticas
+4. Programación orientada a objetos
 
-Para practicar lo aprendido, los estudiantes deben revisar y resolver problemas básicos en otro lenguaje de programación (como C++ o Java) que involucren el uso de variables, operaciones matemáticas y estructuras condicionales. Posteriormente, deberán intentar implementar las mismas soluciones utilizando Python.
-
-- Comprender los conocimientos básicos necesarios antes de aprender Python.
-- Practicar la resolución de problemas simples en otro lenguaje para facilitar el aprendizaje posterior con Python.
+Resumen - Comprender que se requiere una base en matemáticas y lógica.
+- Identificar los beneficios de tener experiencia con otros lenguajes de programación.
+- Reconocer la importancia de conocimientos básicos sobre estructuras de datos simples.
