@@ -1,14 +1,18 @@
 # Enunciado del proyecto
 
-- Diseñar un programa que permita a los usuarios crear una agenda de contactos personalizada.
-- Integrar funcionalidades para añadir, editar y eliminar contactos, así como buscar contactos por nombre o número de teléfono.
+- Comprender completamente el enunciado del proyecto final y su alcance.
+- Desarrollar habilidades de análisis para identificar las partes clave del enunciado.
 
-El enunciado del proyecto final busca que apliques tus conocimientos sobre Python para desarrollar una aplicación interactiva. La aplicación permitirá a los usuarios gestionar sus contactos de manera eficiente. Deberás implementar las siguientes funcionalidades:
-- Menú principal con opciones para añadir, editar, eliminar y buscar contactos.
-- Uso de listas o diccionarios para almacenar la información de los contactos (nombre, número de teléfono).
-- Validación de datos ingresados por el usuario.
+## Contenido
+El enunciado del proyecto final es fundamental para la implementación exitosa de cualquier tarea. En esta lección, se enfocará en analizar el enunciado proporcionado por su instructor y entender sus componentes principales. El enunciado incluirá información sobre el objetivo general del proyecto, las tecnologías a utilizar (en este caso, Python), los requisitos funcionales que deben ser implementados, y cualquier restricción o consideración adicional. Es crucial leer atentamente el enunciado para evitar malentendidos y asegurar que su solución cumpla con todas las especificaciones.
 
-Para practicar, crea un programa que permita al usuario añadir un contacto nuevo a la agenda. El programa debe solicitar el nombre y el número de teléfono del contacto, validar que estos sean correctos e incorporarlos en tu estructura de datos elegida.
+## Ejercicio
+Analice cuidadosamente el enunciado del proyecto final proporcionado por su instructor. Identifique y anote los siguientes elementos: 
+1. Objetivo general del proyecto.
+2. Tecnologías a utilizar (en este caso, Python).
+3. Requisitos funcionales que deben ser implementados.
+4. Cualquier restricción o consideración adicional.
 
-- Diseñar una aplicación interactiva para gestionar contactos.
-- Implementar validación de datos ingresados por el usuario.
+## Resumen
+- Identificar y comprender completamente los elementos clave del enunciado del proyecto final.
+- Desarrollar habilidades de análisis para extracción de información relevante.
