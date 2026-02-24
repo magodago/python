@@ -1,16 +1,21 @@
 # Primeros pasos practicos
 
-Objetivos
-- Familiarizar a los estudiantes con la instalación de Python y su entorno de desarrollo.
-- Introducir a los estudiantes en la escritura básica de código Python y ejecución.
+- Entender cómo iniciar un entorno de desarrollo Python.
+- Familiarizarse con la sintaxis básica para imprimir texto y variables.
 
-Contenido
-En esta lección, los estudiantes aprenderán cómo instalar Python en su sistema operativo preferido y configurar un entorno de desarrollo apropiado. Se abordará la importancia de utilizar un editor de texto o un IDE (Entorno de Desarrollo Integrado) para escribir código de manera más eficiente. Además, se proporcionará una introducción práctica a la sintaxis básica de Python, incluyendo cómo declarar variables y ejecutar sus primeros programas.
+Para comenzar a programar en Python, es necesario establecer un entorno de desarrollo adecuado. En esta lección, aprenderás a instalar Python en tu computadora y a ejecutar tu primer programa básico. Es importante tener una versión reciente de Python instalada, ya que esto asegura compatibilidad con las últimas bibliotecas.
 
-Ejercicio
-Los estudiantes deben instalar Python en su sistema operativo (pueden usar Anaconda para facilitar el proceso) e iniciar un editor de texto o IDE. Luego, escriban un programa simple que imprima "¡Hola, mundo!" en la consola y ejecútelo. Asegúrense de comentar sobre los pasos realizados durante este ejercicio.
+Para imprimir texto en la consola, puedes usar la función `print()`. Por ejemplo:
+```python
+print("¡Hola, mundo!")
+```
+Además, veremos cómo declarar y manipular variables. Una variable se puede definir simplemente asignándole un valor, como en el siguiente código:
+```python
+edad = 25
+nombre = "Juan"
+print(f"Mi nombre es {nombre} y tengo {edad} años.")
+```
+Este ejercicio te ayudará a familiarizarte con la sintaxis básica de Python.
 
-Resumen
-- La instalación correcta de Python es crucial para comenzar.
-- Es importante utilizar herramientas adecuadas como un IDE o editor de texto.
-- El primer programa en Python, "¡Hola, mundo!", sirve como una introducción a la sintaxis básica.
+- Comprender cómo usar la función `print()` para mostrar texto en la consola.
+- Familiarizarse con el concepto de variables y su declaración.
