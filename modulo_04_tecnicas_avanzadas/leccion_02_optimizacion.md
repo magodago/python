@@ -1,11 +1,41 @@
 # Optimizacion
 
-- Optimizar el rendimiento de los programas Python mediante la utilización eficiente de las estructuras de datos.
-- Implementar técnicas avanzadas para mejorar la velocidad y eficiencia del código.
+### Objetivos
+- Comprender las técnicas de optimización en Python para mejorar la eficiencia del código.
+- Implementar algoritmos de optimización en programas prácticos.
 
-En esta lección se abordarán técnicas avanzadas para optimizar el rendimiento de los programas escritos en Python. Se explorará cómo seleccionar las estructuras de datos más adecuadas para diferentes tipos de tareas, así como estrategias para minimizar la complejidad y mejorar la eficiencia del código. Se discutirá también la importancia de la gestión eficiente de memoria y el uso de módulos y bibliotecas para acelerar el proceso.
+### Contenido
+La optimización es crucial para mejorar el rendimiento y eficiencia de los programas escritos en Python. Una de las técnicas más efectivas es el uso de comprensiones de listas, que permiten crear listas de manera concisa y eficiente. Por ejemplo:
 
-Para practicar estos conceptos, los estudiantes se enfrentarán a un ejercicio donde deben optimizar un programa que realiza cálculos intensivos sobre grandes conjuntos de datos. El objetivo es mejorar la eficiencia del código sin sacrificar la legibilidad, utilizando técnicas como el uso de listas comprensivas y generadores en lugar de bucles for anidados.
+```python
+# Sin comprensión de lista
+nueva_lista = []
+for i in range(10):
+    nueva_lista.append(i * 2)
 
-- Seleccionar las estructuras de datos más adecuadas para la tarea.
-- Implementar estrategias para minimizar la complejidad y mejorar la eficiencia del código.
+# Con comprensión de lista
+nueva_lista = [i * 2 for i in range(10)]
+```
+
+Además, el uso de decoradores como `lru_cache` puede acelerar significativamente la ejecución de funciones recursivas o que realizan cálculos intensivos. Por ejemplo:
+
+```python
+from functools import lru_cache
+
+@lru_cache(maxsize=32)
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-1) + fib(n-2)
+
+print(fib(30))
+```
+
+Estas técnicas permiten reducir el tiempo de ejecución y la complejidad del código, lo que resulta en un mejor rendimiento general.
+
+### Ejercicio
+Escribe una función que calcule los primeros 50 números de la secuencia de Fibonacci utilizando comprensiones de listas. Luego, implementa la misma función usando el decorador `lru_cache` para optimizar el cálculo. Mide y compara el tiempo de ejecución de ambas versiones.
+
+### Resumen
+- La utilización de comprensiones de listas puede mejorar significativamente la eficiencia del código.
+- El uso del decorador `lru_cache` ayuda a acelerar funciones recursivas o intensivas en cálculos.
