@@ -1,19 +1,17 @@
 # Ejercicio guiado 1
 
 Objetivos
-- Familiarizarse con la sintaxis básica de Python.
-- Comprender cómo ejecutar un programa simple en Python.
+- Comprender los conceptos básicos de sintaxis y estructura en Python.
+- Familiarizarse con la ejecución de un programa simple.
 
 Contenido
-En esta lección del módulo Fundamentos esenciales, se explorará el entorno de desarrollo integrado (IDE) para Python y se aprenderá a escribir y ejecutar un primer programa. Se iniciará con una introducción breve sobre la sintaxis básica de Python, incluyendo los tipos de datos primitivos y cómo declarar variables. Luego, se guiará al estudiante a través del proceso de crear y ejecutar un programa simple que imprima "¡Hola, mundo!" en la consola.
+En esta lección, aprenderemos a escribir nuestro primer programa en Python. Veremos cómo configurar el entorno de desarrollo, introducir variables y realizar operaciones aritméticas básicas. La sintaxis de Python es conocida por ser clara e intuitiva, lo que facilita la entrada para principiantes.
 
 Ejercicio
-Escribe un programa en Python que haga lo siguiente:
-1. Declara una variable llamada `nombre` e inicialízala con tu nombre.
-2. Imprime el valor de la variable `nombre` en la consola.
-3. Declara otra variable llamada `edad` y asigna un valor numérico a ella.
-4. Imprime "Mi nombre es [tu nombre] y tengo [tu edad] años" utilizando las variables declaradas.
+Escribe un programa simple en Python que haga lo siguiente:
+1. Solicite al usuario que ingrese su nombre.
+2. Imprima un mensaje de bienvenida personalizado que diga "¡Bienvenido [nombre]!".
 
 Resumen
-- Se aprendió sobre la sintaxis básica de Python, incluyendo la declaración de variables.
-- Se practicó el proceso de crear y ejecutar un programa simple en Python.
+- Se introdujo la configuración del entorno de desarrollo y el primer programa en Python.
+- Se destacó la importancia de las variables y operaciones aritméticas básicas.
