@@ -1,27 +1,33 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizar a los estudiantes con la manipulación de listas en Python.
-- Desarrollar habilidades para la resolución de problemas mediante programación.
+- Implementar funciones recursivas de manera efectiva.
+- Comprender y utilizar la estructura de datos diccionarios para almacenar información dinámica.
 
 ## Contenido
-En esta lección, profundizaremos en el manejo de listas y su aplicación práctica. Las listas son una estructura fundamental en Python que permite almacenar múltiples elementos de diferentes tipos. Aprenderemos a crear listas, acceder a sus elementos, modificarlos y realizar operaciones comunes como la búsqueda y la eliminación de elementos.
+En esta lección profundizaremos en el uso de funciones recursivas, una técnica muy poderosa que permite a las funciones llamar a sí mismas durante su ejecución. Las funciones recursivas son útiles para resolver problemas que se pueden dividir en subproblemas similares. Además, aprenderemos cómo utilizar diccionarios en Python para almacenar y acceder a datos de manera eficiente, lo cual es especialmente útil cuando necesitamos manipular conjuntos de datos dinámicos o cuando queremos evitar cálculos repetidos.
 
-Para ilustrar estos conceptos, trabajaremos con un ejemplo práctico: una lista de frutas que se actualizará según las operaciones realizadas. Esto permitirá a los estudiantes comprender cómo manipular datos en Python de manera eficiente.
+Un ejemplo clásico de recursividad es el cálculo del factorial de un número. En lugar de usar un bucle, podemos definir una función que se llame a sí misma hasta alcanzar la condición base. Por otro lado, los diccionarios nos permiten almacenar pares clave-valor, lo cual puede ser muy útil para resolver problemas donde necesitamos acceder rápidamente a datos basados en ciertas condiciones o para optimizar el rendimiento de nuestro código.
 
 ## Ejercicio
-Dado el siguiente código inicial:
+Escribe una función recursiva que calcule el factorial de un número. Luego, implementa un diccionario para almacenar y devolver los resultados previos del cálculo del factorial, evitando así realizar cálculos repetidos. Por ejemplo:
 
 ```python
-frutas = ["manzana", "banana", "naranja"]
+def factorial(n, memo={}):
+    if n in memo:
+        return memo[n]
+    elif n == 0 or n == 1:
+        memo[n] = 1
+        return 1
+    else:
+        resultado = n * factorial(n - 1)
+        memo[n] = resultado
+        return resultado
+
+# Prueba la función con algunos valores
+print(factorial(5))  # Debería imprimir 120
 ```
 
-Realiza lo siguiente:
-1. Imprime la segunda fruta de la lista.
-2. Agrega "pera" al final de la lista y muestra la lista actualizada.
-3. Elimina la primera fruta de la lista y muestra la lista resultante.
-4. Crea una nueva lista con las frutas que contienen la letra 'a' y muestra esta lista.
-
 ## Resumen
-- Las listas en Python son muy versátiles para almacenar múltiples elementos.
-- Se pueden realizar diversas operaciones como agregar, eliminar y acceder a elementos de una lista.
+- Las funciones recursivas son útiles para resolver problemas que pueden ser divididos en subproblemas similares.
+- Los diccionarios en Python permiten almacenar y acceder a datos de manera eficiente, especialmente útil para evitar cálculos repetidos.
