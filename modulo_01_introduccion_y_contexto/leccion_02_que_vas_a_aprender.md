@@ -1,15 +1,16 @@
 # Que vas a aprender
 
-Objetivos
-- Comprender los fundamentos de Python y su importancia en la programación.
-- Identificar las características principales que hacen a Python un lenguaje versátil.
+## Objetivos
+- Comprender la importancia de Python en el desarrollo de software y ciencia de datos.
+- Familiarizarse con los conceptos básicos de programación que se implementan en Python.
 
-Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Se caracteriza por su sintaxis clara y legible, lo que facilita tanto el aprendizaje como la escritura del código. Su diseño simple y conciso permite a los desarrolladores expresar ideas en menos líneas de código en comparación con otros lenguajes. Además, Python cuenta con una gran comunidad de usuarios y un amplio conjunto de bibliotecas que lo hacen muy versátil para diversas aplicaciones, desde desarrollo web hasta ciencia de datos.
+## Contenido
+Python es un lenguaje de programación de alto nivel, interpretado y de código abierto, que ha ganado popularidad debido a su sintaxis clara y legible. Es ampliamente utilizado en desarrollo web, automoción, finanzas, ciencia de datos, inteligencia artificial y más. Este curso te introducirá a los fundamentos del lenguaje, incluyendo variables, tipos de datos básicos, estructuras de control de flujo como condicionales y bucles, así como funciones simples. A través de ejemplos prácticos, aprenderás cómo aplicar estos conceptos en problemas reales.
 
-Ejercicio
-Escribe un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica el programa para que pregunte al usuario su nombre y muestre un mensaje personalizado con ese nombre.
+## Ejercicio
+Escribe un programa que solicite al usuario su nombre y edad, e imprima una frase personalizada diciendo "Hola [nombre], en 10 años tendrás [edad + 10] años".
 
-Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- Su sintaxis clara y legible facilita tanto el desarrollo como la lectura del código.
+## Resumen
+- Python es un lenguaje versátil utilizado en múltiples campos.
+- Los conceptos básicos de programación se aplican directamente en Python.
+- El primer ejercicio te ayudará a practicar la entrada y salida de datos, así como operaciones con variables.
