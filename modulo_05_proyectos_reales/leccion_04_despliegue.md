@@ -1,14 +1,15 @@
 # Despliegue
 
-- Comprender los conceptos básicos de despliegue web para aplicaciones Python.
-- Implementar un despliegue local utilizando servicios como Gunicorn y Nginx.
+- Entender los conceptos básicos de despliegue de aplicaciones Python.
+- Aprender a configurar un entorno de desarrollo local para el despliegue.
 
-La lección se centra en el proceso de llevar a cabo un proyecto Python desde un entorno de desarrollo hasta su despliegue en producción. Se explicará cómo configurar un servidor web con Nginx para servir contenido estático y redirigir tráfico a aplicaciones backend ejecutadas por Gunicorn, un servidor HTTP WSGI que permite la ejecución de aplicaciones Python.
+El despliegue de una aplicación Python implica la implementación de tu código en un entorno que permita su ejecución y acceso desde diferentes dispositivos. Este proceso puede variar dependiendo del tipo de aplicación (web, desktop, móvil) y del framework o biblioteca utilizada. En este módulo, se enfocará en el despliegue de aplicaciones web utilizando Flask, un framework popular para Python.
 
-El alumno aprenderá a instalar estos servicios en una máquina local, configurarlos y verificar su funcionamiento. Se proporcionará un ejemplo práctico utilizando Flask o Django como marco de trabajo para demostrar el proceso completo desde la creación del proyecto hasta su despliegue.
+Para configurar tu entorno local, es necesario instalar Python y un servidor web como Gunicorn junto con una base de datos si la aplicación lo requiere (por ejemplo, PostgreSQL o SQLite). Se recomienda usar un entorno virtual para aislamiento y gestión de dependencias. Posteriormente, se realizará el despliegue en un servidor remoto utilizando servicios como Heroku o AWS.
 
-Ejercicio: El estudiante debe configurar un servidor local con Nginx y Gunicorn, desplegar una aplicación Flask básica y verificar que todo funcione correctamente. Se recomienda documentar cada paso en un archivo de texto para futuras referencias.
+### Ejercicio
+Desarrolla una pequeña aplicación web con Flask que muestre "¡Hola, mundo!" en la página principal. Luego, configura y ejecuta esta aplicación localmente usando Gunicorn. Finalmente, despliega tu aplicación en un servidor de prueba como Heroku.
 
-- Configurar Nginx y Gunicorn.
-- Desplegar una aplicación Flask.
-- Verificar el funcionamiento del despliegue local.
+- Comprender el proceso de configuración del entorno local.
+- Realizar el despliegue local utilizando Gunicorn.
+- Implementar la aplicación en un servidor remoto.
