@@ -1,13 +1,15 @@
 # Problemas frecuentes
 
-## Contenido
-En esta lección se abordarán los problemas frecuentes que pueden surgir al trabajar con Python y cómo resolverlos. Aprender a identificar y solucionar estos problemas es crucial para mejorar la eficiencia en el desarrollo de software. Se discutirá sobre errores comunes como `SyntaxError`, `NameError` y `TypeError`, así como técnicas para depurar código utilizando el intérprete interactivo de Python (Python Shell) y herramientas de depuración más avanzadas.
+## Objetivos
+- Identificar y resolver problemas comunes en Python.
+- Mejorar la eficiencia del código mediante la optimización.
 
-Además, se explorará cómo optimizar el rendimiento del código. Se presentarán conceptos básicos sobre complejidad de tiempo y espacio, y se proporcionará un ejemplo práctico para analizar la eficiencia de diferentes implementaciones de una misma función. Se discutirá también la importancia de usar bibliotecas de terceros bien optimizadas y cómo identificar posibles puntos de rendimiento críticos en el código.
+## Contenido
+En esta lección se abordarán los problemas frecuentes que pueden surgir al programar en Python, así como técnicas para su resolución. Comenzaremos con errores comunes como `NameError`, `TypeError` y `SyntaxError`. A continuación, exploraremos cómo optimizar el rendimiento de nuestro código mediante la reducción del uso innecesario de bucles, la implementación de listas comprensivas eficientes y la utilización de funciones predefinidas. Se proporcionarán ejemplos prácticos para ilustrar estos conceptos.
 
 ## Ejercicio
-Implementa una función que calcule los primeros 100 números Fibonacci utilizando dos métodos diferentes: recursión y iteración. Analiza la eficiencia de ambos métodos en términos de tiempo y memoria, y explica tus hallazgos.
+Escribe un programa que calcule el factorial de un número utilizando recursión. Luego, modifica tu código para implementar una solución iterativa y compara ambos en términos de rendimiento usando `timeit`. Identifica cuál es más eficiente y explica por qué ocurre esto.
 
 ## Resumen
-- Se identificarán errores comunes y técnicas para depurar código.
-- Se explorará cómo optimizar el rendimiento del código mediante análisis de complejidad y uso de bibliotecas eficientes.
+- Los errores comunes como `NameError` y `TypeError` pueden ser resueltos identificando las variables no declaradas o tipos incompatibles.
+- La optimización del código puede lograrse mediante el uso de bucles iterativos en lugar de recursivos, mejorando así la eficiencia.
