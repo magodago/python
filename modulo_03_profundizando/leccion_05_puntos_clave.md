@@ -1,11 +1,11 @@
 # Puntos clave
 
-- Familiarizarse con las estructuras de datos avanzadas en Python.
-- Aprender a utilizar funciones y métodos incorporados para manipular estas estructuras de datos.
+- Entender los conceptos avanzados de clases y objetos en Python.
+- Aprender a utilizar métodos especiales y decoradores para mejorar la funcionalidad de las clases.
 
-Python nos ofrece una amplia gama de estructuras de datos que pueden ser utilizadas de manera eficiente. Entre ellas, se encuentran listas, tuplas, conjuntos y diccionarios. Las listas son mutables y permiten la adición, eliminación y acceso a elementos por índice. Las tuplas, en cambio, son inmutables pero ofrecen un rendimiento mejorado para ciertas operaciones. Los conjuntos son útiles para realizar operaciones matemáticas de conjunto, como uniones e intersecciones, sin duplicados. Por último, los diccionarios permiten almacenar pares clave-valor y proporcionan una forma eficiente de buscar elementos basados en sus claves.
+Python es un lenguaje de programación versátil que se destaca por su sintaxis clara y concisa. En este módulo profundizaremos en el uso avanzado de clases y objetos, dos conceptos fundamentales del paradigma orientado a objetos (POO). Los métodos especiales permiten personalizar la funcionalidad de las clases, como la representación de objetos, el manejo de operadores y más. Decoradores son funciones que se utilizan para modificar o extender las capacidades de otras funciones o clases sin alterar su estructura original.
 
-Para practicar, implementa un programa que utilice todas estas estructuras de datos. Crea una lista con 10 números aleatorios, convierte la lista a una tupla, luego crea un conjunto con los números pares y un diccionario donde las claves sean los números impares y los valores sean sus cuadrados.
+Ejercicio: Crea una clase `CuentaBancaria` con los atributos `numero_cuenta`, `titular` y `saldo`. Implementa métodos especiales como `__str__()` para proporcionar una representación legible del objeto, y un decorador `@staticmethod` para agregar una función que calcule el interés anual sobre el saldo.
 
-- Comprender las diferencias entre listas, tuplas, conjuntos y diccionarios.
-- Utilizar funciones y métodos para manipular estas estructuras de datos.
+- Comprender los métodos especiales en Python.
+- Aplicar decoradores para mejorar la funcionalidad de las clases.
