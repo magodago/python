@@ -1,15 +1,11 @@
 # Bienvenida al curso
 
-Objetivos
-- Comprender la importancia de Python en el desarrollo de software y ciencia de datos.
-- Familiarizarse con el entorno de programación y los recursos disponibles.
+- Familiarizarse con el entorno de programación Python.
+- Comprender los beneficios y aplicaciones del lenguaje Python.
 
-Contenido
-Bienvenidos al curso de Python. Este lenguaje de programación es ampliamente utilizado debido a su simplicidad, versatilidad y la gran comunidad que lo apoya. Python se destaca en diversas áreas como desarrollo web, automoción, finanzas, ciencia de datos e inteligencia artificial. A lo largo del curso, aprenderemos a escribir código eficiente, utilizar bibliotecas útiles y comprender conceptos fundamentales de programación.
+En esta lección inicial del curso sobre Python, se presentará un panorama general de lo que aprenderán durante el curso. Se introducirá a los estudiantes al lenguaje de programación Python, destacando su versatilidad y amplia gama de aplicaciones en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación e incluso automatización de tareas diarias. Se explicará cómo Python se ha convertido en una herramienta esencial para profesionales y amantes de la programación debido a su sintaxis clara y legible.
 
-Ejercicio
-Escriba un programa simple que imprima "¡Bienvenido al curso de Python!" en la consola.
+Para comenzar, los estudiantes realizarán un ejercicio práctico: instalar el entorno de desarrollo Python (como Anaconda) y ejecutar su primer programa básico en el editor de código. Este ejercicio servirá para familiarizarse con el proceso de instalación y la configuración inicial necesaria antes de comenzar a codificar.
 
-Resumen
-- Python es un lenguaje versátil utilizado en múltiples campos.
-- Familiarizarse con el entorno y recursos disponibles desde el inicio.
+- Instalación del entorno de desarrollo Python.
+- Ejecución del primer programa en Python.
