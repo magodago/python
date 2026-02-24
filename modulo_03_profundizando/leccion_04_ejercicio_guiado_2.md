@@ -1,18 +1,23 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizar al estudiante con la manipulación de archivos en Python.
-- Introducir el uso de la biblioteca `csv` para leer y escribir archivos CSV.
+- Familiarizarse con la implementación de estructuras de datos complejas como árboles binarios.
+- Aprender a utilizar métodos recursivos para resolver problemas en Python.
 
 ## Contenido
-En esta lección, profundizaremos en la manipulación de archivos utilizando Python. Veremos cómo abrir, leer y escribir archivos utilizando métodos estándar de Python, así como cómo utilizar la biblioteca `csv` para manejar archivos CSV de manera más eficiente. Los archivos CSV son un formato comúnmente utilizado para intercambiar datos tabulares entre programas y sistemas. Aprender a trabajar con ellos es fundamental en el análisis de datos.
+En esta lección, profundizaremos en el uso de árboles binarios y cómo implementarlos en Python. Un árbol binario es una estructura de datos en la que cada nodo tiene hasta dos hijos: un hijo izquierdo y un hijo derecho. Los árboles binarios son útiles para representar jerarquías, como las relaciones entre los archivos en un sistema de archivos o la organización de palabras en un diccionario.
+
+Vamos a crear una clase `ArbolBinario` que permita la inserción de nodos y el recorrido del árbol utilizando métodos recursivos. Este conocimiento nos ayudará a resolver problemas complejos de manera eficiente, especialmente aquellos que involucran estructuras jerárquicas.
 
 ## Ejercicio
-Escribe un programa que:
-1. Lea un archivo CSV llamado `datos.csv` que contiene información sobre estudiantes (nombre, edad, curso).
-2. Muestra los nombres de todos los estudiantes.
-3. Escribe un nuevo archivo CSV llamado `estudiantes_mayores_de_18.csv` que contenga solo la información de los estudiantes mayores de 18 años.
+Implementar una clase `ArbolBinario` con los siguientes métodos:
+
+1. `insertar(valor)`: Inserta un nuevo nodo en el árbol.
+2. `recorrido_preorden()`: Realiza un recorrido preorden del árbol y devuelve una lista de valores visitados.
+3. `recorrido_inorden()`: Realiza un recorrido inorden del árbol y devuelve una lista de valores visitados.
+
+Puedes comenzar con la implementación básica de la clase y luego agregar los métodos de recorrido.
 
 ## Resumen
-- Se aprendió a manipular archivos en Python utilizando métodos estándar y la biblioteca `csv`.
-- Se practicó el manejo de archivos CSV, lo cual es una habilidad valiosa para el análisis de datos.
+- Se ha creado una clase `ArbolBinario` para representar estructuras jerárquicas.
+- Se han implementado métodos recursivos para insertar nodos y realizar recorridos del árbol.
