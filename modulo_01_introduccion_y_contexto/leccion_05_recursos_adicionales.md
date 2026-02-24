@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos de documentación y tutoriales en línea.
-- Identificar herramientas de desarrollo integrado (IDE) disponibles para Python.
+- Familiarizarse con recursos de aprendizaje en línea para Python.
+- Identificar herramientas y plataformas útiles para la práctica y mejora continua.
 
-La lección sobre recursos adicionales busca ampliar la comprensión del estudiante sobre las herramientas y recursos que pueden facilitar su aprendizaje y práctica de Python. Se recomienda a los estudiantes explorar la documentación oficial de Python, que es una fuente invaluable de información detallada y actualizada sobre el lenguaje. Además, se invita a utilizar plataformas como Codecademy o Coursera para complementar el aprendizaje con tutoriales interactivos y ejercicios prácticos.
+La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de opciones para profundizar su conocimiento y habilidades en Python. Se recomienda que los alumnos exploren foros como Stack Overflow, donde pueden resolver dudas o aprender soluciones a problemas comunes. Además, se sugiere que utilicen plataformas interactivas como Codecademy o edX, que ofrecen cursos gratuitos con ejercicios prácticos y certificaciones. Estos recursos no solo ayudan en la resolución de problemas técnicos, sino también en el desarrollo de una comunidad de aprendizaje activa.
 
-Para esta lección, los estudiantes deben elegir tres recursos de documentación o tutoriales en línea que les resulten útiles y realizar un breve resumen de cada uno, identificando sus principales beneficios. Este ejercicio ayudará a los estudiantes a familiarizarse con diferentes fuentes de información y a seleccionar las más apropiadas según su necesidad específica.
+Para este ejercicio, los estudiantes deben buscar y explorar tres diferentes plataformas de aprendizaje en línea para Python y realizar un breve informe sobre cada una. El informe debe incluir información sobre la interfaz del usuario, la variedad de cursos disponibles, el costo (si es que lo hay), y cómo se puede beneficiar como estudiante de programación al utilizar dicha plataforma.
 
-- Familiarización con la documentación oficial de Python.
-- Uso efectivo de tutoriales interactivos en línea para práctica adicional.
+- Familiarizarse con diversas plataformas de aprendizaje en línea.
+- Realizar un análisis comparativo de tres plataformas para Python.
