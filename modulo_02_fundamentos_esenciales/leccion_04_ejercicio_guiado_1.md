@@ -1,17 +1,19 @@
 # Ejercicio guiado 1
 
-- Dominar la declaración de variables y tipos básicos.
-- Comprender la importancia del indentación en Python.
+Objetivos
+- Familiarizarse con la sintaxis básica de Python.
+- Comprender cómo ejecutar un programa simple en Python.
 
-Python es un lenguaje de programación interpretado cuya filosofía se centra en la legibilidad del código. En esta lección, aprenderemos a declarar variables y entenderemos cómo Python maneja diferentes tipos de datos básicos. La correcta utilización de estos conceptos es fundamental para escribir código eficiente y legible.
+Contenido
+En esta lección del módulo Fundamentos esenciales, se explorará el entorno de desarrollo integrado (IDE) para Python y se aprenderá a escribir y ejecutar un primer programa. Se iniciará con una introducción breve sobre la sintaxis básica de Python, incluyendo los tipos de datos primitivos y cómo declarar variables. Luego, se guiará al estudiante a través del proceso de crear y ejecutar un programa simple que imprima "¡Hola, mundo!" en la consola.
 
-Para comenzar, vamos a practicar la declaración de variables y el uso de tipos básicos en Python. Cada variable en Python debe ser declarada con un tipo de dato específico o se determinará automáticamente por el valor asignado. Los tipos más comunes incluyen enteros (int), flotantes (float) y cadenas de texto (str).
+Ejercicio
+Escribe un programa en Python que haga lo siguiente:
+1. Declara una variable llamada `nombre` e inicialízala con tu nombre.
+2. Imprime el valor de la variable `nombre` en la consola.
+3. Declara otra variable llamada `edad` y asigna un valor numérico a ella.
+4. Imprime "Mi nombre es [tu nombre] y tengo [tu edad] años" utilizando las variables declaradas.
 
-### Ejercicio
-
-Escribe un programa que declare tres variables: `edad`, `altura` y `nombre`. Asigna a `edad` el valor 25, a `altura` el valor 1.75 y a `nombre` la cadena "Juan". Luego, imprime en pantalla el mensaje: "Hola, mi nombre es [nombre], tengo [edad] años y mido [altura] metros."
-
-### Resumen
-- Las variables se declaran asignando un valor.
-- Python tiene tipos de datos básicos como int, float y str.
-- La indentación es crucial para definir bloques de código en Python.
+Resumen
+- Se aprendió sobre la sintaxis básica de Python, incluyendo la declaración de variables.
+- Se practicó el proceso de crear y ejecutar un programa simple en Python.
