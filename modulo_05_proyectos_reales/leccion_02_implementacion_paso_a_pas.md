@@ -1,25 +1,20 @@
 # Implementacion paso a paso
 
-### Objetivos
-- Comprender y aplicar los conceptos de programación orientada a objetos en Python.
-- Desarrollar un proyecto simple que integre diferentes módulos y funcionalidades.
+- Comprender la estructura básica de un proyecto Python.
+- Implementar un proyecto simple que resuelva un problema práctico.
 
-### Contenido
-En esta lección, continuaremos nuestro camino hacia la implementación práctica del conocimiento adquirido sobre Python. Vamos a desarrollar un pequeño sistema de gestión de tareas. Este proyecto nos permitirá aplicar los conceptos de programación orientada a objetos (POO) que hemos estudiado anteriormente. Nuestro objetivo es crear una clase `Tarea` con atributos como título, descripción y estado (por ejemplo, pendiente, en progreso, completada). Además, implementaremos métodos para agregar tareas, marcarlas como completadas y listar las tareas según su estado.
+En esta lección, profundizaremos en cómo estructurar y desarrollar proyectos utilizando Python. A través del análisis de un caso práctico, aprenderás a identificar las necesidades del proyecto, planificar su implementación y ejecutar el código para resolver el problema propuesto. Este proceso te ayudará a organizar tus pensamientos y trabajo de manera eficiente.
+
+Para ilustrar estos conceptos, desarrollaremos un pequeño sistema que permita gestionar una biblioteca digital. El sistema deberá incluir funcionalidades como la adición de libros, búsqueda por título o autor, y eliminación de libros. Este ejercicio te permitirá aplicar tus conocimientos sobre estructuras de datos y control de flujo en Python.
 
 ### Ejercicio
-Implementa la clase `Tarea` con los siguientes atributos:
-- `titulo`: un string que representa el título de la tarea.
-- `descripcion`: una string que describe brevemente la tarea.
-- `estado`: un string que indica si la tarea está pendiente, en progreso o completada.
-
-Luego, desarrolla métodos para:
-1. Agregar una nueva tarea.
-2. Marcar una tarea como completada.
-3. Listar todas las tareas pendientes.
-4. Listar todas las tareas completadas.
+Implementa un sistema simple para gestionar una biblioteca digital:
+1. Crea una clase `Libro` con atributos como título, autor y año de publicación.
+2. Desarrolla una función que permita agregar libros a una lista.
+3. Implementa funciones para buscar libros por título o autor.
+4. Agrega la funcionalidad para eliminar un libro de la lista.
 
 ### Resumen
-- Implementación de la clase `Tarea` utilizando POO en Python.
-- Desarrollo de métodos para manipular y gestionar tareas.
-- Integración de diferentes módulos y funcionalidades en un proyecto real.
+- Identificar las necesidades del proyecto.
+- Planificar y estructurar el desarrollo.
+- Aplicar conocimientos sobre clases y funciones en Python.
