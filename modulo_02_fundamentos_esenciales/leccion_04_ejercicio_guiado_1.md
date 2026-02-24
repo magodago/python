@@ -1,12 +1,11 @@
 # Ejercicio guiado 1
 
-- Comprender la estructura básica de un programa Python.
-- Utilizar variables y operadores aritméticos para realizar cálculos simples.
+- Familiarizarse con la sintaxis básica de Python.
+- Comprender cómo declarar y manipular variables.
 
-En esta lección del módulo Fundamentos esenciales, se explorará la creación de programas básicos en Python. Se aprenderá a escribir código que utilice variables para almacenar valores numéricos y operadores aritméticos para realizar cálculos sencillos. Los estudiantes también descubrirán cómo imprimir resultados en pantalla utilizando la función `print()`.
+En esta lección del módulo Fundamentos esenciales, se profundizará en las bases de Python a través del uso práctico. Los estudiantes aprenderán sobre el entorno de desarrollo integrado (IDE) o editor de código que pueden usar para escribir y ejecutar sus primeros programas en Python. Se explicará cómo declarar variables de diferentes tipos y realizar operaciones básicas con ellas, como asignación, lectura y escritura.
 
-El ejercicio consiste en crear un programa que solicite al usuario dos números enteros, realice las cuatro operaciones básicas (suma, resta, multiplicación y división) entre ellos, e imprima los resultados. Esto permitirá a los estudiantes aplicar lo aprendido sobre variables y operadores aritméticos.
+Para practicar estos conceptos, los estudiantes deberán crear un programa simple que solicite su nombre al usuario, lo guarde en una variable y luego muestre un mensaje personalizado. Este ejercicio servirá para consolidar la comprensión de las variables y el input/output básico en Python.
 
-- Dominio de la sintaxis básica para definir variables.
-- Uso correcto de operadores aritméticos en Python.
-- Impresión de resultados utilizando `print()`.
+- Familiaridad con la declaración y manipulación de variables.
+- Compreensión del uso de input() y print() en Python.
