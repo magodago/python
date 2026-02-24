@@ -1,13 +1,11 @@
 # Conclusiones
 
-- Comprender los conceptos fundamentales de Python aplicados durante el curso.
-- Aplicar conocimientos adquiridos para resolver problemas complejos mediante la creación del proyecto final.
+- Conocer las aplicaciones prácticas de Python en proyectos reales.
+- Analizar los aspectos positivos y negativos del uso de Python para desarrollar soluciones complejas.
 
-Durante esta lección, se enfocará en reflexionar sobre el recorrido realizado a lo largo del curso y cómo cada uno de los conceptos aprendidos ha contribuido al desarrollo del proyecto final. Se revisarán las principales estructuras de datos, control de flujo, funciones y orientación a objetos que se utilizaron para resolver problemas complejos. Además, se discutirá la importancia de la documentación y el manejo eficiente del código.
+Python es una herramienta versátil que puede ser utilizada en una amplia gama de aplicaciones, desde desarrollo web hasta análisis de datos. En este proyecto final, se ha podido observar cómo Python facilita la implementación de algoritmos y estructuras de datos, lo que permite crear soluciones eficientes y escalables. Sin embargo, también se han identificado desafíos como la gestión de recursos en entornos intensivos de computación.
 
-Para esta práctica, los estudiantes deben preparar una presentación breve (5-7 minutos) donde resuman sus logros en el proyecto final, destacando cómo aplicaron diferentes conceptos de Python que se han estudiado durante el curso. La presentación debe incluir ejemplos de código y explicaciones claras sobre la funcionalidad del mismo.
+Para el ejercicio final, los alumnos deben presentar un informe donde evalúen las ventajas y limitaciones del uso de Python para resolver problemas complejos en su proyecto. Deben considerar factores como la velocidad de ejecución, la facilidad de mantenimiento y la disponibilidad de bibliotecas específicas.
 
-Puntos clave:
-- Integración de conocimientos adquiridos.
-- Importancia de la documentación en el desarrollo de proyectos.
-- Resumen de logros y aplicaciones prácticas de Python.
+- Ventajas y desventajas del uso de Python.
+- Aplicaciones prácticas identificadas durante el proyecto.
