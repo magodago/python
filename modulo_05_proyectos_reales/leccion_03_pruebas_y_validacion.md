@@ -1,33 +1,16 @@
 # Pruebas y validacion
 
+Objetivos
 - Comprender la importancia de pruebas y validación en el desarrollo de proyectos Python.
-- Implementar métodos de prueba básicos utilizando las bibliotecas estándar de Python.
+- Implementar técnicas básicas de pruebas unitarias utilizando la biblioteca unittest.
 
-Python es un lenguaje de programación versátil que se utiliza ampliamente en diversas aplicaciones, desde desarrollo web hasta ciencia de datos. Sin embargo, para garantizar que el código funcione correctamente y esté libre de errores, es crucial implementar pruebas y validación. Las pruebas permiten verificar que las funciones y métodos del programa funcionan como se espera, lo cual es fundamental para mantener la calidad del software.
+Contenido
+En este módulo, se enfatiza la importancia de incorporar pruebas y validaciones en el proceso de desarrollo de software para garantizar que los programas funcionen correctamente. Las pruebas no solo ayudan a detectar errores temprano en el ciclo de vida del proyecto sino que también mejoran la calidad global del código. Se introducirá la biblioteca unittest, una herramienta incorporada en Python que facilita la creación y ejecución de pruebas unitarias. A través de ejemplos prácticos, se mostrarán cómo definir casos de prueba, usar assertions para verificar el comportamiento esperado y ejecutar tests de manera eficiente.
 
-Para realizar pruebas en Python, podemos utilizar las herramientas integradas del lenguaje, como `assert`, o bibliotecas más avanzadas como `unittest` e `pytest`. Estas bibliotecas nos permiten escribir casos de prueba que se ejecutan automáticamente y nos informan sobre el estado del código. Por ejemplo, con `unittest`, podemos definir pruebas unitarias que verifican la funcionalidad individual de las partes más pequeñas del programa.
+Ejercicio
+Implemente una función que calcule el factorial de un número y escriba las pruebas necesarias utilizando unittest. La función debe manejar correctamente los valores negativos devolviendo un mensaje de error apropiado, y para los números positivos, debe calcular el factorial de manera eficiente.
 
-### Ejercicio
-
-Implementa una función en Python que calcule el área de un círculo dado su radio. Luego, escribe pruebas utilizando la biblioteca `unittest` para verificar que la función devuelva los valores correctos para diferentes radios.
-
-```python
-import unittest
-
-def area_circulo(radio):
-    return 3.14 * (radio ** 2)
-
-class TestAreaCirculo(unittest.TestCase):
-    def test_area_circulo(self):
-        self.assertEqual(area_circulo(0), 0)
-        self.assertAlmostEqual(area_circulo(1), 3.14, places=2)
-        self.assertAlmostEqual(area_circulo(5), 78.5, places=2)
-
-if __name__ == '__main__':
-    unittest.main()
-```
-
-### Resumen
-- Pruebas son esenciales para verificar que el código funcione correctamente.
-- Se puede utilizar `unittest` o `pytest` para implementar pruebas en Python.
-- Las pruebas ayudan a mantener la calidad del software y facilitan la detección de errores.
+Resumen
+- Pruebas unitarias son esenciales para asegurar la calidad del código.
+- Se utilizó la biblioteca unittest en Python para implementar pruebas efectivas.
+- El ejercicio práctico permitirá aplicar conocimientos sobre pruebas a una función real.
