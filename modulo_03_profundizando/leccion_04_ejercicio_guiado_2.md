@@ -1,28 +1,22 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizar a los estudiantes con la manipulación de listas y diccionarios en Python.
-- Desarrollar habilidades para la resolución de problemas mediante programación funcional.
+- Aprender a utilizar la biblioteca `collections` para trabajar con estructuras de datos avanzadas.
+- Familiarizarse con el uso de `defaultdict`, `deque` y `Counter`.
 
 ## Contenido
-En esta lección, profundizaremos en el manejo avanzado de estructuras de datos como listas y diccionarios. Aprenderemos a manipular estos tipos de datos utilizando funciones integradas y métodos propios de Python para realizar operaciones complejas con eficiencia. Además, se explorará cómo combinar estas estructuras de datos en soluciones más robustas mediante la programación funcional, lo que permitirá al estudiante entender mejor cómo organizar código modularmente.
+En esta lección profundizaremos en la biblioteca `collections` de Python, que proporciona varias clases de colecciones adicionales más allá de las listas, tuplas y diccionarios. Específicamente, nos centraremos en tres estructuras de datos: `defaultdict`, `deque` y `Counter`. 
+
+La clase `defaultdict` es una subclase de `dict` que sobrescribe el método `__missing__()` para devolver un valor predeterminado si se intenta acceder a una clave no existente. Esto puede ser muy útil en situaciones donde queremos inicializar automáticamente los valores de las claves.
+
+El objeto `deque`, abreviatura de "double-ended queue", es una lista de doble extremo que permite añadir y eliminar elementos desde ambos lados con un tiempo de complejidad constante. Es particularmente útil para implementar colas y pila dinámicas.
+
+Finalmente, la clase `Counter` es una subclase de `dict` diseñada para contar los elementos en una colección. Proporciona métodos útiles como `elements()`, `most_common()` y `subtract()` que facilitan el análisis de datos.
 
 ## Ejercicio
-Dado el siguiente diccionario, donde las claves son nombres de productos y los valores son listas con información sobre cada producto (nombre, precio, stock), realiza las siguientes tareas:
-
-```python
-productos = {
-    "Manzana": ["Manzana", 1.50, 30],
-    "Leche": ["Leche", 2.00, 45],
-    "Pan": ["Pan", 1.00, 60]
-}
-```
-
-1. Crea una función que devuelva la lista de productos con un stock inferior a 20 unidades.
-2. Escriba una función que ordene los productos por precio en orden ascendente y descenda.
-3. Implementa una función que permita actualizar el precio de un producto dado su nombre.
+Implemente un programa que use `defaultdict` para contar las ocurrencias de palabras en un texto. Luego, utilice `deque` para simular una caja de correos electrónico donde se pueden añadir y eliminar mensajes por la izquierda (enviar) o la derecha (recibir). Por último, emplee `Counter` para analizar los elementos más comunes en una lista dada.
 
 ## Resumen
-- Se profundiza en el manejo avanzado de listas y diccionarios.
-- Se enseña la programación funcional para organizar código modularmente.
-- Los estudiantes practicarán con ejercicios que combinan diferentes estructuras de datos.
+- Se aprendió a utilizar `defaultdict` para contar ocurrencias de palabras.
+- Se exploró el uso de `deque` para manejar colas dinámicas.
+- Se implementaron análisis de datos con la ayuda de `Counter`.
