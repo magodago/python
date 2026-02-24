@@ -1,15 +1,17 @@
 # Checklist final
 
-- Mejorar la capacidad del estudiante para identificar y resolver problemas comunes en Python.
-- Optimizar el rendimiento de los programas escritos en Python.
+- Resolver problemas comunes y optimizar el rendimiento del código Python.
+- Implementar un checklist final para identificar y corregir errores y mejorar la eficiencia.
 
-El objetivo final de esta lección es proporcionar a los estudiantes un checklist práctico que les permita abordar eficazmente problemas y mejorar el rendimiento de sus aplicaciones. Este checklist incluye pasos para depurar código, optimización de bucles, manejo eficiente de memoria y uso adecuado de bibliotecas y módulos.
+Python es una potente herramienta de programación que, aunque flexible e intuitiva, puede enfrentarse a diversos problemas en términos de rendimiento y funcionalidad. Para garantizar que tu código esté optimizado y funcione correctamente, es crucial realizar un chequeo final exhaustivo. Este proceso implica revisar el código desde la perspectiva de los errores comunes, las prácticas recomendadas para mejorar el rendimiento y la eficiencia del programa.
 
-Para lograr estos objetivos, se recomienda a los estudiantes que sigan un proceso sistemático: primero, revisen el código para identificar errores comunes como divisiones por cero o acceso a índices fuera del rango. Segundo, evalúen la eficiencia de sus bucles y condicionales, buscando formas de reducir su complejidad algorítmica. Tercero, analicen el uso de variables y objetos para asegurar que se esté utilizando memoria de manera eficiente. Finalmente, revisen la documentación oficial o recursos en línea para encontrar bibliotecas y módulos que puedan mejorar el rendimiento.
+Para ello, puedes utilizar un checklist que incluya preguntas como: ¿Has verificado que todas las variables estén correctamente inicializadas? ¿Ha sido utilizada la sintaxis correcta en todos los casos? ¿Se ha optimizado el uso de estructuras de datos y bucles para mejorar el rendimiento? Además, es importante revisar si se han utilizado funciones o módulos innecesariamente, ya que esto puede afectar negativamente al rendimiento. Este proceso no solo ayudará a corregir errores, sino también a identificar áreas donde se pueden implementar mejoras para optimizar el código.
 
-Ejercicio: Implemente un programa que calcule los primeros 100 números de Fibonacci usando una función recursiva y luego optimice este código utilizando una técnica iterativa. Compare el tiempo de ejecución antes y después del optimizamiento para entender la importancia de las prácticas eficientes.
+### Ejercicio
 
-Puntos clave:
-- Identificación de errores comunes.
-- Optimización algorítmica.
-- Manejo eficiente de memoria.
+Implementa un programa en Python que calcule la suma de los primeros 100 números pares y luego realiza un chequeo final utilizando tu checklist. Asegúrate de revisar cada paso del código, desde la inicialización de variables hasta la impresión final, identificando posibles errores y áreas para optimizar el rendimiento.
+
+- **Puntos clave:**
+  - Realizar una verificación exhaustiva del código.
+  - Utilizar un checklist para identificar y corregir problemas comunes.
+  - Optimizar el uso de estructuras de datos y bucles para mejorar el rendimiento.
