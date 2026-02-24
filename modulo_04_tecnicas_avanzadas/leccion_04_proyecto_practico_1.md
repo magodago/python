@@ -1,11 +1,17 @@
 # Proyecto practico 1
 
-- Comprender la integración de múltiples módulos en un proyecto Python.
-- Desarrollar habilidades para manejar excepciones y errores de manera eficiente.
+- Utilizar técnicas avanzadas de Python para la manipulación y análisis de datos.
+- Implementar un proyecto práctico que permita al alumno aplicar conceptos como la programación orientada a objetos y el uso eficiente de bibliotecas.
 
-En esta lección del módulo de técnicas avanzadas, se profundizará en la construcción de un proyecto práctico que requiere el uso de varios módulos de Python. El objetivo es aplicar conocimientos previos sobre estructuras de datos complejas, manejo de archivos y programación orientada a objetos para crear una aplicación funcional. Los estudiantes aprenderán a modularizar su código, gestionar excepciones con eficacia y optimizar el rendimiento del programa.
+Para este módulo, se trabajará en la implementación de un sistema que analice datos meteorológicos. Los alumnos aprenderán a utilizar pandas para manipular conjuntos de datos, matplotlib para visualizar información y scikit-learn para realizar predicciones basadas en modelos estadísticos.
 
-Para este ejercicio, se les pedirá a los alumnos que desarrollen un sistema simple de gestión bibliotecaria. El sistema debe permitir la adición, eliminación y búsqueda de libros en una base de datos local. Los estudiantes deberán utilizar módulos como `sqlite3` para interactuar con la base de datos y `os` para manejar archivos. Además, se les pedirá que implementen un menú interactiva utilizando `input()` y `print()`. El ejercicio incluirá la gestión de excepciones para capturar errores comunes durante la ejecución del programa.
+El ejercicio consiste en desarrollar un programa que:
+1. Carga un conjunto de datos meteorológicos pre-procesados.
+2. Realiza una exploración inicial del dataset utilizando métodos de pandas.
+3. Visualiza la temperatura y precipitaciones a lo largo del tiempo usando matplotlib.
+4. Implementa un modelo de regresión lineal con scikit-learn para predecir las temperaturas futuras basándose en los datos históricos.
 
-- Modularización del código.
-- Uso eficiente de módulos y manejo de excepciones.
+Los puntos clave a resaltar son:
+- El uso eficiente de pandas para manipular grandes conjuntos de datos.
+- La importancia de la visualización de datos para entender patrones y tendencias.
+- La implementación de modelos predictivos con scikit-learn.
