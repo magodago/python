@@ -1,16 +1,11 @@
 # Resumen del modulo
 
-Objetivos
-- Consolidar los conceptos fundamentales de Python.
-- Aplicar conocimientos adquiridos a través de ejercicios prácticos.
+- Comprender los fundamentos esenciales de Python.
+- Familiarizarse con la sintaxis básica y estructuras de datos.
 
-Contenido
-En esta lección final del módulo sobre Fundamentos esenciales, se revisará todo lo aprendido hasta ahora. Se abordarán temas como la sintaxis básica, tipos de datos, estructuras de control (condicionales y bucles), funciones y listas. Los estudiantes deben entender cómo utilizar estas herramientas para resolver problemas simples y comprender las mejores prácticas al escribir código en Python.
+Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y versatilidad. En este módulo, se han explorado conceptos básicos como variables, tipos de datos, operadores aritméticos y lógicos, así como estructuras de control como if-else y bucles for y while. Estas herramientas forman la base sobre las cuales se construyen más complejas aplicaciones en Python.
 
-Ejercicio
-Implemente una función que calcule el factorial de un número utilizando un bucle for. Luego, utilice esta función en un programa principal donde solicite al usuario ingresar un número y muestre su factorial calculado. Asegúrese de manejar posibles errores de entrada del usuario.
+Para practicar, escribe un programa que solicite al usuario su nombre y edad, y luego imprima una frase personalizada que indique cuántos años tendrá el usuario en 10 años. Asegúrate de usar variables para almacenar la información ingresada por el usuario y operaciones aritméticas para calcular la edad futura.
 
-Resumen
-- Se ha revisado la sintaxis básica y tipos de datos.
-- Se han profundizado en estructuras de control y funciones.
-- Los estudiantes deben poder aplicar estos conceptos para resolver problemas prácticos.
+- Variables y tipos de datos.
+- Estructuras de control básicas.
