@@ -1,15 +1,11 @@
 # Criterios de evaluacion
 
-### Objetivos
-- Comprender los criterios de evaluación para el proyecto final de Python.
-- Identificar las áreas clave que se evaluarán durante la revisión del proyecto.
+- Entender los criterios de evaluación del proyecto final en Python.
+- Desarrollar habilidades para autoevaluarse y mejorar la calidad del trabajo.
 
-### Contenido
-Los criterios de evaluación para el proyecto final de Python son fundamentales para garantizar que el trabajo entregado cumpla con los estándares académicos y profesionales. El proyecto consiste en desarrollar una aplicación completa utilizando las herramientas y conceptos aprendidos durante el curso, lo que implica un análisis detallado tanto del código como del diseño de la aplicación. Los aspectos a evaluar incluyen la funcionalidad correcta del programa, la eficiencia y optimización del código, la estructura y organización del proyecto, así como la documentación y el uso apropiado de las buenas prácticas de programación.
+El objetivo principal de esta lección es que los estudiantes comprendan claramente los criterios de evaluación que se aplicarán al proyecto final de Python. Esto incluirá aspectos técnicos como el uso adecuado de estructuras de datos, funciones y clases, así como también consideraciones relacionadas con la legibilidad del código, la documentación y la presentación final. Además, se enfatizará la importancia de cumplir con los requisitos específicos establecidos para el proyecto.
 
-### Ejercicio
-Desarrolla un resumen breve (no más de 100 palabras) de los criterios de evaluación para tu proyecto final. Incluye menciones específicas sobre funcionalidad, eficiencia, organización y documentación.
+Para practicar estos criterios, los estudiantes deberán revisar un ejemplo de proyecto final proporcionado por el profesor y evaluarlo según los mismos criterios que se les informarán. Esto permitirá a los alumnos familiarizarse con la evaluación y prepararse mejor para su propio trabajo final.
 
-### Resumen
-- Los criterios de evaluación cubren aspectos como la funcionalidad del programa, la eficiencia del código, la estructura del proyecto y la documentación.
-- Es crucial comprender estos criterios para prepararse adecuadamente para la entrega final.
+- Comprender los criterios de evaluación.
+- Practicar la autoevaluación mediante un ejercicio práctico.
