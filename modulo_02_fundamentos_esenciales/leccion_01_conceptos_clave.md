@@ -2,15 +2,28 @@
 
 ## Objetivos
 - Comprender los conceptos fundamentales de Python.
-- Familiarizarse con la sintaxis básica y estructuras de datos.
+- Aprender a escribir y ejecutar programas básicos en Python.
 
 ## Contenido
-En esta lección se abordarán los conceptos clave que forman parte del núcleo de Python. Se comenzará por presentar las características principales del lenguaje, como su naturaleza interpretada, dinámica y orientada a objetos. Luego, se explorarán los tipos básicos de datos, incluyendo números, cadenas y booleanos, junto con sus operaciones fundamentales. Finalmente, se introducirán las estructuras de datos más utilizadas en Python, como listas, tuplas y diccionarios, y se explicará cómo manipularlos.
+Python es un lenguaje de programación interpretado, de alto nivel y fácil de leer. Su sintaxis clara y concisa facilita la escritura y el mantenimiento del código. En esta lección se introducirán los conceptos clave que son necesarios para comenzar a programar en Python.
+
+Los fundamentos esenciales incluyen entender cómo estructurar un programa básico, reconocer las variables y tipos de datos básicos, y aprender a escribir sentencias condicionales y bucles. Estos elementos forman la base sobre la cual se construirán más complejos programas en el futuro.
 
 ## Ejercicio
-Escribe un programa que solicite al usuario ingresar su nombre y edad. El programa debe imprimir una frase que indique cuántos años tendrá el usuario en 10 años. Utiliza variables para almacenar la información ingresada por el usuario y realiza las operaciones necesarias para calcular la edad futura.
+Escribe un programa simple que solicite al usuario su nombre e imprima una salutación personalizada. Luego, pide al usuario que ingrese dos números y realiza la suma de ellos. Finalmente, muestra el resultado en pantalla.
+
+```python
+nombre = input("Por favor, introduce tu nombre: ")
+print(f"¡Hola, {nombre}!")
+
+numero1 = float(input("Introduce el primer número: "))
+numero2 = float(input("Introduce el segundo número: "))
+
+suma = numero1 + numero2
+
+print(f"La suma de tus números es: {suma}")
+```
 
 ## Resumen
-- Python es un lenguaje interpretado, dinámico y orientado a objetos.
-- Los tipos de datos básicos incluyen números, cadenas y booleanos.
-- Las estructuras de datos fundamentales son listas, tuplas y diccionarios.
+- Python es un lenguaje interpretado, de alto nivel y con una sintaxis clara.
+- Los conceptos básicos incluyen variables, tipos de datos y estructuras condicionales y cíclicas.
