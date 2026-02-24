@@ -1,11 +1,17 @@
 # Nivel avanzado
 
-- Familiarizarse con la optimización de código mediante técnicas avanzadas.
-- Implementar y entender el uso efectivo de decoradores para mejorar la funcionalidad del código.
+### Objetivos
+- Comprender y aplicar técnicas avanzadas de programación orientada a objetos.
+- Implementar y optimizar la utilización de decoradores en Python.
 
-La lección se centra en técnicas avanzadas de programación en Python, enfocándose específicamente en la optimización del código y la utilización de decoradores. Se explicará cómo identificar posibles áreas de mejora en el rendimiento del código a través del análisis de tiempo de ejecución y memoria. Además, se profundizará en la creación y aplicación de decoradores para encapsular funcionalidades comunes, mejorar la legibilidad del código y facilitar su mantenimiento.
+### Contenido
+En esta lección del módulo de técnicas avanzadas, se profundizará en el uso de metaclasses y decoradores para abordar problemas complejos de una manera más eficiente. Los metaclasses son una característica avanzada que permite controlar la creación de clases en Python, permitiendo modificar o personalizar su comportamiento durante la definición de la clase. Decoradores, por otro lado, son funciones que toman otra función y extienden su funcionalidad sin modificarla directamente, lo cual es muy útil para añadir funcionalidades a métodos o funciones existentes.
 
-Para este ejercicio, los alumnos deberán analizar un fragmento de código que realiza cálculos matemáticos complejos y optimizarlo utilizando técnicas vistas en clase. Posteriormente, se les pedirá implementar decoradores personalizados para agregar nuevas funcionalidades al código optimizado sin modificar su estructura original.
+Para ilustrar estos conceptos, se explorará un caso práctico donde se utilizarán metaclasses para controlar la creación de clases con atributos dinámicos y decoradores para loggear el acceso a métodos y propiedades de una clase, mejorando así la trazabilidad del código.
 
-- Optimización del rendimiento mediante análisis y mejora de código.
-- Uso efectivo de decoradores para encapsular y mejorar funcionalidades.
+### Ejercicio
+Implemente un ejemplo simple utilizando metaclasses. Cree una metaclass que registre todas las clases creadas durante su ejecución en una lista. Luego, utilice esta metaclass para crear varias clases y verifique si se están registrando correctamente.
+
+### Resumen
+- Metaclasses permiten controlar la creación de clases y pueden ser utilizadas para personalizar el comportamiento de clases.
+- Decoradores son una técnica avanzada que permite extender funcionalidades de funciones o métodos sin modificarlos directamente, mejorando así la legibilidad y mantenibilidad del código.
