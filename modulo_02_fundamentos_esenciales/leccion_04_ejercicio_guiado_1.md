@@ -1,20 +1,13 @@
 # Ejercicio guiado 1
 
-Objetivos
-- Familiarizar al estudiante con la sintaxis básica de Python.
-- Introducir los conceptos fundamentales de variables y tipos de datos.
+- Entender la estructura básica de un programa en Python.
+- Practicar la creación y uso de variables y operadores aritméticos.
 
-Contenido
-En esta lección del módulo Fundamentos esenciales, exploraremos la sintaxis básica de Python, incluyendo cómo declarar y asignar valores a variables. También profundizaremos en los diferentes tipos de datos que soporta Python, como enteros, flotantes y cadenas de texto. Aprenderemos a imprimir mensajes en la consola utilizando la función `print()`, y a utilizar operadores aritméticos básicos para realizar cálculos simples.
+Para esta lección, aprenderemos sobre los fundamentos esenciales del lenguaje de programación Python. Comenzaremos con una introducción a cómo estructurar un programa básico, incluyendo la declaración de variables y el uso de operadores aritméticos para realizar cálculos simples. Esto nos permitirá construir un entendimiento sólido sobre los componentes básicos que forman parte del lenguaje.
 
-Ejercicio
-Crea un programa simple en Python que:
-1. Asigne el valor 10 a una variable llamada `edad`.
-2. Asigne el valor "Ana" a una variable llamada `nombre`.
-3. Imprima en la consola: "Hola, mi nombre es Ana y tengo 10 años".
-4. Realice una operación matemática para sumar 5 a la variable `edad` e imprima el resultado.
+Ejercicio: Escribe un programa en Python que solicite al usuario ingresar dos números enteros, luego realiza la suma, resta, multiplicación y división de estos números. Finalmente, muestra los resultados en pantalla. Recuerda manejar posibles errores, como divisiones por cero.
 
-Resumen
-- Se introdujo la sintaxis básica de Python.
-- Se aprendió sobre variables y tipos de datos primitivos.
-- Se practicó la impresión en consola y operaciones aritméticas.
+Resumen:
+- Se aprendió a estructurar un programa básico en Python.
+- Se practicó el uso de variables para almacenar datos.
+- Se exploraron operadores aritméticos y cómo implementarlos en código.
