@@ -1,20 +1,11 @@
 # Revision
 
-## Objetivos
-- Consolidar la comprensión de los bucles y estructuras condicionales avanzadas.
-- Aprender a utilizar funciones recursivas y decoradores.
+- Comprender la optimización de código mediante técnicas avanzadas.
+- Implementar patrones de diseño y bibliotecas para mejorar la eficiencia del código.
 
-## Contenido
-En esta lección de técnicas avanzadas en Python, se revisará el uso de bucles y estructuras condicionales más complejas. Se profundizará en la utilización de bucles `for` anidados y comprensiones de lista para manipular datos de manera eficiente. Además, se explorarán las condiciones complejas utilizando operadores lógicos y sentencias `if-elif-else` avanzadas.
+El objetivo de esta lección es revisar y profundizar en las técnicas avanzadas de Python, centrándonos en la optimización del código. Veremos cómo aplicar diversas estrategias y herramientas para mejorar el rendimiento de nuestros programas sin comprometer su legibilidad o mantenibilidad. Además, exploraremos el uso de patrones de diseño y bibliotecas específicas que pueden ser útiles en diferentes escenarios de desarrollo.
 
-Se abordará también el tema de funciones recursivas, mostrando ejemplos prácticos en los que estas son particularmente útiles, como la generación de números de Fibonacci o la búsqueda en árboles binarios. Se explicarán cómo evitar bucles infinitos y manejar correctamente las condiciones de término.
+Para practicar estos conceptos, los estudiantes deberán optimizar un script existente que realiza cálculos matemáticos complejos. El objetivo es mejorar la velocidad del código manteniendo su funcionalidad original. Se recomienda utilizar técnicas como la programación vectorial con NumPy y el uso de decoradores para medir el tiempo de ejecución.
 
-Finalmente, se introducirá el concepto de decoradores en Python, mostrando su utilidad para modificar funcionalidades existentes sin alterar el código fuente original. Se proporcionará un ejemplo práctico de un decorador que mide el tiempo de ejecución de una función.
-
-## Ejercicio
-Escribe una función recursiva que calcule la suma de los primeros `n` números pares y otra función que utilice un decorador para medir cuánto tiempo tarda en ejecutarse. Combina ambos conceptos en un solo programa donde, al llamar a la función recursiva, se muestre el tiempo que ha tardado en calcular la suma.
-
-## Resumen
-- Se profundiza en bucles y estructuras condicionales avanzadas.
-- Se aprende sobre funciones recursivas y su aplicación práctica.
-- Se introduce el uso de decoradores para modificar funcionalidades existentes.
+- Optimización mediante la programación vectorial.
+- Uso de patrones de diseño y bibliotecas específicas para mejorar rendimiento.
