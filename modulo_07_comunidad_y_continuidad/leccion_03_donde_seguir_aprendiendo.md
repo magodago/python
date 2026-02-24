@@ -1,11 +1,11 @@
 # Donde seguir aprendiendo
 
-- Comprender las diferentes opciones disponibles para continuar aprendiendo Python después de completar este curso.
-- Identificar y evaluar recursos adicionales que pueden ser útiles para mejorar habilidades en Python.
+- Los alumnos aprenderán sobre recursos online y comunitarios disponibles para continuar su aprendizaje de Python.
+- Comprenderán la importancia de participar en comunidades de programadores para mejorar sus habilidades y conocimientos.
 
-En esta lección, exploraremos diversas formas en las que puedes seguir perfeccionando tus conocimientos sobre Python. Aunque el curso actual te ha proporcionado una sólida base en programación con este lenguaje, existen numerosos recursos y plataformas donde podrás profundizar aún más. Algunas opciones incluyen foros de discusión como Stack Overflow o Reddit para resolver dudas específicas; tutoriales avanzados en sitios web como Real Python o Codecademy; y participar en proyectos colaborativos a través de GitHub.
+El contenido de esta lección se centra en proporcionar a los estudiantes una guía detallada sobre dónde pueden seguir aprendiendo Python después de completar el curso. Se discutirán plataformas educativas como Coursera, Udemy y edX, que ofrecen cursos avanzados y especializados. También se explorará la importancia de foros y comunidades como Stack Overflow y Reddit para resolver dudas y aprender con otros programadores. Los estudiantes aprenderán a utilizar repositorios de GitHub para colaborar en proyectos y mejorar sus habilidades prácticas.
 
-Para practicar, busca un proyecto pequeño en GitHub relacionado con Python que te interese. Lee el código existente, realiza modificaciones menores para entender mejor cómo funciona y luego intenta implementar nuevas características o mejorar la eficiencia del código.
+Para el ejercicio, los alumnos deberán seleccionar dos plataformas educativas online mencionadas y crear una lista comparativa de los cursos disponibles que se ajusten a su nivel actual y aspiraciones futuras. Deben incluir información sobre la duración del curso, costos (si es aplicable), temas cubiertos y opiniones de otros estudiantes si están disponibles.
 
-- Familiarizarse con diferentes recursos disponibles.
-- Practicar mediante la contribución a proyectos de código abierto.
+- Los recursos online son valiosos para el aprendizaje continuo.
+- La participación en comunidades de programadores puede ser muy beneficiosa.
