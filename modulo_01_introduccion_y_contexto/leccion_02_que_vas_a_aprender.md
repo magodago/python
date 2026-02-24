@@ -1,20 +1,15 @@
 # Que vas a aprender
 
 Objetivos
-- Comprender la importancia de Python en el desarrollo de software y ciencia de datos.
-- Familiarizarse con los conceptos básicos de sintaxis y estructuras de datos en Python.
+- Comprender la importancia y el contexto de Python en el desarrollo de software.
+- Identificar las características principales que hacen a Python un lenguaje versátil.
 
 Contenido
-En esta lección, exploraremos por qué Python es una de las lenguas de programación más populares y versátiles del mercado actual. Aprenderemos sobre su facilidad de uso, gran comunidad de usuarios y aplicaciones prácticas que abarcan desde desarrollo web hasta análisis de datos. Además, introduciremos los elementos fundamentales de la sintaxis Python, como las variables, tipos de datos básicos (números, cadenas, booleanos) y estructuras de datos simples (listas, tuplas). Estos conceptos son esenciales para comenzar a escribir código eficiente y legible.
+En esta lección, exploraremos por qué Python es una de las tecnologías más populares para el desarrollo de software. Este lenguaje de programación, desarrollado inicialmente en 1991 por Guido van Rossum, se ha convertido en un estándar debido a su simplicidad y versatilidad. Su sintaxis clara y legible facilita la lectura del código, lo que hace que sea ideal para principiantes y expertos. Además, Python es ampliamente utilizado en áreas como el análisis de datos, ciencia de la computación, desarrollo web, automatización y más, gracias a su gran comunidad y una vasta biblioteca estándar.
 
 Ejercicio
-Crea una lista en Python que contenga los nombres de tres ciudades. Luego, imprime cada ciudad en un mensaje diferente utilizando un bucle `for`. Por ejemplo:
-```python
-ciudades = ["Madrid", "Roma", "Pekín"]
-for ciudad in ciudades:
-    print(f"Visitaré {ciudad} si viajo por Europa.")
-```
+Implementa un programa simple que imprima "¡Hola, mundo!" utilizando Python. Luego, modifica el programa para que pida al usuario su nombre y lo salude personalmente.
 
 Resumen
-- Python es ampliamente utilizado en diversas áreas debido a su simplicidad y versatilidad.
-- Se presentan los fundamentos de la sintaxis básica, incluyendo variables y tipos de datos.
+- Python es un lenguaje de programación versátil y fácil de aprender.
+- Se utiliza en diversas áreas del desarrollo de software debido a su simplicidad y potencia.
