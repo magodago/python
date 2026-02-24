@@ -1,22 +1,15 @@
 # Diagnostico
 
-- Comprender los métodos básicos de diagnóstico de errores en Python.
-- Identificar y corregir problemas comunes que afectan el rendimiento del código.
+### Objetivos
+- Identificar y diagnosticar problemas comunes en programas Python.
+- Analizar el rendimiento de un código y optimizarlo.
 
-En esta lección, aprenderemos a diagnosticar problemas comunes en nuestro código Python. El primer paso es entender cómo interpretar las excepciones y mensajes de error proporcionados por la consola. Estos nos indican qué parte del código está causando un problema y qué tipo de error se ha producido. Para mejorar el rendimiento, es crucial identificar operaciones lentas o innecesarias en nuestro código. Usaremos herramientas de depuración como `print()` y módulos como `cProfile` para analizar la eficiencia del código.
+### Contenido
+En esta lección sobre diagnóstico, exploraremos cómo identificar y resolver problemas comunes que pueden surgir durante la ejecución de programas Python. Comenzaremos revisando técnicas para detectar errores y excepciones utilizando la estructura `try-except` y el uso de herramientas como `traceback`. A continuación, profundizaremos en el análisis del rendimiento de un código mediante la utilización de módulos como `timeit` y `cProfile`, que nos permitirán medir tiempos de ejecución y analizar llamadas recursivas o bucles innecesarios.
 
-Ejercicio: Analiza el siguiente fragmento de código y utiliza las herramientas aprendidas para identificar y corregir los posibles problemas:
+### Ejercicio
+Implemente una función en Python que calcule los primeros 100 números de Fibonacci. Posteriormente, use el módulo `timeit` para medir el tiempo de ejecución de su función. Identifique posibles áreas de optimización y aplique técnicas vistas en la lección (como memoización) para mejorar el rendimiento.
 
-```python
-def calcular_factorial(n):
-    if n == 0:
-        return 1
-    else:
-        return n * calcular_factorial(n - 1)
-
-print(calcular_factorial(5))
-```
-
-Resumen:
-- Los mensajes de error son clave para diagnosticar problemas en Python.
-- Herramientas como `cProfile` ayudan a identificar operaciones lentas y mejorar el rendimiento.
+### Resumen
+- Se aprendió a utilizar `try-except` para manejar excepciones y diagnosticar errores.
+- Se exploraron herramientas como `timeit` y `cProfile` para analizar y optimizar el rendimiento del código.
