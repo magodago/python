@@ -1,11 +1,11 @@
 # Diagnostico
 
-- Comprender los métodos básicos de diagnóstico de problemas en Python.
-- Identificar y resolver errores comunes en el código utilizando herramientas de depuración.
+- Comprender los métodos básicos de diagnóstico para identificar problemas de rendimiento en aplicaciones Python.
+- Utilizar herramientas de depuración y análisis de rendimiento para resolver problemas comunes.
 
-Python es un lenguaje de programación versátil que, aunque tiene una sintaxis amigable, puede presentar diversos problemas durante su ejecución. Para diagnosticar estos problemas eficientemente, es crucial conocer las herramientas y técnicas disponibles para depurar el código. Uno de los primeros pasos en la resolución de errores es identificar dónde ocurren. Esto se puede hacer a través del uso de consolas de depuración incorporadas o de herramientas externas como PDB (Python Debugger). Estas herramientas permiten pausar la ejecución del programa, inspeccionar el estado de las variables y seguir paso a paso para entender cómo llega a un error.
+El diagnóstico es una habilidad crucial cuando se trabaja con Python, ya que permite a los desarrolladores identificar y solucionar problemas de manera eficiente. Para realizar un diagnóstico efectivo, primero es necesario entender el comportamiento normal de la aplicación y luego compararlo con su comportamiento actual. Esto puede implicar revisar registros de error, utilizar herramientas de depuración como `pdb` o `ipdb`, y analizar el rendimiento utilizando módulos como `cProfile`. Al identificar los problemas, se pueden implementar soluciones que mejoren la eficiencia del código.
 
-Para practicar estos conceptos, los estudiantes deberán corregir un código que tiene varios errores. El código proporcionado intenta calcular la suma de una serie numérica pero presenta varias fallas, incluyendo problemas con el bucle y errores en la lógica matemática. Los alumnos deben identificar estos errores utilizando PDB para depurar el código y corregirlo.
+Para practicar estos conceptos, los estudiantes deberán analizar un script de Python proporcionado por el profesor. El objetivo será identificar posibles problemas de rendimiento y sugerir mejoras en el código para optimizar su ejecución. Los alumnos deben documentar sus hallazgos y las soluciones propuestas.
 
-- Familiarizarse con las herramientas de depuración.
-- Identificar y corregir errores en un código Python mediante la práctica.
+- Identificación de problemas de rendimiento mediante la revisión de registros y análisis de perfil.
+- Uso efectivo de herramientas de depuración para resolver problemas específicos.
