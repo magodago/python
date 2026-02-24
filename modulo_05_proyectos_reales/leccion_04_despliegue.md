@@ -1,11 +1,20 @@
 # Despliegue
 
-- Entender los conceptos básicos de despliegue de aplicaciones Python.
-- Implementar un proceso de despliegue simple para una aplicación web Python.
+Objetivos
+- Comprender los conceptos básicos de despliegue web para aplicaciones Python.
+- Aprender a usar un entorno de desarrollo como Heroku para publicar proyectos.
 
-El despliegue es un paso crucial en el ciclo de vida de desarrollo de software, donde se asegura que la aplicación esté disponible y funcional en un entorno de producción. En este módulo, aprenderás a preparar tu aplicación Python para el despliegue, utilizando contenedores Docker para encapsular tu código junto con sus dependencias, y luego implementar una solución de hospedaje basada en la nube para asegurar que tu aplicación esté disponible 24/7. Este proceso no solo garantiza que tu aplicación funcione correctamente en cualquier entorno, sino que también facilita el mantenimiento y escalado.
+Contenido
+En esta lección, se explorará el proceso de despliegue de una aplicación Python en Internet. Se comenzará con la configuración del archivo `requirements.txt` y `Procfile`, que son fundamentales para especificar las dependencias y el comando de inicio de la aplicación respectivamente. Posteriormente, se explicará cómo utilizar Heroku como plataforma de despliegue, pasando por los pasos desde la creación de una cuenta hasta el push del código al servidor remoto.
 
-Para este ejercicio, crearás un contenedor Docker para una simple aplicación web Flask y luego lo desplegarás en un servicio de hospedaje basado en la nube. Primero, instalarás Docker en tu máquina local e inicializarás un nuevo proyecto Flask. Luego, creará un archivo `Dockerfile` que configure el entorno necesario para ejecutar tu aplicación. Finalmente, construirás y ejecutarás el contenedor Docker, y lo desplegarás utilizando un servicio de hospedaje gratuito como Heroku o Render.
+Ejercicio
+El estudiante deberá crear un simple API con Flask y luego realizar su despliegue en Heroku. Deberá:
+1. Instalar las dependencias necesarias.
+2. Configurar el archivo `Procfile` para que Heroku sepa cómo iniciar la aplicación.
+3. Crear una cuenta gratuita de Heroku.
+4. Conectar el repositorio local con Heroku y desplegar la aplicación.
 
-- Comprender la importancia del despliegue en el ciclo de desarrollo.
-- Utilizar Docker para encapsular y desplegar aplicaciones Python.
+Resumen
+- Se aprendió a configurar los archivos necesarios para el despliegue web.
+- Se utilizó Heroku como plataforma para publicar la aplicación Flask.
+- Se practicó desde la instalación de dependencias hasta la publicación en producción.
