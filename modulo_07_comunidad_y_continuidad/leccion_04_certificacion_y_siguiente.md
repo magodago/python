@@ -1,11 +1,11 @@
 # Certificacion y siguiente nivel
 
-- Comprender los requisitos y beneficios de obtener una certificación en Python.
-- Explorar las posibilidades de progreso profesional después de obtener la certificación.
+- Los estudiantes comprenderán los beneficios de obtener una certificación en Python.
+- Los alumnos aprenderán sobre las diferentes rutas para alcanzar el siguiente nivel en su aprendizaje de Python.
 
-En esta lección sobre certificaciones y el siguiente nivel, se explorará cómo obtener una certificación en Python puede abrir nuevas oportunidades laborales y mejorar habilidades técnicas. Se discutirá la importancia de mantenerse actualizado con las últimas tendencias en el campo del desarrollo de software y cómo una certificación puede ser un medio efectivo para demostrar competencia y conocimientos avanzados a empleadores potenciales. Además, se presentarán diferentes tipos de certificaciones disponibles y sus requisitos específicos.
+En esta lección del módulo "Comunidad y continuidad", se explorará la importancia de obtener una certificación en Python como un paso significativo hacia la profesionalización. Las certificaciones no solo demuestran conocimientos sólidos, sino que también pueden abrir puertas a oportunidades laborales y aumentar el valor percibido por los empleadores. Además, se discutirá cómo las certificaciones pueden servir como una base para continuar avanzando en la carrera de programación, identificando diferentes rutas posibles, desde especializaciones hasta cursos más avanzados.
 
-Para practicar estos conceptos, los estudiantes deberán investigar y seleccionar al menos tres certificaciones relacionadas con Python que estén disponibles en línea. Posteriormente, analizarán cada una de ellas, identificando las habilidades requeridas, el costo aproximado y la duración del proceso de certificación.
+Para practicar estos conceptos, los alumnos deberán investigar y seleccionar una certificación relevante a su nivel actual de conocimientos. Deberán presentar un resumen de por qué creen que esta certificación es beneficiosa para ellos, cómo planean prepararse para el examen y cuáles son sus expectativas después de obtenerla.
 
-- Entender el valor de una certificación en el campo de la programación.
-- Identificar diferentes tipos de certificaciones disponibles para Python.
+- Los beneficios de obtener una certificación en Python.
+- Rutas para continuar avanzando en la carrera de programación.
