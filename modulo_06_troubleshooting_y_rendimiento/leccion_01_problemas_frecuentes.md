@@ -1,18 +1,17 @@
 # Problemas frecuentes
 
 ## Objetivos
-- Identificar y resolver problemas comunes de rendimiento en programas Python.
-- Diagnosticar errores frecuentes y corregirlos.
+- Identificar y solucionar problemas comunes en Python.
+- Mejorar la eficiencia del código mediante técnicas de optimización.
 
 ## Contenido
-En esta lección se abordarán los problemas más habituales que pueden surgir durante la ejecución de scripts Python, con un énfasis especial en optimización del rendimiento. Se discutirá cómo identificar posibles causas de lentitud o fallos y proporcionará una guía paso a paso para corregir estos problemas.
+En esta lección se abordarán problemas frecuentes que los programadores pueden encontrar al trabajar con Python. Entre ellos, destacan errores de sintaxis y excepciones no controladas. Para resolver estos problemas, es crucial entender cómo funciona el intérprete de Python y cómo interpretar los mensajes de error proporcionados por la consola.
 
-Se explorarán temas como el uso ineficiente de memoria, bucles innecesarios, operaciones costosas en listas y la utilización incorrecta de métodos de programación orientada a objetos. Se proporcionarán ejemplos prácticos que ilustran cada problema y se ofrecerá código Python con soluciones optimizadas.
+Además, se discutirá sobre la optimización del código para mejorar su rendimiento. Esto incluirá técnicas como la minimización del uso innecesario de recursos, la selección adecuada de estructuras de datos, y la utilización eficiente de funciones y métodos predefinidos.
 
 ## Ejercicio
-Implemente un script que calcule los primeros 100 números primos utilizando dos enfoques diferentes: uno ineficiente y otro más eficiente. Compare el tiempo de ejecución y la memoria utilizada por cada método. Luego, identifique y corrija los problemas de rendimiento del enfoque menos eficiente.
+Escribe un script en Python que genere una lista con 100.000 números aleatorios entre 1 y 1.000.000. Luego, ordena esta lista de mayor a menor utilizando el método `sort()`. Analiza la eficiencia del código y realiza al menos dos modificaciones para mejorar su rendimiento.
 
 ## Resumen
-- Se han abordado los problemas comunes que afectan al rendimiento de Python.
-- Se ha proporcionado una guía para diagnosticar y solucionar estos problemas.
-- Los estudiantes han practicado la optimización de un script real.
+- Identificación de errores comunes como sintaxis incorrecta y excepciones.
+- Optimización del código mediante técnicas de programación eficiente.
