@@ -1,11 +1,36 @@
 # Temas intermedios
 
-- Dominar la utilización de las estructuras de control complejas como bucles anidados y condicionales múltiples.
-- Aprender a utilizar funciones lambda y comprensión de listas para mejorar el código.
+## Objetivos
+- Comprender la utilización de las excepciones y manejo de errores en Python.
+- Familiarizarse con la programación orientada a objetos (POO) avanzada.
 
-Las estructuras de control complejas son fundamentales en Python para manejar flujos de trabajo más elaborados. Los bucles anidados permiten iterar sobre colecciones dentro de otras colecciones, lo que es útil cuando se necesitan realizar operaciones en múltiples datos. Por ejemplo, podrías usar un bucle `for` anidado para procesar cada elemento de una lista de listas. Además, las condiciones múltiples con `if-elif-else` permiten tomar decisiones más complejas basadas en múltiples criterios.
+## Contenido
+En esta lección, profundizaremos en el manejo de excepciones y la implementación de programación orientada a objetos (POO) en Python. Las excepciones son un mecanismo crucial para manejar errores de manera eficiente en el código. Podremos aprender cómo definir nuestras propias excepciones y utilizarlas para mejorar la robustez del software. Además, se explorarán conceptos avanzados de POO como herencia múltiple, polimorfismo y encapsulamiento, con ejemplos prácticos.
 
-Para practicar estas estructuras, realiza el siguiente ejercicio: Escribe un programa que genere una matriz de 5x5 y cuente cuántos números pares e impares hay en la diagonal principal. Utiliza bucles anidados para recorrer la matriz y condicionales múltiples para determinar si un número es par o impar.
+## Ejercicio
+Escribe un programa que simule una calculadora básica (suma, resta, multiplicación y división) utilizando clases y métodos. Implementa la lógica de manejo de excepciones para tratar divisiones por cero y entradas inválidas.
 
-- Comprender el uso efectivo de las estructuras de control complejas.
-- Aplicar funciones lambda y comprensión de listas en situaciones específicas.
+```python
+class Calculadora:
+    def __init__(self):
+        pass
+
+    def suma(self, a, b):
+        return a + b
+
+    def resta(self, a, b):
+        return a - b
+
+    def multiplicacion(self, a, b):
+        return a * b
+
+    def division(self, a, b):
+        try:
+            return a / b
+        except ZeroDivisionError:
+            print("No se puede dividir por cero.")
+```
+
+## Resumen
+- Se aprendió a definir y utilizar excepciones personalizadas en Python.
+- Se profundizó en la programación orientada a objetos, cubriendo temas como herencia múltiple y manejo de errores.
