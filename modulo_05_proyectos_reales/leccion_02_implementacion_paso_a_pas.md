@@ -1,15 +1,12 @@
 # Implementacion paso a paso
 
-## Objetivos
-- Comprender cómo estructurar un proyecto de Python desde cero.
-- Aprender a organizar y modularizar código para proyectos más complejos.
+- El estudiante aprenderá a estructurar un proyecto Python desde cero.
+- Comprenderá cómo integrar diferentes módulos y paquetes para resolver problemas complejos.
 
-## Contenido
-En esta lección, aprenderemos a implementar paso a paso el desarrollo de una aplicación simple de gestión de tareas. Este proyecto nos permitirá aplicar los conceptos de estructura de directorios, módulos y paquetes en Python. Empezaremos definiendo las necesidades del usuario final para luego pasar a la planificación y diseño del sistema. Posteriormente, crearemos un archivo principal que servirá como punto de entrada al programa, así como otros archivos para diferentes funcionalidades. Finalmente, trabajaremos en la integración y pruebas unitarias.
+Para esta lección, se proporcionará un caso de estudio en el que los estudiantes deberán desarrollar una aplicación simple de gestión de tareas. Los pasos incluirán la creación del entorno de desarrollo, la definición de las funcionalidades básicas y la integración de bibliotecas externas para mejorar la funcionalidad.
 
-## Ejercicio
-Implementa un módulo simple llamado `tareas.py` que contenga una función `agregar_tarea(titulo)` que añade una tarea a una lista interna del módulo. Luego, crea un archivo principal `main.py` donde importes el módulo `tareas.py` y utilices la función para agregar tres tareas distintas.
+El ejercicio consistirá en dividir el proyecto en módulos separados, implementar una interfaz de línea de comandos básica, y finalmente agregar soporte para almacenar tareas en un archivo JSON. Los estudiantes deberán trabajar en grupos y presentar sus avances a la clase al final del período.
 
-## Resumen
-- Se aprendió a estructurar un proyecto de Python desde cero.
-- Se trabajó en la organización del código mediante módulos y archivos.
+- Se enfatizará la importancia de la modularización.
+- Los estudiantes aprenderán a integrar bibliotecas externas eficazmente.
+- La práctica ayudará a desarrollar habilidades en el manejo de proyectos reales.
