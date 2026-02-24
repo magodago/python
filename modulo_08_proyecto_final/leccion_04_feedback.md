@@ -1,26 +1,13 @@
 # Feedback
 
-- El estudiante aprenderá a recibir y procesar feedback constructivo sobre su proyecto final de Python.
-- Se discutirá cómo integrar los comentarios recibidos para mejorar la funcionalidad y el estilo del código.
+- Comprender los mecanismos de retroalimentación para mejorar la calidad del código final.
+- Implementar técnicas de revisión de código y recibir comentarios constructivos.
 
-Para esta lección, es crucial que comprendas cómo manejar críticas de manera efectiva. El feedback es una herramienta invaluable en el desarrollo de software, ya que permite identificar áreas de mejora y asegurar que tu proyecto final cumpla con los requisitos esperados. Al recibir feedback, debes evaluarlo objetivamente, considerando tanto lo positivo como lo negativo. Esto te permitirá tomar decisiones informadas sobre cómo ajustar tu código para hacerlo más eficiente y legible.
+Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos. En el módulo de proyecto final, la lección sobre feedback tiene como objetivo principal que los estudiantes comprendan cómo obtener y utilizar retroalimentación constructiva para perfeccionar su código. La retroalimentación es crucial en cualquier etapa del desarrollo de software, ya que permite identificar errores tempranos, mejorar la eficiencia del código y fomentar mejores prácticas.
 
-### Ejercicio
+Los estudiantes aprenderán a solicitar y recibir críticas de manera efectiva, enfocándose en aspectos como la claridad del código, la estructura y el estilo. Se discutirá cómo utilizar herramientas de revisión de código como GitLab Code Review o GitHub Pull Requests para facilitar el proceso de retroalimentación. Además, se explorará la importancia de ser receptivo a las críticas y cómo integrarlas de manera efectiva en el proyecto final.
 
-Implementa un sistema de feedback en tu proyecto final de Python. Crea una función `obtener_feedback` que reciba un string con el nombre del usuario y devuelva un diccionario con comentarios positivos y constructivos sobre su trabajo. Por ejemplo:
+Para practicar estos conceptos, los estudiantes deberán presentar su código del proyecto final a un compañero de clase para que lo revise utilizando GitLab Code Review. Deberán proporcionar comentarios constructivos y recibirlos con una actitud abierta y receptiva, trabajando juntos para mejorar la calidad del código.
 
-```python
-def obtener_feedback(nombre_usuario):
-    # Genera un diccionario con feedback para el usuario
-    return {
-        "comentarios_positivos": ["¡Excelente manejo de excepciones!", f"El código de {nombre_usuario} es muy limpio y organizado."],
-        "comentarios_negativos": ["Podrías mejorar la documentación", "Se podría optimizar el uso de bucles"]
-    }
-```
-
-Luego, utiliza esta función para recibir feedback sobre tu propio proyecto o del compañero de equipo. Reflexiona sobre cómo podrías aplicar estos comentarios en futuros proyectos.
-
-### Resumen
-- Entenderá la importancia del feedback en el desarrollo de software.
-- Practicará la recepción y análisis de críticas constructivas.
-- Aprenderá a implementar un sistema simple para recibir y procesar feedback.
+- Solicitar y recibir retroalimentación de manera efectiva.
+- Utilizar herramientas de revisión de código para facilitar el proceso de mejora continua.
