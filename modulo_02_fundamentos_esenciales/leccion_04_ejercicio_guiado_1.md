@@ -1,33 +1,13 @@
 # Ejercicio guiado 1
 
-- Comprender la estructura básica de un programa Python.
-- Practicar la escritura y ejecución de código simple.
+- Comprender la sintaxis básica de Python.
+- Practicar la escritura y ejecución de programas simples.
 
-En esta lección del módulo Fundamentos esenciales, aprenderás a escribir tu primer programa en Python. Veremos cómo estructurar un script básico, incluyendo la declaración de variables, el uso de operadores aritméticos y la impresión de resultados en pantalla. Este ejercicio te ayudará a familiarizarte con el entorno de desarrollo integrado (IDE) o editor de texto que estés utilizando.
+Python es un lenguaje de programación versátil que se utiliza ampliamente en desarrollo web, análisis de datos, inteligencia artificial y más. En esta lección, aprenderemos a escribir nuestro primer programa en Python. Este ejercicio guía nos ayudará a familiarizarnos con la sintaxis básica del lenguaje.
 
-Para comenzar, crea un nuevo archivo de texto y guardalo como `primer_programa.py`. Dentro del archivo, escribe lo siguiente:
+Ejercicio: Escriba un programa que solicite al usuario su nombre y edad, e imprima un mensaje personalizado que indique cuántos años tendrá el usuario en 10 años. Recuerde usar las funciones `input()` para leer datos del usuario y `print()` para mostrar resultados. 
 
-```python
-# Esto es un comentario en Python
-
-# Declaración de variables
-numero1 = 5
-numero2 = 3
-
-# Operaciones aritméticas
-suma = numero1 + numero2
-resta = numero1 - numero2
-multiplicacion = numero1 * numero2
-division = numero1 / numero2
-
-# Imprimir resultados en pantalla
-print("La suma es:", suma)
-print("La resta es:", resta)
-print("La multiplicación es:", multiplicacion)
-print("La división es:", division)
-```
-
-Guarda el archivo y ejecútalo utilizando un intérprete de Python o un IDE que soporte la ejecución de scripts. Observa cómo se muestran los resultados en la consola.
-
-- Familiarización con la sintaxis básica de Python.
-- Práctica en la escritura y ejecución de código simple.
+Resumen:
+- Se aprendió a utilizar la función `input()` para obtener datos del usuario.
+- Se practicó la utilización de la función `print()` para mostrar información en pantalla.
+- Se familiarizó con el concepto básico de operaciones matemáticas y concatenación de cadenas.
