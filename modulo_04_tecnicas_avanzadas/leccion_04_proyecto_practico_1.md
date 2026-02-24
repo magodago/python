@@ -1,11 +1,12 @@
 # Proyecto practico 1
 
-- Comprender la integración de funciones personalizadas y módulos estándar para resolver problemas complejos.
-- Implementar técnicas avanzadas de programación orientada a objetos para mejorar la estructura del código.
+- Desarrollar una aplicación de línea de comandos que permita al usuario gestionar una biblioteca digital personal.
+- Implementar la funcionalidad para agregar, eliminar y listar libros con información como título, autor y género.
 
-En esta lección, se profundizará en el uso de funciones personalizadas y módulos estándar de Python para desarrollar soluciones más eficientes y modularizadas. Se explorará cómo combinar estas herramientas con técnicas avanzadas de programación orientada a objetos (POO), como herencia y polimorfismo, para crear un programa que resuelva problemas complejos de manera estructurada y legible.
+La lección se centrará en la creación de un proyecto práctico utilizando técnicas avanzadas de Python. El objetivo es aplicar conocimientos sobre estructuras de datos complejas y manejo de archivos. Los estudiantes aprenderán a diseñar una interfaz de usuario simple pero funcional, así como a implementar operaciones básicas de gestión de datos.
 
-El ejercicio práctico consistirá en desarrollar una aplicación que simule un sistema bancario básico. Los estudiantes deberán implementar clases para clientes, cuentas y transacciones, utilizando funciones personalizadas y módulos estándar como `math` o `datetime` según sea necesario. La finalidad es aplicar los conceptos de POO y mejorar la capacidad del estudiante para organizar y modular el código.
+Para el ejercicio, los alumnos deberán crear un archivo `biblioteca.py` que incluya funciones para agregar, eliminar y listar libros en una lista de diccionarios. Cada libro se almacenará con sus detalles en un formato específico. Además, deben escribir código para guardar la información de los libros en un archivo de texto y cargarla nuevamente al iniciar el programa.
 
-- Dominio en la integración de funciones personalizadas y módulos estándar.
-- Aplicación efectiva de técnicas avanzadas de programación orientada a objetos.
+- Diseñar una interfaz de línea de comandos interactiva.
+- Implementar manejo de archivos para persistencia de datos.
+- Utilizar listas y diccionarios para organizar la información.
