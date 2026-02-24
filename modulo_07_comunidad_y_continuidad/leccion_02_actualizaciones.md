@@ -1,11 +1,13 @@
 # Actualizaciones
 
-- Comprender las actualizaciones más recientes de Python y su impacto en la programación.
-- Identificar y aplicar nuevas características introducidas en versiones recientes de Python.
+- Los estudiantes aprenderán sobre las actualizaciones de Python y cómo mantenerse informado sobre ellas.
+- Comprenderán la importancia de seguir las actualizaciones para aprovechar nuevas funcionalidades y mejoras de rendimiento.
 
-Python continúa evolucionando constantemente, incorporando nuevas funcionalidades que mejoran el rendimiento y facilitan la escritura de código. En esta lección, se explorará las actualizaciones más significativas en Python 3.9 y 3.10, destacando características como el operador walrus (:=), patrones de muestreo en f-strings, mejoras en el manejo de excepciones y nuevas bibliotecas estándar. Estas actualizaciones no solo reflejan los avances en la industria de la programación, sino que también abren nuevas posibilidades para desarrolladores al permitirles escribir código más eficiente y legible.
+Python, como cualquier lenguaje de programación moderno, se encuentra en constante evolución. Las actualizaciones periódicas traen consigo nuevas características que pueden mejorar la eficiencia del código y ofrecer soluciones más potentes para problemas complejos. Para mantenerse al día con estas actualizaciones, los desarrolladores y usuarios de Python deben estar atentos a las notas de lanzamiento oficiales y a las comunidades activas en línea.
 
-Para practicar, los estudiantes deberán actualizar un proyecto existente a una versión reciente de Python (3.9 o 3.10) y documentar cómo se implementaron las mejoras. Este ejercicio requerirá que exploren los cambios en la documentación oficial de Python y apliquen estas nuevas características para optimizar su código.
+Un recurso útil es la página oficial de releases de Python (https://www.python.org/doc/sunset-python-2/), donde se anuncian cada nueva versión, junto con sus novedades y cambios. Además, plataformas como Stack Overflow o el canal de Telegram @python_es_oficial ofrecen discusiones y noticias relevantes sobre las actualizaciones más recientes.
 
-- Familiaridad con las actualizaciones más recientes de Python.
-- Capacidad para aplicar nuevas características en proyectos existentes.
+Ejercicio: Busca la página oficial de releases de Python en tu navegador web e imprime las últimas tres notas de lanzamiento. Anota cuáles son los cambios más significativos en cada una y comparte tus observaciones con el grupo de estudio.
+
+- Los estudiantes identificarán los cambios importantes en las últimas actualizaciones de Python.
+- Aprenderán a seguir fuentes confiables para estar al tanto de las novedades del lenguaje.
