@@ -1,18 +1,21 @@
 # Casos de uso reales
 
-- Comprender cómo Python se utiliza en la industria de la inteligencia artificial para procesar y analizar grandes volúmenes de datos.
-- Implementar un ejemplo práctico utilizando bibliotecas como TensorFlow o PyTorch para crear un modelo simple de machine learning.
+- Comprender cómo Python se aplica en la industria de la inteligencia artificial.
+- Implementar un modelo simple de aprendizaje automático utilizando bibliotecas Python.
 
-Python es ampliamente utilizado en el campo de la inteligencia artificial (IA) debido a su simplicidad y flexibilidad. En este módulo, se explorará cómo Python facilita el procesamiento y análisis de grandes volúmenes de datos mediante la utilización de bibliotecas especializadas como TensorFlow y PyTorch. Estas herramientas permiten a los desarrolladores construir modelos de aprendizaje automático eficientemente.
+## Contenido
+En esta lección del módulo Profundizando, exploraremos casos de uso reales de Python en el campo de la inteligencia artificial (IA). Veremos cómo Python se utiliza no solo para la programación general, sino también para desarrollar algoritmos complejos y modelos de aprendizaje automático. Se presentará un ejemplo práctico donde se utilizará la biblioteca Scikit-learn para crear un modelo predictivo basado en datos reales.
 
-Para ilustrar esto, se creará un ejemplo práctico donde se utilizará TensorFlow para entrenar un modelo de clasificación simple utilizando datos de ejemplo. Los estudiantes aprenderán cómo importar datos, prepararlos y ajustar un modelo de aprendizaje profundo, todo ello en Python.
+Python es ampliamente utilizado en IA debido a su simplicidad, gran cantidad de bibliotecas especializadas y facilidad para manipulación de datos. En el ejercicio práctico, los estudiantes aprenderán a cargar datos, preprocesarlos y entrenar un modelo de clasificación utilizando Scikit-learn.
 
-El ejercicio consistirá en:
-- Importar el conjunto de datos de iris desde `sklearn.datasets`.
-- Preprocesar los datos para su uso en un modelo de machine learning.
-- Crear y entrenar un modelo de clasificación con TensorFlow.
-- Evaluar el rendimiento del modelo utilizando métricas apropiadas.
+## Ejercicio
+Los estudiantes deberán:
+1. Cargar un conjunto de datos de iris desde Scikit-learn.
+2. Preprocesar los datos (dividir en conjuntos de entrenamiento y prueba, normalizar si es necesario).
+3. Entrenar un modelo de clasificación utilizando algoritmo KNN.
+4. Evaluar el rendimiento del modelo con métricas apropiadas.
 
-Puntos clave:
-- Python es una herramienta vital en la implementación de soluciones IA debido a sus bibliotecas especializadas.
-- La práctica con TensorFlow permite comprender mejor los procesos detrás del aprendizaje automático.
+## Resumen
+- Python se utiliza ampliamente en la inteligencia artificial debido a su flexibilidad y bibliotecas especializadas.
+- Se aplicará Scikit-learn para crear un modelo de aprendizaje automático simple.
+- Los estudiantes aprenderán desde la carga de datos hasta el entrenamiento y evaluación del modelo.
