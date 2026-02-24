@@ -1,15 +1,11 @@
 # Nivel avanzado
 
-### Objetivos
-- Comprender y aplicar técnicas avanzadas de programación con Python para optimizar el rendimiento del código.
-- Dominar la utilización de decoradores personalizados y comprensión de listas avanzada.
+- Dominar la optimización de código mediante el uso de decoradores y comprensiones de listas.
+- Implementar técnicas avanzadas para manejo eficiente de excepciones y errores en programas Python.
 
-### Contenido
-En esta lección, se profundizará en las técnicas más avanzadas de Python, enfocándose en dos áreas cruciales: la optimización del rendimiento mediante la utilización de decoradores personalizados y la manipulación eficiente de datos a través de comprensiones de listas. Los decoradores son una característica poderosa de Python que permiten modificar funcionalidades de funciones o métodos sin alterar su estructura original, lo cual es especialmente útil para agregar funcionalidad común como controles de acceso, caché y tiempo de ejecución. La comprensión de listas avanzada proporciona un método conciso y eficiente para crear listas basadas en iterables existentes o en expresiones complejas.
+Python es un lenguaje de programación versátil que permite a los desarrolladores implementar soluciones complejas con una sintaxis clara. En este nivel avanzado, se enfatiza la optimización del código mediante el uso de decoradores y comprensiones de listas. Los decoradores son una forma elegante de modificar funcionalidades de funciones o métodos sin alterar su estructura original, lo que permite reutilizar código y mejorar la legibilidad. Las comprensiones de listas ofrecen un modo conciso para crear listas basadas en secuencias existentes, lo que puede mejorar significativamente el rendimiento del programa.
 
-### Ejercicio
-Escribe una función que calcule el factorial de un número utilizando recursividad y luego crea un decorador personalizado `tiempo_ejecucion` que muestre cuánto tiempo tarda la función en ejecutarse. Aplica este decorador a tu función de factorial y compara los tiempos de ejecución para números crecientes.
+Para ejemplificar esto, los estudiantes deberán optimizar un script que procesa grandes cantidades de datos utilizando comprensiones de listas y decoradores personalizados. El ejercicio consiste en escribir una función decoradora que mide el tiempo de ejecución de diferentes partes del código y aplicarla a una comprensión de lista que filtra números primos de una lista grande.
 
-### Resumen
-- Decoradores personalizados permiten agregar funcionalidades específicas a funciones existentes sin modificar su estructura original.
-- La comprensión de listas avanzada es un método eficiente para crear listas basadas en expresiones complejas, mejorando la legibilidad y el rendimiento del código.
+- Comprender la implementación efectiva de decoradores para medir rendimiento.
+- Utilizar comprensiones de listas para mejorar la eficiencia del procesamiento de datos.
