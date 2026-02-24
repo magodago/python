@@ -1,18 +1,16 @@
 # Resumen del modulo
 
-## Objetivos
-- Consolidar la comprensión de los conceptos básicos fundamentales de Python.
-- Aplicar conocimientos adquiridos sobre sintaxis y estructuras de control.
+Objetivos
+- Consolidar la comprensión de los conceptos fundamentales de Python.
+- Aplicar conocimientos prácticos para resolver problemas básicos.
 
-## Contenido
-En esta lección, se revisará el material cubierto en el módulo de Fundamentos esenciales. Se enfatizará la importancia de entender las variables y tipos de datos básicos, así como la utilización de operadores aritméticos y lógicos. Además, se explorarán las estructuras condicionales (if-elif-else) y ciclos (for y while), destacando su aplicación práctica en el desarrollo de pequeños programas.
+Contenido
+En esta lección final del módulo de Fundamentos esenciales, se revisará todo lo aprendido hasta ahora. Se enfocará en resumir y consolidar la comprensión de sintaxis básica, tipos de datos, estructuras de control (condicionales y bucles), funciones y listas. Estos conceptos forman la base sobre la cual se construirán futuros conocimientos avanzados.
 
-Se explicará cómo Python maneja diferentes tipos de datos como enteros, flotantes, cadenas y booleanos, y cómo realizar operaciones con ellos. Se proporcionarán ejemplos prácticos para ilustrar estos conceptos, incluyendo la resolución de problemas simples utilizando estas estructuras.
+Ejercicio
+Dado un programa que busca números primos hasta 100, identifique los errores y proporcione una versión corregida. Además, optimice el código para mejorar su eficiencia y legibilidad.
 
-## Ejercicio
-Escribe un programa en Python que solicite al usuario ingresar su nombre y edad. El programa debe verificar si la persona es mayor de 18 años y mostrar un mensaje apropiado. Utiliza una estructura condicional para realizar esta verificación.
-
-## Resumen
-- Variables y tipos de datos básicos.
-- Uso de operadores aritméticos y lógicos.
-- Estructuras condicionales (if, elif, else) y ciclos (for, while).
+Resumen
+- Recapitulación de sintaxis básica y tipos de datos en Python.
+- Uso efectivo de estructuras de control y funciones.
+- Manejo de listas y bucles para resolver problemas prácticos.
