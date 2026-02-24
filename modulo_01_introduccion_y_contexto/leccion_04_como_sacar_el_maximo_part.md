@@ -1,11 +1,17 @@
 # Como sacar el maximo partido
 
-- Entender los fundamentos de Python y su importancia en la programación moderna.
-- Identificar las características principales que hacen a Python un lenguaje versátil y fácil de aprender.
+- Familiarizarse con las características y ventajas de Python.
+- Aprender a seleccionar herramientas y bibliotecas adecuadas para proyectos de Python.
 
-Python es uno de los lenguajes de programación más populares debido a su sintaxis clara y legible, lo que facilita la escritura y mantenimiento del código. Su amplia comunidad de desarrolladores y una gran cantidad de bibliotecas disponibles hacen de Python un excelente elección para proyectos de todo tipo, desde desarrollo web hasta análisis de datos e inteligencia artificial. En esta lección, se explorarán los fundamentos de Python y cómo aprovechar sus características para resolver problemas de manera eficiente.
+Python es un lenguaje de programación versátil y fácil de aprender que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta análisis de datos e inteligencia artificial. Para sacar el máximo partido de Python, es crucial conocer sus características más destacadas, como su sintaxis clara y legible, su capacidad para integrarse con otras tecnologías y su gran comunidad de desarrolladores que contribuyen constantemente a una vasta biblioteca de módulos y frameworks. Estas herramientas permiten abordar problemas complejos de manera eficiente y efectiva.
 
-Para practicar estos conceptos, los estudiantes deberán escribir un programa que solicite al usuario ingresar una lista de números separados por comas, luego procese esa entrada para calcular e imprimir el número más grande ingresado. Este ejercicio permitirá a los alumnos familiarizarse con la entrada de datos, manejo de cadenas y conversión de tipos de datos en Python.
+Para practicar, el alumno deberá:
+- Instalar Python en su sistema.
+- Utilizar un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code.
+- Explorar la documentación oficial de Python para familiarizarse con las mejores prácticas.
+- Implementar una pequeña aplicación utilizando un framework popular, como Flask o Django.
 
-- Familiaridad con las características básicas de Python.
-- Capacidad para manipular entradas del usuario y realizar operaciones simples.
+Los puntos clave a resumir son:
+1. Familiaridad con las características y ventajas de Python.
+2. Uso efectivo de bibliotecas y frameworks para proyectos complejos.
+3. Exploración del ecosistema de Python mediante la documentación oficial y herramientas de desarrollo.
