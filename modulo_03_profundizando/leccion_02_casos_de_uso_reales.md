@@ -1,11 +1,11 @@
 # Casos de uso reales
 
-- Comprender cómo Python se aplica en la automatización de tareas diarias.
-- Analizar ejemplos prácticos de cómo Python puede ser utilizado en proyectos reales.
+- Entender cómo Python se aplica en soluciones reales de desarrollo web.
+- Implementar un caso práctico utilizando Flask para una aplicación web básica.
 
-Python es una herramienta versátil que se utiliza en una amplia gama de aplicaciones. En este módulo, exploraremos casos de uso reales donde Python ha demostrado su eficacia y flexibilidad. Por ejemplo, en el ámbito del desarrollo web, frameworks como Django y Flask permiten construir aplicaciones web robustas y escalables con relativamente poco código. Además, en el análisis de datos, bibliotecas como Pandas y NumPy facilitan la manipulación y visualización de grandes conjuntos de datos, lo que es crucial para la toma de decisiones informadas.
+En esta lección profundizaremos en los casos de uso reales de Python, centrándonos en su aplicación en el desarrollo web. Veremos cómo Python es una herramienta versátil y poderosa que puede ser utilizada para crear aplicaciones web robustas y eficientes. Para ilustrar esto, desarrollaremos un proyecto práctico utilizando Flask, una microframework popular en Python, que nos permitirá construir una aplicación web simple desde cero.
 
-Para practicar estos conceptos, los estudiantes deberán desarrollar una pequeña aplicación web utilizando Flask. La tarea consiste en crear un sistema simple que permita a los usuarios registrar y consultar información sobre libros. El sistema debe incluir funcionalidades básicas como la creación, lectura, actualización y eliminación (CRUD) de registros.
+El ejercicio consistirá en crear una pequeña aplicación web que permita a los usuarios registrarse, iniciar sesión y publicar mensajes. Los pasos incluyen la configuración del entorno de desarrollo, la instalación de Flask, el diseño de la base de datos utilizando SQLAlchemy, la creación de las vistas y rutas necesarias para manejar las funcionalidades mencionadas, y finalmente, la implementación de un sistema de autenticación básica.
 
-- Comprender el uso de Python para desarrollar aplicaciones web con Flask.
-- Familiarizarse con el manejo de datos en Python utilizando Pandas.
+- Familiarizarse con el uso de Flask en proyectos web.
+- Desarrollar una aplicación web básica utilizando Python.
