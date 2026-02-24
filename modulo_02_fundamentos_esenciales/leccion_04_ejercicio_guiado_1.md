@@ -1,23 +1,19 @@
 # Ejercicio guiado 1
 
-Objetivos
-- Familiarizar al estudiante con la sintaxis básica de Python.
+## Objetivos
+- Familiarizar a los estudiantes con la sintaxis básica de Python.
 - Introducir conceptos fundamentales como variables y tipos de datos.
 
-Contenido
-En esta lección, exploraremos los fundamentos esenciales del lenguaje de programación Python. Comenzaremos por entender cómo escribir código básico en Python, incluyendo la declaración de variables y el uso de diferentes tipos de datos. Es crucial que comprendas estos conceptos ya que son las bases sobre las cuales se construirá toda tu capacidad para programar en Python.
+## Contenido
+En esta lección, se explorará el uso básico de Python para escribir código simple. Se comenzará con una introducción breve a la sintaxis del lenguaje, incluyendo cómo declarar variables y asignarles valores. Se explicarán los diferentes tipos de datos en Python, como enteros, cadenas y flotantes, y se mostrará cómo manipularlos.
 
-Vamos a ver algunos ejemplos prácticos: para declarar una variable en Python, simplemente asigna un valor a la variable usando el operador igual (=). Por ejemplo:
-```python
-edad = 25
-nombre = "Juan"
-```
-Estas variables pueden contener diferentes tipos de datos como enteros (como 'edad'), cadenas de texto (como 'nombre') y otros más avanzados que veremos en lecciones posteriores. Python es un lenguaje dinámico, lo que significa que no necesitas declarar explícitamente el tipo de dato de una variable al crearla.
+## Ejercicio
+Escribe un programa simple que haga lo siguiente:
+1. Declara una variable `nombre` y asigne a ella tu nombre.
+2. Declara otra variable `edad` y asigna a ella tu edad como un número entero.
+3. Imprime en pantalla la frase: "Mi nombre es [nombre] y tengo [edad] años."
 
-Ejercicio
-Escribe un programa simple en Python que declare dos variables: una para almacenar tu nombre y otra para almacenar tu edad. Luego, imprime estas variables en la consola.
-
-Resumen
-- Familiarizarse con la sintaxis básica de Python.
-- Comprender cómo declarar y asignar valores a variables.
-- Reconocer diferentes tipos de datos básicos como cadenas y enteros.
+## Resumen
+- Se aprendió a declarar variables y asignarles valores.
+- Se introdujeron los tipos de datos básicos en Python.
+- Se practicó la impresión de texto en el terminal.
