@@ -1,18 +1,14 @@
 # Enunciado del proyecto
 
-### Objetivos
-- Comprender los requisitos del proyecto final.
-- Desarrollar habilidades para la planificación y organización de un proyecto.
+- Diseñar un programa que permita a los usuarios crear una agenda de contactos personalizada.
+- Integrar funcionalidades para añadir, editar y eliminar contactos, así como buscar contactos por nombre o número de teléfono.
 
-### Contenido
-El proyecto final de este curso de Python tiene como objetivo principal aplicar los conocimientos adquiridos a una situación real. Se trata de desarrollar un programa que permita gestionar una biblioteca digital, incluyendo funciones para agregar, eliminar y buscar libros, así como listar información sobre ellos. Este ejercicio no solo fortalecerá tus habilidades en Python sino también te ayudará a comprender cómo aplicar conceptos de programación a problemas del mundo real.
+El enunciado del proyecto final busca que apliques tus conocimientos sobre Python para desarrollar una aplicación interactiva. La aplicación permitirá a los usuarios gestionar sus contactos de manera eficiente. Deberás implementar las siguientes funcionalidades:
+- Menú principal con opciones para añadir, editar, eliminar y buscar contactos.
+- Uso de listas o diccionarios para almacenar la información de los contactos (nombre, número de teléfono).
+- Validación de datos ingresados por el usuario.
 
-Para lograr este objetivo, se recomienda que divides el proyecto en etapas manejables y establezcas metas claras para cada una. Esto incluye definir la funcionalidad deseada, planificar la estructura del programa y luego implementarla paso a paso. Recuerda documentar tu proceso de desarrollo para facilitar la revisión y mejora futura.
+Para practicar, crea un programa que permita al usuario añadir un contacto nuevo a la agenda. El programa debe solicitar el nombre y el número de teléfono del contacto, validar que estos sean correctos e incorporarlos en tu estructura de datos elegida.
 
-### Ejercicio
-Desarrolla un esquema básico para el proyecto final. Define las funciones que necesitarás para gestionar los libros en una biblioteca, como `agregar_libro`, `eliminar_libro` y `buscar_libro`. Luego, crea un menú interactivo donde el usuario pueda seleccionar qué acción realizar.
-
-### Resumen
-- El proyecto final consiste en desarrollar un programa que gestione una biblioteca digital.
-- Se recomienda dividir el proyecto en etapas manejables y establecer metas claras para cada una.
-- El ejercicio práctico implica crear esquemas básicos de funciones y un menú interactivo.
+- Diseñar una aplicación interactiva para gestionar contactos.
+- Implementar validación de datos ingresados por el usuario.
