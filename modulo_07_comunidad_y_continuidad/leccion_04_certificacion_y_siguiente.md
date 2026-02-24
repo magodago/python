@@ -1,15 +1,13 @@
 # Certificacion y siguiente nivel
 
-- Los alumnos aprenderán sobre las certificaciones disponibles en Python y su importancia para mejorar sus habilidades.
-- Se discutirá cómo obtener una certificación y cómo esta puede abrir puertas a oportunidades profesionales más avanzadas.
+- Comprender los pasos necesarios para obtener la certificación de Python.
+- Identificar las habilidades adicionales requeridas para avanzar al siguiente nivel en programación con Python.
 
-Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta inteligencia artificial. La certificación en Python demuestra al mundo laboral que el alumno ha adquirido un nivel de competencia y conocimiento sólidos en este lenguaje. Existen varias certificaciones disponibles, como la Certified Associate in Python Programming (CAP) ofrecida por la Python Software Foundation, o las certificaciones más avanzadas como la Certified Professional in Python Programming (CPP). Para obtener una certificación, los alumnos deben aprobar un examen que evalúa su conocimiento y habilidades en Python. Además de mejorar sus competencias técnicas, estas certificaciones pueden ayudar a los profesionales a destacarse en el mercado laboral y acceder a posiciones más altas o remuneradas.
+Python es una de las lenguas de programación más populares y versátiles. Para continuar creciendo como desarrollador, es crucial adquirir conocimientos que permitan certificarse en Python. La certificación de Python no solo demuestra competencia técnica a futuros empleadores, sino que también refuerza el entendimiento de los conceptos fundamentales del lenguaje y promueve mejores prácticas de codificación. Para avanzar al siguiente nivel, es necesario dominar áreas como la programación orientada a objetos, manejo de excepciones, optimización de código y uso eficiente de bibliotecas y frameworks.
 
 ### Ejercicio
-Después de aprender sobre las certificaciones disponibles, los alumnos deben investigar una certificación en Python que les interese y responder las siguientes preguntas:
-1. ¿Cuáles son los requisitos para obtener esta certificación?
-2. ¿Qué conocimientos técnicos se evalúan a través del examen?
-3. ¿Cómo puede esta certificación beneficiar mi carrera profesional?
+Desarrolla un programa que use la librería `requests` para hacer una solicitud GET a la API pública de OpenWeatherMap. El programa debe mostrar la temperatura actual en JSON recibida y manejar correctamente cualquier error HTTP que pueda ocurrir durante la solicitud.
 
-- Los alumnos entenderán la importancia de obtener una certificación en Python.
-- Se familiarizarán con las diferentes opciones de certificaciones disponibles y cómo pueden acceder a ellas.
+### Resumen
+- Comprender el valor de obtener la certificación de Python.
+- Identificar habilidades adicionales necesarias para avanzar al siguiente nivel en programación con Python.
