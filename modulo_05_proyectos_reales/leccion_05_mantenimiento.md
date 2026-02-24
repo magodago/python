@@ -1,21 +1,10 @@
 # Mantenimiento
 
-Objetivos
-- Comprender los aspectos fundamentales del mantenimiento de código Python.
-- Identificar y aplicar técnicas para mantener la calidad y eficiencia del código existente.
+- Comprender los principios básicos de la gestión del ciclo de vida de un proyecto en Python.
+- Identificar y aplicar estrategias efectivas para mantener y actualizar código existente.
 
-Contenido
-En este módulo, se abordará el mantenimiento de proyectos Python ya establecidos. Es crucial entender que el mantenimiento no es una tarea única o final, sino un proceso continuo que implica revisión, actualización y optimización del código. Los aspectos clave incluyen la documentación, la mejora de la legibilidad, la gestión de dependencias y la implementación de pruebas unitarias para asegurar la integridad del software.
+El mantenimiento de proyectos en Python es crucial para asegurar que el software siga funcionando eficientemente a lo largo del tiempo. Involucra una serie de tareas, desde la revisión regular del código hasta la implementación de nuevas funcionalidades o correcciones de errores. Es importante recordar que el mantenimiento no solo se centra en solucionar problemas, sino también en mejorar la legibilidad y eficiencia del código.
 
-Es importante recordar que el mantenimiento eficaz puede disminuir los costes a largo plazo y mejorar significativamente la calidad del software. Aprender a manejar estos aspectos permitirá al estudiante mantener sus proyectos Python en óptimas condiciones, adaptándolos a nuevas necesidades o tecnologías sin interrumpir su funcionamiento.
+Para mantener un proyecto Python, es recomendable establecer una rutina de revisión periódica del código, documentación y pruebas unitarias. Además, se debe actualizar las dependencias y bibliotecas externas regularmente para aprovechar las mejoras y correcciones de errores que estas pueden ofrecer. Un buen ejemplo sería utilizar herramientas como `pip` o `conda` para gestionar las dependencias del proyecto.
 
-Ejercicio
-Revisa un código Python existente proporcionado por tu instructor y realiza los siguientes cambios:
-1. Agrega comentarios explicativos para partes del código que puedan ser difíciles de entender.
-2. Corrige cualquier error sintáctico o lógico encontrado.
-3. Implementa pruebas unitarias para al menos tres funciones del código.
-
-Resumen
-- El mantenimiento es un proceso continuo y fundamental para el éxito a largo plazo de proyectos Python.
-- Mejorar la documentación, legibilidad y gestión de dependencias son aspectos cruciales en este proceso.
-- La implementación de pruebas unitarias ayuda a garantizar que el código funcione correctamente incluso después de cambios.
+Ejercicio: Analiza un proyecto Python existente, identifica tres áreas donde se puede mejorar el mantenimiento (por ejemplo, documentación incompleta, falta de pruebas unitarias, uso obsoleto de bibliotecas) y propón soluciones prácticas para cada área identificada.
