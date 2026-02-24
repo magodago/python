@@ -1,20 +1,16 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender la importancia de Python en el desarrollo de software y ciencia de datos.
-- Familiarizarse con el entorno de desarrollo y herramientas básicas para escribir código en Python.
+- Comprender los fundamentos de Python y su relevancia actual.
+- Identificar las principales características que hacen a Python una herramienta versátil.
 
 ## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y multiplataforma que se ha convertido en una de las tecnologías más populares del momento. Su sintaxis clara y concisa lo hace ideal tanto para principiantes como para desarrolladores experimentados. Este curso te introducirá a Python, explorando su uso en diversas aplicaciones, desde desarrollo web hasta análisis de datos. Aprenderás cómo instalar el entorno de desarrollo, cómo escribir y ejecutar tu primera línea de código, y cómo navegar por la documentación oficial para resolver problemas comunes.
+En esta lección introductoria, se explorará el contexto y la importancia del lenguaje de programación Python. Se presentarán sus características más destacadas como sintaxis clara y legible, gran comunidad de usuarios y amplia biblioteca de módulos. Se abordarán también las aplicaciones de Python en diversos campos tecnológicos, desde desarrollo web hasta ciencia de datos.
 
 ## Ejercicio
-Escribe un programa simple que solicite al usuario su nombre e imprima un mensaje de bienvenida. Guarda este programa en un archivo llamado `bienvenida.py` y ejecútalo desde la terminal o línea de comandos.
-
-```python
-nombre = input("¿Cuál es tu nombre? ")
-print(f"¡Bienvenido, {nombre}!")
-```
+Escribe un programa simple que imprima "¡Hola, mundo!" utilizando la sintaxis básica de Python. Luego, modifica el programa para que solicite al usuario su nombre y lo salude personalmente.
 
 ## Resumen
-- Python es ampliamente utilizado en diversos campos debido a su simplicidad y versatilidad.
-- Es fundamental aprender a instalar el entorno de desarrollo y a ejecutar códigos básicos para comenzar.
+- Python es un lenguaje de programación versátil con una gran comunidad.
+- Su sintaxis clara facilita el aprendizaje y desarrollo rápido de software.
+- Se utiliza ampliamente en diversas áreas tecnológicas.
