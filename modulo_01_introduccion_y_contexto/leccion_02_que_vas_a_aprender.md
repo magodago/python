@@ -1,15 +1,20 @@
 # Que vas a aprender
 
-Objetivos
-- Comprender los fundamentos de Python y su importancia en la programación actual.
-- Explorar las aplicaciones más comunes de Python en diferentes campos.
+## Objetivos
+- Comprender la importancia de Python en el desarrollo de software y ciencia de datos.
+- Familiarizarse con el entorno de desarrollo y herramientas básicas para escribir código en Python.
 
-Contenido
-En esta lección introductoria, se presentará una visión general de Python, destacando sus características principales como un lenguaje de alto nivel, interpretado y orientado a objetos. Se explicará cómo Python ha evolucionado para convertirse en uno de los lenguajes más populares debido a su simplicidad y versatilidad. Además, se discutirán las diversas aplicaciones de Python, desde el desarrollo web hasta la inteligencia artificial y la ciencia de datos.
+## Contenido
+Python es un lenguaje de programación de alto nivel, interpretado y multiplataforma que se ha convertido en una de las tecnologías más populares del momento. Su sintaxis clara y concisa lo hace ideal tanto para principiantes como para desarrolladores experimentados. Este curso te introducirá a Python, explorando su uso en diversas aplicaciones, desde desarrollo web hasta análisis de datos. Aprenderás cómo instalar el entorno de desarrollo, cómo escribir y ejecutar tu primera línea de código, y cómo navegar por la documentación oficial para resolver problemas comunes.
 
-Ejercicio
-Implementa un programa simple que solicite al usuario ingresar su nombre y edad, e imprima en pantalla un mensaje personalizado con esa información. Este ejercicio permitirá a los estudiantes familiarizarse con las estructuras básicas de Python, como la entrada del usuario y la impresión de texto.
+## Ejercicio
+Escribe un programa simple que solicite al usuario su nombre e imprima un mensaje de bienvenida. Guarda este programa en un archivo llamado `bienvenida.py` y ejecútalo desde la terminal o línea de comandos.
 
-Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- Se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos.
+```python
+nombre = input("¿Cuál es tu nombre? ")
+print(f"¡Bienvenido, {nombre}!")
+```
+
+## Resumen
+- Python es ampliamente utilizado en diversos campos debido a su simplicidad y versatilidad.
+- Es fundamental aprender a instalar el entorno de desarrollo y a ejecutar códigos básicos para comenzar.
