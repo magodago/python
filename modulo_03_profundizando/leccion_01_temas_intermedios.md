@@ -1,13 +1,17 @@
 # Temas intermedios
 
-- Entender la utilización de las excepciones y manejo de errores en Python.
-- Implementar funciones recursivas y comprensión de listas para resolver problemas complejos.
+## Objetivos
+- Comprender y aplicar la programación orientada a objetos en Python.
+- Implementar y utilizar estructuras de datos avanzadas como diccionarios y conjuntos.
 
-La lección se centra en dos temas intermedios fundamentales: el manejo de excepciones y el uso de funciones recursivas. La manipulación adecuada de excepciones es crucial para escribir código robusto que pueda manejar situaciones inesperadas sin interrumpir la ejecución del programa. En Python, esto se logra utilizando estructuras `try`, `except`, `finally` y `else`. Se explorará cómo capturar diferentes tipos de errores y cómo utilizar las excepciones para mejorar la experiencia del usuario.
+## Contenido
+En esta lección, profundizaremos en los conceptos fundamentales de la programación orientada a objetos (POO) utilizando Python. Los estudiantes aprenderán cómo definir clases, crear objetos basados en estas clases, y utilizar métodos para manipular estos objetos. Además, se explorarán las ventajas y usos prácticos de esta forma de programación.
 
-Las funciones recursivas son otro tema clave que permite resolver problemas complejos al dividirlos en subproblemas más pequeños. Se discutirá cómo escribir funciones que se llaman a sí mismas hasta alcanzar una condición base, y se proporcionarán ejemplos prácticos para ilustrar su uso en tareas como la búsqueda de elementos en listas o el cálculo de series numéricas.
+Se presentará también una introducción a las estructuras de datos avanzadas, con un énfasis especial en los diccionarios y conjuntos. Se explicará cómo estos tipos de datos pueden ser utilizados para manejar datos no ordenados y únicos, respectivamente, ofreciendo soluciones eficientes para problemas comunes.
 
-Para practicar estos conceptos, los estudiantes deberán desarrollar un programa que use excepciones para manejar errores comunes al leer archivos, y otro que implemente una función recursiva para calcular el factorial de un número.
+## Ejercicio
+Diseñar una clase `Libro` que tenga atributos como título, autor y año de publicación. Luego, crear una lista de objetos `Libro`. Utilizar diccionarios para almacenar información adicional sobre cada libro, como el género y la editorial. Implementar métodos en la clase `Libro` para agregar o modificar esta información adicional.
 
-- Comprender cómo utilizar excepciones para mejorar la robustez del código.
-- Aplicar funciones recursivas para resolver problemas complejos.
+## Resumen
+- Se profundiza en la programación orientada a objetos con Python.
+- Se introduce el uso de diccionarios y conjuntos para manejar datos no estructurados.
