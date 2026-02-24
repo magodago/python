@@ -1,11 +1,10 @@
 # Feedback
 
-- Entender cómo proporcionar y recibir feedback constructivo sobre el proyecto final de Python.
-- Practicar la retroalimentación crítica y objetiva para mejorar la calidad del código y la documentación.
+- Revisar y recibir feedback sobre el proyecto final de Python.
 
-El feedback es un componente crucial en cualquier proceso de desarrollo, incluyendo el proyecto final de Python. Proporciona una visión clara de lo que funciona bien y qué áreas necesitan mejora. Para dar feedback constructivo, es importante ser específico, objetivo y respetuoso. Se recomienda enfocarse en los aspectos técnicos del código, como la claridad, eficiencia y estilos de programación, así como en la documentación y organización del proyecto.
+En esta lección, se enfocará en la revisión y el intercambio de feedback entre compañeros para mejorar los proyectos finales. Se discutirá cómo proporcionar críticas constructivas y cómo integrarlas para refinar el código y optimizar las soluciones propuestas. El objetivo es que los estudiantes aprendan a evaluar el trabajo de otros con un enfoque crítico pero respetuoso, lo cual es fundamental en cualquier campo.
 
-Para el ejercicio, revisa el proyecto final de Python que tu compañero ha presentado. Identifica al menos tres áreas donde consideras que hay un potencial para mejorar y dos aspectos que destacarías como fuertes. Escríbelo en forma de comentarios constructivos y respetuosos. Recuerda ser específico sobre qué cambios podrían implementarse para mejorar el código o la documentación.
+Se analizarán ejemplos de feedback efectivo y se practicará la retroalimentación mutua entre pares para garantizar que cada proyecto final sea no solo funcional, sino también bien estructurado y optimizado. Este proceso ayudará a los estudiantes a desarrollar habilidades valiosas en el reconocimiento y mejora continua de su propio trabajo.
 
-- Comprender las técnicas de retroalimentación crítica.
-- Practicar la escritura de comentarios constructivos y respetuosos.
+- Practicar la retroalimentación mutua entre pares.
+- Integrar críticas constructivas para mejorar el proyecto final.
