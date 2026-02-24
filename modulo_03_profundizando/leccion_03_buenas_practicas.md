@@ -1,25 +1,12 @@
 # Buenas practicas
 
-- Comprender y aplicar las buenas prácticas de codificación según PEP 8.
-- Implementar técnicas para mejorar la legibilidad del código.
+- Mejorar la legibilidad y mantenibilidad del código.
+- Optimizar el rendimiento de las aplicaciones mediante buenas prácticas.
 
-Python es un lenguaje de programación versátil que se destaca por su sintaxis clara y concisa. Para maximizar la eficiencia y la comprensión del código, es crucial seguir ciertas buenas prácticas. Una de las guías más reconocidas en Python es PEP 8, que proporciona una serie de recomendaciones para el diseño y estilo del código. Algunas de estas recomendaciones incluyen el uso de espacios en blanco para mejorar la legibilidad, nombrar variables con minúsculas y underscores (snake_case), y limitar las líneas de código a 79 caracteres.
+Python es una lengua de programación que promueve la claridad y eficiencia, pero para aprovechar al máximo su potencial, es crucial seguir ciertas convenciones y mejores prácticas. En esta lección, aprenderemos sobre el uso de nombres de variables y funciones descriptivos, la importancia del formato PEP 8 y cómo optimizar el rendimiento mediante técnicas como la evitación innecesarias de llamadas a funciones.
 
-Para practicar, crea un script que implemente una función para calcular la suma de los primeros n números naturales. Asegúrate de seguir las recomendaciones de PEP 8 al escribir tu código. Por ejemplo:
+Para practicar estos conceptos, los alumnos deberán refactorizar un código existente que realiza cálculos matemáticos. El objetivo es mejorar la legibilidad del código manteniendo su funcionalidad. Se les proporcionará el código original y se pedirá que lo renombren variables y funciones de manera más descriptiva, asegurándose de seguir las convenciones PEP 8.
 
-```python
-def suma_naturales(n):
-    """
-    Calcula la suma de los primeros n números naturales.
-    
-    :param n: Número natural
-    :return: Suma de los primeros n números naturales
-    """
-    return (n * (n + 1)) // 2
-
-# Prueba la función
-print(suma_naturales(5))
-```
-
-- Asegurarse de seguir las recomendaciones de PEP 8.
-- Escribir funciones claras y concisas.
+- Uso de nombres descriptivos.
+- Adherencia a la guía de estilo PEP 8.
+- Mejora en la legibilidad y mantenibilidad del código.
