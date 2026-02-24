@@ -1,18 +1,20 @@
 # Enunciado del proyecto
 
 Objetivos
-- Entender los requisitos y alcance del proyecto final.
-- Desarrollar habilidades para la planificación y organización de proyectos.
+- Comprender la estructura y requisitos del proyecto final.
+- Desarrollar habilidades de planificación para la implementación de un proyecto en Python.
 
 Contenido
-El proyecto final es una oportunidad para aplicar los conocimientos adquiridos durante el curso en un desarrollo realista. El objetivo principal es crear un programa Python que resuelva un problema complejo, combinando múltiples conceptos del lenguaje. Este ejercicio no solo evalúa tus habilidades técnicas, sino también tu capacidad para planificar y gestionar proyectos de software.
+El proyecto final es una oportunidad para aplicar los conocimientos adquiridos durante el curso. El objetivo principal es desarrollar un programa completo en Python que resuelva un problema real o complejo, demostrando las competencias técnicas y conceptuales aprendidas. El proyecto debe incluir al menos tres componentes principales: la definición clara del problema, el diseño de la solución y la implementación y pruebas del código.
 
-El proyecto consistirá en desarrollar una aplicación que permita a los usuarios administrar una biblioteca digital. La aplicación debe incluir funcionalidades como la búsqueda de libros por título o autor, el registro y borrado de libros, así como la gestión de prestamos. Se valorará no solo la funcionalidad del programa, sino también su diseño y documentación.
+El enunciado del proyecto consiste en crear un sistema que permita gestionar una biblioteca digital. Este sistema debe permitir a los usuarios registrar libros, realizar préstamos y devoluciones, y mantener un registro de las reservas. Además, se deben incluir funcionalidades adicionales como la búsqueda de libros por título o autor, y el envío de recordatorios de devolución vencida.
 
 Ejercicio
-El ejercicio consiste en elaborar un esquema inicial para este proyecto. Dividir el problema en módulos y funciones, identificar las estructuras de datos que se utilizarán (como listas o diccionarios), y plantear la interfaz del usuario. Presenta tu plan en una presentación breve (5-7 diapositivas) durante la próxima clase.
+El estudiante debe formular una propuesta inicial para su proyecto final. La propuesta debe contener los siguientes elementos:
+1. Un resumen del problema que se va a resolver.
+2. El diseño general del sistema, incluyendo las funcionalidades principales y cómo interactuarán entre sí.
+3. Una lista de requisitos técnicos mínimos necesarios para implementar el proyecto.
 
 Resumen
-- El proyecto final es un desafío integral para aplicar los conocimientos de Python.
-- Se requiere planificación y organización al desarrollar la aplicación.
-- La entrega incluirá tanto el código funcional como una documentación clara.
+- Se entiende la importancia del enunciado claro y detallado del proyecto final.
+- Se desarrollan habilidades de planificación y diseño para la implementación de proyectos en Python.
