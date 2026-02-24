@@ -1,17 +1,14 @@
 # Temas intermedios
 
-- Comprender la utilización de las excepciones y manejo de errores en Python.
-- Implementar funciones recursivas y comprender sus implicaciones.
+- Comprender la implementación de decoradores en Python y su uso para modificar funcionalidades de funciones.
+- Aprender a trabajar con módulos personalizados y entender cómo importar y utilizar funciones y clases desde otros scripts.
 
-Python es una potente herramienta para la programación general, pero su verdadero poder se despliega cuando se dominan conceptos más avanzados. En esta lección, profundizaremos en dos temas cruciales: el manejo de excepciones y las funciones recursivas. El manejo adecuado de excepciones es fundamental para desarrollar software robusto que pueda manejar errores de manera gracia. Las funciones recursivas, por otro lado, permiten abordar problemas complejos de forma elegante y eficiente.
+En esta lección, profundizaremos en dos temas intermedios cruciales del lenguaje Python: los decoradores y el manejo de módulos. Los decoradores son una característica poderosa que permite modificar dinámicamente las funcionalidades de otras funciones sin alterar su estructura original. Este mecanismo es muy útil para añadir funcionalidad común a múltiples funciones, como la verificación de permisos o el registro de acciones.
 
-Para ilustrar estos conceptos, considera un ejemplo donde necesitas leer datos desde un archivo. Sin el manejo adecuado de excepciones, un error como un archivo no encontrado podría interrumpir la ejecución del programa. Con las excepciones, puedes capturar este error y tomar medidas apropiadas, tal vez mostrando un mensaje al usuario o intentando recuperar los datos desde una fuente alternativa.
+Además, aprenderemos a trabajar con módulos personalizados en Python. Un módulo es un archivo que contiene definiciones y declaraciones que pueden ser importados en otros scripts. Entender cómo organizar y estructurar código en múltiples archivos facilita la mantenibilidad y reutilización del mismo.
 
-En cuanto a las funciones recursivas, estas son funciones que se llaman a sí mismas durante su ejecución. Un ejemplo simple podría ser una función para calcular el factorial de un número. La funcionalidad básica sería: si el número es 1, devolver 1; en caso contrario, multiplicar el número por el resultado de la misma función con el número decrementado en uno.
+Para practicar, crea un decorador que registre el tiempo de ejecución de una función y aplica este decorador a al menos tres funciones diferentes.
 
-### Ejercicio
-Implementa una función que calcule el factorial de un número utilizando recursividad. Luego, añade un bloque `try-except` para manejar posibles errores, como ingresar un valor no numérico o negativo.
-
-### Resumen
-- Manejo de excepciones permite desarrollar software más robusto.
-- Las funciones recursivas son útiles para resolver problemas complejos de manera elegante.
+Puntos clave:
+- Los decoradores permiten modificar funcionalidades de otras funciones.
+- El manejo de módulos personalizados mejora la organización del código.
