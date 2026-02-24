@@ -1,11 +1,12 @@
 # Mantenimiento
 
-- Aprender a identificar y corregir errores en el código existente.
-- Comprender la importancia del seguimiento de cambios y documentación en proyectos de Python.
+- Familiarizarse con las mejores prácticas de mantenimiento del código en proyectos Python.
+- Identificar y corregir problemas comunes que pueden surgir durante la evolución de un proyecto.
 
-En esta lección sobre mantenimiento de proyectos en Python, se abordará cómo mantener y actualizar programas existentes. Es crucial entender que el mantenimiento no es solo una tarea para cuando un proyecto está en su etapa final; debe ser una práctica constante durante todo el ciclo de vida del software. Se discutirá la importancia de documentar claramente las funcionalidades, los cambios realizados y las razones detrás de estas modificaciones. Además, se explorará cómo utilizar versiones controladas con Git para gestionar diferentes estados del código y colaborar eficazmente en equipos.
+El mantenimiento de un proyecto Python es crucial para asegurar su continuidad y eficiencia. Incluye tareas como la revisión periódica del código, la actualización de dependencias y la documentación continua. Es fundamental mantener el código limpio y organizado, lo que facilita futuras modificaciones y mejoras. Además, es importante establecer un flujo de trabajo consistente para colaboradores y contribuyentes, utilizando herramientas como Git para gestionar versiones y pull requests.
 
-Para practicar estos conceptos, los estudiantes deberán revisar un pequeño proyecto existente que incluye errores sintácticos y lógicos. El objetivo es corregir estos problemas y mejorar la documentación del código. Los pasos específicos son: 1) Clonar el repositorio desde GitHub; 2) Identificar y corregir los errores en el código; 3) Documentar las modificaciones realizadas; 4) Commitear los cambios con un mensaje descriptivo.
+Para esta lección, los alumnos deben revisar el código de un proyecto existente en GitHub, identificar problemas o áreas de mejora y proponer soluciones. El proyecto puede ser cualquier aplicación Python simple que esté disponible públicamente. Los estudiantes deben documentar sus hallazgos y sugerencias en un informe breve.
 
-- Mejorar la calidad del código existente.
-- Implementar prácticas de control de versiones para proyectos Python.
+- Mejorar la organización del código.
+- Utilizar herramientas de control de versiones para el mantenimiento colaborativo.
+- Documentar cambios y mejoras propuestas.
