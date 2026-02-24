@@ -1,11 +1,15 @@
 # Rendimiento y metricas
 
-## Contenido
-En esta lección sobre rendimiento y métricas, se explorará cómo medir y optimizar el desempeño de los programas escritos en Python. Se abordarán conceptos clave como tiempos de ejecución, memoria utilizada y recursos del sistema. Se aprenderá a utilizar herramientas como `timeit` para medir la velocidad de ejecución y `tracemalloc` para monitorear el uso de memoria. Se discutirá también cómo identificar posibles problemas de rendimiento mediante técnicas de depuración y análisis de código.
+Objetivos
+- Comprender los conceptos básicos de métricas para medir el rendimiento del código Python.
+- Identificar y corregir problemas comunes que afectan al rendimiento en programas Python.
 
-## Ejercicio
-Implementa un programa que calcule los primeros 100 números de Fibonacci utilizando dos métodos: recursión y iteración. Utiliza `timeit` para medir el tiempo de ejecución de cada método y compara sus rendimientos. Luego, utiliza `tracemalloc` para analizar la memoria utilizada por cada método. Presenta tus resultados y reflexiona sobre las diferencias observadas.
+Contenido
+En esta lección, exploraremos cómo medir y mejorar el rendimiento de nuestros programas escritos en Python. Para evaluar el rendimiento, es crucial conocer las métricas adecuadas. Las principales métricas incluyen tiempo de ejecución, uso de memoria y eficiencia algoritmos. Aprenderemos a utilizar herramientas como `timeit` para medir el tiempo de ejecución y `memory_profiler` para monitorear el uso de memoria. Además, discutiremos estrategias para optimizar el código, como la reducción del uso innecesario de bucles y funciones, y la utilización eficiente de listas y diccionarios.
 
-## Resumen
-- Se aprendió a utilizar herramientas como `timeit` y `tracemalloc` para medir tiempos de ejecución y uso de memoria.
-- Se destacó la importancia de identificar problemas de rendimiento mediante técnicas de depuración y análisis de código.
+Ejercicio
+Implementa un programa que calcule la suma de los primeros 1000 números naturales utilizando dos métodos: uno con un bucle `for` y otro con una función recursiva. Luego, usa el módulo `timeit` para medir cuánto tiempo tarda cada método en ejecutarse. Compara los tiempos de ejecución y discute por qué ocurren las diferencias observadas.
+
+Resumen
+- Se aprendió a utilizar herramientas como `timeit` y `memory_profiler` para evaluar el rendimiento del código.
+- Se identificaron estrategias para optimizar el código, mejorando tanto el tiempo de ejecución como la eficiencia en el uso de memoria.
