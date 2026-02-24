@@ -1,11 +1,11 @@
 # Casos de uso reales
 
-- Comprender cómo Python se aplica en el análisis de datos para procesar grandes volúmenes de información.
-- Implementar soluciones prácticas utilizando bibliotecas como Pandas y NumPy.
+- Familiarizar a los estudiantes con aplicaciones prácticas de Python en la industria.
+- Instruir sobre cómo utilizar Python para resolver problemas complejos en áreas como análisis de datos y desarrollo web.
 
-El uso real de Python en el análisis de datos es una aplicación vital que permite a los profesionales manejar, limpiar y analizar datos de manera eficiente. Pandas, una biblioteca de código abierto para manipulación y análisis de datos, proporciona estructuras de datos flexibles y operaciones rápidas. Por ejemplo, un investigador puede utilizar Python para analizar patrones en datos climáticos a gran escala, procesar grandes conjuntos de datos meteorológicos y extraer información valiosa sobre tendencias climáticas. NumPy, otra biblioteca clave, ofrece soporte para arreglos multidimensionales y operaciones matemáticas eficientes, lo que es crucial para el cálculo numérico en aplicaciones científicas.
+En esta lección, profundizaremos en casos de uso reales de Python. Veremos cómo las empresas utilizan Python para automatizar tareas, analizar grandes volúmenes de datos y desarrollar aplicaciones web eficientes. Para ilustrar estos conceptos, exploraremos un proyecto real donde se utiliza Python para predecir tendencias en el mercado de acciones utilizando machine learning. Los estudiantes aprenderán a implementar un modelo de regresión lineal simple con scikit-learn, procesar datos financieros y visualizar resultados.
 
-Para practicar, los estudiantes deben crear un script Python que utilice Pandas para cargar un conjunto de datos de ejemplo (puede ser cualquier conjunto de datos disponible en línea), limpiar y preparar los datos, y finalmente realizar una análisis básico utilizando funciones de agregación como la media o la mediana.
+Ejercicio: Los estudiantes deberán trabajar en grupos para seleccionar una industria (por ejemplo, retail o salud) y explorar cómo Python puede ser utilizado en esa industria. Cada grupo presentará un caso de uso específico, identificará las herramientas de Python pertinentes y propone un proyecto simple que podría implementarse en la industria escogida.
 
-- Comprender el uso de Pandas y NumPy en el análisis de datos.
-- Implementar técnicas de procesamiento de datos con Python.
+- Los estudiantes entenderán cómo aplicar Python a problemas reales.
+- Se familiarizarán con el uso de bibliotecas como scikit-learn y pandas para análisis de datos.
