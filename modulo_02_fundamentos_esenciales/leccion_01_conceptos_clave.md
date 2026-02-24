@@ -1,18 +1,21 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos fundamentales de Python.
-- Familiarizarse con la sintaxis básica y estructuras de control.
+- Comprender los conceptos básicos de Python que son fundamentales para cualquier programador.
+- Aprender a utilizar variables y tipos de datos básicos.
 
 ## Contenido
-Python es un lenguaje de programación interpretado, de código abierto y de alto nivel, conocido por su claridad y simplicidad. En esta lección, se explorarán los conceptos clave que forman la base del lenguaje: variables y tipos de datos básicos, operadores aritméticos y lógicos, y estructuras de control como if-else y bucles for y while.
+En esta lección, se explorarán los conceptos clave necesarios para comenzar a programar en Python. Se introducirá la idea de que Python es un lenguaje de programación interpretado, lo cual significa que el código se ejecuta línea por línea y no requiere una compilación previa. Los estudiantes aprenderán sobre las variables, que son contenedores de datos, y verán cómo declararlas y asignarles valores. Además, se presentarán los tipos de datos básicos en Python, como enteros, flotantes, cadenas de texto e incluso booleans.
 
-Las variables en Python son contenedores para almacenar valores. Pueden ser declaradas sin especificar el tipo, ya que Python es un lenguaje dinámicamente tipado. Los tipos de datos básicos incluyen enteros (int), flotantes (float), cadenas de texto (str) y booleanos (bool). Los operadores aritméticos permiten realizar cálculos matemáticos, mientras que los lógicos se utilizan para evaluar expresiones verdaderas o falsas. Las estructuras de control permiten el flujo condicional y repetitivo del programa.
+Las variables en Python son flexibles; no es necesario especificar el tipo de dato al declarar una variable, ya que Python infiere el tipo automáticamente basándose en el valor asignado. Esto facilita la programación inicial pero puede llevar a confusión si se usan variables sin un uso claro y consistente.
 
 ## Ejercicio
-Escribe un programa en Python que solicite al usuario su edad y determine si es mayor de 18 años. Utiliza una variable para almacenar la edad ingresada, operadores lógicos para evaluar la condición y una estructura if-else para mostrar el resultado.
+Escribe un programa simple en Python que haga lo siguiente:
+1. Declara una variable `nombre` e inicialízala con tu nombre.
+2. Declara otra variable `edad` y asigna un valor numérico a ella.
+3. Imprime en pantalla "Mi nombre es [tu nombre] y tengo [tu edad] años".
 
 ## Resumen
-- Variables y tipos de datos básicos.
-- Operadores aritméticos y lógicos.
-- Estructuras de control if-else.
+- Python es un lenguaje interpretado que permite la flexibilidad en el manejo de tipos de datos.
+- Las variables son elementos fundamentales para almacenar información en el programa, y se declaran sin especificar su tipo.
+- Es importante entender cómo trabajar con diferentes tipos de datos básicos como cadenas, números enteros y flotantes.
