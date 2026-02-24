@@ -1,11 +1,11 @@
 # Buenas practicas
 
-- Comprender y aplicar las buenas prácticas de codificación para mejorar la legibilidad y mantenibilidad del código.
-- Familiarizarse con PEP 8, la guía oficial de estilo de Python, y su importancia en el desarrollo profesional.
+- Comprender y aplicar las mejores prácticas de codificación en Python para mejorar la legibilidad y mantenibilidad del código.
+- Implementar patrones de diseño y buenas prácticas de manejo de excepciones para resolver problemas comunes.
 
-En esta lección profundizaremos en las buenas prácticas que todo programador debe seguir al escribir código en Python. La claridad y la legibilidad son fundamentales para que otros desarrolladores puedan entender fácilmente tu código, lo que facilita tanto la colaboración como la resolución de problemas futuros. Una de las guías más reconocidas es PEP 8, que proporciona una serie de recomendaciones sobre cómo escribir código en Python. Entre sus puntos clave se encuentran el uso adecuado del espacio y los comentarios, la nomenclatura de variables y funciones, y la estructura general del código.
+Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta análisis de datos. Para escribir código eficiente y legible, es crucial seguir ciertas convenciones y prácticas recomendadas. Una buena práctica consiste en utilizar nombres claros y descriptivos para variables, funciones y clases, lo que facilita la comprensión del código por otros desarrolladores o incluso por uno mismo al volver a revisarlo después de un tiempo. Además, es importante usar el módulo `logging` en lugar de imprimir directamente mensajes de consola para loggear información y errores, ya que esto permite una mayor flexibilidad y control sobre cómo se registran los mensajes.
 
-Como ejercicio práctico, te pedimos que tomes un fragmento de código que hayas escrito anteriormente o que sea proporcionado por el profesor, e intentes reformularlo siguiendo las recomendaciones de PEP 8. Observa cómo se mejora la claridad y la legibilidad del código al aplicar estas buenas prácticas.
+Ejercicio: Implementa un pequeño programa que calcule la media, mediana y moda de una lista de números enteros. Utiliza nombres descriptivos para tus variables y funciones, y añade comentarios explicativos en el código. Además, implementa manejo de excepciones para casos en los que la lista esté vacía o contenga solo un elemento.
 
-- Familiarizarse con PEP 8.
-- Mejorar la legibilidad y mantenibilidad del código mediante el cumplimiento de estándares de estilo.
+- Utilizar nombres claros y descriptivos para las variables y funciones.
+- Implementar el uso del módulo `logging` para registrar información relevante.
