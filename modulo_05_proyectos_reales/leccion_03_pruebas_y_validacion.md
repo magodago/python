@@ -1,16 +1,12 @@
 # Pruebas y validacion
 
-Objetivos
-- Comprender los conceptos básicos de pruebas y validación en Python.
-- Aprender a utilizar las bibliotecas estándar para realizar pruebas unitarias.
+- Comprender la importancia de las pruebas y validaciones en el desarrollo de software con Python.
+- Implementar técnicas básicas de pruebas unitarias utilizando la biblioteca unittest.
 
-Contenido
-En esta lección, se profundizará en la importancia de pruebas y validaciones en el desarrollo de software. Se explicará cómo estas prácticas ayudan a detectar errores temprano en el proceso de desarrollo, mejorando la calidad del código y reduciendo los tiempos de depuración. Se presentarán las bibliotecas estándar `unittest` y `doctest`, que son fundamentales para escribir pruebas unitarias en Python. Se explicará cómo estructurar pruebas, definir casos de prueba y ejecutarlas utilizando estas herramientas.
+Python es una potente herramienta para el desarrollo de aplicaciones, pero es crucial asegurar que el código funcione correctamente. Las pruebas y validaciones son fundamentales para garantizar la calidad del software. En esta lección, se explorarán las técnicas básicas de pruebas unitarias utilizando la biblioteca unittest incorporada en Python. A través de ejemplos prácticos, los estudiantes aprenderán cómo escribir pruebas para verificar que sus funciones y métodos se comporten como se espera.
 
-Ejercicio
-El alumno deberá crear un script simple en Python que calcule el área de un círculo dado su radio. Posteriormente, se le pedirá que escriba pruebas unitarias para verificar la funcionalidad del script usando `unittest`. El ejercicio debe incluir al menos tres casos de prueba: uno para un radio positivo, otro para un radio igual a cero y uno para un radio negativo (considerando que el radio no puede ser negativo).
+Para practicar, los alumnos deberán desarrollar un pequeño programa que realice cálculos matemáticos básicos (suma, resta, multiplicación y división) y luego implementar pruebas unitarias utilizando unittest para validar el funcionamiento de cada operación. Los estudiantes deben asegurarse de cubrir diferentes casos de prueba, incluyendo valores normales, límites extremos y posibles errores.
 
-Resumen
-- Pruebas y validación son esenciales en el desarrollo de software.
-- Se utilizan bibliotecas como `unittest` y `doctest` para escribir pruebas unitarias.
-- Es importante estructurar y ejecutar pruebas correctamente para garantizar la calidad del código.
+Los puntos clave a resaltar son:
+- La importancia de las pruebas en el desarrollo de software.
+- El uso de unittest para implementar pruebas unitarias en Python.
