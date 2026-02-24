@@ -1,11 +1,11 @@
 # Feedback
 
-- Comprender los conceptos básicos de feedback en programación y su importancia para mejorar el código.
-- Aprender a implementar y utilizar feedback en proyectos de Python para optimizar y corregir errores.
+- Comprender los conceptos de feedback constructivo y retroalimentación crítica para mejorar el proyecto final.
+- Aplicar técnicas de recepción y análisis de feedback para refinar su código Python.
 
-El feedback es un proceso crucial en la mejora continua del código. En Python, se puede obtener a través de herramientas como linters (que revisan sintaxis), test unitarios (que evalúan el comportamiento individual de funciones) o depuradores (que ayudan a identificar y corregir errores). Estos instrumentos proporcionan información valiosa sobre la calidad del código, permitiendo al programador tomar decisiones informadas para optimizar su trabajo.
+El feedback es un componente crucial en cualquier proceso de desarrollo, especialmente en proyectos como este que se enfoca en la aplicación práctica del lenguaje de programación Python. El objetivo principal es aprender a recibir críticas constructivas de manera efectiva, identificar áreas de mejora y aplicar estas observaciones para optimizar el código y mejorar la funcionalidad del proyecto final. Este proceso no solo fortalece habilidades técnicas sino también competencias blandas como la comunicación y el trabajo en equipo.
 
-Para ejercitar esta habilidad, los estudiantes deben implementar un linter en su proyecto final. Se les pedirá que instalen y utilicen Pylint, una herramienta popular de Python, para revisar el código del proyecto. Deben corregir todos los errores y advertencias reportadas por Pylint antes de presentar su trabajo final.
+Para practicar esta habilidad, los alumnos deben presentar una versión preliminar de su proyecto a un grupo de pares o instructores, quienes proporcionarán feedback detallado. Los estudiantes deberán documentar este feedback recibido, analizarlo y proponer modificaciones específicas para mejorar el código y la funcionalidad del proyecto.
 
-- Comprender la importancia de usar linters en proyectos Python.
-- Practicar la corrección de errores utilizando herramientas de feedback.
+- Documentación efectiva del feedback recibido.
+- Identificación y propuesta de mejoras basadas en el feedback proporcionado.
