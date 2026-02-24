@@ -1,18 +1,12 @@
 # Requisitos previos
 
-Objetivos
-- Comprender los requisitos previos necesarios para comenzar a aprender Python.
-- Identificar las habilidades y conocimientos básicos que se requieren antes de emprender el estudio del lenguaje.
+- Comprender los requisitos previos necesarios antes de comenzar a aprender Python.
+- Identificar las habilidades básicas y conocimientos que facilitan la adquisición del lenguaje de programación.
 
-Contenido
-En esta lección, exploraremos los requisitos previos para iniciarse en la programación con Python. Es importante tener en cuenta que Python es un lenguaje de alto nivel, lo cual facilita su aprendizaje para principiantes; sin embargo, existen ciertos conceptos básicos que son necesarios conocer antes de comenzar a codificar. Estos incluyen una comprensión elemental del flujo de ejecución de un programa, la capacidad de utilizar herramientas de línea de comandos y un entendimiento básico de estructuras de datos como listas o diccionarios.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Para iniciarse en este lenguaje, se recomienda tener ciertos requisitos previos que pueden facilitar el aprendizaje. En primer lugar, es conveniente tener una comprensión básica de conceptos matemáticos y lógicos, ya que estos son fundamentales para la programación. Además, conocimientos básicos sobre estructuras de datos como listas, diccionarios o conjuntos pueden ser útiles, aunque no son necesarios. Por otro lado, es recomendable tener experiencia con algún lenguaje de scripting simple, como Bash, JavaScript o HTML, ya que esto permitirá adaptarse más rápidamente a la sintaxis y estructura de Python.
 
-Para facilitar el aprendizaje, se recomienda que los estudiantes tengan familiaridad con conceptos matemáticos básicos y una comprensión general de cómo funcionan las computadoras. Además, es útil tener experiencia previa en la manipulación de archivos de texto y una base en lógica de programación.
+Ejercicio: Identifica los requisitos previos mencionados en el contenido anterior. Para ello, crea una lista que incluya los conceptos matemáticos, lógicos y de programación básicos necesarios para comenzar con Python. Luego, escribe un breve resumen de cómo estos conocimientos pueden ayudarte a aprender más rápido este lenguaje.
 
-Ejercicio
-Escribe un programa simple que imprima "¡Hola, mundo!" utilizando Python. Luego, modifica el programa para que solicite al usuario su nombre y lo salude personalmente.
-
-Resumen
-- Los requisitos previos incluyen conocimientos básicos matemáticos y de lógica.
-- Es útil tener experiencia con herramientas de línea de comandos.
-- Un primer programa simple ayuda a familiarizarse con el entorno de Python.
+- Conceptos matemáticos y lógicos son fundamentales.
+- Experiencia previa en scripting puede facilitar el aprendizaje.
+- La lista de requisitos previos ayuda al estudiante a identificar áreas donde puede fortalecer sus habilidades antes de comenzar con Python.
