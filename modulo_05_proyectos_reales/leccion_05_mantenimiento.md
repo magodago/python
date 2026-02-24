@@ -1,13 +1,31 @@
 # Mantenimiento
 
-- Aprender a realizar pruebas de unidad y integración en proyectos Python.
-- Comprender la importancia del control de versiones mediante Git para mantener proyectos.
+Objetivos
+- Comprender la importancia del mantenimiento de código en proyectos Python.
+- Aprender técnicas y buenas prácticas para mantener y actualizar códigos existentes.
 
-En esta lección se abordará cómo garantizar que un proyecto Python funcione correctamente a lo largo del tiempo. Se tratarán las técnicas de pruebas, desde pruebas unitarias hasta pruebas de integración, y cómo implementarlas en el flujo de trabajo de desarrollo. Además, se explicará la importancia de utilizar Git para controlar y documentar los cambios realizados en el código, facilitando así el mantenimiento del proyecto.
+Contenido
+El mantenimiento de código es un aspecto crucial en el desarrollo de software, especialmente cuando se trata con lenguajes dinámicos como Python. Este proceso implica revisar, depurar y optimizar el código ya existente para asegurarse de que siga funcionando correctamente a medida que cambian las necesidades del proyecto o la tecnología. El mantenimiento preventivo también incluye documentar el código adecuadamente y seguir un enfoque modular para facilitar futuras modificaciones.
 
-El objetivo es que los estudiantes puedan asegurarse de que su software siga funcionando correctamente incluso después de realizar modificaciones o añadir nuevas funcionalidades. Se proporcionará un ejemplo práctico donde se creará una aplicación sencilla y se implementarán pruebas unitarias e integración para garantizar la calidad del código.
+Las prácticas recomendadas para mantener códigos Python son diversas: asegurarse de que el código cumpla con los estándares PEP 8, revisar regularmente las dependencias y actualizarlas cuando sea necesario, y utilizar herramientas como linters y formatters para mantener un estilo uniforme en todo el proyecto. Además, es importante documentar cambios significativos y realizar pruebas exhaustivas antes de implementar actualizaciones.
 
-Ejercicio: Crear un proyecto simple con Git y realizar pruebas unitarias e integración utilizando bibliotecas como `unittest` o `pytest`. Documentar los cambios realizados en cada commit y explicar cómo se pueden revertir si es necesario.
+Ejercicio
+Revisa el siguiente código Python que tiene errores y realiza las correcciones necesarias:
 
-- Comprender el uso de pruebas para mantener la calidad del código.
-- Aprender a utilizar Git para controlar versiones y documentar cambios.
+```python
+def calcular_area_circulo(radio):
+    pi = 3.14
+    area = pi * radio**2
+    return area
+
+print(calcular_area_circulo(5))
+```
+
+Tu tarea es:
+- Corregir los errores en el código.
+- Documentar la función con un breve comentario que explique su propósito y parámetros.
+- Añadir pruebas unitarias para verificar que la función funcione correctamente.
+
+Resumen
+- El mantenimiento de código es fundamental para asegurar que las aplicaciones sigan funcionando correctamente a lo largo del tiempo.
+- Se recomienda seguir buenas prácticas como documentar el código, utilizar estándares de estilo y realizar pruebas exhaustivas.
