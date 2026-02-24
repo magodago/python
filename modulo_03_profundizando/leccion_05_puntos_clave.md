@@ -1,11 +1,16 @@
 # Puntos clave
 
-- Comprender la utilización avanzada de las estructuras de datos en Python.
-- Implementar funciones y métodos personalizados para resolver problemas complejos.
+### Objetivos
+- Comprender los conceptos avanzados de programación en Python.
+- Aprender a utilizar eficazmente las bibliotecas estándar y populares.
 
-Las estructuras de datos avanzadas como diccionarios anidados, conjuntos y pilas son fundamentales para manejar datos complejos eficientemente. Por ejemplo, los diccionarios anidados permiten almacenar información jerárquica en un solo objeto, lo que es muy útil en aplicaciones de gestión de datos o configuración de sistemas. Los conjuntos se utilizan para realizar operaciones matemáticas rápidas y eficientes con elementos únicos, mientras que las pilas son ideales para problemas de procesamiento secuencial.
+### Contenido
+En esta lección profundizaremos en la programación orientada a objetos (POO) con Python, explorando conceptos como herencia múltiple y polimorfismo. También abordaremos el uso de módulos y paquetes para organizar código y facilitar su reutilización. Aprenderemos sobre las bibliotecas estándar y populares en Python, destacando sus ventajas y cómo integrarlas en proyectos.
 
-Para practicar, crea un programa que use una pila para simular el funcionamiento de un navegador web. La pila debe almacenar URLs recientes visitadas y permitir al usuario navegar hacia adelante y atrás en la historia de navegación.
+### Ejercicio
+Implementa una clase `Animal` con métodos abstractos `hablar()` y `moverse()`. Luego, crea subclases `Perro`, `Gato` y `Pájaro` que hereden de `Animal` y sobrescriban los métodos para comportamientos específicos. Utiliza la biblioteca `random` para simular acciones aleatorias en cada animal.
 
-- Familiaridad con las pilas como estructura de datos.
-- Capacidad para implementar funciones que manipulen pilas.
+### Resumen
+- Herencia múltiple permite a una clase heredar atributos y métodos de varias clases.
+- El polimorfismo facilita que objetos de diferentes clases se traten de manera uniforme.
+- Las bibliotecas estándar y populares en Python proporcionan funcionalidades útiles para proyectos.
