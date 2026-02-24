@@ -1,11 +1,15 @@
 # Bienvenida al curso
 
-- Entender qué es Python y su importancia en la programación.
-- Familiarizarse con el entorno de desarrollo integrado (IDE) que se utilizará durante el curso.
+Objetivos
+- Comprender la importancia de Python en el desarrollo de software y ciencia de datos.
+- Familiarizarse con el entorno de programación y los recursos disponibles.
 
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una herramienta fundamental para desarrolladores de todo el mundo. Su sintaxis clara y concisa lo hace fácil de aprender y usar, lo que lo convierte en ideal tanto para principiantes como para profesionales experimentados. En este curso, utilizaremos el IDE PyCharm, que proporciona un entorno visual y funcional para escribir y ejecutar código Python.
+Contenido
+Bienvenidos al curso de Python. Este lenguaje de programación es ampliamente utilizado debido a su simplicidad, versatilidad y la gran comunidad que lo apoya. Python se destaca en diversas áreas como desarrollo web, automoción, finanzas, ciencia de datos e inteligencia artificial. A lo largo del curso, aprenderemos a escribir código eficiente, utilizar bibliotecas útiles y comprender conceptos fundamentales de programación.
 
-Para comenzar, abrimos PyCharm e iniciamos una nueva sesión de trabajo creando un nuevo proyecto. Seleccionamos la opción "Python" como tipo de proyecto y damos un nombre al mismo. Luego, creamos nuestro primer archivo de código, que simplemente imprimirá "¡Bienvenido a Python!" en la consola.
+Ejercicio
+Escriba un programa simple que imprima "¡Bienvenido al curso de Python!" en la consola.
 
-- Comprender el entorno de desarrollo PyCharm.
-- Crear y ejecutar un programa simple en Python.
+Resumen
+- Python es un lenguaje versátil utilizado en múltiples campos.
+- Familiarizarse con el entorno y recursos disponibles desde el inicio.
