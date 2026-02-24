@@ -1,15 +1,9 @@
 # Criterios de evaluacion
 
-Objetivos
-- Comprender los criterios de evaluación para el proyecto final de Python.
-- Identificar las áreas a mejorar en el desarrollo del proyecto.
+- El estudiante demostrará su capacidad para aplicar los conceptos de programación en Python a través del desarrollo de un proyecto final.
+- Se evaluará la implementación efectiva de estructuras de datos y algoritmos, así como el uso adecuado de bucles, funciones y clases. Además, se tendrá en cuenta la claridad y eficiencia del código, la documentación proporcionada y su capacidad para resolver problemas complejos.
 
-Contenido
-Los criterios de evaluación para el proyecto final de Python se centran en la implementación efectiva y eficiente del lenguaje, así como en la resolución de problemas complejos. Se evaluará no solo el resultado final, sino también el proceso de desarrollo, incluyendo la planificación, diseño y documentación. Los aspectos clave incluyen la estructura del código, la utilización adecuada de las características de Python, la eficiencia y legibilidad del programa, así como la capacidad para abordar errores y optimizar el rendimiento.
+Para este ejercicio, desarrolla un programa que permita gestionar una biblioteca virtual. El programa debe incluir funcionalidades como agregar libros, eliminar libros, buscar libros por título o autor, listar todos los libros disponibles y generar un informe estadístico sobre la cantidad de libros por género. Utiliza clases para representar los libros y la biblioteca.
 
-Ejercicio
-Desarrolla un programa en Python que resuelva el problema del "Camino más corto" utilizando algoritmos de búsqueda. Asegúrate de documentar tu código con comentarios claros y detallados, explicando cada paso del proceso. Luego, evalúa tu propio trabajo según los criterios mencionados: estructura del código, uso de características de Python, eficiencia y legibilidad.
-
-Resumen
-- Los criterios de evaluación abarcan desde la implementación hasta el proceso de desarrollo.
-- Se enfatiza en la eficiencia, legibilidad y documentación del código.
+- Los criterios de evaluación centran en el uso correcto de estructuras de datos, la resolución de problemas complejos y la calidad del código.
+- El programa debe ser funcional y bien documentado.
