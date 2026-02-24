@@ -1,16 +1,11 @@
 # Puntos clave
 
-- Entender la optimización de código en Python.
-- Implementar patrones de diseño para mejorar la legibilidad y mantenibilidad del código.
+- Entender la utilización avanzada de listas y diccionarios.
+- Aprender a manipular cadenas de texto de manera eficiente.
 
-Python es un lenguaje de programación versátil que se destaca por su simplicidad y claridad. Para profundizar en el uso de Python, es crucial entender cómo optimizar el rendimiento de los programas y cómo aplicar patrones de diseño para mejorar la estructura y mantenibilidad del código. La optimización puede implicar desde la elección adecuada de las funciones integradas hasta la implementación eficiente de bucles y listas. Los patrones de diseño, como el Singleton o el Factory Method, pueden ayudar a resolver problemas comunes de forma modular y reutilizable.
+El módulo Profundizando nos adentra en técnicas más avanzadas para trabajar con listas y diccionarios, que son estructuras de datos fundamentales en Python. Veremos cómo realizar operaciones complejas como la búsqueda, inserción y eliminación de elementos en listas de manera eficiente. Además, profundizaremos en el manejo de diccionarios, aprendiendo a manipularlos para optimizar el acceso a sus valores y estructuras anidadas.
 
-Para ejemplificar estos conceptos, consideremos un ejercicio práctico: se requiere desarrollar una aplicación que administre una biblioteca digital. La tarea consiste en crear una clase `Libro` con atributos como título, autor y año de publicación. Luego, implementar un patrón de diseño para gestionar la lista de libros, utilizando el Singleton para asegurar que solo exista una instancia de la lista global.
+Para practicar, los estudiantes deberán crear un programa que permita al usuario ingresar una lista de nombres y edades, luego organizar esta lista por edad de mayor a menor. El ejercicio también incluirá la opción de buscar un nombre específico en la lista y mostrar su posición o indicar si no se encuentra.
 
-### Ejercicio
-1. Crea una clase `Libro` con los siguientes atributos: título (str), autor (str) y año_de_publicacion (int).
-2. Implementa un patrón Singleton para crear una única instancia de la lista de libros en toda la aplicación.
-3. Añade métodos a la clase Singleton que permitan agregar, eliminar y listar todos los libros.
-
-- Comprender la importancia de la optimización del código.
-- Aplicar patrones de diseño como el Singleton para mejorar la estructura del código.
+- Utilización avanzada de listas.
+- Manejo eficiente de diccionarios para el acceso y organización de datos.
