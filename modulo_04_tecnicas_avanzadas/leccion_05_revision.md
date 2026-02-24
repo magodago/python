@@ -1,15 +1,17 @@
 # Revision
 
-### Objetivos
-- Consolidar el conocimiento sobre técnicas avanzadas de programación con Python.
-- Aprender a utilizar patrones de diseño y librerías para mejorar la eficiencia del código.
+## Objetivos
+- Comprender y aplicar técnicas avanzadas de programación en Python.
+- Mejorar la eficiencia y legibilidad del código mediante la optimización.
 
-### Contenido
-En esta lección, se revisará el uso de patrones de diseño como Singleton y Factory Method en Python. Estos patrones permiten estructurar el código de manera más modular y flexible, facilitando la mantenibilidad y reutilización. Además, se explorarán librerías avanzadas como NumPy para operaciones matemáticas intensivas y Pandas para manipulación de datos, destacando sus características principales y ejemplos prácticos.
+## Contenido
+En esta lección, se revisará el uso de decoradores en Python, una técnica que permite modificar o extender las funcionalidades de funciones y métodos sin alterar su estructura original. Los decoradores son útiles para agregar comportamientos comunes a múltiples funciones de manera concisa y modular. Se explorará cómo crear y utilizar decoradores personalizados, así como sus aplicaciones en la resolución de problemas complejos.
 
-### Ejercicio
-Implemente un patrón Singleton en Python para una clase `Config` que gestione la configuración del sistema. Luego, utilice Pandas para cargar un archivo CSV y realizar una operación simple como el cálculo de la media de una columna numérica.
+Además, se abordará el tema de la optimización del código Python, enfocándose en estrategias para mejorar la velocidad y eficiencia del programa sin sacrificar su legibilidad. Se discutirá sobre el uso adecuado de listas comprensivas versus bucles for anidados, así como la importancia de elegir las estructuras de datos apropiadas según el contexto.
 
-### Resumen
-- Se profundizará en patrones de diseño y su implementación en Python.
-- Se explorarán librerías avanzadas como NumPy y Pandas con ejemplos prácticos.
+## Ejercicio
+Escribe un decorador que mida el tiempo de ejecución de una función y lo imprima en consola. Luego, aplica este decorador a una función que genere números primos hasta un cierto límite, utilizando tanto un bucle for anidado como una lista comprensión. Observa cómo se comportan ambas implementaciones y analiza cuál es más eficiente.
+
+## Resumen
+- Decoradores en Python permiten modificar el comportamiento de funciones de manera modular.
+- La optimización del código implica elegir estructuras de datos adecuadas y evitar bucles innecesarios.
