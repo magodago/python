@@ -1,11 +1,15 @@
 # Como sacar el maximo partido
 
-- Entender los fundamentos de Python y su importancia en la programación moderna.
-- Identificar las características principales que hacen a Python un lenguaje versátil y fácil de aprender.
+- Entender la sintaxis básica de Python y su importancia en el desarrollo de software.
+- Familiarizarse con las características principales que hacen a Python un lenguaje versátil y ampliamente utilizado.
 
-Python es uno de los lenguajes de programación más populares y versátiles del momento. Su sintaxis clara y concisa lo convierten en una excelente elección para principiantes, pero también ofrece funcionalidades avanzadas que lo hacen atractivo para desarrolladores experimentados. En esta lección, exploraremos el contexto general de Python y cómo aprovechar al máximo sus características básicas, incluyendo su facilidad de lectura y escritura, la gran comunidad de usuarios y recursos disponibles, así como su capacidad para integrarse con otras tecnologías.
+Python es un lenguaje de programación interpretado, de alto nivel e interpretivo, lo que significa que se puede escribir código más limpio y legible. Su sintaxis clara y simple hace que sea fácil para principiantes aprender a programar, pero también poderoso en manos de expertos. Algunas de las características que destacan Python son su gran comunidad de usuarios, una amplia gama de bibliotecas y frameworks, y su capacidad para integrarse con otros lenguajes.
 
-Para practicar estos conceptos, los estudiantes deberán escribir un pequeño script que use funciones básicas de Python para realizar una tarea útil. Por ejemplo, pueden crear un programa que calcule el área de diferentes figuras geométricas (círculo, rectángulo y triángulo) utilizando fórmulas matemáticas simples.
+Para obtener el máximo partido de Python, es crucial familiarizarse con sus fundamentos. Esto incluye entender cómo estructurar programas, manejar variables y tipos de datos, controlar flujo de ejecución con bucles y condicionales, y utilizar funciones para organizar código. Además, es recomendable explorar las bibliotecas estándar de Python, como NumPy o Pandas, que facilitan el trabajo con datos.
 
-- Familiaridad con los fundamentos de Python.
-- Comprender la importancia de la comunidad y recursos disponibles para el aprendizaje continuo.
+### Ejercicio
+Escribe un programa en Python que solicite al usuario ingresar tres números enteros y luego muestre el número más grande entre ellos. Utiliza la función `max()` para resolver este problema de manera eficiente.
+
+### Resumen
+- Familiarizarse con la sintaxis básica y características clave de Python.
+- Aplicar conocimientos prácticos a través del desarrollo de un programa simple que resuelve una tarea común.
