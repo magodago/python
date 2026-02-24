@@ -1,12 +1,12 @@
 # Casos de uso reales
 
-- Dominar la aplicación de Python en proyectos reales.
-- Comprender cómo abordar problemas complejos utilizando paradigmas de programación avanzados.
+- Familiarizarse con la implementación de algoritmos de machine learning básicos utilizando Python.
+- Aprender a integrar Python con frameworks populares para análisis de datos y visualización.
 
-En esta lección profundizaremos en casos de uso reales de Python, explorando cómo se puede aplicar eficazmente este lenguaje de programación en diferentes sectores. Veremos ejemplos prácticos como el desarrollo de aplicaciones web con Django y Flask, el análisis de datos con Pandas y NumPy, la creación de bots para redes sociales utilizando Python y la automatización de tareas mediante scripts. Estos casos nos permitirán apreciar las capacidades versátiles de Python en soluciones reales.
+En esta lección, profundizaremos en casos de uso reales de Python aplicado a soluciones de ingeniería de software. Veremos cómo Python se utiliza no solo para el desarrollo web o scripting, sino también para tareas complejas como la inteligencia artificial y el análisis de datos. A través del estudio de ejemplos prácticos, aprenderás a implementar algoritmos de aprendizaje automático básicos utilizando bibliotecas como scikit-learn, y cómo integrar Python con herramientas de visualización como Matplotlib para presentar tus resultados.
 
-Para este ejercicio, desarrolla un script simple que utilice la biblioteca Flask para crear una aplicación web básica. La aplicación debe incluir al menos dos páginas: una página principal con un mensaje de bienvenida y otra página que muestre los datos de un archivo CSV cargado mediante Pandas. Este ejercicio te permitirá aplicar tus conocimientos sobre frameworks web, manejo de archivos y visualización de datos en Python.
+Ejercicio: Implementa un modelo de clasificación simple usando scikit-learn en Python. Utiliza el conjunto de datos Iris predefinido y compara las predicciones del modelo con los valores reales. Documenta tu proceso, incluyendo la selección del algoritmo, la preparación de los datos y la interpretación de los resultados.
 
-- Familiaridad con Flask para desarrollo web.
-- Uso de Pandas para manipulación de datos.
-- Integración de diferentes bibliotecas Python en un proyecto real.
+Puntos clave:
+- Implementación de algoritmos de aprendizaje automático en Python.
+- Integración efectiva de Python con frameworks de análisis de datos.
