@@ -1,13 +1,16 @@
 # Despliegue
 
-- Entender los pasos necesarios para desplegar una aplicación Python en producción.
-- Aprender a configurar un entorno de despliegue utilizando Docker y Kubernetes.
+- **Objetivos**
+  - Comprender los pasos necesarios para desplegar una aplicación Python en producción.
+  - Implementar un entorno de desarrollo integrado (IDE) y herramientas de despliegue.
 
-Python es ampliamente utilizado no solo para el desarrollo de aplicaciones de escritorio o web, sino también para soluciones empresariales complejas que se ejecutan en servidores. El despliegue de una aplicación Python implica asegurarse de que la aplicación funcione correctamente en un entorno de producción. En esta lección, aprenderemos a configurar un entorno de despliegue utilizando Docker y Kubernetes.
+- **Contenido**
+  La lección se centra en el proceso de despliegue de aplicaciones Python, desde la configuración del entorno hasta la implementación en servidores o plataformas como Heroku. Se explicará cómo seleccionar y configurar un servidor web adecuado, así como las mejores prácticas para optimizar el rendimiento y seguridad de la aplicación. Además, se explorarán herramientas populares como Docker para contenerizaciones y Ansible para automatización de despliegues.
 
-Para ello, primero necesitamos preparar nuestra aplicación para el despliegue. Esto incluye escribir un archivo `Dockerfile` que defina las dependencias del proyecto y cómo se construirá la imagen Docker. Posteriormente, usaremos Kubernetes para orquestar los contenedores y asegurarnos de que nuestra aplicación esté disponible en todo momento.
+- **Ejercicio**
+  Los alumnos deberán configurar una aplicación web simple en Python utilizando Flask o Django y luego desplegarla en un servidor local o en Heroku. Deberán documentar cada paso del proceso, desde la instalación de las dependencias hasta el despliegue final, incluyendo cualquier problema encontrado y cómo lo resolvieron.
 
-Ejercicio: Configura una aplicación simple en Python (por ejemplo, un servidor web Flask) y despliega esa aplicación utilizando Docker y Kubernetes. Documenta cada paso del proceso desde la creación del `Dockerfile` hasta el despliegue de la aplicación en un cluster Kubernetes local o en la nube.
-
-- Familiarizarse con los conceptos básicos de Docker y Kubernetes para el despliegue de aplicaciones.
-- Realizar un ejercicio práctico de despliegue utilizando estas tecnologías.
+- **Resumen**
+  - Se aprende a configurar y optimizar entornos para el despliegue de aplicaciones Python.
+  - Se practica la implementación en servidores locales o plataformas como Heroku.
+  - Se mejora la comprensión de herramientas de contenerización y automatización.
