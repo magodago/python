@@ -1,10 +1,24 @@
 # Checklist final
 
-- Comprender y aplicar un checklist efectivo para resolver problemas comunes en Python.
-- Mejorar la eficiencia del código mediante optimizaciones basadas en un análisis de rendimiento.
+- Familiarizarse con los pasos finales para depurar y optimizar código Python.
+- Aplicar un checklist de verificación final para asegurar la eficiencia del rendimiento del programa.
 
-El objetivo final de esta lección es que los estudiantes puedan identificar y solucionar problemas comunes en sus programas Python utilizando un método sistemático. Este checklist les permitirá abordar problemas desde el análisis inicial hasta la implementación de soluciones, asegurando una mejora continua en su código. Al mismo tiempo, se enfatizará la importancia del rendimiento del código y cómo aplicar técnicas básicas para optimizarlo sin sacrificar la legibilidad.
+El objetivo final de esta lección es que los estudiantes comprendan cómo implementar un proceso de revisión final para su código Python, enfocándose en la optimización y depuración. Este proceso incluye la revisión de variables no utilizadas, comprobaciones de errores frecuentes, optimización del uso de recursos y pruebas exhaustivas. Al aplicar estos pasos, los estudiantes podrán garantizar que sus programas funcionen de manera eficiente y sean libres de errores.
 
-Para ello, los estudiantes deberán revisar un programa existente con errores y utilizar el checklist proporcionado para diagnosticar y corregir estos problemas. Además, se les pedirá que analicen el rendimiento del código utilizando herramientas de perfilaje integradas en Python, como cProfile, y apliquen optimizaciones donde sea necesario.
+Para practicar, realiza el siguiente ejercicio: revisa el código proporcionado y aplica el checklist final para mejorar su rendimiento. El código muestra un programa simple que calcula la suma de los primeros 100 números enteros. Asegúrate de optimizarlo tanto en términos de eficiencia como de claridad.
 
-Al finalizar esta lección, los estudiantes deberán haber identificado y solucionado varios problemas comunes en sus programas Python y estarán más familiarizados con técnicas para mejorar el rendimiento del código.
+```python
+# Código original
+def suma_primeros_numeros(n):
+    total = 0
+    for i in range(1, n+1):
+        total += i
+    return total
+
+print(suma_primeros_numeros(100))
+```
+
+### Resumen
+- Implementar un checklist final para depurar y optimizar el código.
+- Revisar variables no utilizadas y comprobar errores frecuentes.
+- Optimizar el uso de recursos y realizar pruebas exhaustivas.
