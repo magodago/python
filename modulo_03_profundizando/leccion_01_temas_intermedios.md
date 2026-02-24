@@ -1,28 +1,17 @@
 # Temas intermedios
 
-- Comprender la utilización de decoradores y su aplicación práctica.
-- Familiarizarse con las excepciones y manejo de errores en Python.
+Objetivos
+- Comprender la utilización de decoradores y comprensión de listas para optimizar código.
+- Aprender a trabajar con módulos personalizados y cómo importar funciones específicas.
 
-En esta lección profundizaremos en dos temas intermedios esenciales: los decoradores y el manejo de excepciones. Los decoradores son una característica poderosa que permite modificar o extender la funcionalidad de funciones, métodos o clases sin alterar su código original. En Python, se utilizan con la sintaxis `@decorador` antes de la definición de una función. Por ejemplo:
+Contenido
+En esta lección, profundizaremos en temas intermedios de Python, enfocándonos en dos conceptos fundamentales: los decoradores y la comprensión de listas. Los decoradores son una forma elegante de modificar o extender el comportamiento de las funciones sin alterar su estructura. Por ejemplo, podrás aprender a crear un decorador que mide el tiempo de ejecución de una función. Además, se explorará cómo usar comprensiones de listas para escribir código más conciso y eficiente.
 
-```python
-def mi_decorador(func):
-    def wrapper():
-        print("Antes de ejecutar la función")
-        func()
-        print("Después de ejecutar la función")
-    return wrapper
+Para ilustrar estos conceptos, veremos ejemplos prácticos donde se combina la utilización de decoradores con comprensiones de listas para resolver problemas comunes en programación. Se proporcionarán ejercicios que permitirán a los estudiantes aplicar estos conceptos y mejorar su fluidez al escribir código Python.
 
-@mi_decorador
-def hola_mundo():
-    print("¡Hola, mundo!")
+Ejercicio
+Escribe un decorador llamado `tiempo_ejecucion` que muestre el tiempo de ejecución de una función. Luego, utiliza este decorador con una función que genere una lista de números pares hasta 100 utilizando comprensión de listas. Finalmente, compara la eficiencia del uso de un bucle `for` tradicional versus la comprensión de listas.
 
-hola_mundo()
-```
-
-El manejo de excepciones es crucial para desarrollar software robusto. Python proporciona una serie de excepciones predefinidas y permite definir nuestras propias excepciones heredando de la clase `Exception`. El uso adecuado de bloques `try`, `except`, `else` y `finally` ayuda a manejar errores de forma controlada, mejorando la experiencia del usuario y la estabilidad del programa.
-
-Ejercicio: Implementa un decorador que mide el tiempo de ejecución de una función y muestra el resultado en consola. Luego, aplica este decorador a diferentes funciones matemáticas para observar cómo funciona.
-
-- Comprender cómo funcionan los decoradores.
-- Familiarizarse con la implementación y uso del manejo de excepciones.
+Resumen
+- Los decoradores permiten modificar el comportamiento de funciones sin alterar su estructura.
+- La comprensión de listas es una forma concisa y eficiente para generar listas en Python.
