@@ -1,12 +1,20 @@
 # Casos de uso reales
 
-- Familiarizarse con la implementación de algoritmos de aprendizaje automático utilizando Python.
-- Comprender cómo Python se puede usar para resolver problemas reales en el sector financiero.
+- Entender cómo Python se aplica en proyectos reales.
+- Analizar casos de uso avanzados que demuestran la versatilidad del lenguaje.
 
-En esta lección, profundizaremos en los casos de uso reales de Python. Vamos a explorar cómo este lenguaje de programación se utiliza en el campo del aprendizaje automático y en la industria financiera. Veremos ejemplos prácticos de cómo se pueden implementar algoritmos de machine learning para predecir tendencias del mercado, gestionar riesgos financieros o optimizar inversiones. Además, aprenderemos a usar bibliotecas populares como scikit-learn y pandas para desarrollar modelos predictivos.
+Python es un lenguaje de programación de alto nivel y de propósito general, conocido por su sintaxis clara y legible. En esta lección profundizaremos en cómo Python se utiliza en diferentes sectores para resolver problemas complejos. Por ejemplo, en el sector financiero, Python se emplea en la automatización de tareas, análisis de datos financieros y modelado predictivo. Además, en el campo de la inteligencia artificial y el aprendizaje automático, Python es una herramienta fundamental debido a bibliotecas como Scikit-learn y TensorFlow que facilitan el desarrollo de algoritmos complejos.
+
+Para ilustrar esto, consideremos un caso práctico: un sistema de recomendación de productos en línea. En este escenario, se utilizan algoritmos basados en aprendizaje supervisado para analizar comportamientos de los usuarios y hacer predicciones sobre sus preferencias futuras. Se puede implementar todo esto utilizando Python y librerías como Pandas para el manejo de datos y Scikit-learn para el modelado.
 
 ### Ejercicio
-Implementa un modelo simple de regresión lineal utilizando la librería scikit-learn en Python para predecir el precio de una acción basado en los datos históricos proporcionados. Asegúrate de normalizar tus datos, dividirlos en conjuntos de entrenamiento y prueba, y ajustar tu modelo. Finalmente, evalúa el rendimiento del modelo utilizando métricas como el error cuadrático medio (MSE).
+Implementa un modelo simple de recomendación basado en la frecuencia de compra usando Pandas y Scikit-learn. Utiliza los siguientes pasos:
+1. Carga un conjunto de datos de ejemplo.
+2. Preprocesa los datos para crear una matriz de usuario-item.
+3. Implementa un algoritmo básico de recomendación.
+4. Evalúa el rendimiento del modelo.
 
-- Implementación de algoritmos de aprendizaje automático con Python.
-- Uso de scikit-learn para modelado predictivo en finanzas.
+### Resumen
+- Python se aplica en diversos sectores, desde finanzas hasta inteligencia artificial.
+- Casos prácticos demuestran la versatilidad y eficiencia del lenguaje.
+- El ejercicio permitirá aplicar conocimientos sobre algoritmos de recomendación.
