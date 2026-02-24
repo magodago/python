@@ -1,11 +1,14 @@
 # Donde seguir aprendiendo
 
-- Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
-- Los alumnos identificarán y evaluarán la relevancia de estos recursos según sus necesidades específicas de aprendizaje.
+- Los estudiantes aprenderán sobre las comunidades de Python y cómo participar en ellas.
+- Comprenderán la importancia de la continuidad en el aprendizaje de Python y cómo mantenerse actualizados.
 
-En esta lección, se explorarán diferentes comunidades y recursos en línea que permiten a los programadores aprender y mejorar sus habilidades con Python. Se destacará la importancia de participar en foros como Stack Overflow o Reddit para resolver dudas y compartir conocimientos. Además, se presentarán plataformas educativas como Coursera, Udemy y Pluralsight que ofrecen cursos de nivel avanzado y especializados. Los estudiantes aprenderán a evaluar la calidad y actualidad del contenido en estos recursos.
+Python es un lenguaje de programación versátil que tiene una gran comunidad detrás. Existen varias plataformas donde los desarrolladores pueden interactuar, compartir conocimientos y resolver problemas. Algunos de estos lugares incluyen:
 
-Para este ejercicio, los alumnos deberán seleccionar tres plataformas o comunidades para continuar aprendiendo Python y justificar por qué consideran que son útiles basándose en su experiencia y objetivos de aprendizaje.
+- **Foros y listas de correo**: Sitios como Stack Overflow o Reddit ofrecen foros dedicados a Python donde puedes buscar ayuda, hacer preguntas o contribuir con respuestas.
+- **Plataformas de tutoría y mentoría**: Plataformas como Codementor o Python Mentors permiten que los estudiantes obtengan orientación personalizada desde expertos en el campo.
 
-- Los estudiantes identificarán las principales plataformas educativas y comunitarias.
-- Se evaluará la capacidad del estudiante para seleccionar recursos según sus necesidades.
+Para practicar, busca un problema simple en Stack Overflow relacionado con Python. Responde a la pregunta utilizando un código breve e incluye una explicación clara de tu solución. Posteriormente, revisa las respuestas de otros usuarios y aprende de sus diferentes enfoques para resolver el mismo problema.
+
+- Participar activamente en comunidades de Python.
+- Mantenerse actualizado con nuevas versiones y mejores prácticas del lenguaje.
