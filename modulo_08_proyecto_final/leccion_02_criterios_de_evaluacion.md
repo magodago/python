@@ -1,25 +1,15 @@
 # Criterios de evaluacion
 
-Objetivos
+### Objetivos
 - Comprender los criterios de evaluación para el proyecto final de Python.
-- Identificar las áreas claves que se evaluarán durante la revisión del proyecto.
+- Identificar las áreas clave que se evaluarán durante la revisión del proyecto.
 
-Contenido
-En esta lección, se abordarán los criterios de evaluación fundamentales para el proyecto final de Python. Los estudiantes aprenderán a evaluar y mejorar sus proyectos basándose en aspectos técnicos, funcionalidades y diseño. Se enfatizará la importancia de cumplir con las especificaciones del proyecto, utilizar buenas prácticas de programación y presentar un código limpio y bien documentado.
+### Contenido
+Los criterios de evaluación para el proyecto final de Python son fundamentales para garantizar que el trabajo entregado cumpla con los estándares académicos y profesionales. El proyecto consiste en desarrollar una aplicación completa utilizando las herramientas y conceptos aprendidos durante el curso, lo que implica un análisis detallado tanto del código como del diseño de la aplicación. Los aspectos a evaluar incluyen la funcionalidad correcta del programa, la eficiencia y optimización del código, la estructura y organización del proyecto, así como la documentación y el uso apropiado de las buenas prácticas de programación.
 
-El proyecto final consiste en desarrollar una aplicación Python completa que resuelva un problema real, lo cual permitirá a los estudiantes aplicar sus conocimientos adquiridos durante el curso. Los criterios de evaluación incluyen la funcionalidad del programa, la eficiencia del código, la utilización adecuada de estructuras de datos y algoritmos, la modularización y reutilización del código, así como la calidad de la documentación y los comentarios.
+### Ejercicio
+Desarrolla un resumen breve (no más de 100 palabras) de los criterios de evaluación para tu proyecto final. Incluye menciones específicas sobre funcionalidad, eficiencia, organización y documentación.
 
-Ejercicio
-Desarrolla un breve resumen para cada uno de los criterios de evaluación mencionados. Este ejercicio ayudará a los estudiantes a comprender mejor lo que se espera de ellos en el proyecto final. Luego, aplica estos criterios al análisis del siguiente código proporcionado:
-
-```python
-def suma(a, b):
-    return a + b
-
-resultado = suma(5, 3)
-print("El resultado es:", resultado)
-```
-
-Resumen
-- Los criterios de evaluación para el proyecto final cubren aspectos técnicos, funcionalidades y diseño.
-- Se enfatiza la importancia de cumplir con las especificaciones del proyecto y utilizar buenas prácticas de programación.
+### Resumen
+- Los criterios de evaluación cubren aspectos como la funcionalidad del programa, la eficiencia del código, la estructura del proyecto y la documentación.
+- Es crucial comprender estos criterios para prepararse adecuadamente para la entrega final.
