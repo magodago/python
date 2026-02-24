@@ -1,12 +1,19 @@
 # Mantenimiento
 
-- Familiarizarse con las mejores prácticas de mantenimiento del código en proyectos Python.
-- Identificar y corregir problemas comunes que pueden surgir durante la evolución de un proyecto.
+Objetivos
+- Comprender los conceptos básicos de mantenimiento de software.
+- Aprender a documentar y actualizar un proyecto Python existente.
 
-El mantenimiento de un proyecto Python es crucial para asegurar su continuidad y eficiencia. Incluye tareas como la revisión periódica del código, la actualización de dependencias y la documentación continua. Es fundamental mantener el código limpio y organizado, lo que facilita futuras modificaciones y mejoras. Además, es importante establecer un flujo de trabajo consistente para colaboradores y contribuyentes, utilizando herramientas como Git para gestionar versiones y pull requests.
+Contenido
+En este módulo, exploraremos los aspectos del mantenimiento en proyectos de Python. El mantenimiento es crucial para asegurar que el código siga funcionando correctamente con el tiempo, y se divide en dos etapas principales: documentación y actualización. La documentación ayuda a otros desarrolladores (y futuros tiros propios) a entender el propósito y la funcionalidad del código, facilitando así su mantenimiento. La actualización implica adaptar el código a nuevas versiones de Python o bibliotecas, corregir errores y mejorar la eficiencia.
 
-Para esta lección, los alumnos deben revisar el código de un proyecto existente en GitHub, identificar problemas o áreas de mejora y proponer soluciones. El proyecto puede ser cualquier aplicación Python simple que esté disponible públicamente. Los estudiantes deben documentar sus hallazgos y sugerencias en un informe breve.
+Ejercicio
+Elabore un documento de documentación para una aplicación Python existente que incluya:
+- Breve descripción del proyecto.
+- Explicaciones detalladas sobre las funciones principales.
+- Instrucciones de instalación y uso.
+- Historial de cambios con fechas, versiones y descripciones breves.
 
-- Mejorar la organización del código.
-- Utilizar herramientas de control de versiones para el mantenimiento colaborativo.
-- Documentar cambios y mejoras propuestas.
+Resumen
+- La documentación es fundamental para el mantenimiento de proyectos Python.
+- La actualización constante asegura que el código siga siendo compatible y eficiente.
