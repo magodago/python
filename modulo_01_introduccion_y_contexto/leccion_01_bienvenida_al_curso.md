@@ -1,11 +1,15 @@
 # Bienvenida al curso
 
-- Familiarizarse con Python y su importancia en la programación moderna.
-- Comprender los beneficios de aprender Python para proyectos personales e industriales.
+## Objetivos
+- Introducir a los estudiantes al lenguaje de programación Python.
+- Explicar el contexto y las aplicaciones del Python en la industria actual.
 
-Python es un lenguaje de programación de alto nivel que se ha convertido en uno de los más populares del mercado actual. Su sintaxis clara y legible lo hace ideal tanto para principiantes como para desarrolladores experimentados, permitiendo la creación de una amplia gama de aplicaciones desde sitios web hasta sistemas de inteligencia artificial. En este curso, aprenderás las bases necesarias para comenzar a programar en Python, explorando sus características y sintaxis básicas.
+## Contenido
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una herramienta fundamental para desarrolladores y científicos de datos. Su sintaxis clara y concisa lo hace fácil de aprender y usar, lo que lo convierte en una excelente elección tanto para principiantes como para expertos en programación. En este curso, exploraremos las características fundamentales del Python y veremos cómo se puede aplicar en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más.
 
-Para practicar, intenta escribir un programa simple que imprima "¡Hola, Mundo!" en la consola. Este ejercicio te ayudará a familiarizarte con el entorno de desarrollo e iniciar tu viaje en el mundo de Python.
+## Ejercicio
+Escribe un programa simple que imprima "¡Bienvenido al Curso de Python!" utilizando la sintaxis básica de impresión. Asegúrate de incluir los comentarios para explicar cada línea de tu código.
 
-- Familiaridad con Python.
-- Comprender cómo imprimir texto en la consola utilizando Python.
+## Resumen
+- Introducción al lenguaje Python y su importancia en el campo de la programación.
+- Práctica inicial con un programa simple que sirve como primer paso en el curso.
