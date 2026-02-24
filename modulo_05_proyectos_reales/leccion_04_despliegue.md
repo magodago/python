@@ -1,11 +1,12 @@
 # Despliegue
 
-- Dominar la publicación de aplicaciones Python en servidores web.
-- Aprender a configurar un entorno de producción para una aplicación Flask.
+- Entender los conceptos básicos de despliegue de aplicaciones Python.
+- Aprender a configurar un entorno de desarrollo para el despliegue de aplicaciones web.
 
-La lección se centrará en cómo desplegar una aplicación Python en un servidor web. Se explicará el proceso de preparación del código, la selección y configuración del servidor, así como las prácticas recomendadas para asegurar que la aplicación funcione correctamente en entornos de producción. Se utilizará Flask como framework de ejemplo debido a su simplicidad y flexibilidad.
+Para esta lección, exploraremos cómo desplegar una aplicación Python en producción. Veremos la importancia del entorno de desarrollo versus el de producción y cómo ajustar nuestra aplicación para que funcione correctamente en ambos. También cubriremos las mejores prácticas para garantizar un despliegue sin problemas.
 
-Para esta práctica, los alumnos deberán desplegar una aplicación Flask básica que almacene y muestre datos en un archivo local. Deberán configurar un servidor Apache con mod_wsgi para servir la aplicación y probar su funcionamiento en diferentes escenarios de producción.
+Para practicar, cada estudiante deberá configurar un servidor local utilizando Flask o Django, y luego desplegar la aplicación en un entorno de producción gratuito como Heroku. Este ejercicio permitirá a los estudiantes experimentar con diferentes métodos de despliegue y comprender cómo ajustar su código para adaptarse a diferentes entornos.
 
-- Entender el proceso de despliegue de aplicaciones Python.
-- Configurar un servidor web para ejecutar una aplicación Flask.
+- Configurar el servidor local.
+- Desplegar una aplicación Python en Heroku.
+- Ajustar la configuración para el entorno de producción.
