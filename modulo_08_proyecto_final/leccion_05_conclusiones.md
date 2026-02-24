@@ -1,11 +1,15 @@
 # Conclusiones
 
-- Comprender los conceptos y técnicas de programación utilizados durante el curso.
-- Aplicar conocimientos adquiridos para la resolución de problemas complejos mediante un proyecto final.
+Objetivos
+- Reflexionar sobre los conceptos y habilidades adquiridos durante el curso de Python.
+- Identificar áreas de mejora y aplicar conocimientos prácticamente en un proyecto final.
 
-En esta lección final del módulo sobre Proyecto Final, se enfatizará en la importancia de aplicar los conceptos teóricos aprendidos a través de un proyecto práctico. Se revisará el código desarrollado durante las sesiones anteriores y se discutirá cómo cada parte del proyecto contribuye al objetivo final. Además, se analizarán las mejores prácticas en programación Python, incluyendo la documentación, la modularización y la optimización del código.
+Contenido
+En esta lección, se abordará la importancia de evaluar y reflejar sobre lo aprendido durante el recorrido por el curso de Python. Se discutirán los conceptos fundamentales como sintaxis, estructuras de datos, funciones y orientación a objetos, así como las aplicaciones prácticas que se han explorado. El objetivo es que los estudiantes puedan identificar cuáles son sus fortalezas y debilidades en el lenguaje, lo que les permitirá planificar mejor su aprendizaje futuro y abordar áreas de mejora con mayor precisión.
 
-Para esta práctica, los estudiantes deberán revisar su proyecto final y preparar una presentación breve que explique el propósito del programa, cómo funciona y cuáles son sus principales características. La presentación debe durar aproximadamente 5 minutos y se realizará ante la clase. Esto permitirá a los estudiantes reflejar sobre lo aprendido durante el curso y practicar la comunicación técnica.
+Ejercicio
+Desarrolla un proyecto final que integre varios conceptos vistos durante el curso. Por ejemplo, puedes crear una aplicación simple de gestión de tareas que utilice listas para almacenar las tareas, funciones para agregar y eliminar tareas, y clases para representar diferentes tipos de tareas (por ejemplo, trabajo o personal). Este ejercicio debe incluir la documentación del código, explicando cómo funciona cada parte y cómo se integran los conceptos aprendidos.
 
-- Desarrollar habilidades de resolución de problemas.
-- Prepararse para aplicar conocimientos en proyectos reales.
+Resumen
+- Reflexiona sobre tus logros y áreas de mejora.
+- Integra varios conceptos vistos en el curso para desarrollar un proyecto final.
