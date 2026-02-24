@@ -1,40 +1,34 @@
 # Buenas practicas
 
-- Comprender y aplicar las buenas prácticas de codificación para mejorar la legibilidad y mantenibilidad del código.
-- Implementar estándares de estilo PEP 8 y otras convenciones comunes en proyectos Python.
+## Objetivos
+- Comprender y aplicar las mejores prácticas de codificación en Python.
+- Mejorar la legibilidad y mantenibilidad del código mediante la aplicación de convenciones.
 
-Las buenas prácticas son fundamentales para escribir código que sea no solo funcional, sino también fácil de leer y mantener. En Python, una de las mejores guías es la documentación oficial PEP 8, que proporciona recomendaciones sobre cómo estructurar el código, nombrar variables y funciones, y formatear el texto. Adherirse a estas convenciones no solo mejora la calidad del código, sino que también facilita su colaboración en proyectos de equipo.
+## Contenido
+En esta lección, profundizaremos en las buenas prácticas para escribir código Python eficiente y legible. El uso consistente de estas prácticas no solo facilita el trabajo en equipo sino que también reduce errores y mejora la calidad del software. Entre los aspectos clave se encuentran la utilización de nombres descriptivos, la indentación adecuada, la documentación clara y la gestión eficiente de excepciones.
 
-Para ilustrar esto, vamos a realizar un ejercicio práctico. Se te proporcionará un fragmento de código que realiza una operación matemática simple. Tu tarea es refactorizar este código siguiendo las recomendaciones de PEP 8 y otras convenciones comunes. El objetivo es hacer el código más claro y legible.
+Una práctica fundamental es utilizar nombres de variables y funciones descriptivos para facilitar su comprensión. Por ejemplo, en lugar de `x`, se recomienda usar `numero_de_productos` o `precio_total`. Además, el uso de espacios alrededor de operadores aritméticos y lógicos (por ejemplo, `a = b + c`) mejora la legibilidad del código.
 
-```python
-# Código original
-def calculo(x, y):
-    z = (x * 2) + (y / 3)
-    return z
-
-print(calculo(4, 6))
-```
-
-**Refactorizado:**
+## Ejercicio
+Escribe una función en Python que calcule el área de un triángulo dado su base y altura. La función debe llamarse `calcular_area_triangulo` y recibir dos parámetros: `base` y `altura`. Adicionalmente, agrega comentarios descriptivos para cada línea del código.
 
 ```python
-# Código refactorizado
-def calculo(x: float, y: float) -> float:
-    """Realiza una operación matemática simple.
-
-    Args:
-        x (float): Primer valor.
-        y (float): Segundo valor.
-
-    Returns:
-        float: Resultado de la operación.
+def calcular_area_triangulo(base, altura):
     """
-    z = (x * 2) + (y / 3)
-    return z
-
-print(calculo(4, 6))
+    Calcula el área de un triángulo.
+    
+    Parámetros:
+    base (float): La longitud de la base del triángulo.
+    altura (float): La altura del triángulo.
+    
+    Devuelve:
+    float: El área calculada.
+    """
+    # Calcular el área usando la fórmula A = (base * altura) / 2
+    area = (base * altura) / 2
+    return area
 ```
 
-- Adherirse a las convenciones de estilo PEP 8.
-- Documentar claramente el código con comentarios y docstrings.
+## Resumen
+- Utilizar nombres de variables y funciones descriptivos para mejorar la legibilidad del código.
+- Aplicar indentación adecuada y uso de espacios alrededor de operadores para facilitar la lectura.
