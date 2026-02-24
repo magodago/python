@@ -1,16 +1,11 @@
 # Temas intermedios
 
-- Entender la utilización avanzada de listas y diccionarios.
-- Aprender a manipular cadenas de texto con funciones más complejas.
+- Entender la implementación de estructuras de datos avanzadas como pilas y colas.
+- Aprender a utilizar decoradores para modificar funcionalidades de funciones o métodos.
 
-Las listas y los diccionarios son dos tipos de datos fundamentales en Python, que se utilizan para almacenar múltiples valores. En esta lección profundizaremos en la manipulación avanzada de estos tipos de datos. Veremos cómo realizar operaciones como la búsqueda, eliminación y modificación de elementos en listas, así como el manejo de diccionarios para acceder a sus valores mediante claves personalizadas. Además, aprenderemos sobre comprensiones de lista y diccionarios, que permiten crear estructuras de datos complejas de manera concisa.
+En esta lección del módulo Profundizando, se explorará el uso de pilas y colas en Python. Estas estructuras de datos son fundamentales en la programación y permiten manejar elementos de manera secuencial, lo que es crucial para resolver problemas de algoritmos y diseño de software. Se revisarán conceptos teóricos básicos sobre estas estructuras antes de pasar a implementaciones prácticas utilizando listas y clases personalizadas en Python.
 
-Ejercicio: Crea un programa que realice lo siguiente:
-1. Crea una lista con 5 números enteros.
-2. Solicita al usuario que ingrese un número y verifica si está en la lista.
-3. Si el número no está, agrega el número ingresado a la lista en orden ascendente.
-4. Muestra la lista final.
+El ejercicio propuesto consiste en crear una clase `Pila` que permita realizar operaciones como push (agregar un elemento), pop (remover el último elemento) y peek (ver el último elemento sin removerlo). Además, se pedirá al estudiante implementar una función decoradora que mida el tiempo de ejecución de cualquier método de la clase `Pila`. Este ejercicio ayudará a consolidar los conocimientos sobre pilas y a familiarizarse con la sintaxis de los decoradores en Python.
 
-Resumen:
-- Se profundiza en la manipulación avanzada de listas y diccionarios.
-- Se aprenden técnicas para organizar y buscar datos en estructuras complejas.
+- Implementación de pilas y colas.
+- Uso de decoradores para medir tiempos de ejecución.
