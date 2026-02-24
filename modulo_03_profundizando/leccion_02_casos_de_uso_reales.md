@@ -1,11 +1,11 @@
 # Casos de uso reales
 
-- Familiarizar a los estudiantes con aplicaciones prácticas de Python en la industria.
-- Instruir sobre cómo utilizar Python para resolver problemas complejos en áreas como análisis de datos y desarrollo web.
+- Comprender cómo Python se aplica en la resolución de problemas reales.
+- Practicar el desarrollo de soluciones utilizando casos de uso específicos.
 
-En esta lección, profundizaremos en casos de uso reales de Python. Veremos cómo las empresas utilizan Python para automatizar tareas, analizar grandes volúmenes de datos y desarrollar aplicaciones web eficientes. Para ilustrar estos conceptos, exploraremos un proyecto real donde se utiliza Python para predecir tendencias en el mercado de acciones utilizando machine learning. Los estudiantes aprenderán a implementar un modelo de regresión lineal simple con scikit-learn, procesar datos financieros y visualizar resultados.
+Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web y análisis de datos hasta inteligencia artificial y automatización. En este módulo, exploraremos casos de uso reales para profundizar en su aplicación práctica. Por ejemplo, en el campo del análisis de datos, Python ofrece bibliotecas como Pandas y NumPy que facilitan la manipulación y análisis de grandes conjuntos de datos. Además, con la ayuda de frameworks como Flask o Django, se puede desarrollar rápidamente aplicaciones web robustas.
 
-Ejercicio: Los estudiantes deberán trabajar en grupos para seleccionar una industria (por ejemplo, retail o salud) y explorar cómo Python puede ser utilizado en esa industria. Cada grupo presentará un caso de uso específico, identificará las herramientas de Python pertinentes y propone un proyecto simple que podría implementarse en la industria escogida.
+Para ilustrar esto, te pedimos que desarrolles una aplicación simple utilizando Flask para crear un servidor web básico que muestre "¡Bienvenido a mi sitio web!" en el navegador. Este ejercicio te permitirá experimentar con las capacidades de Python para construir servicios web y entender cómo se integran diferentes herramientas y bibliotecas.
 
-- Los estudiantes entenderán cómo aplicar Python a problemas reales.
-- Se familiarizarán con el uso de bibliotecas como scikit-learn y pandas para análisis de datos.
+- Familiarización con la aplicación de Python en desarrollo web.
+- Práctica del desarrollo de una aplicación web básica utilizando Flask.
