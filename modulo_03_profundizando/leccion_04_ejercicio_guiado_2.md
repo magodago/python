@@ -1,13 +1,33 @@
 # Ejercicio guiado 2
 
-- Dominar la utilización de listas y diccionarios en Python para manipulación de datos.
-- Aprender a implementar funciones que operen sobre colecciones complejas.
+### Objetivos
+- Familiarizarse con la manipulación de listas y diccionarios en Python.
+- Aprender a utilizar funciones para procesar datos complejos.
 
-En esta lección profundizaremos en el manejo avanzado de estructuras de datos en Python, centrándonos especialmente en las listas y los diccionarios. Veremos cómo utilizar estas estructuras para almacenar y manipular datos complejos, así como técnicas para operar sobre ellas de manera eficiente. Además, aprenderemos a definir funciones que puedan trabajar con estos tipos de datos, lo cual es fundamental para el desarrollo de programas más robustos y modularizados.
+### Contenido
+En esta lección, profundizaremos en el manejo avanzado de colecciones en Python, centrándonos específicamente en las listas y los diccionarios. Veremos cómo realizar operaciones complejas como la manipulación de elementos dentro de estas estructuras de datos, así como cómo utilizar funciones para automatizar tareas repetitivas. A través de ejemplos prácticos, aprenderás a organizar y procesar datos de manera eficiente.
 
-Para practicar, desarrolla una función en Python que reciba un diccionario donde las claves son nombres de ciudades y los valores son listas de números representando temperaturas medias mensuales. La función debe calcular la temperatura media anual para cada ciudad y devolver un nuevo diccionario con estos resultados.
+Por ejemplo, podrás trabajar con listas para realizar operaciones matemáticas complejas sobre conjuntos de datos, o utilizar diccionarios para gestionar información no estructurada de forma dinámica. Además, se explorará cómo combinar estas estructuras de datos con funciones para crear programas más robustos y versátiles.
 
-## Resumen
-- Se profundiza en el uso avanzado de listas y diccionarios.
-- Se enseñan técnicas para operar sobre colecciones complejas.
-- Se practica mediante la implementación de una función que procese datos en estructuras de datos.
+### Ejercicio
+Dado el siguiente código:
+
+```python
+def procesa_datos(datos):
+    # Tu tarea es completar esta función.
+    pass
+
+datos = [
+    {"nombre": "Juan", "edad": 25, "ciudad": "Madrid"},
+    {"nombre": "Ana", "edad": 30, "ciudad": "Barcelona"},
+    {"nombre": "Carlos", "edad": 35, "ciudad": "Valencia"}
+]
+
+procesa_datos(datos)
+```
+
+Completa la función `procesa_datos` para que imprima el nombre y la edad de todas las personas en la lista de diccionarios. Luego, modifica la función para que ordene los datos por edad en orden descendente.
+
+### Resumen
+- Se profundiza en la manipulación de listas y diccionarios.
+- Se aprende a utilizar funciones para automatizar tareas complejas con estos tipos de datos.
