@@ -1,19 +1,48 @@
 # Temas intermedios
 
-## Objetivos
-- Comprender y aplicar la programación orientada a objetos en Python.
-- Implementar manejo de excepciones para mejorar la robustez del código.
+- Entender la utilización de decoradores en Python.
+- Aprender a trabajar con módulos y paquetes externos.
 
-## Contenido
-En esta lección profundizaremos en dos temas intermedios esenciales: programación orientada a objetos (POO) y manejo de excepciones. La POO nos permitirá organizar nuestro código de manera más estructurada, reutilizable y modular. Podremos definir clases con atributos y métodos para modelar entidades del mundo real, así como heredar comportamientos entre clases.
+Python nos ofrece una gran flexibilidad gracias a sus decoradores, que son funciones que toman otra función como argumento y permiten modificar su comportamiento sin cambiar su definición original. Los decoradores son útiles para agregar funcionalidades comunes a múltiples funciones de manera concisa. Por ejemplo, podríamos crear un decorador para medir el tiempo de ejecución de una función:
 
-El manejo de excepciones es crucial para construir aplicaciones robustas. Veremos cómo capturar errores utilizando bloques `try`, `except` y `finally`. También aprenderemos a definir nuestras propias excepciones personalizadas para manejar situaciones específicas que puedan surgir durante la ejecución del programa.
+```python
+import time
 
-## Ejercicio
-Crea una clase `Libro` con atributos como título, autor, año de publicación y métodos para modificar estos atributos. Implementa un método `calcular_antiguedad()` que devuelva cuántos años ha pasado desde su publicación hasta la fecha actual. Luego, crea una función `mostrar_informacion()` en la clase `Libro` que imprima toda la información del libro.
+def timer_decorator(func):
+    def wrapper(*args, **kwargs):
+        start_time = time.time()
+        result = func(*args, **kwargs)
+        end_time = time.time()
+        print(f"Tiempo de ejecución: {end_time - start_time} segundos")
+        return result
+    return wrapper
 
-A continuación, maneja posibles errores en la función `mostrar_informacion()` utilizando bloques `try`, `except` y `finally`. Por ejemplo, si el atributo `año_de_publicacion` no es un número válido, captura la excepción correspondiente y muestra un mensaje de error.
+@timer_decorator
+def ejemplo_funcion():
+    # Código de la función
+    pass
 
-## Resumen
-- La programación orientada a objetos permite organizar código en clases y objetos.
-- El manejo de excepciones ayuda a construir aplicaciones más robustas al capturar y manejar errores.
+ejemplo_funcion()
+```
+
+Para trabajar con módulos y paquetes externos, es crucial entender cómo importar y utilizar funcionalidades de bibliotecas como NumPy o Pandas. Por ejemplo, para usar NumPy en un proyecto, primero necesitamos instalarlo si no está disponible en nuestro entorno:
+
+```bash
+pip install numpy
+```
+
+Luego, podemos importarlo en Python y usar sus funciones directamente:
+
+```python
+import numpy as np
+
+# Crear un array de numpy
+array = np.array([1, 2, 3])
+
+print(array)
+```
+
+Este código muestra cómo trabajar con NumPy para crear y manipular arrays.
+
+- Decoradores permiten modificar el comportamiento de funciones sin alterar su definición original.
+- Los módulos y paquetes externos como NumPy pueden ser importados e integrados en proyectos Python.
