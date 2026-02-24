@@ -1,25 +1,18 @@
 # Nivel avanzado
 
 ### Objetivos
-- Comprender y aplicar técnicas avanzadas de programación con Python para optimizar el rendimiento del código.
-- Implementar la programación funcional avanzada utilizando funciones lambda y comprensión de listas.
+- Dominar la optimización de código mediante técnicas avanzadas.
+- Comprender y aplicar patrones de diseño en Python para resolver problemas complejos.
 
 ### Contenido
-En esta lección, se profundizará en las técnicas avanzadas de programación funcional en Python. Se explorará cómo utilizar funciones lambda para crear expresiones anónimas y cómo estas pueden ser utilizadas junto con otras herramientas como map(), filter() y reduce(). Además, se introducirán las comprensiones de listas para simplificar la creación de listas basadas en iterables existentes, lo que puede resultar en código más conciso y eficiente. Se discutirá cómo combinar estas técnicas para mejorar el rendimiento del código y hacerlo más legible.
+En esta lección se profundizará en las técnicas avanzadas de programación con Python, enfocándose en el rendimiento del código. Se explorará la utilización de decoradores y métodos metaclasses para lograr una mayor flexibilidad y control sobre cómo se manejan los objetos y funciones. Además, se analizarán casos prácticos donde estas técnicas pueden mejorar significativamente la eficiencia y legibilidad del código.
+
+Se destacará el uso de context managers con `with` para gestionar recursos de manera eficiente, lo que incluye la gestión automática de archivos, bases de datos o conexiones a servidores. También se revisarán ejemplos de cómo implementar estos patrones en proyectos reales, proporcionando un marco para su aplicación práctica.
 
 ### Ejercicio
-Escribe una función que use comprensión de listas y funciones lambda para filtrar y transformar una lista de números enteros. La función debe recibir una lista de números y devolver un nuevo conjunto de números donde cada número es el cuadrado de los pares originales, pero solo si son mayores que 10.
-
-Ejemplo:
-```python
-def cuadrados_pares_mayores_de_diez(numeros):
-    # Tu código aquí
-
-numeros = [2, 3, 5, 8, 12, 16]
-resultado = cuadrados_pares_mayores_de_diez(numeros)
-print(resultado)  # Debe imprimir: [4, 64, 256]
-```
+Implementa un decorador que mida el tiempo de ejecución de una función y registre este tiempo en un archivo de texto cada vez que la función sea llamada. Luego, aplica este decorador a al menos tres funciones diferentes del proyecto actual y comparte los resultados obtenidos.
 
 ### Resumen
-- Se aprendió a utilizar funciones lambda y comprensiones de listas para optimizar el código.
-- Comprendimos cómo combinar estas técnicas para mejorar la eficiencia y legibilidad del código.
+- Decoradores y métodos metaclasses para optimizar el código.
+- Uso de context managers para gestionar recursos eficientemente.
+- Aplicación práctica mediante la implementación de un decorador de tiempo.
