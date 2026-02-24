@@ -1,18 +1,11 @@
 # Integracion con otras herramientas
 
-### Objetivos
-- Comprender cómo integrar Python con otras herramientas de análisis de datos como Pandas y NumPy.
-- Aprender a utilizar bibliotecas externas en proyectos Python mediante módulos y paquetes.
+- Familiarizarse con la integración de Python con bibliotecas matemáticas y científicas como NumPy y SciPy.
+- Aprender a utilizar interfaces gráficas de usuario (GUI) con Tkinter para crear aplicaciones interactivas.
 
-### Contenido
-La integración de Python con otras herramientas es crucial para potenciar sus capacidades, especialmente cuando se trata de análisis de datos. En este módulo, se explorará cómo combinar Python con herramientas como Pandas y NumPy, que son fundamentales en el procesamiento y análisis de grandes volúmenes de datos. Pandas ofrece estructuras de datos y herramientas para la manipulación de datos, mientras que NumPy proporciona capacidades matemáticas avanzadas. Estas bibliotecas se integran con Python a través del uso de módulos y paquetes, permitiendo un flujo de trabajo más eficiente y potente.
+Python se ha convertido en una herramienta fundamental no solo por su simplicidad, sino también por su capacidad de integrarse con otras tecnologías. En esta lección, exploraremos cómo Python puede trabajar junto a bibliotecas matemáticas y científicas como NumPy y SciPy para realizar cálculos complejos y análisis de datos. Además, veremos cómo utilizar Tkinter, una biblioteca incorporada en Python, para crear interfaces gráficas de usuario (GUI) que permiten interactuar con nuestros programas de manera más intuitiva.
 
-Para ilustrar esta integración, se verá cómo cargar datos desde archivos CSV en Pandas, realizar operaciones básicas de análisis y visualización con NumPy. Se destacará la importancia de gestionar dependencias y instalar paquetes externos usando pip o con el uso del entorno virtual venv para evitar conflictos entre diferentes proyectos.
+Para practicar, los estudiantes deberán desarrollar un programa que use NumPy para realizar cálculos matemáticos y luego integre Tkinter para crear una GUI donde el usuario pueda ingresar datos y ver resultados en tiempo real. Este ejercicio no solo fortalecerá sus habilidades en Python, sino también les dará una idea de cómo combinar diferentes herramientas para solucionar problemas complejos.
 
-### Ejercicio
-Carga un conjunto de datos CSV en Pandas, realiza una operación simple de agrupación y luego utiliza NumPy para realizar cálculos estadísticos sobre los resultados. Guarda la salida en un nuevo archivo CSV.
-
-### Resumen
-- Se aprende a integrar Python con herramientas como Pandas y NumPy.
-- Se enseña cómo utilizar módulos y paquetes externos mediante pip o venv.
-- Se practica la carga de datos, análisis básico y cálculos estadísticos.
+- Integración de NumPy y SciPy para cálculos matemáticos.
+- Uso de Tkinter para crear interfaces gráficas interactivas.
