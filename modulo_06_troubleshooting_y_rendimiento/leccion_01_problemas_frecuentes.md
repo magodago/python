@@ -1,34 +1,17 @@
 # Problemas frecuentes
 
+## Objetivos
+- Identificar y resolver problemas comunes relacionados con la sintaxis de Python.
+- Optimizar el rendimiento de programas Python mediante técnicas básicas.
+
 ## Contenido
-En esta lección abordaremos algunos de los problemas más frecuentes que pueden surgir al trabajar con Python y cómo resolverlos. Uno de los problemas comunes es la **timeout** o tiempo de espera excesivo, especialmente en aplicaciones web donde las operaciones pueden tardar demasiado. Para solucionarlo, se puede ajustar el valor del parámetro `timeout` en peticiones HTTP utilizando bibliotecas como `requests`. Por ejemplo:
+Los programadores principiantes a menudo se encuentran con errores de sintaxis que pueden desanimarles. Un error típico es olvidar cerrar un paréntesis o llave, lo cual puede causar problemas graves en el código. Para evitar estos errores, es crucial aprender a leer y entender la estructura del código. Además, Python tiene una gran cantidad de bibliotecas que pueden mejorar significativamente el rendimiento de los programas. Sin embargo, no todas las bibliotecas son necesarias para cada proyecto, lo que puede resultar en un uso innecesario de recursos.
 
-```python
-import requests
-
-response = requests.get('https://api.example.com/data', timeout=10)
-```
-
-Otro problema común es la **memoria insuficiente**, que puede ocurrir con algoritmos ineficientes o grandes volúmenes de datos. Para optimizar el uso de memoria, se pueden utilizar técnicas como la programación dinámica y la gestión eficiente de objetos. Por ejemplo:
-
-```python
-def fibonacci(n):
-    memo = {}
-    def fibo(n, memo=memo):
-        if n in memo:
-            return memo[n]
-        elif n <= 2:
-            result = 1
-        else:
-            result = fibo(n-1) + fibo(n-2)
-        memo[n] = result
-        return result
-    return fibo(n)
-```
+Para optimizar el rendimiento, es importante seleccionar las herramientas correctas. Por ejemplo, si se está trabajando con grandes conjuntos de datos, la librería NumPy puede ser más eficiente que listas nativas de Python. Otro aspecto crucial es evitar bucles innecesarios y usar funciones predefinidas cuando sea posible.
 
 ## Ejercicio
-Implementa una función que realice un **cálculo intensivo** en Python y ajuste el tiempo de espera para la solicitud HTTP utilizando la biblioteca `requests`. Luego, optimiza tu código para reducir el uso de memoria.
+Implementa un programa en Python que calcule el promedio de una lista de números. Inicialmente, utiliza un bucle `for` para recorrer la lista. Luego, modifica el código utilizando la función `sum()` y la longitud de la lista para calcular el promedio más eficientemente.
 
 ## Resumen
-- Ajustar el valor del parámetro `timeout` puede solucionar problemas de tiempo de espera.
-- Optimizar algoritmos y gestionar eficientemente la memoria pueden resolver problemas de rendimiento.
+- Identificar errores de sintaxis es fundamental para evitar problemas en el código.
+- Optar por bibliotecas adecuadas puede mejorar significativamente el rendimiento del programa.
