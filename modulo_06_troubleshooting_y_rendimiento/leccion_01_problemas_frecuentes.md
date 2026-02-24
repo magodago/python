@@ -1,17 +1,18 @@
 # Problemas frecuentes
 
 ## Objetivos
-- Identificar y resolver problemas comunes relacionados con la sintaxis de Python.
-- Analizar y optimizar el rendimiento del código para mejorar su eficiencia.
+- Identificar y resolver problemas comunes de rendimiento en programas Python.
+- Diagnosticar errores frecuentes y corregirlos.
 
 ## Contenido
-En esta lección, se abordarán problemas frecuentes que los programadores pueden enfrentar al trabajar con Python. Comenzaremos con errores comunes en la sintaxis, como la falta de puntos y coma o la incorrecta indentación, que son fundamentales para el funcionamiento correcto del lenguaje. Se explicará cómo utilizar herramientas de depuración integradas en los editores de código populares para identificar y corregir estos errores rápidamente.
+En esta lección se abordarán los problemas más habituales que pueden surgir durante la ejecución de scripts Python, con un énfasis especial en optimización del rendimiento. Se discutirá cómo identificar posibles causas de lentitud o fallos y proporcionará una guía paso a paso para corregir estos problemas.
 
-Además, se discutirá sobre técnicas para optimizar el rendimiento del código Python. Esto incluirá la comprensión de la diferencia entre listas y tuplas, la utilización eficiente de bucles y funciones, así como la importancia de evitar operaciones innecesarias en el código. Se proporcionarán ejemplos prácticos para ilustrar cómo estas optimizaciones pueden mejorar significativamente el rendimiento del programa.
+Se explorarán temas como el uso ineficiente de memoria, bucles innecesarios, operaciones costosas en listas y la utilización incorrecta de métodos de programación orientada a objetos. Se proporcionarán ejemplos prácticos que ilustran cada problema y se ofrecerá código Python con soluciones optimizadas.
 
 ## Ejercicio
-Implemente una función que calcule la suma de los primeros 1000 números enteros utilizando un bucle `for`. Luego, compare su implementación con otra que utilice una lista y una función `sum()`. Compare los tiempos de ejecución y discuta cuál es más eficiente. Justifique sus conclusiones.
+Implemente un script que calcule los primeros 100 números primos utilizando dos enfoques diferentes: uno ineficiente y otro más eficiente. Compare el tiempo de ejecución y la memoria utilizada por cada método. Luego, identifique y corrija los problemas de rendimiento del enfoque menos eficiente.
 
 ## Resumen
-- Se destacará la importancia de la sintaxis correcta en Python.
-- Se enfatizará la optimización del código para mejorar su rendimiento.
+- Se han abordado los problemas comunes que afectan al rendimiento de Python.
+- Se ha proporcionado una guía para diagnosticar y solucionar estos problemas.
+- Los estudiantes han practicado la optimización de un script real.
