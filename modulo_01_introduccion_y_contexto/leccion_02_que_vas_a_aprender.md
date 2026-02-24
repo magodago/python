@@ -1,29 +1,17 @@
 # Que vas a aprender
 
-Objetivos
-- Comprender la importancia y el contexto de Python en el desarrollo de software.
-- Identificar las principales características que hacen a Python una excelente elección para iniciarse en programación.
+## Objetivos
+- Comprender los fundamentos de Python y su importancia en la programación.
+- Identificar las características principales que lo hacen un lenguaje versátil.
 
-Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Su sintaxis clara y legible hace que sea ideal para principiantes y desarrolladores experimentados. Se utiliza ampliamente en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación y más. La flexibilidad y la gran comunidad de desarrolladores hacen de Python una herramienta invaluable en el ecosistema de software.
+## Contenido
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Se caracteriza por su sintaxis clara y legible, lo que hace que sea fácil de aprender y usar para principiantes y expertos. Fue creado en 1991 por Guido van Rossum, quien sigue siendo uno de sus principales desarrolladores. Python es ampliamente utilizado en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, ciencias computacionales e incluso en la creación de juegos.
 
-Este curso te guiará a través del mundo de Python, desde su instalación hasta la creación de programas básicos. Aprenderás sobre variables, tipos de datos, estructuras de control y funciones, proporcionándote las bases sólidas necesarias para continuar tu viaje en el desarrollo de software.
+La versatilidad de Python se debe a su gran cantidad de bibliotecas y frameworks que facilitan el trabajo con diferentes tareas. Además, su comunidad es muy activa y dispuesta a ayudar, lo cual hace que sea fácil encontrar soluciones a problemas comunes o aprender nuevas técnicas.
 
-Ejercicio
-Crea un programa simple que solicite al usuario su nombre y edad, e imprima un mensaje personalizado. Por ejemplo:
+## Ejercicio
+Escribe un programa en Python que imprima "¡Hola, Mundo!" en la consola. Luego, modifica el programa para que solicite al usuario su nombre y muestre una personalización del mensaje, por ejemplo: "¡Hola, [nombre]!". Asegúrate de utilizar comentarios en tu código para explicar cada paso.
 
-```python
-# Solicitar al usuario su nombre
-nombre = input("¿Cuál es tu nombre? ")
-
-# Solicitar al usuario su edad
-edad = int(input("¿Cuántos años tienes? "))
-
-# Imprimir el mensaje personalizado
-print(f"Hola, {nombre}! En {5 years from now}, tendrás {edad + 5} años.")
-```
-
-Resumen
+## Resumen
 - Python es un lenguaje de programación versátil y fácil de aprender.
-- Se utiliza en múltiples campos del desarrollo de software.
-- El ejercicio práctico te ayudará a familiarizarte con la sintaxis básica de Python.
+- Su sintaxis clara y la gran cantidad de bibliotecas lo hacen muy útil para diversas aplicaciones.
