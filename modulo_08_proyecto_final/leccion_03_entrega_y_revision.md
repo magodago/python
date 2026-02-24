@@ -1,11 +1,10 @@
 # Entrega y revision
 
-- Entender los criterios de evaluación del proyecto final.
-- Practicar la presentación y defensa oral del proyecto desarrollado.
+- Los alumnos deben presentar su proyecto final de Python cumpliendo con los requisitos establecidos.
+- Se revisará la implementación de algoritmos y estructuras de datos, así como la calidad del código y el cumplimiento de las especificaciones técnicas. También se evaluará la capacidad del estudiante para documentar y presentar su trabajo de manera clara.
 
-En esta lección se abordará el proceso de entrega y revisión del proyecto final, enfocándose en dos aspectos cruciales: los criterios de evaluación y la presentación efectiva. Es importante que comprendas qué elementos serán evaluados para poder optimizar tu rendimiento. Además, aprenderás técnicas para presentar y defender oralmente tu trabajo, lo cual es fundamental para una buena calificación.
+Ejercicio: Cada alumno debe preparar una presentación breve (5-7 minutos) explicando el problema que resuelve su proyecto, los algoritmos utilizados y cualquier desafío enfrentado durante el desarrollo. Además, deben entregar un informe escrito detallando la funcionalidad del programa, la complejidad de tiempo y espacio, así como las pruebas realizadas.
 
-Para practicar estos aspectos, realiza una simulación de entrega del proyecto final ante un grupo de compañeros. Selecciona a tres colegas que actuarán como evaluadores ficticios y presenta tu proyecto, siguiendo la estructura de presentación que se ha discutido en clase. Trata de responder a cualquier pregunta o crítica con calma y profesionalidad.
-
-- Familiarizarse con los criterios de evaluación.
-- Practicar la defensa oral del trabajo.
+- Presentación clara y concisa.
+- Documentación completa y bien estructurada.
+- Cumplimiento de los requisitos técnicos.
