@@ -1,11 +1,11 @@
 # Recursos de la comunidad
 
-- Familiarizarse con los recursos de la comunidad Python disponibles.
-- Identificar y utilizar herramientas y plataformas para colaborar y aprender.
+- Familiarizarse con los recursos de la comunidad Python que son útiles para aprender y mejorar habilidades.
+- Comprender cómo participar activamente en foros y grupos de discusión para resolver problemas e intercambiar conocimientos.
 
-Python es una lengua de programación abierta e inclusiva que cuenta con una gran comunidad apasionada. Los recursos de la comunidad son fundamentales para el aprendizaje continuo, ya que proporcionan documentación detallada, tutoriales, foros de discusión y proyectos colaborativos. Estas herramientas permiten a los programadores compartir conocimientos, resolver problemas y mantenerse actualizados con las últimas tendencias en el campo.
+La lección se centrará en explorar los diversos recursos disponibles en la comunidad Python, incluyendo foros, listas de correo electrónico, repositorios de código y herramientas colaborativas. Se destacará cómo estos recursos pueden ser utilizados no solo para aprender a resolver problemas técnicos, sino también para construir una red profesional y mantenerse actualizado con las últimas tendencias en el campo.
 
-Para practicar, busca un proyecto en GitHub relacionado con Python y participa contribuyendo con una pequeña mejora o documentando un aspecto del código. Este ejercicio te ayudará a entender cómo interactuar con la comunidad de manera efectiva.
+Ejercicio: El estudiante debe buscar y registrar al menos tres recursos de la comunidad Python que le resulten útiles. Posteriormente, debe seleccionar uno de estos recursos y participar activamente durante una semana, registrando sus experiencias y aprendizajes en un informe breve.
 
-- Familiaridad con los recursos comunitarios.
-- Participación activa en proyectos colaborativos.
+- Familiaridad con los recursos de la comunidad.
+- Participación activa en la red de profesionales Python.
