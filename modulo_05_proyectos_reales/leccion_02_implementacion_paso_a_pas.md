@@ -1,21 +1,24 @@
 # Implementacion paso a paso
 
 ## Objetivos
-- Implementar un proyecto real utilizando Python que permita a los estudiantes aplicar conocimientos teóricos aprendidos.
-- Desarrollar habilidades prácticas de programación y resolución de problemas mediante la creación de una aplicación simple.
+- Implementar un proyecto real que permita a los estudiantes aplicar conceptos básicos de Python.
+- Familiarizar a los estudiantes con la estructura y buenas prácticas en el desarrollo de proyectos.
 
 ## Contenido
-En esta lección, se profundizará en el desarrollo de un proyecto real utilizando Python. Los estudiantes aprenderán a organizar su trabajo de manera eficiente, desde la definición del problema hasta la implementación y pruebas de la solución propuesta. Se enfatizará la importancia de dividir el proyecto en tareas manejables y utilizar buenas prácticas de codificación para mantener el código limpio y legible.
+En esta lección, se trabajará en el desarrollo de una aplicación simple utilizando Python. La aplicación consistirá en un programa que permita al usuario ingresar su nombre y edad, y luego muestre un mensaje personalizado basado en esa información. Este ejercicio servirá para reforzar los conceptos de entrada/salida, variables, estructuras condicionales y funciones.
 
-Se guiará a los estudiantes a través de un ejemplo práctico: la creación de una aplicación que permita gestionar una biblioteca. La aplicación debe incluir funcionalidades como agregar libros, buscar libros por título o autor, y listar todos los libros disponibles. Los estudiantes aprenderán cómo estructurar el código en módulos y funciones para facilitar su mantenimiento.
+Se recomienda a los estudiantes dividir el proyecto en etapas claras: definición del problema, planificación, implementación, pruebas y refactoring. Durante la lección, se revisarán ejemplos de código y se discutirá sobre la importancia de documentar cada paso para facilitar el mantenimiento futuro.
 
 ## Ejercicio
-Implemente un programa que permita gestionar una biblioteca simple:
-1. Cree una clase `Libro` con atributos como título, autor y año de publicación.
-2. Desarrolle una función `agregar_libro` que permita añadir libros a una lista de libros.
-3. Implemente una función `buscar_libro` que busque un libro por su título o autor.
-4. Cree una función `listar_libros` que muestre todos los libros en la biblioteca.
+Implementa un programa en Python que solicite al usuario su nombre y edad, e imprima un mensaje personalizado. El mensaje debe incluir el nombre del usuario y una estimación de cuántos años tendrá cuando cumpla 100 años. Por ejemplo:
+
+```
+Por favor, ingrese su nombre: Ana
+Por favor, ingrese su edad: 25
+
+¡Hola Ana! Tendrás 125 años en el año 2125.
+```
 
 ## Resumen
-- La lección enfatiza el desarrollo de habilidades prácticas a través del trabajo en un proyecto real.
-- Los estudiantes aprenderán a organizar y estructurar su código para mejorar la legibilidad y mantenibilidad.
+- El ejercicio consiste en crear una aplicación que solicite información al usuario y muestre un mensaje personalizado.
+- Se enfatiza la importancia de dividir el proyecto en etapas claras y documentar cada paso.
