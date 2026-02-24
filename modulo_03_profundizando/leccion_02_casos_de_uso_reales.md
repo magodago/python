@@ -1,16 +1,19 @@
 # Casos de uso reales
 
-### Objetivos
-- Comprender cómo aplicar Python en proyectos reales.
-- Analizar casos de uso específicos para mejorar la capacidad de programación.
+## Objetivos
+- Comprender cómo Python se puede utilizar para resolver problemas complejos en la industria.
+- Analizar casos de uso reales de Python en diferentes sectores.
 
-### Contenido
-En esta lección profundizaremos en el uso práctico de Python, explorando casos de uso reales que demuestran su versatilidad y eficacia. Veremos cómo Python se utiliza en el análisis de datos con un proyecto de visualización de datos interactivos utilizando bibliotecas como Matplotlib y Plotly. También abordaremos la automatización de tareas diarias mediante scripts en Python, destacando ejemplos como la creación de bots para redes sociales o herramientas de gestión de archivos.
+## Contenido
+Python es un lenguaje de programación versátil que se ha convertido en una herramienta fundamental en diversas áreas. En este módulo, exploraremos cómo Python se aplica en el análisis de datos, la inteligencia artificial y la automatización de tareas diarias. Por ejemplo, en el sector financiero, Python es utilizado para modelar riesgos financieros y optimizar carteras de inversiones. Además, en la industria de la salud, algoritmos basados en Python ayudan a predecir enfermedades y mejorar la atención médica.
 
-### Ejercicio
-Implementa un script en Python que realice el seguimiento del número de likes en una publicación de Facebook a intervalos regulares y registre esta información en un archivo CSV. Utiliza la biblioteca `requests` para acceder a la API de Facebook y `pandas` para manejar los datos.
+## Ejercicio
+Implementa un script en Python que utilice una biblioteca como Pandas para analizar un conjunto de datos sobre el tráfico de vehículos. Tu tarea es:
+1. Cargar un archivo CSV con datos de tráfico.
+2. Limpia los datos eliminando filas vacías o no válidas.
+3. Calcula la media, la mediana y la moda del número de vehículos por hora en diferentes días de la semana.
 
-### Resumen
-- Se destacará la aplicación práctica de Python en el análisis de datos.
-- Se explorarán casos reales como la automatización de tareas y la visualización interactiva de datos.
-- Los estudiantes aprenderán a utilizar bibliotecas como Matplotlib, Plotly, `requests` y `pandas`.
+## Resumen
+- Python se aplica en diversos sectores para resolver problemas complejos.
+- Se ha utilizado en el análisis de datos, inteligencia artificial y automatización.
+- El ejercicio practica la manipulación y análisis de datos con Pandas.
