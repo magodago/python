@@ -1,11 +1,16 @@
 # Resumen del modulo
 
-- Comprender los fundamentos esenciales de Python.
-- Aplicar conceptos básicos de sintaxis y estructuras de control.
+Objetivos
+- Consolidar la comprensión de los conceptos fundamentales de Python.
+- Aplicar conocimientos adquiridos sobre sintaxis básica y estructuras de datos.
 
-Python es un lenguaje de programación interpretado, lo que significa que se ejecuta línea por línea sin necesidad de una compilación previa. Su sintaxis clara y concisa facilita la escritura y comprensión del código. Los fundamentos esenciales incluyen entender las variables y tipos de datos básicos, aprender a usar operadores aritméticos y lógicos, así como dominar estructuras de control como if-else y bucles for y while. Estas herramientas son cruciales para comenzar a resolver problemas de manera eficiente en Python.
+Contenido
+En esta lección final del módulo de Fundamentos esenciales, revisaremos los aspectos clave que se han cubierto hasta ahora. Se ha explorado la instalación y configuración de Python, así como su interpretador interactivo. Se ha presentado la sintaxis básica, incluyendo variables, tipos de datos primitivos y operadores aritméticos y lógicos. Además, se ha estudiado el manejo de listas, tuplas y diccionarios, fundamentales para la manipulación de datos en Python.
 
-Para practicar estos conceptos, los estudiantes deben escribir un programa que solicite al usuario ingresar dos números enteros e imprima el mayor de ellos utilizando una estructura if-else.
+Ejercicio
+Implementa un programa que solicite al usuario ingresar tres números enteros y muestre el mayor de ellos utilizando condicionales. Posteriormente, crea una lista con estos números e imprime solo los elementos pares.
 
-- Dominar la declaración y uso de variables.
-- Utilizar operadores lógicos para tomar decisiones en el código.
+Resumen
+- Se ha cubierto la configuración inicial de Python.
+- Se han presentado las bases de la sintaxis y tipos de datos.
+- Se han explorado listas, tuplas y diccionarios como estructuras de datos.
