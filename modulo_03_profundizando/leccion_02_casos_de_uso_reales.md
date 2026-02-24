@@ -1,17 +1,12 @@
 # Casos de uso reales
 
-- Comprender cómo Python se aplica en la industria de la inteligencia artificial y el procesamiento de datos.
-- Implementar un proyecto básico utilizando machine learning con Python.
+- Familiarizarse con la implementación de algoritmos de aprendizaje automático usando Python.
+- Comprender cómo aplicar Python en proyectos reales de análisis de datos.
 
-## Contenido
-En esta lección, profundizaremos en los casos de uso reales de Python, centrándonos específicamente en su aplicación en la inteligencia artificial (IA) y el procesamiento de datos. Python es ampliamente utilizado en estas áreas debido a su sintaxis clara y concisa, lo que facilita la implementación de algoritmos complejos. Por ejemplo, se puede utilizar para desarrollar modelos predictivos utilizando bibliotecas como scikit-learn o TensorFlow, que permiten el análisis de grandes volúmenes de datos y la creación de sistemas de recomendación personalizados.
+En esta lección, profundizaremos en casos de uso reales de Python, centrándonos en su aplicación en el campo del análisis de datos y el aprendizaje automático. Veremos ejemplos prácticos como la predicción de precios inmobiliarios usando regresión lineal, el análisis de sentimientos en redes sociales con técnicas de procesamiento de lenguaje natural (NLP) y la clasificación de imágenes mediante redes neuronales convolucionales. Estos casos ilustrarán cómo Python es una herramienta versátil para resolver problemas complejos en diversas industrias.
 
-Además, Python es fundamental en el procesamiento de datos, donde se pueden aplicar técnicas avanzadas para limpiar, transformar y analizar datos. Las bibliotecas populares como Pandas y NumPy facilitan estas tareas, permitiendo a los desarrolladores manejar datos complejos con eficiencia.
+Para practicar, desarrolla un modelo de regresión lineal simple utilizando el conjunto de datos "California Housing" disponible en Scikit-learn. Tu tarea consiste en predecir los precios de las casas basándote en características como la ubicación y el tamaño del terreno. Utiliza técnicas de validación cruzada para evaluar el rendimiento de tu modelo.
 
-## Ejercicio
-Implementa un modelo de regresión lineal utilizando scikit-learn en Python para predecir el precio de casas basado en características como el tamaño del terreno y la ubicación. Utiliza un conjunto de datos disponible en Kaggle para este ejercicio. Documenta cada paso de tu implementación, desde la importación de datos hasta la predicción final.
-
-## Resumen
-- Python es ampliamente utilizado en inteligencia artificial y procesamiento de datos.
-- Se puede utilizar scikit-learn para desarrollar modelos predictivos.
-- Pandas y NumPy facilitan el manejo de grandes volúmenes de datos.
+Puntos clave:
+- Python es ampliamente utilizado en el análisis de datos y aprendizaje automático.
+- Se pueden implementar modelos complejos usando librerías especializadas como Scikit-learn y TensorFlow.
