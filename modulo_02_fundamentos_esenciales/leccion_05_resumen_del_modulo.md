@@ -1,16 +1,11 @@
 # Resumen del modulo
 
-Objetivos
-- Consolidar la comprensión de los conceptos fundamentales de Python.
-- Aplicar conocimientos adquiridos para resolver problemas básicos.
+- Comprender los fundamentos esenciales de Python.
+- Identificar y explicar la sintaxis básica de Python.
 
-Contenido
-En esta lección final del módulo sobre Fundamentos esenciales, se resumirán los aspectos más importantes que se han cubierto hasta ahora. Se revisará la sintaxis básica y estructura de Python, incluyendo variables, tipos de datos, operadores aritméticos y lógicos, así como las estructuras de control condicional y cíclica. Además, se explorarán funciones y cómo organizar el código de manera eficiente.
+Python es un lenguaje de programación de alto nivel que se caracteriza por su sintaxis clara y legible, lo que facilita tanto el aprendizaje como la escritura de código. En este módulo, se exploraron los fundamentos esenciales del lenguaje, incluyendo variables, tipos de datos básicos (como enteros, cadenas y flotantes), operadores aritméticos y comparativos, y estructuras de control de flujo como condicionales (`if`, `elif` y `else`) y bucles (`for` y `while`). Estas herramientas forman la base sobre las cuales se construye todo el conocimiento adicional en programación con Python.
 
-Ejercicio
-Diseña un programa en Python que solicite al usuario su nombre y edad. Luego, imprime un mensaje que indique cuántos años tendrá el usuario en 10 años. Utiliza variables para almacenar la información ingresada por el usuario y operaciones aritméticas para calcular la edad futura.
+Para practicar lo aprendido, los estudiantes deben escribir un programa que solicite al usuario su nombre y edad. Luego, el programa debe imprimir una frase personalizada que indique cuántos años tendrá el usuario en 10 años. Este ejercicio permitirá a los estudiantes aplicar conceptos como la entrada de datos con `input()`, la conversión entre tipos de datos con `int()` y la operación aritmética básica para sumar 10 al valor de la edad.
 
-Resumen
-- Se ha revisado la sintaxis básica de Python.
-- Se han aplicado conceptos como variables, tipos de datos y estructuras de control.
-- Se ha practicado la organización del código a través de funciones.
+- Dominio de la sintaxis básica de Python.
+- Aplicación práctica de variables, tipos de datos y operadores.
