@@ -1,18 +1,16 @@
 # Resumen del modulo
 
 ## Objetivos
-- Consolidar la comprensión de las estructuras básicas del lenguaje Python.
-- Aprender a utilizar correctamente los tipos de datos más comunes.
+- Consolidar la comprensión de los conceptos fundamentales de Python.
+- Aplicar conocimientos adquiridos sobre sintaxis y estructuras básicas.
 
 ## Contenido
-En esta lección, se revisará el material cubierto en el módulo de Fundamentos esenciales. Se ha explorado cómo Python permite la definición y uso de variables, así como las diferentes formas de declararlas. Además, se han estudiado los tipos de datos más utilizados: enteros, flotantes, cadenas de texto, booleanos y listas. Cada tipo de dato se ha explicado con ejemplos prácticos que demuestran su uso en programas simples.
-
-Se ha destacado la importancia de comprender cómo Python maneja estos tipos de datos para facilitar el desarrollo de código eficiente y legible. Se han proporcionado ejemplos de operaciones básicas entre diferentes tipos de datos, así como las funciones más comunes asociadas a cada tipo.
+En esta lección, se revisará el módulo de Fundamentos esenciales del curso de Python. Se enfatizará la importancia de entender las variables, tipos de datos, operadores aritméticos y lógicos, así como la sintaxis básica para escribir código eficiente. También se explorarán conceptos avanzados como las estructuras de control condicional (if-elif-else) y bucles (for y while), que son esenciales para el desarrollo de programas complejos.
 
 ## Ejercicio
-Escribe un programa en Python que solicite al usuario su nombre y edad. El programa debe mostrar el siguiente mensaje: "Hola [nombre], en 10 años tendrás [edad + 10] años".
+Escribe un programa en Python que solicite al usuario su edad, calcule cuántos días han pasado desde que nació hasta hoy, e imprima el resultado. Asegúrate de manejar correctamente los tipos de datos y utilizar la función `input()` para obtener la entrada del usuario.
 
 ## Resumen
-- Se ha revisado la declaración de variables y los tipos de datos básicos.
-- Se han explicado las operaciones y funciones asociadas a cada tipo de dato.
-- El uso práctico de estos conceptos se ha ilustrado con ejemplos.
+- Se revisaron variables, tipos de datos y operadores aritméticos.
+- Se profundizaron en estructuras de control condicional y bucles.
+- Se enfatizó la importancia de la sintaxis correcta y el manejo adecuado de los datos.
