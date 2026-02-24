@@ -1,14 +1,11 @@
 # Soluciones
 
 ## Contenido
-En esta lección del módulo de Troubleshooting y rendimiento, aprenderás a identificar y resolver problemas comunes que pueden afectar la eficiencia de tu código Python. Se enfatizará la importancia de utilizar herramientas de depuración adecuadamente para mejorar el desempeño de tus programas.
-
-Para optimizar el rendimiento de tu código, es crucial comprender cómo Python gestiona la memoria y las estructuras de datos. Aprenderás a usar módulos como `timeit` y `cProfile` para medir tiempos de ejecución y analizar el rendimiento del programa. Además, se abordarán técnicas de programación eficiente, como evitar bucles innecesarios y optimizar funciones mediante la utilización de list comprehensions y generadores.
+En esta lección sobre soluciones de problemas y rendimiento en Python, se abordarán técnicas para diagnosticar y resolver errores comunes en el código, así como estrategias para optimizar el rendimiento del programa. Se introducirá la utilización de herramientas como `pdb` (Python Debugger) para depurar el código paso a paso, identificar y corregir errores. Además, se explorará cómo mejorar el rendimiento mediante la selección adecuada de estructuras de datos y algoritmos, así como la implementación de técnicas de programación eficiente.
 
 ## Ejercicio
-Implementa un script que calcule los primeros 100 números de Fibonacci utilizando dos métodos: una función recursiva y otra iterativa. Utiliza `timeit` para comparar el tiempo de ejecución de ambos métodos y discute cuál es más eficiente en términos de rendimiento.
+Implementa un programa que calcule la suma de los primeros 1000 números naturales. Utiliza `pdb` para depurar el código e identificar posibles errores o áreas donde se pueda mejorar el rendimiento. Posteriormente, optimiza tu solución y compara el tiempo de ejecución antes y después del ajuste.
 
 ## Resumen
-- Se aprende a utilizar herramientas de depuración para resolver problemas.
-- Se entiende la importancia del uso adecuado de estructuras de datos y técnicas de programación eficiente.
-- Se compara el rendimiento de diferentes métodos utilizando `timeit`.
+- Se aprendió a utilizar `pdb` para depurar y corregir errores en el código.
+- Se discutieron técnicas para optimizar el rendimiento del programa mediante la selección adecuada de estructuras de datos y algoritmos.
