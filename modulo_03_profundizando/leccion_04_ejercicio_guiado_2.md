@@ -1,28 +1,37 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Familiarizar al estudiante con la manipulación de listas en Python.
-- Introducir la utilización de comprensión de listas para simplificar y optimizar el código.
+- Comprender la utilización de decoradores en Python y su aplicación práctica.
+- Implementar una función que muestre el uso de un decorador para medir el tiempo de ejecución.
 
 ## Contenido
-En esta lección, profundizaremos en la manipulación de listas en Python. Aprenderemos a realizar operaciones complejas sobre listas utilizando métodos integrados y comprensiones de listas. La comprensión de listas es una característica poderosa que permite crear nuevas listas basadas en iterar sobre elementos existentes, aplicando expresiones y condicionales. Esto no solo simplifica el código sino que también puede mejorar significativamente su eficiencia.
-
-Para ilustrar estos conceptos, veremos ejemplos prácticos de cómo filtrar, transformar y combinar listas utilizando comprensiones de listas. Además, se explorará cómo estas técnicas pueden ser aplicadas en problemas comunes como la manipulación de datos o el procesamiento de listas.
+En esta lección profundizaremos en la utilidad de los decoradores, una característica poderosa de Python que nos permite modificar o extender las funcionalidades de funciones y métodos. Los decoradores son útiles para agregar funcionalidades comunes a múltiples funciones sin repetir código. En este ejercicio práctico, aprenderemos cómo crear un decorador para medir el tiempo de ejecución de una función, lo que nos permitirá evaluar la eficiencia del rendimiento de nuestro código.
 
 ## Ejercicio
-Dado un conjunto de números enteros, genera una nueva lista que contenga solo los números pares y sus cuadrados. Utiliza comprensión de listas para lograr esto de manera eficiente.
+Implementa un decorador llamado `tiempo` que muestre cuánto tiempo tarda en ejecutarse una función. Luego, aplica este decorador a una función que realice alguna tarea compleja, como calcular el factorial de un número grande. Por ejemplo:
 
-Ejemplo:
 ```python
-numeros = [1, 2, 3, 4, 5, 6]
-# Resultado esperado: [4, 16, 36]
+import time
 
-def pares_cuadrados(numeros):
-    # Escribe tu código aquí
+def tiempo(func):
+    def wrapper(*args, **kwargs):
+        inicio = time.time()
+        resultado = func(*args, **kwargs)
+        fin = time.time()
+        print(f"Tiempo de ejecución: {fin - inicio} segundos")
+        return resultado
+    return wrapper
 
-print(pares_cuadrados(numeros))
+@tiempo
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+print(factorial(5))
 ```
 
 ## Resumen
-- La comprensión de listas es una herramienta poderosa para manipular y transformar datos en Python.
-- Se puede utilizar para filtrar, transformar y combinar elementos de listas de manera concisa y eficiente.
+- Los decoradores son una herramienta poderosa para agregar funcionalidades a funciones existentes.
+- Se puede utilizar un decorador `tiempo` para medir el rendimiento de las funciones.
