@@ -1,11 +1,11 @@
 # Mantenimiento
 
-- Comprender los conceptos básicos de mantenimiento de código en Python.
-- Implementar prácticas de documentación y gestión de versiones para proyectos.
+- Comprender los conceptos básicos de mantenimiento de software y su aplicación en proyectos Python.
+- Identificar y corregir errores comunes en código existente para mejorar la calidad del software.
 
-El mantenimiento de un proyecto en Python implica asegurarse de que el código siga funcionando correctamente a medida que se agregan nuevas características o se corregirán errores. Es fundamental mantener una buena práctica de documentación, ya que esto facilitará la comprensión del código por parte de otros desarrolladores y futuros tú mismos cuando vuelvas a trabajar en el proyecto después de un tiempo. Además, es crucial utilizar herramientas de gestión de versiones como Git para controlar las modificaciones y colaborar eficazmente con otros desarrolladores.
+El mantenimiento de software es un proceso continuo que implica revisar, corregir y optimizar el código existente. En el contexto de Python, este es particularmente relevante debido a su amplia utilización en diversos proyectos. El mantenimiento no solo se refiere a solucionar errores o bugs, sino también a mejorar la legibilidad del código, adaptarlo a nuevas tecnologías o requisitos y asegurar que siga siendo eficiente y escalable.
 
-Para este ejercicio, implementa una simple aplicación que registra los ingresos y gastos de una pequeña empresa. Primero, crea el código inicial sin preocuparte mucho por la documentación ni el manejo de versiones. Luego, realiza cambios en tu código para agregar documentación adecuada y sube tus modificaciones a un repositorio Git. Asegúrate de incluir comentarios claros y descriptivos en el código y de hacer commits regulares con descripciones precisas.
+Para practicar estos conceptos, los alumnos deberán revisar un código Python existente que realice el cálculo de la media de una lista de números. El objetivo es identificar posibles errores, mejorar la estructura del código y añadir pruebas unitarias para garantizar su correcto funcionamiento.
 
-- Documentar claramente el código.
-- Utilizar Git para gestionar versiones del proyecto.
+- Comprender la importancia del mantenimiento en proyectos Python.
+- Practicar la revisión y mejora de código existente utilizando mejores prácticas.
