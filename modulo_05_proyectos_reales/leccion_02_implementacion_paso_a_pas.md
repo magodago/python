@@ -1,13 +1,17 @@
 # Implementacion paso a paso
 
-- Comprender la estructura básica de un proyecto real en Python.
-- Implementar una solución a un problema práctico utilizando Python.
+## Objetivos
+- Comprender cómo implementar un proyecto real utilizando Python.
+- Aprender a estructurar y organizar el código para una solución eficiente.
 
-En esta lección, se profundizará en cómo aplicar los conocimientos adquiridos sobre Python para desarrollar proyectos reales. Se abordará el proceso desde la definición del problema hasta la implementación y prueba de la solución. Los estudiantes aprenderán a organizar su código de manera eficiente, utilizar buenas prácticas de programación y documentar sus proyectos.
+## Contenido
+En esta lección, se profundizará en la implementación de un proyecto real utilizando Python. Se comenzará por seleccionar un problema específico que sea relevante para los estudiantes, como la creación de un sistema simple de gestión de tareas. Se explicará cómo dividir el problema en componentes más pequeños y cómo abordar cada uno de ellos individualmente. Se discutirá también la importancia de la modularidad en el código y se proporcionará una estructura básica para organizar los diferentes módulos del proyecto.
 
-Para ilustrar este concepto, se trabajará con un ejemplo práctico: el desarrollo de una aplicación que calcula el promedio de notas de los alumnos en una clase. Los estudiantes deberán definir las funciones necesarias para ingresar las calificaciones, calcular el promedio y mostrarlo por pantalla. Además, se les pedirá que implementen un menú interactiva para permitir la entrada de datos y visualización del resultado.
+Se guiará a los estudiantes a través del proceso de diseño, implementación y pruebas, asegurándose de que comprendan cómo aplicar sus conocimientos prácticos sobre Python en un contexto real. Se enfatizará la importancia de documentar el código y mantenerlo organizado para facilitar futuras modificaciones o expansión del proyecto.
 
-El ejercicio consiste en crear un programa Python que permita al usuario ingresar las notas de los alumnos de una clase, calcular su promedio y mostrar el resultado final. Se recomienda utilizar funciones separadas para cada tarea (ingreso de datos, cálculo del promedio y salida de resultados) para mantener el código claro y fácil de entender.
+## Ejercicio
+Implementen un sistema simple de gestión de tareas utilizando Python. El sistema debe permitir al usuario agregar, eliminar y listar tareas pendientes. Cada tarea debe tener un título y una fecha límite. Los estudiantes deben estructurar su código en módulos separados para la entrada de datos, la lógica principal del programa y el manejo de errores.
 
-- Comprender la importancia de organizar el código en funciones.
-- Implementar un menú interactivo para interactuar con el usuario.
+## Resumen
+- Seleccionar y abordar un problema real utilizando Python.
+- Estructurar el código en módulos para una solución modular y organizada.
