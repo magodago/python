@@ -1,17 +1,15 @@
 # Revision
 
-## Objetivos
-- Analizar y optimizar código Python existente utilizando técnicas avanzadas.
-- Implementar patrones de diseño para mejorar la estructura y mantenibilidad del código.
+### Objetivos
+- Consolidar la comprensión de técnicas avanzadas en Python.
+- Practicar la aplicación de estos conceptos mediante ejercicios específicos.
 
-## Contenido
-En esta lección, se revisará el uso eficiente de decoradores en Python. Los decoradores son una técnica poderosa que permite modificar funcionalidades de funciones o métodos sin alterar su definición original. Se explorará cómo los decoradores pueden ser utilizados para agregar nuevas capacidades a las funciones existentes, como la verificación de permisos en aplicaciones web, el registro de actividad, y la medición del tiempo de ejecución.
+### Contenido
+En esta lección revisamos técnicas avanzadas de Python, enfocándonos en el manejo eficiente de datos y la optimización del código. Discutiremos la utilización de librerías como NumPy y Pandas para manipulación de grandes conjuntos de datos, así como el uso de decoradores para mejorar la funcionalidad de las funciones sin modificar su estructura interna. También exploraremos la implementación de patrones de diseño en Python, destacando cómo pueden ser aplicados para resolver problemas complejos de manera más eficiente y modular.
 
-Además, se examinará la implementación de patrones de diseño avanzados, como el Singleton y el Factory Method. Estos patrones ayudan a estructurar el código de manera que sea más fácil de mantener y escalar. Se proporcionarán ejemplos prácticos en Python para ilustrar cómo estos patrones pueden ser aplicados en diferentes contextos.
+### Ejercicio
+Implemente un programa que utilice NumPy para realizar operaciones matemáticas en matrices grandes (por ejemplo, cálculos estadísticos o transformaciones lineales). Posteriormente, modifique el código utilizando decoradores para medir el tiempo de ejecución de diferentes partes del programa y analizar la eficiencia.
 
-## Ejercicio
-Reescribe un script existente que realiza cálculos matemáticos utilizando decoradores para agregar la funcionalidad de medir el tiempo de ejecución y registrar cada cálculo realizado. Luego, implementa el patrón Singleton para gestionar una única instancia de un objeto configurador de parámetros en tu aplicación.
-
-## Resumen
-- Decoradores permiten modificar funcionalidades sin alterar la definición original.
-- Patrones de diseño avanzados como Singleton y Factory Method mejoran la estructura y mantenibilidad del código.
+### Resumen
+- Se revisaron técnicas avanzadas como NumPy, Pandas, decoradores y patrones de diseño.
+- Se enfatizó la importancia de estas herramientas en la optimización del código y el manejo de datos.
