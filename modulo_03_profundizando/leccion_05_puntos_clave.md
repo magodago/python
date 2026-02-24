@@ -1,17 +1,23 @@
 # Puntos clave
 
-### Objetivos
-- Comprender y aplicar la programación orientada a objetos en Python.
-- Implementar patrones de diseño básicos para mejorar la estructura del código.
+- Comprender y aplicar la optimización de código mediante la utilización de listas comprensivas y funciones lambda.
+- Implementar eficientemente estructuras de datos complejas como diccionarios y conjuntos para resolver problemas específicos.
 
-### Contenido
-En esta lección, profundizaremos en el uso de la programación orientada a objetos (POO) en Python. Estudiarás cómo definir clases y objetos, así como cómo implementar herencia y polimorfismo. La POO es una técnica fundamental para organizar el código de manera más estructurada y reutilizable. Aprenderás a crear clases con atributos y métodos, y a utilizar herencia para crear jerarquías de clases que comparten funcionalidad.
+Python nos permite optimizar nuestro código a través del uso de listas comprensivas, que son una forma concisa y eficiente de crear listas. Por ejemplo, en lugar de usar un bucle `for` para generar una lista de números pares hasta 10, podríamos escribir:
 
-Además, se explorará la implementación de patrones de diseño básicos como el Singleton y el Factory Method. Estos patrones ayudan a resolver problemas comunes en el desarrollo de software de manera más eficiente y mantenible. A través del estudio de ejemplos prácticos, entenderás cómo aplicar estos patrones para mejorar la calidad del código.
+```python
+pares = [x for x in range(2, 11, 2)]
+```
 
-### Ejercicio
-Implementa una clase `Libro` que tenga atributos como título, autor y año de publicación. Luego, crea una subclase `Ebook` que herede de `Libro` y agregue un nuevo atributo `formato`. Define métodos en ambas clases para mostrar información sobre el libro.
+Además, las funciones lambda son útiles cuando necesitamos definir pequeñas funciones anónimas en el momento. Por ejemplo, para ordenar una lista de tuplas por su segundo elemento podríamos usar:
 
-### Resumen
-- La programación orientada a objetos permite organizar el código de manera estructurada.
-- Se utilizan patrones de diseño como Singleton y Factory Method para resolver problemas comunes.
+```python
+tuplas = [("a", 3), ("b", 1), ("c", 2)]
+tuplas_ordenadas = sorted(tuplas, key=lambda x: x[1])
+```
+
+Para practicar, implementa una función que use listas comprensivas para generar un diccionario donde las claves sean los números del 1 al 10 y sus valores sean el cuadrado de cada número.
+
+## Resumen
+- Listas comprensivas permiten crear listas de forma concisa y eficiente.
+- Funciones lambda son útiles para definir funciones anónimas en el momento, especialmente en combinación con métodos como `sorted`.
