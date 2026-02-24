@@ -1,14 +1,16 @@
 # Checklist final
 
-- Mejorar la eficiencia del código escrito por el estudiante.
-- Identificar y corregir posibles errores comunes en programas Python.
+- **Objetivos**
+  - Identificar y corregir problemas comunes en la ejecución de programas Python.
+  - Mejorar el rendimiento de los scripts utilizando técnicas de optimización.
 
-La lección de checklist final se enfoca en proporcionar a los estudiantes una serie de preguntas y verificaciones que deben realizar al finalizar un programa para asegurarse de su correcto funcionamiento. Este proceso incluye revisar la documentación del código, verificar la sintaxis, comprobar el comportamiento del programa con diferentes entradas y utilizar herramientas de depuración como `pdb` o `logging`. El objetivo es garantizar que el código no solo se ejecuta sin errores, sino que también cumple con los requisitos funcionales.
+- **Contenido**
+  Durante esta lección, se revisará un checklist final para resolver problemas comunes que pueden surgir al escribir código en Python. Se abordarán aspectos como la corrección de errores sintácticos y lógicos, el uso adecuado de las estructuras de control y funciones, y la optimización del rendimiento a través de la selección de métodos apropiados y la minimización de operaciones innecesarias. Se proporcionarán ejemplos prácticos para ilustrar estos conceptos.
 
-Para practicar estos conceptos, los estudiantes deberán implementar un pequeño programa que calcule la media aritmética de una lista de números. Después de escribir el código, deben realizar un checklist final siguiendo las siguientes preguntas:
-1. ¿La sintaxis del código es correcta?
-2. ¿El programa maneja correctamente entradas vacías o no numéricas?
-3. ¿Se ha documentado adecuadamente cada función?
-4. ¿Se han utilizado herramientas de depuración para verificar el funcionamiento del programa?
+- **Ejercicio**
+  Implemente un programa que calcule el factorial de un número utilizando recursión. Luego, revise su código utilizando el checklist final para identificar y corregir cualquier problema que pueda afectar la eficiencia del algoritmo. Compare el rendimiento del código original con la versión optimizada.
 
-El resumen clave de esta lección es que la revisión final es crucial para asegurar la calidad y eficiencia del código, y que los estudiantes deben familiarizarse con técnicas de depuración y mejores prácticas de programación.
+- **Resumen**
+  - Se revisaron técnicas para corregir errores comunes en Python.
+  - Se destacó la importancia de optimizar el código para mejorar su rendimiento.
+  - El ejercicio práctico permitirá a los estudiantes aplicar estos conocimientos.
