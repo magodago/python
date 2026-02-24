@@ -1,11 +1,23 @@
 # Certificacion y siguiente nivel
 
-- Los alumnos comprenderán los beneficios de obtener una certificación en Python.
-- Los estudiantes aprenderán sobre las diferentes rutas para alcanzar el siguiente nivel en su aprendizaje de Python.
+### Objetivos
+- Comprender los beneficios de obtener una certificación en Python.
+- Identificar las habilidades necesarias para avanzar al siguiente nivel en el dominio de Python.
 
-Python es un lenguaje de programación versátil y ampliamente utilizado, que se ha convertido en una herramienta indispensable para desarrolladores de todo el mundo. Para fortalecer sus habilidades y mejorar su credibilidad profesional, obtener una certificación en Python puede ser muy beneficioso. Existen varias certificaciones disponibles, como la Certified Associate in Python Programming (CAP) ofrecida por la Python Software Foundation, o la Certified Python Developer (CPD) proporcionada por Pluralsight. Estas certificaciones no solo validan el conocimiento del estudiante en Python, sino que también demuestran su capacidad para aplicar esos conocimientos de manera efectiva.
+### Contenido
+En esta lección, se explorará la importancia de obtener una certificación en Python y cómo puede ser un paso crucial hacia el avance profesional. Se discutirá cómo una certificación demuestra a empleadores y colegas tu dedicación y habilidades técnicas avanzadas en Python. Además, se presentarán las diferentes certificaciones disponibles y sus requisitos, ayudando al estudiante a seleccionar la opción más adecuada según su nivel actual de conocimientos y objetivos profesionales.
 
-Para practicar y profundizar los conceptos aprendidos, los estudiantes deben implementar un pequeño proyecto que utilice la biblioteca Pandas para analizar datos. El ejercicio consiste en cargar un conjunto de datos de ventas ficticio, realizar una exploración inicial de los datos, y luego generar informes básicos sobre las ventas totales por producto y por mes.
+Se analizará también cómo obtener una certificación puede ser un punto de partida para el siguiente nivel en Python, ya que implica aprender nuevas bibliotecas, frameworks y mejores prácticas. Se recomendarán recursos y estrategias para prepararse adecuadamente para la certificación elegida, incluyendo la importancia de practicar con problemas reales y proyectos personales.
 
-- Los alumnos entenderán el valor de obtener certificaciones en Python.
-- Se familiarizarán con diferentes rutas para avanzar en su aprendizaje.
+### Ejercicio
+El estudiante deberá seleccionar una certificación en Python (por ejemplo, Certified Associate in Python Programming o Python Institute's PyCert) y elaborar un plan detallado para prepararse para el examen. El plan debe incluir:
+
+- Habilidades técnicas a practicar.
+- Recursos recomendados.
+- Horario de estudio.
+- Metodologías de aprendizaje (teoría, práctica, proyectos).
+
+### Resumen
+- La certificación en Python es valiosa para demostrar habilidades y avanzar profesionalmente.
+- Se deben considerar diferentes certificaciones según el nivel actual y los objetivos.
+- Prepararse adecuadamente implica un plan de estudio estructurado y la práctica constante.
