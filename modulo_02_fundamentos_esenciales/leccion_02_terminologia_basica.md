@@ -1,22 +1,17 @@
 # Terminologia basica
 
-## Objetivos
-- Comprender y utilizar correctamente términos básicos de Python.
-- Identificar y explicar la diferencia entre variables y constantes.
+Objetivos
+- Comprender los conceptos básicos de programación relevantes para Python.
+- Identificar y explicar la terminología fundamental utilizada en Python.
 
-## Contenido
-En esta lección se introducirán conceptos fundamentales que son esenciales para cualquier programador que comienza con Python. Los términos "variable" y "constante" son dos elementos clave en el lenguaje, ya que permiten al programador almacenar y manipular datos de manera eficiente.
+Contenido
+En esta lección se presentan los términos esenciales que cualquier estudiante de Python debe conocer. Estos incluyen variables, tipos de datos, funciones, condicionales y bucles. Las variables son contenedores para almacenar información, mientras que los tipos de datos definen el tipo específico de información (por ejemplo, enteros, cadenas o listas). Las funciones permiten agrupar código en bloques reutilizables, y las estructuras condicionales y de bucle controlan el flujo del programa.
 
-Una **variable** en Python es un nombre que se utiliza para referirse a un valor que puede cambiar durante la ejecución del programa. Por ejemplo, si queremos guardar el número 10 en una variable llamada `edad`, podríamos hacerlo así: `edad = 10`. Este valor puede ser modificado más tarde en el código.
+Ejercicio
+Escribe un pequeño script que solicite al usuario su nombre e imprima un saludo personalizado. Utiliza variables para almacenar la entrada del usuario y una función para formatear el mensaje de salida.
 
-Por otro lado, una **constante** es un valor que no cambia durante la ejecución del programa. En Python, a diferencia de algunos otros lenguajes, no hay declaraciones específicas para constantes, pero se conviene nombrarlas con mayúsculas para indicar que su valor no debe ser modificado. Por ejemplo: `PI = 3.14159`.
-
-## Ejercicio
-Escribe un programa simple en Python donde:
-1. Declares una variable llamada `nombre` y asigna tu nombre como valor.
-2. Declares una constante llamada `EDAD_MAXIMA` con el valor de 100.
-3. Imprime ambos valores en la consola.
-
-## Resumen
-- Las variables se utilizan para almacenar datos que pueden cambiar durante la ejecución del programa.
-- Las constantes son valores que, por convención, no deben modificarse y se nombran con mayúsculas.
+Resumen
+- Variables: contenedores para información.
+- Tipos de datos: enteros, cadenas, listas.
+- Funciones: bloques de código reutilizables.
+- Condicionales: controlan el flujo basándose en condiciones.
