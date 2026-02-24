@@ -1,17 +1,17 @@
 # Nivel avanzado
 
-### Objetivos
-- Familiarizar al estudiante con la optimización de código utilizando técnicas avanzadas de Python.
-- Introducir conceptos como la programación funcional y su aplicación en soluciones complejas.
+- Dominar la optimización de código mediante técnicas avanzadas.
+- Implementar y utilizar decoradores personalizados para mejorar la funcionalidad del código.
 
-### Contenido
-La lección se centrará en el uso de técnicas avanzadas para mejorar la eficiencia y legibilidad del código. Se explorarán herramientas como la programación funcional, que permite manipular datos de manera más flexible y concisa. Se explicarán conceptos clave como las funciones lambda, map(), filter() y reduce(). Estas herramientas permiten trabajar con secuencias de datos de forma eficiente sin necesidad de bucles explícitos, lo cual puede mejorar significativamente el rendimiento del código.
+Python es un lenguaje de programación versátil que permite a los desarrolladores abordar problemas complejos con soluciones elegantes. En este módulo, se profundizará en técnicas avanzadas que permiten optimizar el rendimiento y la eficiencia del código. Se explorará cómo utilizar decoradores personalizados para encapsular funcionalidades comunes, mejorar la legibilidad del código y simplificar la implementación de patrones de diseño.
 
-Además, se discutirá la optimización de código mediante la utilización de decoradores para modificar comportamientos de funciones y clases. Se mostrarán ejemplos prácticos donde los decoradores pueden ser utilizados para loggear, medir tiempos de ejecución o implementar comportamientos de cache.
+Por ejemplo, los decoradores son una forma poderosa de modificar o extender las funcionalidades de funciones o métodos sin alterar su estructura original. En Python, se puede crear un decorador personalizado para agregar nuevas características a una función existente, como el control de acceso, la medición del tiempo de ejecución, o la validación de datos.
 
 ### Ejercicio
-Escriba una función que calcule el factorial de un número utilizando `reduce()` junto con una función lambda. Luego, utilice un decorador personalizado para loggear la entrada y salida de esta función. Pruebe su solución con varios valores y verifique que los resultados sean correctos.
+
+Crea un decorador llamado `tiempo` que muestre cuánto tiempo tarda en ejecutarse una función. Luego, aplica este decorador a una función que calcule los primeros 20 números de Fibonacci. Observa cómo el resultado se muestra junto con el tiempo de ejecución.
 
 ### Resumen
-- Se aprendió a utilizar técnicas funcionales como `map()`, `filter()` y `reduce()` para manipular datos eficientemente.
-- Se introdujo el uso de decoradores para mejorar la reutilización y mantenibilidad del código.
+
+- Los decoradores son herramientas poderosas para modificar o extender las funcionalidades de funciones.
+- La optimización del código mediante técnicas avanzadas puede mejorar significativamente la eficiencia y legibilidad del software.
