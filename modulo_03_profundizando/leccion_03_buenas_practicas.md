@@ -1,11 +1,16 @@
 # Buenas practicas
 
-- Entender y aplicar las buenas prácticas de codificación en Python para mejorar la legibilidad y mantenibilidad del código.
-- Implementar estándares de estilo PEP 8 en proyectos de programación.
+- **Objetivos**
+  - Comprender y aplicar las buenas prácticas de codificación en Python.
+  - Implementar estándares de estilo y convenciones recomendadas para mejorar la legibilidad del código.
 
-Python es un lenguaje de programación versátil que se utiliza ampliamente en diversos campos como el desarrollo web, análisis de datos, inteligencia artificial y más. Para maximizar la eficiencia y la calidad del código, es crucial seguir ciertas buenas prácticas y estándares de estilo. Uno de los estándares más reconocidos para Python es PEP 8, que proporciona una guía detallada sobre cómo formatear el código, nombrar variables y funciones, entre otros aspectos.
+- **Contenido**
+  En esta lección, profundizaremos en las mejores prácticas para escribir código Python. Estas prácticas no solo mejoran la claridad y mantenibilidad del código, sino que también facilitan su colaboración con otros desarrolladores. Para ello, abordaremos el uso de PEP 8, una guía de estilo ampliamente aceptada en la comunidad Python. Entre los aspectos clave se encuentran la indentación uniforme, el uso adecuado de espacios y tabulaciones, la nomenclatura de variables y funciones, así como la estructura del código.
 
-Un ejercicio útil sería que los estudiantes desarrollen un script simple en Python (por ejemplo, un programa que calcule la media de una lista de números) siguiendo las recomendaciones del PEP 8. El objetivo es que comprendan cómo aplicar estas prácticas en su codificación diaria y aprecien sus beneficios a largo plazo.
+- **Ejercicio**
+  Implementa un script que lea una lista de números desde un archivo de texto, calcule su promedio y guarde el resultado en otro archivo. Asegúrate de seguir las convenciones de estilo PEP 8 al escribir tu código. Por ejemplo, utiliza espacios para separar operadores aritméticos, evita líneas excesivamente largas y asegúrate de que el nombre de tus variables y funciones sean descriptivos.
 
-- Aplicación de estándares de estilo PEP 8.
-- Mejora en la legibilidad y mantenibilidad del código.
+- **Resumen**
+  - Aplicar PEP 8 en la codificación Python.
+  - Mantener un código claro y fácil de leer.
+  - Utilizar nombres de variables y funciones descriptivos.
