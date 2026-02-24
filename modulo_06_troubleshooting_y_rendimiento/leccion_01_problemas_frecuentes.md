@@ -1,15 +1,13 @@
 # Problemas frecuentes
 
 ## Contenido
-Los problemas frecuentes en Python suelen estar relacionados con errores de sintaxis, excepciones no manejadas y problemas de rendimiento. Para resolver estos problemas, es importante tener una buena comprensión del lenguaje y conocer las herramientas disponibles para la depuración. Algunos errores comunes incluyen:
+En esta lección se abordarán los problemas frecuentes que pueden surgir al trabajar con Python y cómo resolverlos. Aprender a identificar y solucionar estos problemas es crucial para mejorar la eficiencia en el desarrollo de software. Se discutirá sobre errores comunes como `SyntaxError`, `NameError` y `TypeError`, así como técnicas para depurar código utilizando el intérprete interactivo de Python (Python Shell) y herramientas de depuración más avanzadas.
 
-- **Errores de Sintaxis:** Estos ocurren cuando el código no sigue las reglas gramaticales del lenguaje, como olvidar cerrar un paréntesis o usar una palabra reservada incorrectamente.
-- **Excepciones No Manejadas:** Python genera excepciones para manejar errores inesperados. Si estas excepciones no se capturan y manejan adecuadamente, pueden causar que el programa se detenga repentinamente.
-- **Problemas de Rendimiento:** Algunos problemas de rendimiento pueden ser difíciles de identificar, especialmente si el código es complejo o utiliza bibliotecas externas. Herramientas como `timeit` y `cProfile` son útiles para medir el tiempo de ejecución y analizar la eficiencia del código.
+Además, se explorará cómo optimizar el rendimiento del código. Se presentarán conceptos básicos sobre complejidad de tiempo y espacio, y se proporcionará un ejemplo práctico para analizar la eficiencia de diferentes implementaciones de una misma función. Se discutirá también la importancia de usar bibliotecas de terceros bien optimizadas y cómo identificar posibles puntos de rendimiento críticos en el código.
 
 ## Ejercicio
-Implementa un programa simple que calcule la suma de los primeros 100 números naturales utilizando un bucle `for`. Luego, modifica tu código para que use una comprensión de lista y compara el rendimiento usando `timeit`.
+Implementa una función que calcule los primeros 100 números Fibonacci utilizando dos métodos diferentes: recursión y iteración. Analiza la eficiencia de ambos métodos en términos de tiempo y memoria, y explica tus hallazgos.
 
 ## Resumen
-- Identificar errores de sintaxis y excepciones no manejadas es fundamental para depurar código Python.
-- Herramientas como `timeit` y `cProfile` son útiles para mejorar la eficiencia del código.
+- Se identificarán errores comunes y técnicas para depurar código.
+- Se explorará cómo optimizar el rendimiento del código mediante análisis de complejidad y uso de bibliotecas eficientes.
