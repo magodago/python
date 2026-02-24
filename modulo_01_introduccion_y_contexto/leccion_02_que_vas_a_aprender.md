@@ -1,15 +1,26 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender la naturaleza y utilidad de Python como lenguaje de programación.
-- Identificar las principales características que hacen a Python un lenguaje versátil.
+- Comprender los fundamentos de Python y su utilidad en la programación.
+- Identificar las características principales del lenguaje.
 
 ## Contenido
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Su sintaxis clara y concisa lo hace ideal para principiantes, pero también cuenta con una gran flexibilidad que permite su uso en diversos campos como el desarrollo web, ciencia de datos, inteligencia artificial, automatización de tareas, entre otros. La simplicidad de Python facilita la escritura de código legible y mantenible, lo que hace que sea un lenguaje muy popular tanto para proyectos pequeños como grandes.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Se ha vuelto muy popular debido a su sintaxis clara y legible, lo que facilita su aprendizaje para principiantes y expertos en programación. Este lenguaje se utiliza ampliamente en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y ciencia de la computación.
+
+Python es conocido por ser un lenguaje multiparadigma, lo que significa que puede ser utilizado tanto para programación procedural como orientada a objetos o funcional. Su sintaxis simple y directa hace que sea fácil de leer y escribir, permitiendo a los desarrolladores enfocarse en la resolución del problema en lugar de la lógica de implementación.
 
 ## Ejercicio
-Escribe un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica el programa para que también imprima tu nombre completo.
+Escribe un programa simple en Python que imprima "¡Hola, Mundo!" en la consola. Luego, modifica el programa para que solicite al usuario su nombre y lo salude personalmente.
+
+```python
+# Programa que imprime ¡Hola, Mundo!
+print("¡Hola, Mundo!")
+
+# Modificación del programa
+nombre = input("Por favor, introduce tu nombre: ")
+print(f"¡Bienvenido {nombre}!")
+```
 
 ## Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- Su sintaxis limpia y clara facilita la escritura de código legible y mantenible.
+- Python es un lenguaje de programación de alto nivel y multiparadigma.
+- Su sintaxis clara y legible facilita su aprendizaje y uso en diversas aplicaciones.
