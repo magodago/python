@@ -1,20 +1,11 @@
 # Actualizaciones
 
-### Objetivos
-- Comprender las actualizaciones frecuentes de Python y su importancia.
-- Identificar los recursos disponibles para seguir las actualizaciones del lenguaje.
+- Los estudiantes aprenderán sobre las principales actualizaciones de Python y cómo estas afectan su uso diario.
+- Comprenderán la importancia de mantenerse actualizado con nuevas versiones y características para mejorar sus habilidades en programación.
 
-### Contenido
-Las actualizaciones de Python son cruciales para mantener el rendimiento y la seguridad del software que se desarrolla con este lenguaje. Python 3, en particular, ha evolucionado significativamente desde su lanzamiento inicial en 2008, incorporando nuevas características, mejoras de rendimiento y correcciones de errores. Es importante estar al tanto de estas actualizaciones para aprovechar las nuevas funcionalidades que pueden mejorar la eficiencia del código y para mantenerse a salvo frente a posibles vulnerabilidades.
+Python ha experimentado numerosas actualizaciones que han mejorado significativamente su funcionalidad y eficiencia. En esta lección, se explorarán las principales actualizaciones desde Python 3.6 hasta la versión más reciente disponible al momento de la enseñanza. Se destacará cómo estas actualizaciones facilitan el trabajo con strings, manejo de errores, y mejoras en la sintaxis que pueden hacer el código más legible y eficiente.
 
-Existen varios recursos donde se pueden seguir las actualizaciones de Python, incluyendo el sitio web oficial de Python (python.org), que ofrece información sobre versiones recientes y futuras. Además, comunidades como la lista de correo de PEPs (Python Enhancement Proposals) y foros como Stack Overflow también proporcionan una gran cantidad de información relevante.
+Para practicar, los estudiantes deberán revisar las características nuevas en Python 3.9 e implementar al menos dos de ellas en un proyecto simple, como la notación f-string avanzada o el uso del operador walrus (:=). Esto les permitirá aplicar directamente lo aprendido y familiarizarse con cómo incorporar estas mejoras a sus propios códigos.
 
-### Ejercicio
-Investiga las últimas actualizaciones de Python 3 y presenta un resumen breve en el que incluyas:
-- La versión más reciente.
-- Una característica nueva o notoria.
-- Un recurso recomendado para seguir futuras actualizaciones.
-
-### Resumen
-- Las actualizaciones de Python son esenciales para mejorar rendimiento y seguridad.
-- Se pueden seguir las actualizaciones a través del sitio web oficial, PEPs y foros especializados.
+- Se enfatizará la importancia de estar al tanto de las actualizaciones para aprovechar las nuevas funcionalidades.
+- Los estudiantes practicarán implementando características recientes en un proyecto, lo que refuerza su comprensión y aplicación práctica.
