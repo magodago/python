@@ -1,20 +1,18 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los tipos de datos básicos en Python.
-- Aprender a utilizar variables y operadores aritméticos.
+- Comprender los conceptos básicos de Python.
+- Familiarizarse con la sintaxis y estructura fundamental del lenguaje.
 
 ## Contenido
-En esta lección se introducirá la importancia de entender los tipos de datos básicos en el lenguaje Python. Los tipos de datos son fundamentales para manipular información eficientemente, ya que determinan las operaciones posibles sobre un valor. Se explorarán los tipos numéricos (entero, flotante), cadenas de texto y booleanos.
+En esta lección, se introducirá a los estudiantes en los fundamentos esenciales de Python. Se abordarán temas como la sintaxis básica, tipos de datos primitivos y las estructuras de control más comunes (if-else, bucles for y while). Los estudiantes aprenderán cómo escribir y ejecutar programas simples utilizando estas herramientas.
 
-Además, se explicará cómo declarar variables en Python utilizando la asignación de valores a variables y el uso de operadores aritméticos básicos para realizar cálculos simples como suma, resta, multiplicación y división. Se proporcionará un ejemplo práctico que demuestra cómo combinar tipos de datos y operaciones matemáticas.
+Se explicará que Python es un lenguaje de programación interpretado, lo que significa que el código se ejecuta línea por línea sin la necesidad de compilarlo previamente. Los tipos de datos primitivos incluyen enteros (int), flotantes (float), cadenas de texto (str) y booleanos (bool). Las estructuras de control permiten al programador especificar el flujo del programa, decidir qué código se ejecuta en función de ciertas condiciones.
 
 ## Ejercicio
-Escribe un programa en Python que:
-1. Declare tres variables: `a` con valor 5 (entero), `b` con valor 3.2 (flotante) y `c` como una cadena "Python".
-2. Imprime el tipo de dato de cada variable.
-3. Realiza las operaciones aritméticas: suma, resta, multiplicación y división entre `a` e `b`, mostrando los resultados.
+Escribe un pequeño script que solicite al usuario su nombre y edad. El programa debe verificar si la edad es mayor o igual a 18 años y, dependiendo de eso, imprimir "Mayor de edad" o "Menor de edad". Asegúrate de manejar el caso en que el usuario ingrese una edad no numérica.
 
 ## Resumen
-- Los tipos de datos básicos en Python son esenciales para la manipulación de información.
-- Se deben entender cómo declarar variables y utilizar operadores aritméticos para realizar cálculos simples.
+- Python es un lenguaje interpretado.
+- Los tipos de datos primitivos incluyen int, float, str y bool.
+- Las estructuras de control permiten decidir el flujo del programa.
