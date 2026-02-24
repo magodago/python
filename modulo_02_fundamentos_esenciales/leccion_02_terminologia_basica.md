@@ -1,18 +1,18 @@
 # Terminologia basica
 
-### Objetivos
-- Comprender y utilizar correctamente los términos básicos de programación en Python.
-- Identificar y explicar las diferencias entre variables, funciones y bucles.
+Objetivos
+- Comprender y utilizar correctamente los términos básicos del lenguaje de programación Python.
+- Identificar y explicar la importancia de las variables, tipos de datos y estructuras de control en el desarrollo de programas.
 
-### Contenido
-En esta lección se presentarán los conceptos fundamentales que todo estudiante debe conocer al comenzar a aprender Python. Comenzaremos definiendo lo que es una **variable** en el contexto de la programación: un contenedor para almacenar datos. En Python, las variables son dinámicas y pueden cambiar su tipo durante la ejecución del programa.
+Contenido
+En esta lección se introducirán los conceptos fundamentales que son esenciales para cualquier programador que esté comenzando con Python. La terminología básica incluye elementos como variables, tipos de datos y estructuras de control, que son las piezas clave que permiten a un programa interactuar y procesar información.
 
-Además, se introducirán las funciones, que son bloques de código reutilizables diseñados para realizar tareas específicas. Las funciones en Python permiten organizar el código de manera más eficiente y facilitan la modulación del programa. Finalmente, se explicará cómo utilizar **bucles** (for y while) para repetir una serie de instrucciones hasta que se cumpla cierta condición.
+Las variables en Python se utilizan para almacenar valores, y pueden cambiar durante la ejecución del programa. Los tipos de datos son categorías predefinidas que determinan el tipo de valor que una variable puede contener (por ejemplo, enteros, flotantes, cadenas). Las estructuras de control permiten al programa tomar decisiones basadas en condiciones o repetir ciertas operaciones hasta que se cumpla un criterio. Estas estructuras incluyen instrucciones como if-else y bucles for y while.
 
-### Ejercicio
-Escribe un programa en Python que use variables, funciones y bucles para imprimir los números pares del 0 al 20. Primero, define una función llamada `imprimir_pares` que tome como parámetro un número entero y utilice un bucle `for` para iterar desde 0 hasta ese número, imprimiendo solo los números pares.
+Ejercicio
+Crea un programa simple que solicite al usuario su nombre, lo guarde en una variable y luego imprima un mensaje de bienvenida personalizado. Utiliza diferentes tipos de datos para almacenar el nombre (como cadena) y para realizar cálculos básicos si es necesario.
 
-### Resumen
-- Las variables en Python son contenedores dinámicos para almacenar datos.
-- Las funciones permiten organizar el código de manera modular y reutilizable.
-- Los bucles (for y while) se utilizan para repetir tareas hasta que una condición se cumpla.
+Resumen
+- Las variables son utilizadas para almacenar valores.
+- Los tipos de datos definen qué tipo de información puede contener una variable.
+- Estructuras de control permiten al programa tomar decisiones o repetir acciones.
