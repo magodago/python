@@ -1,18 +1,23 @@
 # Que vas a aprender
 
 ## Objetivos
-- Comprender la importancia de Python en el desarrollo de software.
-- Familiarizarse con los fundamentos básicos de sintaxis y estructuras de datos en Python.
+- Comprender los fundamentos de Python y su utilidad en la programación.
+- Familiarizarse con el entorno de desarrollo integrado (IDE) más común para Python.
 
 ## Contenido
-Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad, lo que lo hace muy accesible para principiantes y potente para expertos. Es ampliamente utilizado en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación y más. En esta lección, aprenderemos sobre las razones por las que Python es tan popular y exploraremos sus características básicas.
+Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis clara y concisa lo hace ideal para principiantes en la programación. Se utiliza ampliamente en diversas áreas como el desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación y más. La lección introducirá a los estudiantes al lenguaje Python, sus ventajas y aplicaciones prácticas.
 
-Python se caracteriza por su sintaxis clara y legible, lo que facilita la escritura y mantenimiento del código. Podremos ver cómo Python maneja diferentes tipos de datos, como enteros, flotantes, cadenas y listas, y cómo realizar operaciones con estos. Además, se introducirán conceptos básicos sobre variables, operadores aritméticos y estructuras condicionales.
+El entorno de desarrollo integrado (IDE) es crucial para escribir y ejecutar código en Python. Jupyter Notebook es uno de los IDEs más populares debido a su flexibilidad y capacidad para mezclar código con texto explicativo, gráficos y resultados interactivos. A lo largo de esta lección, se explorará cómo instalar y usar Jupyter Notebook.
 
 ## Ejercicio
-Escribe un programa simple en Python que solicite al usuario su nombre y edad, muestre un mensaje de bienvenida e imprima si la persona es mayor de 18 años o no. Asegúrate de usar variables para almacenar los datos del usuario y estructuras condicionales para determinar si es mayor de edad.
+Crea un pequeño programa en Python que muestre "¡Hola, Mundo!" utilizando Jupyter Notebook. Escribe el siguiente código:
+
+```python
+print("¡Hola, Mundo!")
+```
+
+Luego, ejecuta la celda de código para ver el resultado.
 
 ## Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- Comprendió la importancia de sintaxis clara en el desarrollo de software.
-- Familiarizaste con tipos de datos básicos y estructuras condicionales.
+- Introducción a Python y sus aplicaciones.
+- Familiarización con Jupyter Notebook como IDE para Python.
