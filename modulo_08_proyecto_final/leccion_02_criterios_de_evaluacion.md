@@ -1,15 +1,11 @@
 # Criterios de evaluacion
 
-- Comprender los criterios de evaluación para el proyecto final de Python.
-- Identificar y aplicar correctamente los criterios de evaluación a su propio trabajo.
+- Comprender los criterios de evaluación que se aplicarán al proyecto final.
+- Identificar las áreas de mejora y fortalezas en la implementación del código Python.
 
-## Contenido
-Los criterios de evaluación del proyecto final en Python son fundamentales para asegurar que se cumplan los objetivos propuestos. El primer criterio implica la implementación correcta y eficiente de algoritmos y estructuras de datos relevantes para el problema asignado. Esto incluye no solo la resolución del problema, sino también la optimización del código para rendimiento y legibilidad. El segundo criterio se centra en la documentación del proyecto, lo que implica la elaboración de comentarios claros y precisos tanto en el código como en un informe escrito sobre el desarrollo del proyecto. Finalmente, el tercer criterio evalúa la presentación final del proyecto, incluyendo la interactividad (si es aplicable) y la usabilidad del programa.
+En esta lección, abordaremos los criterios de evaluación que se utilizarán para evaluar el proyecto final. Es crucial comprender estos criterios ya que guiarán tu proceso de desarrollo y te permitirán enfocarte en las áreas más importantes durante la realización del proyecto. Los criterios incluyen aspectos como la funcionalidad del código, la eficiencia, la legibilidad, la documentación y el uso apropiado de los conceptos de Python aprendidos.
 
-## Ejercicio
-Desarrolla una breve descripción de cómo aplicarías los tres criterios de evaluación a tu propio proyecto final. Por ejemplo, para el primer criterio, identifica al menos dos algoritmos o estructuras de datos que utilizarías y explica por qué son apropiados. Para el segundo criterio, propón una estrategia para documentar tu código y el informe escrito. Finalmente, describe cómo asegurarías la interactividad y usabilidad del programa.
+Para practicar, desarrolla un programa que implemente un algoritmo de ordenamiento (como el método de burbuja o selección) y realiza una autoevaluación basada en los criterios de evaluación. Evalúa la funcionalidad del programa, su eficiencia, la claridad del código, la documentación y el uso correcto de las estructuras de datos y funciones.
 
-## Resumen
-- Identificar al menos dos algoritmos o estructuras de datos relevantes.
-- Documentar claramente el código y el informe escrito.
-- Asegurar la interactividad y usabilidad del programa.
+- Comprender los criterios de evaluación.
+- Realizar una autoevaluación basada en estos criterios.
