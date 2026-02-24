@@ -1,19 +1,15 @@
 # Integracion con otras herramientas
 
 ### Objetivos
-- Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
-- Aprender a utilizar bibliotecas gráficas como Matplotlib para visualizar datos en Python.
+- Comprender cómo integrar Python con otras herramientas de análisis de datos como Pandas y NumPy.
+- Aprender a utilizar bibliotecas de visualización como Matplotlib para generar gráficos complejos.
 
 ### Contenido
-En esta lección, se explorará la integración de Python con otras herramientas y bibliotecas que son fundamentales en el campo del análisis de datos. Se enfocará en cómo combinar Python con Pandas y NumPy, dos poderosas librerías para manipulación y análisis de datos. A través de ejemplos prácticos, se mostrará cómo cargar datos desde diferentes fuentes, realizar operaciones complejas y preparar los datos para su visualización. Además, se profundizará en la integración con Matplotlib, una biblioteca de gráficos 2D que permite crear diversas representaciones visuales de datos, facilitando la comprensión e interpretación.
+En esta lección, se explorará la integración avanzada entre Python y otras herramientas de análisis de datos. Se comenzará con una revisión rápida de las bibliotecas Pandas y NumPy, destacando sus capacidades en el manejo y procesamiento de datos. Posteriormente, se profundizará en cómo combinar estas bibliotecas con Python para realizar operaciones complejas de análisis de datos. Además, se presentarán ejemplos prácticos utilizando Matplotlib para crear gráficos detallados y personalizados, permitiendo una mejor comprensión visual de los datos.
 
 ### Ejercicio
-El alumno deberá:
-1. Cargar un conjunto de datos desde un archivo CSV.
-2. Utilizar Pandas para realizar operaciones básicas como filtrado y agrupación de datos.
-3. Integrar NumPy para aplicar funciones matemáticas sobre los datos.
-4. Visualizar los resultados utilizando Matplotlib, creando al menos tres tipos diferentes de gráficos (por ejemplo, histograma, línea y dispersión).
+El estudiante deberá integrar Pandas y NumPy para realizar un análisis de datos sobre un conjunto proporcionado. Deberá cargar el dataset, realizar operaciones básicas con NumPy como la manipulación de arrays, y luego utilizar Pandas para filtrar y transformar los datos. Finalmente, debe generar un gráfico utilizando Matplotlib que muestre una relación entre dos variables del conjunto de datos.
 
 ### Resumen
-- Se aprendió a integrar Python con herramientas de análisis de datos como Pandas y NumPy.
-- Se exploró cómo utilizar Matplotlib para crear visualizaciones efectivas de los datos procesados.
+- Se aprende a integrar Python con herramientas de análisis de datos como Pandas y NumPy.
+- Se enseña cómo utilizar Matplotlib para crear gráficos detallados y personalizados.
