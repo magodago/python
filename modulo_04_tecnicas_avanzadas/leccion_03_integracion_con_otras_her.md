@@ -1,20 +1,19 @@
 # Integracion con otras herramientas
 
 ### Objetivos
-- Comprender cómo integrar Python con bases de datos para automatizar tareas de análisis y procesamiento de datos.
-- Aprender a utilizar bibliotecas externas en proyectos de Python para ampliar su funcionalidad.
+- Comprender cómo integrar Python con herramientas de análisis de datos como Pandas y NumPy.
+- Aprender a utilizar bibliotecas gráficas como Matplotlib para visualizar datos en Python.
 
 ### Contenido
-La integración de Python con otras herramientas es crucial para potenciar su uso en diversos escenarios. En esta lección, se explorará cómo Python puede interactuar con bases de datos utilizando librerías como `sqlite3` y `pandas`. Estas bibliotecas permiten a los desarrolladores leer, escribir y manipular datos directamente desde Python, lo que facilita el análisis y la visualización de información. Además, se aprenderá cómo importar y utilizar otras herramientas externas, como `NumPy`, para realizar cálculos numéricos complejos y mejorar el rendimiento de los programas.
+En esta lección, se explorará la integración de Python con otras herramientas y bibliotecas que son fundamentales en el campo del análisis de datos. Se enfocará en cómo combinar Python con Pandas y NumPy, dos poderosas librerías para manipulación y análisis de datos. A través de ejemplos prácticos, se mostrará cómo cargar datos desde diferentes fuentes, realizar operaciones complejas y preparar los datos para su visualización. Además, se profundizará en la integración con Matplotlib, una biblioteca de gráficos 2D que permite crear diversas representaciones visuales de datos, facilitando la comprensión e interpretación.
 
 ### Ejercicio
-Escribe un script en Python que:
-1. Cree una base de datos SQLite.
-2. Crea una tabla con dos columnas: `id` (entero) y `nombre` (texto).
-3. Inserta cinco registros en la tabla.
-4. Consulte todos los registros de la tabla e imprima el resultado.
+El alumno deberá:
+1. Cargar un conjunto de datos desde un archivo CSV.
+2. Utilizar Pandas para realizar operaciones básicas como filtrado y agrupación de datos.
+3. Integrar NumPy para aplicar funciones matemáticas sobre los datos.
+4. Visualizar los resultados utilizando Matplotlib, creando al menos tres tipos diferentes de gráficos (por ejemplo, histograma, línea y dispersión).
 
 ### Resumen
-- Se aprendió a utilizar `sqlite3` para interactuar con bases de datos desde Python.
-- Se exploró cómo importar y usar bibliotecas externas como `pandas`, `NumPy` y `sqlite3`.
-- Se practicó la creación, manipulación y consulta de una base de datos SQLite en un script de Python.
+- Se aprendió a integrar Python con herramientas de análisis de datos como Pandas y NumPy.
+- Se exploró cómo utilizar Matplotlib para crear visualizaciones efectivas de los datos procesados.
