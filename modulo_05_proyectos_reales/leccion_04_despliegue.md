@@ -1,12 +1,11 @@
 # Despliegue
 
 - Entender los conceptos básicos de despliegue de aplicaciones Python.
-- Implementar un proceso de despliegue básico utilizando un entorno virtual y un servidor web.
+- Implementar un proceso de despliegue simple para una aplicación web Python.
 
-El despliegue de una aplicación Python implica la configuración y ejecución del código en un entorno que pueda ser accedido por otros usuarios. En esta lección, se abordará cómo preparar el proyecto para su despliegue, incluyendo la creación de un entorno virtual y la elección adecuada de un servidor web. Se recomienda usar Flask o Django como framework web, ya que son ampliamente utilizados y facilitan el proceso de desarrollo y despliegue.
+El despliegue es un paso crucial en el ciclo de vida de desarrollo de software, donde se asegura que la aplicación esté disponible y funcional en un entorno de producción. En este módulo, aprenderás a preparar tu aplicación Python para el despliegue, utilizando contenedores Docker para encapsular tu código junto con sus dependencias, y luego implementar una solución de hospedaje basada en la nube para asegurar que tu aplicación esté disponible 24/7. Este proceso no solo garantiza que tu aplicación funcione correctamente en cualquier entorno, sino que también facilita el mantenimiento y escalado.
 
-Para ilustrar estos conceptos, los alumnos realizarán un ejercicio práctico en el que crearan una aplicación básica con Flask, configurarán un entorno virtual y desplegarán la aplicación utilizando un servidor web local. Esto permitirá a los estudiantes experimentar con las herramientas y técnicas necesarias para llevar su proyecto Python al "estado de producción".
+Para este ejercicio, crearás un contenedor Docker para una simple aplicación web Flask y luego lo desplegarás en un servicio de hospedaje basado en la nube. Primero, instalarás Docker en tu máquina local e inicializarás un nuevo proyecto Flask. Luego, creará un archivo `Dockerfile` que configure el entorno necesario para ejecutar tu aplicación. Finalmente, construirás y ejecutarás el contenedor Docker, y lo desplegarás utilizando un servicio de hospedaje gratuito como Heroku o Render.
 
-- Creación de un entorno virtual.
-- Configuración básica de Flask o Django.
-- Despliegue de una aplicación en un servidor web local.
+- Comprender la importancia del despliegue en el ciclo de desarrollo.
+- Utilizar Docker para encapsular y desplegar aplicaciones Python.
