@@ -1,11 +1,11 @@
 # Mantenimiento
 
-- Comprender los conceptos básicos de mantenimiento de código en Python.
-- Identificar y corregir errores comunes en programas existentes.
+- Aprender a identificar y corregir errores en el código existente.
+- Comprender la importancia del seguimiento de cambios y documentación en proyectos de Python.
 
-El mantenimiento de código es una parte crucial del desarrollo software, especialmente cuando se trata con proyectos largos o que requieren actualizaciones frecuentes. En el contexto de Python, esto implica no solo la corrección de errores (bugs) sino también la optimización y adaptación del código a nuevas necesidades o cambios en los requisitos del proyecto. Es fundamental que los programadores tengan una mentalidad de mantenimiento desde el principio para facilitar futuras actualizaciones y mejoras.
+En esta lección sobre mantenimiento de proyectos en Python, se abordará cómo mantener y actualizar programas existentes. Es crucial entender que el mantenimiento no es solo una tarea para cuando un proyecto está en su etapa final; debe ser una práctica constante durante todo el ciclo de vida del software. Se discutirá la importancia de documentar claramente las funcionalidades, los cambios realizados y las razones detrás de estas modificaciones. Además, se explorará cómo utilizar versiones controladas con Git para gestionar diferentes estados del código y colaborar eficazmente en equipos.
 
-Para ilustrar estos conceptos, consideremos un programa simple que calcula la media de una lista de números. El ejercicio consiste en identificar y corregir posibles errores en el código proporcionado, optimizar su rendimiento y adaptarlo a nuevas funcionalidades solicitadas por los usuarios.
+Para practicar estos conceptos, los estudiantes deberán revisar un pequeño proyecto existente que incluye errores sintácticos y lógicos. El objetivo es corregir estos problemas y mejorar la documentación del código. Los pasos específicos son: 1) Clonar el repositorio desde GitHub; 2) Identificar y corregir los errores en el código; 3) Documentar las modificaciones realizadas; 4) Commitear los cambios con un mensaje descriptivo.
 
-- Comprender la importancia del mantenimiento en proyectos Python.
-- Practicar la corrección y optimización de código existente.
+- Mejorar la calidad del código existente.
+- Implementar prácticas de control de versiones para proyectos Python.
