@@ -1,17 +1,21 @@
 # Nivel avanzado
 
-## Objetivos
-- Comprender y aplicar técnicas avanzadas de programación con Python para optimizar el rendimiento del código.
-- Aprender a utilizar la biblioteca NumPy para realizar operaciones matemáticas complejas de manera eficiente.
+### Objetivos
+- Comprender y aplicar técnicas de programación orientadas a objetos avanzadas.
+- Implementar patrones de diseño para resolver problemas comunes de manera eficiente.
 
-## Contenido
-En esta lección, se profundizará en las técnicas avanzadas de programación utilizando Python. Se abordarán conceptos como la optimización del rendimiento del código mediante el uso de estructuras de datos más eficientes y algoritmos mejorados. Además, se introducirá la biblioteca NumPy, que proporciona una forma eficiente de realizar operaciones matemáticas complejas en arrays multidimensionales, lo cual es crucial para el procesamiento de grandes volúmenes de datos.
+### Contenido
+En esta lección, profundizaremos en las técnicas de programación orientada a objetos (POO) avanzadas. Se abordará el concepto de herencia múltiple y cómo manejar conflictos de nombre entre clases derivadas. También se explorarán los patrones de diseño como Singleton, Factory Method y Decorator para resolver problemas comunes en Python de manera más flexible y reusable.
 
-El uso de técnicas como la programación dinámica y la memoización se discutirá para resolver problemas de optimización de manera más eficiente. Se explorará cómo NumPy permite realizar operaciones vectorizadas en lugar de bucles explícitos, lo que puede resultar en un gran aumento en el rendimiento del código.
+Se discutirá la importancia de la composición sobre la herencia en ciertos casos y cómo utilizar métodos abstractos e interfaces para definir comportamientos comunes entre clases. Además, se analizarán ejemplos prácticos que demuestran el uso efectivo de estos patrones en proyectos reales.
 
-## Ejercicio
-Implementa una función que calcule la matriz potencia de una matriz cuadrada utilizando la biblioteca NumPy. La función debe recibir una matriz y un exponente como parámetros y devolver la matriz elevada al exponente especificado. Compara el tiempo de ejecución de tu implementación con una versión que use bucles explícitos para verificar los beneficios del uso de NumPy.
+### Ejercicio
+Implemente un sistema simple de gestión de biblioteca utilizando patrones de diseño. Debe incluir:
+- Uso del patrón Singleton para controlar la única instancia del gestor de biblioteca.
+- Implementación de Factory Method para crear diferentes tipos de libros (ejemplo: Novela, Texto Académico).
+- Aplicación del patrón Decorator para añadir funcionalidades como reservas o préstamos a los libros.
 
-## Resumen
-- Se aprendió a optimizar el rendimiento del código mediante técnicas avanzadas como la programación dinámica y la memoización.
-- Se introdujo la biblioteca NumPy, que permite realizar operaciones matemáticas complejas en arrays multidimensionales de manera eficiente.
+### Resumen
+- Se profundizó en la programación orientada a objetos avanzada, incluyendo herencia múltiple y patrones de diseño.
+- Se destacaron las ventajas de la composición sobre la herencia para resolver problemas complejos.
+- Los patrones Singleton, Factory Method y Decorator se implementaron para mejorar la flexibilidad y reutilización del código.
