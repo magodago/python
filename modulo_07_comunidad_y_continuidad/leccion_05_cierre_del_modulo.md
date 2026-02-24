@@ -1,11 +1,16 @@
 # Cierre del modulo
 
-- Revisar y consolidar los conocimientos adquiridos durante el módulo de Python.
-- Preparar a los estudiantes para aplicar sus habilidades en proyectos prácticos y futuros módulos.
+Objetivos
+- Consolidar los conocimientos adquiridos durante el módulo sobre Python.
+- Fomentar la continuidad del aprendizaje y la práctica constante.
 
-En esta lección final, es crucial que reflexionen sobre su progreso y se aseguren de haber comprendido todos los conceptos clave del módulo. Hemos explorado desde las bases fundamentales como las variables y tipos de datos hasta la programación orientada a objetos y la manipulación de archivos. Es importante que practiquen lo aprendido en proyectos reales para fortalecer su comprensión.
+Contenido
+En esta lección final, nos enfocaremos en resumir y reforzar los conceptos clave que se han abordado a lo largo del módulo. Hablaremos de cómo integrar Python en proyectos reales, destacando la importancia de la documentación y el mantenimiento del código. Se discutirá también la necesidad de seguir aprendiendo y explorando nuevas bibliotecas y frameworks para mejorar las habilidades en Python.
 
-Para este ejercicio, les pedimos que desarrollen un pequeño programa que permita al usuario ingresar los detalles de una persona (nombre, edad, ciudad) y guarde esta información en un archivo de texto. Luego, el programa debe poder leer estos datos y mostrarlos en pantalla. Este ejercicio será de gran utilidad para consolidar su conocimiento sobre variables, funciones, archivos y la programación orientada a objetos.
+Ejercicio
+Implementa un pequeño proyecto que combine diferentes conceptos vistos durante el módulo, como funciones, listas, bucles y excepciones. Documenta tu código adecuadamente, explicando cada parte del programa. Luego, comparte tu proyecto con la comunidad de aprendices para recibir feedback.
 
-- Consolidación del uso de Python.
-- Desarrollo práctico de habilidades adquiridas.
+Resumen
+- Integrar Python en proyectos reales.
+- Importancia de la documentación y mantenimiento del código.
+- Continuar aprendiendo y explorando nuevas herramientas.
