@@ -1,15 +1,17 @@
 # Entrega y revision
 
-Objetivos
-- Entender los criterios de evaluación del proyecto final.
-- Practicar la presentación y defensa de un código Python.
+- El estudiante presentará su proyecto final de Python a la clase.
+- Se revisarán los aspectos técnicos del código y las mejores prácticas de programación utilizadas por cada estudiante.
 
-Contenido
-En esta lección, se revisarán los criterios de evaluación para el proyecto final en Python. Se abordará cómo estructurar una entrega eficiente, incluyendo la documentación clara, la legibilidad del código y la resolución de problemas planteados. Además, se discutirá la importancia de prepararse para una defensa efectiva del trabajo, destacando la capacidad de explicar las decisiones técnicas tomadas durante el desarrollo.
+El objetivo principal de esta lección es que los estudiantes preparen una presentación clara y concisa de su proyecto final en Python. Durante la entrega, se espera que expliquen el problema que resuelven, el diseño del programa, las decisiones técnicas tomadas y cómo se implementaron soluciones específicas. Además, se revisará el código fuente para evaluar el uso apropiado de las mejores prácticas de programación en Python.
 
-Ejercicio
-Los alumnos deberán formular una presentación breve (5-7 minutos) sobre su proyecto final en Python. Deben incluir un resumen general del problema abordado, los objetivos y metas del proyecto, la metodología empleada, las dificultades encontradas y cómo se superaron, así como el resultado final obtenido. Posteriormente, responderán preguntas relacionadas con su trabajo durante una sesión de defensa simulada.
+Para la práctica, los estudiantes deben preparar una diapositiva PowerPoint o Google Slides que incluya:
+- Título del proyecto y nombre del estudiante.
+- Resumen del problema a resolver.
+- Diagrama de flujo o pseudocódigo del algoritmo principal.
+- Capturas de pantalla mostrando el funcionamiento del programa.
+- Breve explicación sobre las dificultades enfrentadas y cómo se superaron.
 
-Resumen
-- Los criterios de evaluación incluyen la calidad del código, la documentación y la presentación.
-- La preparación para la defensa es crucial para demostrar comprensión y dominio del proyecto.
+Los puntos clave para resumir esta lección son:
+- Preparar una presentación clara y concisa del proyecto final.
+- Entender la importancia de la documentación y la organización en el código.
