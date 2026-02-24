@@ -1,11 +1,11 @@
 # Conclusiones
 
-- Conocer las aplicaciones prácticas de Python en proyectos reales.
-- Analizar los aspectos positivos y negativos del uso de Python en desarrollo de software.
+- Comprender los conceptos y técnicas de programación utilizados durante el curso.
+- Aplicar conocimientos adquiridos para la resolución de problemas complejos mediante un proyecto final.
 
-En esta lección final del módulo sobre Proyecto Final, se revisarán las conclusiones obtenidas tras el análisis y desarrollo de un proyecto completo utilizando Python. Se discutirá cómo Python se ha utilizado para resolver problemas específicos dentro del contexto del proyecto, destacando su versatilidad y eficiencia en tareas como la manipulación de datos, creación de interfaces gráficas, o integración con bases de datos. Además, se explorarán los desafíos enfrentados durante el desarrollo, incluyendo problemas de rendimiento o limitaciones de la biblioteca utilizada.
+En esta lección final del módulo sobre Proyecto Final, se enfatizará en la importancia de aplicar los conceptos teóricos aprendidos a través de un proyecto práctico. Se revisará el código desarrollado durante las sesiones anteriores y se discutirá cómo cada parte del proyecto contribuye al objetivo final. Además, se analizarán las mejores prácticas en programación Python, incluyendo la documentación, la modularización y la optimización del código.
 
-Para practicar y consolidar estos conceptos, los estudiantes deberán evaluar un caso práctico previamente desarrollado en clase, identificando las fortalezas y debilidades del proyecto. Deben presentar una lista de mejoras propuestas para optimizar el código o mejorar la funcionalidad del software.
+Para esta práctica, los estudiantes deberán revisar su proyecto final y preparar una presentación breve que explique el propósito del programa, cómo funciona y cuáles son sus principales características. La presentación debe durar aproximadamente 5 minutos y se realizará ante la clase. Esto permitirá a los estudiantes reflejar sobre lo aprendido durante el curso y practicar la comunicación técnica.
 
-- Identificar las aplicaciones prácticas de Python.
-- Analizar los aspectos positivos y negativos del uso de Python en desarrollo de software.
+- Desarrollar habilidades de resolución de problemas.
+- Prepararse para aplicar conocimientos en proyectos reales.
