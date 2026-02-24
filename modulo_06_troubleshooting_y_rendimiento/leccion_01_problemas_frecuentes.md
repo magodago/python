@@ -1,17 +1,14 @@
 # Problemas frecuentes
 
-## Objetivos
-- Identificar y resolver problemas comunes relacionados con la sintaxis de Python.
-- Mejorar la eficiencia del código para optimizar el rendimiento.
-
 ## Contenido
-En esta lección, se abordarán algunos de los problemas más frecuentes que los programadores experimentan al trabajar con Python. Uno de los errores más comunes es la mala sintaxis, lo cual puede ser frustrante y dificultar el desarrollo del código. Para resolver estos problemas, es crucial entender las reglas básicas de la sintaxis de Python, como el uso correcto de paréntesis, corchetes y llaves, así como la indentación que es fundamental en este lenguaje.
+En esta lección abordaremos algunos de los problemas más frecuentes que se pueden encontrar al trabajar con Python y cómo resolverlos. Uno de los problemas comunes es la lenta ejecución del código, especialmente en aplicaciones intensivas en CPU o I/O. Para mejorar el rendimiento, es crucial comprender la diferencia entre operaciones internas rápidas y lentas, como las listas y tuplas, respectivamente. Otra frecuente dificultad es la gestión de errores y excepciones, lo que puede resultar en programas que se comporten inesperadamente o incluso caigan.
 
-Además, se discutirá cómo mejorar la eficiencia del código para optimizar su rendimiento. Esto incluirá técnicas como la minimización del uso innecesario de bucles, la selección adecuada de estructuras de datos y el uso de funciones y módulos predefinidos que pueden acelerar el proceso de programación.
+Para mejorar el rendimiento, podríamos utilizar técnicas como la optimización del código utilizando comprensiones de lista, funciones recursivas eficientes, y la utilización de librerías como NumPy para operaciones matemáticas intensivas. Además, es importante identificar y corregir errores temprano en el desarrollo, ya que pueden ser difíciles de detectar y arreglar una vez que el código se vuelve complejo.
 
 ## Ejercicio
-Implemente un programa en Python que calcule la suma de los primeros 100 números naturales. Inicialmente, utilice un bucle `for` para realizar esta tarea. Posteriormente, optimice su código utilizando una fórmula matemática directa y compare el rendimiento entre ambos métodos.
+Implementa un programa que calcule la suma de los primeros 1000 números pares utilizando listas y luego con comprensiones de lista. Mide el tiempo de ejecución para ambas implementaciones e indica cuál es más eficiente. Explora también cómo podría ser este cálculo usando NumPy.
 
 ## Resumen
-- Identificar errores de sintaxis es crucial para resolver problemas rápidamente en Python.
-- Optimizar el código mediante técnicas adecuadas puede mejorar significativamente el rendimiento del programa.
+- Se identifican problemas comunes en Python, como la lenta ejecución y la gestión de errores.
+- Se presentan técnicas para optimizar el rendimiento del código, incluyendo el uso de comprensiones de lista y librerías como NumPy.
+- Se enfatiza la importancia de detectar y corregir errores temprano en el desarrollo.
