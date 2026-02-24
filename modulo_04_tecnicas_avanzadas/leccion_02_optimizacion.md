@@ -1,12 +1,16 @@
 # Optimizacion
 
-- Optimizar código Python para mejorar la eficiencia y velocidad de ejecución.
-- Implementar técnicas de programación funcional y orientada a objetos para optimización.
+## Objetivos
+- Comprender los conceptos básicos de optimización en Python.
+- Aprender a utilizar herramientas y técnicas para mejorar la eficiencia del código.
 
-En esta lección sobre optimización en Python, se explorará cómo mejorar el rendimiento del código mediante diversas estrategias. Se abordarán conceptos como la minimización de operaciones innecesarias, la utilización eficiente de estructuras de datos, y la implementación de algoritmos más eficientes. Además, se discutirá la importancia de la programación funcional y orientada a objetos para optimizar el código.
+## Contenido
+La optimización es crucial para aumentar el rendimiento de programas escritos en Python. Para lograrlo, se puede aplicar una serie de técnicas que van desde la selección adecuada de estructuras de datos hasta la utilización de bibliotecas y módulos específicamente diseñados para mejorar el desempeño. Por ejemplo, al trabajar con listas grandes, es más eficiente utilizar `numpy` en lugar de listas estándar debido a su implementación optimizada bajo el capó. Además, el uso de comprensiones de lista puede reducir la complejidad de los bucles y mejorar significativamente el rendimiento.
 
-Para practicar estos conceptos, los alumnos deberán optimizar un programa que simule una lista de tareas pendientes. El objetivo es mejorar el tiempo de ejecución del programa sin modificar su comportamiento original. Se recomienda utilizar técnicas vistas en la lección y documentar cada cambio realizado junto con sus motivaciones.
+## Ejercicio
+Escribe un programa que calcule la suma de los primeros 1000 números pares utilizando `numpy` y compresión de listas. Luego, compara el tiempo de ejecución con una versión similar que utilice solo listas estándar en Python. Mide el tiempo antes y después de cada versión del código para evaluar la diferencia.
 
-- Optimización mediante minimización de operaciones.
-- Uso eficiente de estructuras de datos.
-- Implementación de algoritmos más eficientes.
+## Resumen
+- La optimización en Python se logra mediante la selección adecuada de estructuras de datos.
+- Herramientas como `numpy` pueden mejorar significativamente el rendimiento, especialmente con grandes cantidades de datos.
+- El uso de comprensiones de lista puede reducir la complejidad y mejorar la eficiencia del código.
