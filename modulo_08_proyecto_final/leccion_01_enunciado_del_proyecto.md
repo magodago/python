@@ -1,19 +1,26 @@
 # Enunciado del proyecto
 
 ## Objetivos
-- Entender los requisitos y objetivos del proyecto final.
-- Desarrollar habilidades para planificar y estructurar un proyecto de Python.
+- El estudiante comprenderá la importancia de planificar y definir claramente un proyecto antes de su implementación.
+- El estudiante aprenderá a formular objetivos claros para el proyecto final en Python.
 
 ## Contenido
-El enunciado del proyecto final es crucial ya que define el alcance, las metas y los requisitos técnicos del trabajo. En este módulo, se presentará un caso práctico donde los estudiantes deberán desarrollar una aplicación web utilizando Flask para gestionar tareas personales. El objetivo principal es aplicar los conocimientos adquiridos en el curso a través de la implementación de una solución real. Los estudiantes también aprenderán cómo documentar sus proyectos, planificar su desarrollo y presentar sus resultados.
+El proyecto final es una oportunidad para aplicar los conocimientos adquiridos durante el curso. Este ejercicio busca que cada estudiante desarrolle una aplicación real utilizando Python, lo que permitirá consolidar sus habilidades de programación y resolución de problemas. El enunciado del proyecto debe incluir un problema específico a resolver, las tecnologías o librerías a utilizar, los requisitos funcionales y no funcionales, así como la estructura general del código.
+
+Para lograr esto, es crucial que cada estudiante defina claramente el propósito de su aplicación. Por ejemplo, podrían optar por desarrollar un sistema de gestión de tareas, una calculadora financiera o una herramienta para analizar datos. Es importante que los estudiantes consideren aspectos como la interfaz de usuario, la seguridad y la escalabilidad del proyecto.
 
 ## Ejercicio
-Desarrolla un plan de trabajo para el proyecto final. En tu plan incluye:
-1. Una descripción breve del problema que resuelve tu aplicación.
-2. Las tecnologías a utilizar (por ejemplo, Flask, SQL).
-3. Un cronograma detallado con las etapas principales y fechas límite.
-4. Un diagrama de flujo básico para la funcionalidad principal de la aplicación.
+Desarrolla un esbozo del enunciado del proyecto final basándote en uno de los siguientes temas:
+1. Desarrollo de una aplicación web para administrar tareas personales.
+2. Creación de un simulador financiero que calcule la rentabilidad de inversiones.
+3. Implementación de un analizador de datos para procesar y visualizar información.
+
+Para cada opción, incluye los siguientes elementos en tu esbozo:
+- Breve descripción del problema a resolver
+- Tecnologías o librerías propuestas
+- Requisitos funcionales (características principales)
+- Requisitos no funcionales (aspectos técnicos o de usuario)
 
 ## Resumen
-- El enunciado del proyecto final es fundamental para su desarrollo exitoso.
-- Los estudiantes deben planificar y estructurar sus proyectos para asegurar que cumplan con los requisitos.
+- El enunciado del proyecto debe ser claro y detallado.
+- Incluir elementos como el propósito, las tecnologías y los requisitos es fundamental para un buen desarrollo.
