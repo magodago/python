@@ -1,12 +1,11 @@
 # Despliegue
 
-- Comprender los pasos necesarios para desplegar una aplicación Python.
-- Identificar y configurar las herramientas adecuadas para un despliegue seguro y eficiente.
+- Entender los conceptos básicos de despliegue web para aplicaciones Python.
+- Aprender a utilizar un servidor web como Gunicorn y Nginx para desplegar una aplicación Flask.
 
-La lección de despliegue en este curso de Python se centra en la implementación práctica de tu código. Aprenderás cómo preparar tu aplicación para el entorno de producción, incluyendo la elección del servidor web correcto, la configuración de un entorno virtual y la optimización del rendimiento. Se discutirán también las mejores prácticas para asegurar que tu aplicación esté lista para desplegarse, desde la gestión de dependencias hasta el control de versiones con Git.
+El despliegue es un paso crucial en el ciclo de vida de cualquier proyecto de desarrollo web. En esta lección, se explorará cómo preparar tu aplicación Python para ser desplegada en producción. Se comenzará con la selección del servidor web adecuado y luego se explicará cómo configurarlo junto con Gunicorn, un servidor de aplicaciones que puede manejar múltiples solicitudes de manera eficiente. Además, se discutirá la configuración básica de Nginx como proxy inverso para mejorar el rendimiento y la seguridad de tu aplicación.
 
-Para este ejercicio, despliega una pequeña aplicación web creada en Flask a un servidor local o remoto. Primero, crea un entorno virtual y instala las dependencias necesarias. Luego, configura tu archivo `requirements.txt` para que otros desarrolladores puedan replicar el mismo entorno. Finalmente, despliega la aplicación utilizando un servidor web como Gunicorn y asegúrate de que esté funcionando correctamente.
+Para practicar estos conceptos, los estudiantes deberán desplegar una aplicación Flask simple en un entorno local utilizando Gunicorn y Nginx. Esto incluirá instalar las dependencias necesarias, configurar el servidor web y Gunicorn, y finalmente probar que la aplicación se despliega correctamente.
 
-- Crear un entorno virtual y configurarlo con las dependencias necesarias.
-- Desplegar una aplicación Flask utilizando Gunicorn.
-- Configurar Git para controlar versiones del código.
+- Familiarizarse con los conceptos de despliegue web.
+- Configurar un entorno local para el despliegue de una aplicación Flask.
