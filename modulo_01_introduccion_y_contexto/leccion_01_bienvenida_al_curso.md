@@ -1,15 +1,17 @@
 # Bienvenida al curso
 
-Objetivos
-- Familiarizar a los estudiantes con Python y su importancia actual.
-- Presentar la estructura del curso y las herramientas que se utilizarán.
+- Familiarizarse con Python y su relevancia actual.
+- Comprender los fundamentos del lenguaje de programación.
 
-Contenido
-Bienvenidos al curso de Python. Este lenguaje de programación es ampliamente utilizado en una variedad de campos, desde desarrollo web hasta análisis de datos e inteligencia artificial. Su sintaxis clara y legible lo hace ideal para principiantes y expertos. Durante este curso, aprenderemos a utilizar Python para resolver problemas y automatizar tareas, explorando conceptos fundamentales como variables, estructuras de control y funciones.
+Python es un lenguaje de programación de alto nivel que se destaca por su simplicidad y claridad en la escritura de código. Su sintaxis amigable facilita el aprendizaje para principiantes, pero también ofrece funcionalidades avanzadas que lo hacen adecuado para proyectos complejos. Este curso te guiará a través del camino hacia una comprensión sólida de Python, desde sus fundamentos hasta su aplicación en diversas áreas como desarrollo web, análisis de datos y más.
 
-Ejercicio
-Escriba un pequeño programa que solicite al usuario su nombre y luego lo salude con un mensaje personalizado. Este ejercicio ayudará a familiarizarse con la entrada del usuario y la impresión en pantalla, dos operaciones básicas en Python.
+Para comenzar, es importante instalar Python en tu computadora. Puedes descargar la última versión de Python desde el sitio oficial. Una vez instalado, puedes probar si Python se ha configurado correctamente ejecutando un simple script en tu terminal o consola de comandos:
 
-Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- El curso se estructurará para cubrir conceptos fundamentales y aplicaciones prácticas.
+```python
+print("¡Bienvenido al curso de Python!")
+```
+
+Este ejercicio te ayudará a verificar que Python esté correctamente instalado y listo para comenzar a codificar.
+
+- Instalar Python.
+- Ejecutar el primer programa.
