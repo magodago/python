@@ -1,18 +1,18 @@
 # Enunciado del proyecto
 
 ## Objetivos
-- Comprender los requisitos y objetivos del proyecto final.
-- Desarrollar habilidades para la planificación y diseño de un proyecto basado en Python.
+- Comprender la importancia y requisitos del proyecto final.
+- Desarrollar una descripción clara y detallada del enunciado del proyecto.
 
 ## Contenido
-El proyecto final de este curso es diseñar e implementar una aplicación de línea de comandos (CLI) que resuelva problemas complejos utilizando lógica de programación avanzada. La aplicación debe ser capaz de realizar al menos tres funciones distintas y estar bien documentada para facilitar su comprensión y uso por otros desarrolladores. Este proyecto te permitirá aplicar los conocimientos adquiridos durante el curso en un entorno real, mejorando tus habilidades de programación y resolución de problemas.
-
-El desarrollo del proyecto se dividirá en varias etapas: definición del problema a resolver, diseño arquitectónico, implementación y pruebas. Es importante que documentes cada paso del proceso para poder presentar tu trabajo de manera clara y concisa.
+El proyecto final de este curso es diseñar e implementar un programa Python que resuelva un problema real. Este ejercicio práctico permitirá integrar los conocimientos adquiridos durante el curso, desde la sintaxis básica hasta la programación orientada a objetos y la manipulación de datos. El enunciado del proyecto debe incluir una descripción clara del problema a resolver, las tecnologías o bibliotecas que se deben utilizar, y los criterios de evaluación para asegurar que el trabajo cumple con los requisitos del curso.
 
 ## Ejercicio
-Desarrolla un esbozo inicial del proyecto final. Define el problema que quieres resolver con la aplicación CLI, identifica las tres funciones principales que incluirá y crea una estructura básica del código que permita implementar estas funcionalidades. Documenta cada decisión tomada en tu proceso de diseño.
+Elija un problema real que pueda abordar utilizando Python. Por ejemplo, puede ser un sistema de gestión de inventario, una aplicación de análisis de datos financieros o un juego simple. Escriba un breve resumen de su proyecto, incluyendo:
+- **Problema a resolver**: ¿Qué problema pretende solucionar?
+- **Tecnologías utilizadas**: ¿Cuáles son las bibliotecas o tecnologías que planea usar en su proyecto?
+- **Criterios de evaluación**: ¿Cómo se evaluará el éxito del proyecto?
 
 ## Resumen
-- Definir claramente el problema a resolver.
-- Diseñar e implementar al menos tres funciones distintas.
-- Documentar cada paso del proceso para facilitar la presentación y comprensión del proyecto.
+- El proyecto final es una oportunidad para aplicar los conocimientos adquiridos.
+- El enunciado debe ser claro y detallado, incluyendo el problema a resolver, las tecnologías utilizadas y los criterios de evaluación.
