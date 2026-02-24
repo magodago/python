@@ -1,11 +1,15 @@
 # Diagnostico
 
-- Identificar y corregir errores comunes en programas de Python.
-- Optimizar el rendimiento de scripts Python mediante la identificación de posibles problemas.
+Objetivos
+- Identificar y diagnosticar problemas comunes en la ejecución de programas Python.
+- Mejorar la eficiencia y rendimiento del código a través de técnicas básicas de diagnóstico.
 
-Python es un lenguaje de programación versátil que puede enfrentar diversos problemas, desde errores sintácticos hasta problemas de rendimiento. En esta lección, aprenderemos a diagnosticar y solucionar estos problemas de manera efectiva. Comenzaremos analizando mensajes de error y trazando el flujo del programa para identificar áreas problemáticas. Posteriormente, exploraremos técnicas para optimizar la eficiencia de nuestros scripts, incluyendo la gestión adecuada de recursos y la utilización de estructuras de datos apropiadas.
+Contenido
+En esta lección, se abordarán los pasos esenciales para diagnosticar problemas en el código Python. Comenzaremos con la interpretación de errores y mensajes de excepción, aprendiendo a leer y comprender estos mensajes para identificar dónde y cuándo ocurren las fallas. Posteriormente, se explorará cómo utilizar herramientas como `pdb` (Python Debugger) para realizar una depuración paso a paso del código. Estos métodos permitirán al estudiante localizar y corregir errores de manera más efectiva.
 
-Para practicar estos conceptos, los estudiantes deberán analizar un script Python que realiza operaciones matemáticas complejas. El objetivo es identificar posibles errores en el código y sugerir mejoras para aumentar su eficiencia. Los pasos a seguir incluyen leer el código proporcionado, ejecutarlo y observar los resultados, así como utilizar herramientas de depuración integradas en Python o IDEs populares.
+Ejercicio
+Implemente un programa simple en Python que genere un error de división por cero. Luego, use `pdb` para depurar el código y encontrar dónde se produce el error. Registre los pasos de la depuración y cómo corrigió el problema.
 
-- Comprender cómo interpretar mensajes de error.
-- Identificar áreas de optimización en un script Python.
+Resumen
+- Se aprendió a identificar y comprender errores en Python.
+- Se practicó la utilización del debugger `pdb` para mejorar la capacidad de diagnóstico y corrección de errores.
