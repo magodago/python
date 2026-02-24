@@ -1,47 +1,17 @@
 # Puntos clave
 
 ### Objetivos
-- Comprender la utilización de decoradores en Python.
-- Aprender a manejar excepciones de manera eficiente.
+- Comprender y aplicar la programación orientada a objetos en Python.
+- Implementar patrones de diseño básicos para mejorar la estructura del código.
 
 ### Contenido
-Los decoradores son una característica poderosa y versátil de Python que permiten modificar el comportamiento de funciones o métodos sin alterar su estructura. Un decorador es simplemente una función que toma otra función como argumento, agrega ciertas funcionalidades y devuelve la función modificada. Por ejemplo:
+En esta lección, profundizaremos en el uso de la programación orientada a objetos (POO) en Python. Estudiarás cómo definir clases y objetos, así como cómo implementar herencia y polimorfismo. La POO es una técnica fundamental para organizar el código de manera más estructurada y reutilizable. Aprenderás a crear clases con atributos y métodos, y a utilizar herencia para crear jerarquías de clases que comparten funcionalidad.
 
-```python
-def my_decorator(func):
-    def wrapper():
-        print("Algo antes")
-        func()
-        print("Algo después")
-    return wrapper
-
-@my_decorator
-def say_hello():
-    print("¡Hola!")
-
-say_hello()
-```
-
-En este código, `my_decorator` es un decorador que agrega una funcionalidad adicional a la función `say_hello`. La sintaxis `@my_decorator` antes de la definición de `say_hello` indica que se debe aplicar el decorador a esa función.
-
-Además, manejar excepciones de manera eficiente es crucial para evitar que el programa se detenga abruptamente. Python proporciona una serie de excepciones predefinidas y permite definir propias si es necesario. La estructura básica para manejar excepciones es:
-
-```python
-try:
-    # Código susceptible a errores
-except Excepcion1:
-    # Manejo del error Excepcion1
-except Excepcion2 as e:
-    # Manejo del error Excepcion2 y acceso al mensaje de error con `e`
-else:
-    # Ejecutado si no se produce ninguna excepción
-finally:
-    # Ejecutado siempre, independientemente de si ocurrió una excepción o no
-```
+Además, se explorará la implementación de patrones de diseño básicos como el Singleton y el Factory Method. Estos patrones ayudan a resolver problemas comunes en el desarrollo de software de manera más eficiente y mantenible. A través del estudio de ejemplos prácticos, entenderás cómo aplicar estos patrones para mejorar la calidad del código.
 
 ### Ejercicio
-Escribe un decorador que registre el tiempo de ejecución de una función y lo imprima en la consola. Luego, aplica este decorador a una función que calcule los primeros 10 números de Fibonacci.
+Implementa una clase `Libro` que tenga atributos como título, autor y año de publicación. Luego, crea una subclase `Ebook` que herede de `Libro` y agregue un nuevo atributo `formato`. Define métodos en ambas clases para mostrar información sobre el libro.
 
 ### Resumen
-- Los decoradores permiten modificar el comportamiento de funciones sin alterar su estructura.
-- Manejar excepciones eficientemente es crucial para evitar errores y mantener la fluidez del programa.
+- La programación orientada a objetos permite organizar el código de manera estructurada.
+- Se utilizan patrones de diseño como Singleton y Factory Method para resolver problemas comunes.
