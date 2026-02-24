@@ -1,18 +1,18 @@
 # Revision
 
-- Comprender y aplicar técnicas avanzadas de programación en Python para optimizar el rendimiento del código.
-- Analizar y mejorar la eficiencia de programas complejos utilizando técnicas como la programación funcional, la programación orientada a objetos y la programación concurrente.
+## Objetivos
+- Revisar y consolidar los conceptos fundamentales de Python.
+- Analizar y aplicar técnicas avanzadas para mejorar la eficiencia del código.
 
-Python es un lenguaje de programación versátil que ofrece una amplia gama de técnicas avanzadas para desarrollar aplicaciones eficientes. Entre estas técnicas se encuentran:
+## Contenido
+En esta lección, se revisará el uso de decoradores en Python, que son una técnica poderosa para modificar funcionalidades de funciones o métodos sin alterar su estructura. También se explorará la optimización de código mediante la utilización de comprensiones de lista y diccionarios, que ofrecen una forma concisa y eficiente de trabajar con colecciones de datos.
 
-- **Programación funcional**: Permite trabajar con funciones como si fueran objetos, lo que facilita la creación de código más limpio y modular. La utilización de funciones lambda y comprensiones de lista puede mejorar significativamente la legibilidad del código.
-- **Programación orientada a objetos (POO)**: Facilita el manejo de datos complejos y la reutilización de código mediante clases y objetos. El uso adecuado de herencia, polimorfismo y encapsulamiento puede hacer que el código sea más mantenible y escalable.
-- **Programación concurrente**: Permite ejecutar múltiples tareas simultáneamente a través del uso de hilos o procesos. Las bibliotecas como `concurrent.futures` y `multiprocessing` en Python facilitan la implementación de esta técnica, mejorando el rendimiento de aplicaciones que realizan operaciones intensivas.
+Además, se abordará el uso de generadores y corrutinas para manejar grandes cantidades de datos de manera eficiente. Estos conceptos son cruciales para desarrollar aplicaciones robustas y eficientes en Python.
 
-### Ejercicio
-Implemente un programa que use programación funcional para calcular el factorial de varios números a la vez utilizando comprensiones de lista. Luego, modifique el código para utilizar `concurrent.futures.ThreadPoolExecutor` para realizar estas operaciones concurrentemente y compare los tiempos de ejecución.
+## Ejercicio
+Implemente un decorador que muestre el tiempo de ejecución de una función. Luego, utilice este decorador con una función que genere números primos hasta un cierto límite utilizando comprensiones de lista. Compare el rendimiento del código antes y después de aplicar el decorador.
 
-### Resumen
-- Se ha revisado la importancia de técnicas avanzadas en Python.
-- Se destacan las ventajas de la programación funcional, orientada a objetos y concurrente.
-- Se ha proporcionado un ejercicio práctico para aplicar estas técnicas.
+## Resumen
+- Decoradores permiten modificar funcionalidades sin alterar la estructura de las funciones.
+- Comprensiones de lista y diccionarios ofrecen una forma concisa y eficiente para trabajar con colecciones de datos.
+- Generadores y corrutinas son útiles para manejar grandes cantidades de datos de manera eficiente.
