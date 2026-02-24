@@ -1,22 +1,15 @@
 # Primeros pasos practicos
 
-## Objetivos
-- Familiarizar al estudiante con la instalación y configuración de Python.
-- Introducir a los conceptos básicos de sintaxis y estructura del lenguaje.
+- Familiarizarse con la instalación y configuración de Python en un entorno de desarrollo.
+
+- Comenzar a escribir y ejecutar programas básicos para entender el flujo de trabajo y sintaxis inicial de Python.
 
 ## Contenido
-En esta lección, aprenderás a instalar Python en tu computadora y cómo verificar su correcta instalación. Adicionalmente, exploraremos los primeros pasos en la escritura de código Python, incluyendo variables, tipos de datos básicos (como enteros, cadenas y flotantes), y operadores aritméticos. Es importante entender que Python es un lenguaje interpretado, lo que significa que cada línea de código se ejecuta individualmente.
-
-Para comenzar a programar en Python, es necesario tener instalado el intérprete del lenguaje. Puedes descargar la última versión desde el sitio oficial de Python (https://www.python.org/downloads/). Durante la instalación, asegúrate de marcar la opción que agrega Python al PATH de tu sistema operativo para facilitar su uso.
+En esta lección, se profundizará en los primeros pasos prácticos con Python. Primero, se explicará cómo instalar Python en un sistema operativo local (Windows, macOS o Linux) asegurándose que esté correctamente configurado para ejecutar scripts de Python. Luego, se guiará a los estudiantes a través del proceso de escribir y ejecutar su primer programa simple, como "¡Hola, Mundo!", utilizando una interfaz de línea de comandos (CLI). Este ejercicio no solo permitirá a los estudiantes ver el resultado inmediato de su trabajo, sino que también les ayudará a comprender la estructura básica de un script Python.
 
 ## Ejercicio
-Escribe un programa simple en Python que realice las siguientes tareas:
-1. Asigna el valor 5 a una variable llamada `edad`.
-2. Imprime el tipo de dato de `edad` utilizando la función `type()`.
-3. Crea una variable `nombre` con tu nombre y muestra su longitud.
-4. Define una variable `altura` como un flotante (por ejemplo, 1.75) e imprime si es mayor que 2.
+Escribe y ejecuta un programa en Python que imprima "¡Hola, Mundo!" en la consola. Asegúrate de guardar el archivo con una extensión .py (por ejemplo, hola_mundo.py). Luego, abre una terminal o línea de comandos, navega al directorio donde guardaste tu archivo y ejecuta `python3 hola_mundo.py` para ver la salida.
 
 ## Resumen
-- Instalación de Python y configuración del entorno de desarrollo.
-- Uso básico de variables y tipos de datos en Python.
-- Ejecución de operaciones simples con variables.
+- Instalar Python en el sistema local.
+- Escribir y ejecutar un programa simple como "¡Hola, Mundo!".
