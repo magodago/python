@@ -5,11 +5,11 @@ Objetivos
 - Identificar las características principales que hacen a Python un lenguaje versátil.
 
 Contenido
-En esta lección, exploraremos el contexto y las razones por las que Python ha ganado tanta popularidad. Aprenderemos sobre su simplicidad y claridad, lo que lo hace accesible para principiantes, así como su amplia gama de aplicaciones en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más. También discutiremos la sintaxis básica y cómo Python facilita la escritura de código limpio y eficiente.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Se caracteriza por su sintaxis clara y legible, lo que facilita tanto el aprendizaje como la escritura del código. Su diseño simple y conciso permite a los desarrolladores expresar ideas en menos líneas de código en comparación con otros lenguajes. Además, Python cuenta con una gran comunidad de usuarios y un amplio conjunto de bibliotecas que lo hacen muy versátil para diversas aplicaciones, desde desarrollo web hasta ciencia de datos.
 
 Ejercicio
-Implementa un programa simple que imprima "¡Hola, mundo!" utilizando Python. Luego, modifica el programa para que solicite al usuario su nombre e imprimas un saludo personalizado.
+Escribe un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica el programa para que pregunte al usuario su nombre y muestre un mensaje personalizado con ese nombre.
 
 Resumen
 - Python es un lenguaje de programación versátil y fácil de aprender.
-- Su sintaxis clara y concisa lo hace ideal para principiantes y expertos.
+- Su sintaxis clara y legible facilita tanto el desarrollo como la lectura del código.
