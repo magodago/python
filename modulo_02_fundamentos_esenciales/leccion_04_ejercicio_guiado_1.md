@@ -1,11 +1,14 @@
 # Ejercicio guiado 1
 
-- Comprender la estructura básica de un programa en Python.
-- Utilizar variables y operadores aritméticos para resolver problemas simples.
-
-En esta lección del módulo Fundamentos esenciales, se explorará cómo iniciar un programa básico en Python, introduciendo el concepto de variables y operaciones matemáticas. Se aprenderá a escribir código que permita al usuario realizar cálculos sencillos, como sumar dos números ingresados por teclado. Este ejercicio servirá para familiarizarse con la sintaxis básica del lenguaje y los primeros pasos en el desarrollo de programas.
-
-Para practicar estos conceptos, se propone el siguiente ejercicio: Escribir un programa que solicite al usuario que ingrese dos números enteros e imprima su suma. El código debe ser claro y estructurado, utilizando comentarios para explicar cada paso del proceso. Este ejercicio permitirá consolidar la comprensión de las variables y operaciones básicas en Python.
-
 - Familiarizarse con la sintaxis básica de Python.
-- Desarrollar un programa que realice una operación matemática simple.
+- Implementar un programa simple que calcule la suma de dos números ingresados por el usuario.
+
+En esta lección del módulo Fundamentos esenciales, se explorará la sintaxis fundamental de Python a través de una práctica directa. Los estudiantes aprenderán cómo escribir y ejecutar un script básico en Python que solicite al usuario dos números enteros, los sume y luego muestre el resultado en pantalla. Este ejercicio servirá como una introducción a la entrada de datos, operaciones matemáticas básicas y la estructura básica de un programa en Python.
+
+Para realizar este ejercicio, los estudiantes deben seguir estos pasos:
+1. Abrir un editor de texto o un entorno de desarrollo integrado (IDE) que soporte Python.
+2. Escribir el código para solicitar al usuario dos números enteros utilizando la función `input()`.
+3. Convertir las entradas en enteros usando la función `int()` y sumarlos.
+4. Mostrar el resultado en pantalla utilizando la función `print()`.
+
+Al final de esta lección, los estudiantes deberán haber comprendido cómo estructurar un programa simple en Python y estarán listos para avanzar a conceptos más complejos del lenguaje.
