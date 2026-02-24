@@ -1,21 +1,16 @@
 # Terminologia basica
 
 Objetivos
-- Comprender y utilizar correctamente la terminología básica de Python.
-- Identificar y explicar los conceptos fundamentales del lenguaje.
+- Comprender los conceptos fundamentales de programación relevantes para Python.
+- Familiarizarse con la terminología básica que se utilizará a lo largo del curso.
 
 Contenido
-En esta lección se introducirán los términos esenciales que todo estudiante de Python debe conocer. Se tratará sobre variables, tipos de datos, operadores y estructuras de control básicas. Estos elementos forman la base para cualquier programa en Python y son cruciales para su correcta implementación.
-
-Las variables son contenedores donde se almacenan valores que pueden ser modificados durante la ejecución del programa. En Python, los tipos de datos más comunes incluyen enteros (int), flotantes (float), cadenas de texto (str) y booleanos (bool). Los operadores permiten realizar operaciones matemáticas básicas o comparativas entre variables.
-
-Las estructuras de control como if-else y bucles for/while son fundamentales para la lógica del programa, ya que determinan el flujo de ejecución basándose en condiciones específicas. Estas estructuras permiten al programador automatizar tareas complejas y realizar decisiones dentro del código.
+En esta lección, introduciremos algunos términos esenciales y conceptos básicos que son cruciales para entender el funcionamiento de Python. Comenzaremos definiendo qué es un **nombre o identificador**, que es una secuencia de caracteres que se utiliza para nombrar variables, funciones, clases, etc., y debe cumplir ciertas reglas (no puede comenzar con un número, por ejemplo). Luego, exploraremos el concepto de **variable**, que almacena datos en la memoria del programa. Finalmente, presentaremos las **funciones** como bloques de código reutilizables que realizan una tarea específica y pueden recibir parámetros para personalizar su comportamiento.
 
 Ejercicio
-Crea un programa simple en Python que solicite al usuario su nombre e imprima un mensaje personalizado. Utiliza variables para almacenar el nombre ingresado, tipos de datos apropiados para las operaciones necesarias y estructuras de control básicas para manejar la entrada del usuario.
+Cree un script simple en Python donde defina una variable llamada `edad` con el valor 25. Luego, escriba una función llamada `mostrar_edad` que tome la variable `edad` como argumento y muestre por pantalla "Tengo X años", reemplazando X con el valor de la variable.
 
 Resumen
-- Variables: contenedores para valores en Python.
-- Tipos de datos: int, float, str, bool.
-- Operadores: matemáticos y comparativos.
-- Estructuras de control: if-else, bucles for/while.
+- Un **nombre o identificador** es un nombre único para referirse a variables, funciones, clases, etc.
+- Una **variable** almacena datos en memoria que pueden ser modificados durante la ejecución del programa.
+- Las **funciones** son bloques de código reutilizables que realizan tareas específicas y pueden recibir parámetros.
