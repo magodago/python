@@ -1,37 +1,23 @@
 # Implementacion paso a paso
 
 ## Objetivos
-- Implementar un proyecto real que permita al usuario crear una lista de compras personalizada.
-- Aprender a utilizar estructuras de datos como listas y diccionarios para gestionar el contenido de la lista de compras.
+- Comprender cómo implementar un proyecto real utilizando Python.
+- Aprender a estructurar y organizar el código para proyectos más complejos.
 
 ## Contenido
-En esta lección, continuaremos con nuestro viaje hacia la implementación de proyectos reales en Python. Vamos a crear un programa que permita al usuario agregar, eliminar y visualizar artículos en una lista de compras personalizada. Este ejercicio no solo nos ayudará a practicar el manejo de listas y diccionarios, sino también a mejorar nuestras habilidades en la interacción con los usuarios a través de la entrada y salida estándar.
+En esta lección, se abordará la implementación paso a paso de una aplicación simple que registra tareas. Se comenzará con la definición del problema y la planificación del proyecto, pasando por la instalación de las dependencias necesarias hasta la implementación del código y la prueba de la funcionalidad. Es crucial entender cómo dividir el problema en partes manejables y cómo organizar el código para facilitar su mantenimiento y expansión.
 
-Para comenzar, definiremos una clase `ListaCompras` que contendrá métodos para agregar artículos (`agregar_articulo`), eliminar artículos (`eliminar_articulo`) y mostrar la lista actualizada (`mostrar_lista`). Cada artículo se almacenará en un diccionario con el nombre del artículo y su cantidad. Este diseño nos permitirá gestionar información detallada sobre cada artículo de manera eficiente.
+Se explicará la importancia de usar buenas prácticas de codificación, como la creación de funciones claras y reutilizables, así como la documentación del código. También se discutirá la implementación de una base de datos simple para almacenar las tareas registradas, utilizando SQLite como ejemplo.
 
 ## Ejercicio
-Implementa una clase `ListaCompras` que permita al usuario realizar las siguientes acciones:
-1. Agregar artículos a la lista de compras.
-2. Eliminar artículos de la lista de compras.
-3. Mostrar todos los artículos en la lista actualizada.
+Implementa un sistema de registro de tareas básico en Python que permita al usuario:
+1. Agregar nuevas tareas.
+2. Ver todas las tareas existentes.
+3. Marcar una tarea como completada.
 
-Puedes utilizar el siguiente código como punto de partida:
-
-```python
-class ListaCompras:
-    def __init__(self):
-        self.articulos = {}
-
-    def agregar_articulo(self, nombre, cantidad):
-        # Implementa este método para agregar un artículo a la lista
-
-    def eliminar_articulo(self, nombre):
-        # Implementa este método para eliminar un artículo de la lista
-
-    def mostrar_lista(self):
-        # Implementa este método para mostrar todos los artículos en la lista
-```
+Puedes usar la biblioteca `sqlite3` para gestionar la base de datos y `tkinter` para crear la interfaz gráfica del usuario (GUI). Recuerda documentar tu código y organizarlo en módulos claros.
 
 ## Resumen
-- Se ha definido una clase `ListaCompras` que utiliza listas y diccionarios para gestionar la información de la lista de compras.
-- El ejercicio consiste en completar métodos para agregar, eliminar y visualizar artículos en la lista de compras.
+- Se aprendió a dividir el problema en partes manejables.
+- Se implementó una aplicación básica utilizando Python, SQLite y tkinter.
+- Se enfatizó la importancia de buenas prácticas de codificación.
