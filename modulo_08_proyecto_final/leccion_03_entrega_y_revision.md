@@ -1,15 +1,11 @@
 # Entrega y revision
 
-Objetivos
-- Entender los criterios de evaluación del proyecto final de Python.
-- Preparar y presentar la entrega del proyecto final.
+- Entender los criterios de evaluación y entrega del proyecto final.
+- Practicar la presentación y defensa de su trabajo en Python ante un panel.
 
-Contenido
-En esta lección sobre entrega y revisión del proyecto final en Python, se abordará el proceso de preparación y presentación del trabajo desarrollado. Se explicarán los aspectos clave que serán evaluados por los jueces, incluyendo la implementación correcta de conceptos de programación, la eficiencia del código, la documentación y la presentación oral. Se recomendará a los estudiantes revisar cuidadosamente sus proyectos antes de la entrega final, asegurándose de que cumplan con los requisitos establecidos.
+En esta lección sobre la entrega y revisión del proyecto final, se abordará el proceso de presentación y defensa de los trabajos realizados. Se explicarán detalladamente los criterios de evaluación que se utilizarán para calificar las entregas, incluyendo aspectos técnicos como la eficiencia del código y la resolución de problemas, así como elementos no técnicos como la claridad en la comunicación y el cumplimiento de los requisitos propuestos. Se discutirá también cómo presentar el trabajo de manera efectiva ante un panel de evaluadores.
 
-Ejercicio
-Los alumnos deben preparar una presentación breve (5-7 minutos) sobre su proyecto final en Python, explicando el problema planteado, la solución implementada y los resultados obtenidos. Durante la clase, cada estudiante realizará una demostración oral de su trabajo, seguida de preguntas del resto de la clase.
+Ejercicio: Cada estudiante presentará brevemente su proyecto final a un grupo de compañeros simulando una situación de revisión por parte de expertos en Python. Deberán preparar una diapositiva con los puntos clave de su trabajo, explicar el problema que resuelve y demostrar cómo funciona el código. Posteriormente, recibirán feedback constructivo del panel.
 
-Resumen
-- Se revisarán los criterios de evaluación para el proyecto final.
-- Los estudiantes prepararán y presentarán sus trabajos en clase.
+- Familiarizarse con los criterios de evaluación.
+- Practicar la presentación y defensa de proyectos ante un panel.
