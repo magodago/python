@@ -2,17 +2,14 @@
 
 ## Objetivos
 - Comprender los conceptos fundamentales de Python.
-- Aprender a escribir y ejecutar programas básicos en Python.
+- Familiarizarse con la sintaxis básica y estructuras de control.
 
 ## Contenido
-Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis clara y concisa lo hace ideal para principiantes. Los fundamentos esenciales incluyen conocer los tipos de datos básicos como enteros, cadenas y flotantes, así como entender cómo se estructuran las variables y sus operaciones. Python utiliza indentación para delimitar bloques de código, distinguiéndose de otros lenguajes que usan llaves o palabras clave.
-
-Además, es importante familiarizarse con las estructuras básicas de control de flujo como las sentencias `if`, `else` y `elif` para realizar decisiones en el programa, así como los bucles `for` y `while` para iterar sobre secuencias y ejecutar código repetidamente. Estas herramientas son esenciales para resolver problemas complejos de manera modular y eficiente.
+Python es un lenguaje de programación interpretado, de alto nivel y fácil de aprender. Su sintaxis limpia y legible hace que sea ideal para principiantes, pero también muy utilizado en desarrollo web, ciencia de datos, inteligencia artificial y más. Los conceptos clave incluyen variables, tipos de datos básicos (como enteros, cadenas y flotantes) y estructuras de control como if-else y bucles for y while.
 
 ## Ejercicio
-Escribe un programa que solicite al usuario su nombre y edad, luego imprima un mensaje que diga "Hola [nombre], en 10 años tendrás [edad + 10] años".
+Escribe un programa que solicite al usuario su nombre y edad, luego imprima un mensaje diciendo cuántos años tendrá el usuario en 10 años. Utiliza variables para almacenar la información ingresada por el usuario y operaciones básicas de aritmética para calcular la edad futura.
 
 ## Resumen
-- Python es un lenguaje de alto nivel con sintaxis clara.
-- Los tipos de datos básicos son fundamentales para cualquier programa.
-- Las estructuras de control de flujo permiten la toma de decisiones y la iteración en el código.
+- Variables y tipos de datos.
+- Estructuras de control if-else y bucles for/while.
