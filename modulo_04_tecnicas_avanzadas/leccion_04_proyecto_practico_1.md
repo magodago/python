@@ -1,15 +1,11 @@
 # Proyecto practico 1
 
-## Objetivos
-- Desarrollar un proyecto que integre técnicas avanzadas de Python para mejorar la eficiencia del código.
-- Aplicar patrones de diseño y bibliotecas externas en el desarrollo de una aplicación práctica.
+- Implementar un sistema de gestión de inventario utilizando clases y herencia.
+- Desarrollar una interfaz gráfica simple para interactuar con el sistema de inventario.
 
-## Contenido
-En esta lección, se profundizará en la utilización de patrones de diseño y librerías externas como Pandas y NumPy para manejar datos complejos. Se comenzará explicando cómo optimizar el código mediante la implementación del patrón Singleton para asegurar que ciertas clases solo tengan una instancia, lo cual es útil para manejos de recursos limitados. Posteriormente, se explorará cómo usar Pandas y NumPy para manipular grandes conjuntos de datos eficientemente, destacando las ventajas de estas bibliotecas en comparación con el manejo directo de listas y diccionarios.
+En esta lección, se profundizará en la aplicación práctica de conceptos avanzados de Python, como la programación orientada a objetos (POO) y la creación de interfaces gráficas. Los estudiantes aprenderán cómo utilizar clases y herencia para modelar diferentes tipos de productos en un sistema de inventario. Además, se trabajará con Tkinter, una biblioteca incorporada de Python que permite crear aplicaciones de escritorio.
 
-## Ejercicio
-Implemente un programa que use la biblioteca Pandas para leer un archivo CSV y aplicar una serie de operaciones estadísticas. Luego, utilice NumPy para realizar cálculos numéricos complejos sobre los datos procesados por Pandas. Finalmente, implemente el patrón Singleton en una clase que gestione la conexión a una base de datos SQL local.
+El ejercicio consistirá en diseñar e implementar un programa que permita al usuario administrar el stock de diferentes productos en una tienda ficticia. El programa deberá incluir la capacidad para agregar nuevos productos, actualizar sus detalles y mostrar el inventario actualizado. Los estudiantes deberán crear clases para diferentes tipos de productos (por ejemplo, libros, ropa, electrónicos) que hereden de una clase base "Producto". La interfaz gráfica permitirá a los usuarios interactuar con estos objetos de manera intuitiva.
 
-## Resumen
-- Se ha integrado el uso de patrones de diseño y bibliotecas externas para mejorar la eficiencia del código.
-- Se ha aplicado Pandas y NumPy para manejo eficiente de grandes conjuntos de datos.
+- Diseñar y implementar un sistema de gestión de inventario utilizando POO.
+- Utilizar Tkinter para crear una interfaz gráfica simple.
