@@ -1,11 +1,11 @@
 # Recursos de la comunidad
 
-- Familiarizarse con los recursos de la comunidad Python disponibles.
-- Comprender cómo utilizar estas herramientas para mejorar el aprendizaje y desarrollo personal.
+- Los estudiantes aprenderán a identificar y utilizar recursos de la comunidad Python.
+- Comprenderán cómo participar activamente en foros y grupos de discusión para mejorar su aprendizaje y colaboración.
 
-La comunidad Python es una red vibrante y diversa que abarca desde principiantes hasta expertos. Entre sus recursos se encuentran foros, tutoriales, documentación oficial, grupos de estudio y meetups locales. Estos recursos no solo proporcionan ayuda técnica, sino también inspiración y motivación para seguir aprendiendo.
+La lección se centrará en el valor de la comunidad Python como un recurso invaluable para los programadores. Se explicará cómo acceder a plataformas populares como Stack Overflow, GitHub y Reddit, así como a recursos más especializados como documentación oficial, tutoriales y cursos online. Además, se destacarán las ventajas de participar en foros y grupos de discusión, como el apoyo mutuo, la resolución rápida de problemas y la oportunidad de aprender desde los errores de otros.
 
-Para practicar, busca en línea un tutorial o curso básico de Python y participa en su foro de discusión. Responde preguntas de otros usuarios o pide ayuda si necesitas aclarar conceptos. Esta experiencia te ayudará a familiarizarte con la dinámica de la comunidad y a mejorar tus habilidades.
+Ejercicio: Los estudiantes deben buscar y registrar al menos cinco recursos útiles de la comunidad Python que cubran temas específicos (por ejemplo, machine learning, web scraping) y preparar una presentación breve sobre cómo utilizar estos recursos en sus proyectos futuros.
 
-- Familiaridad con los recursos comunitarios.
-- Participación activa en foros y grupos de estudio.
+- Los estudiantes identificarán y describirán recursos clave de la comunidad Python.
+- Entenderán el valor de participar activamente en foros y grupos para mejorar su aprendizaje.
