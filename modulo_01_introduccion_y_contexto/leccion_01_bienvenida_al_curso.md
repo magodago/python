@@ -1,11 +1,16 @@
 # Bienvenida al curso
 
-- Familiarizarse con el entorno de programación Python.
-- Comprender los beneficios y aplicaciones del lenguaje Python.
+Objetivos
+- Familiarizar a los estudiantes con el concepto de Python y su importancia actual.
+- Explicar brevemente la estructura del curso para establecer expectativas.
 
-En esta lección inicial del curso sobre Python, se presentará un panorama general de lo que aprenderán durante el curso. Se introducirá a los estudiantes al lenguaje de programación Python, destacando su versatilidad y amplia gama de aplicaciones en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial, ciencia de la computación e incluso automatización de tareas diarias. Se explicará cómo Python se ha convertido en una herramienta esencial para profesionales y amantes de la programación debido a su sintaxis clara y legible.
+Contenido
+En este primer módulo, introduciremos Python, un lenguaje de programación de alto nivel que se ha convertido en una herramienta esencial en el campo de la informática. Python es conocido por su sintaxis clara y legible, lo que facilita tanto su aprendizaje como su uso para desarrollar aplicaciones robustas. Este curso está diseñado para proporcionarte una sólida base en Python, desde los fundamentos básicos hasta conceptos más avanzados, con el objetivo de que puedas aplicarlo en diversos contextos, ya sea en desarrollo web, análisis de datos o inteligencia artificial.
 
-Para comenzar, los estudiantes realizarán un ejercicio práctico: instalar el entorno de desarrollo Python (como Anaconda) y ejecutar su primer programa básico en el editor de código. Este ejercicio servirá para familiarizarse con el proceso de instalación y la configuración inicial necesaria antes de comenzar a codificar.
+Ejercicio
+Crea un programa simple en Python que imprima "¡Bienvenido al curso de Python!" en la consola. Asegúrate de seguir los pasos de instalación del entorno de desarrollo y configuración básica antes de comenzar a codificar.
 
-- Instalación del entorno de desarrollo Python.
-- Ejecución del primer programa en Python.
+Resumen
+- Introducción a Python como lenguaje de programación.
+- Importancia y aplicaciones de Python en diversos campos.
+- Estructura general del curso para un aprendizaje efectivo.
