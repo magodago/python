@@ -1,24 +1,12 @@
 # Mantenimiento
 
-- Comprender los aspectos clave del mantenimiento de código Python existente.
-- Identificar y corregir problemas comunes en proyectos de Python.
+- Comprender los conceptos básicos de mantenimiento de código en Python.
+- Identificar y corregir errores comunes para mejorar la calidad del código existente.
 
-El mantenimiento es una etapa crucial en la vida de cualquier proyecto de software, incluyendo aquellos desarrollados con Python. En esta lección, se abordarán los aspectos más importantes del mantenimiento de código Python existente. Se discutirá cómo identificar problemas comunes como errores de sintaxis, bugs y problemas de rendimiento, así como técnicas para corregir estos problemas de manera eficiente.
+El mantenimiento de código es una parte crucial del desarrollo de software, especialmente cuando se trata de proyectos a largo plazo. En este módulo, se enfatizará la importancia de mantener el código bien documentado y organizado, lo cual facilita su comprensión y modificación futura. Se abordarán técnicas como la revisión de código, la detección de errores utilizando herramientas de depuración y pruebas unitarias, y la optimización del rendimiento del programa.
 
-Se explorará la importancia de documentación clara y actualizada, el uso de pruebas unitarias para asegurar que el código siga funcionando correctamente con las modificaciones realizadas, y la implementación de buenas prácticas de codificación para facilitar futuras mejoras. Se proporcionará un enfoque práctico sobre cómo mantener un proyecto Python saludable a lo largo del tiempo.
+Para practicar estos conceptos, los alumnos deberán realizar una revisión de un código existente que implementa una calculadora básica en Python. El objetivo es identificar posibles errores o áreas de mejora en el código y proponer soluciones para mejorar su calidad. Los estudiantes deben documentar sus hallazgos y presentar un informe resumido con las correcciones realizadas.
 
-Ejercicio: Analiza el siguiente código Python que calcula el factorial de un número y realiza las modificaciones necesarias para corregir los posibles errores encontrados, mejorar la documentación y añadir pruebas unitarias:
-
-```python
-def factorial(n):
-    resultado = 1
-    for i in range(1,n+1)
-        resultado *= i
-    return resultado
-
-print(factorial(5))
-```
-
-Resumen:
-- Identificar problemas comunes en el código.
-- Implementar mejoras en documentación y pruebas unitarias.
+- Mejorar la documentación del código.
+- Identificar y corregir errores en el código existente.
+- Proporcionar una revisión detallada y propuestas de mejora.
