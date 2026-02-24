@@ -1,18 +1,12 @@
 # Conclusiones
 
-Objetivos
-- Conocer los beneficios y aplicaciones prácticas del uso de Python.
-- Reflejar sobre el proceso de desarrollo del proyecto final.
+- Consolidar los conocimientos adquiridos durante el curso de Python.
+- Aplicar los conceptos aprendidos para la resolución de problemas complejos mediante un proyecto final.
 
-Contenido
-En esta lección final del módulo dedicado al proyecto, es importante reflexionar sobre las ventajas que ofrece Python en la implementación de soluciones informáticas. Este lenguaje de programación se destaca por su sintaxis clara y legible, lo que facilita tanto el desarrollo como la mantenibilidad del código. Además, Python cuenta con una gran comunidad de desarrolladores y una amplia biblioteca estándar, lo cual permite abordar diversos problemas de manera eficiente.
+En esta lección final del módulo sobre Proyecto Final, se enfatizará la importancia de integrar todos los aspectos teóricos y prácticos estudiados durante el curso. Se discutirá cómo aplicar estructuras de datos avanzadas, programación orientada a objetos, manejo de excepciones, y optimización de código en un proyecto real. Se resaltarán las mejores prácticas para la documentación del código y la presentación de resultados.
 
-Durante el proyecto final, se ha trabajado en la creación de un sistema que resuelve un problema específico utilizando conceptos y técnicas aprendidos durante el curso. Este proceso nos ha permitido aplicar conocimientos teóricos sobre estructuras de datos, algoritmos y programación orientada a objetos, así como adquirir experiencia práctica en la implementación de soluciones complejas.
+Para este ejercicio final, los alumnos deberán desarrollar una aplicación que permita gestionar una biblioteca digital. La aplicación debe incluir funcionalidades como el registro de usuarios, búsqueda de libros por título o autor, préstamo y devolución de libros, y generación de informes estadísticos sobre la actividad de prestatarios. Los estudiantes deben utilizar los conceptos aprendidos para estructurar su código de manera eficiente y modular.
 
-Ejercicio
-Reflexiona sobre los aspectos más destacados del proyecto final. Identifica tres beneficios que Python ha aportado a tu desarrollo durante el proceso. Especifica cómo cada uno de estos beneficios se manifestó en el trabajo realizado y cómo podrían ser útiles en futuros proyectos.
-
-Resumen
-- Se han explorado las ventajas prácticas de usar Python.
-- El proyecto final ha sido un espacio para aplicar conocimientos adquiridos.
-- Los alumnos deben identificar los beneficios específicos del lenguaje en su trabajo.
+Los puntos clave a resumir son:
+- Integración efectiva de todos los conceptos estudiados.
+- Uso adecuado de buenas prácticas en programación y documentación.
