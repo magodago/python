@@ -1,11 +1,11 @@
 # Feedback
 
-- Comprender y aplicar los conceptos de feedback constructivo en el desarrollo del proyecto final.
-- Desarrollar habilidades para recibir críticas de manera positiva y utilizarlas para mejorar la calidad del código.
+- Entender y aplicar el feedback recibido sobre su proyecto final de Python.
+- Mejorar la calidad del código mediante la implementación de sugerencias y correcciones.
 
-El feedback es un componente crucial en cualquier proceso creativo, incluyendo el desarrollo de software con Python. En este módulo, aprenderás a valorar los comentarios constructivos que te puedan llegar durante el desarrollo de tu proyecto final. Es importante entender que el feedback no se centra solo en identificar errores o defectos, sino también en reconocer las fortalezas y áreas de mejora del código. Este proceso es fundamental para el crecimiento personal y profesional.
+El objetivo principal de esta lección es que los estudiantes comprendan cómo utilizar el feedback para mejorar su proyecto final en Python. Los participantes aprenderán a evaluar críticamente las observaciones recibidas, identificar áreas de mejora y aplicar dichas mejoras de manera efectiva al código. Esto incluye revisar la estructura del programa, optimizar el rendimiento, refinar la legibilidad y asegurar que el código cumpla con los estándares de buena práctica en programación.
 
-Para practicar estas habilidades, te invito a compartir tu proyecto final con un compañero de clase y recibir sus comentarios. Asegúrate de escuchar atentamente cada sugerencia, preguntando por claridad si es necesario, y anotándolas en una hoja de trabajo para revisión posterior. Posteriormente, reflexiona sobre estas críticas y considera cómo puedes aplicarlas para mejorar tu código.
+Para practicar estos conceptos, los estudiantes deberán seleccionar dos comentarios específicos proporcionados por su instructor o compañeros. Cada comentario debe ser analizado para comprender completamente su significado y relevancia. Luego, los participantes deberán realizar las modificaciones necesarias en su código, justificando cada cambio realizado.
 
-- Practicar la recepción y aplicación del feedback constructivo.
-- Reflexionar sobre las fortalezas y áreas de mejora identificadas en el proyecto final.
+- Comprender la importancia del feedback en el proceso de desarrollo de software.
+- Aplicar críticamente el feedback recibido para mejorar la calidad del proyecto final.
