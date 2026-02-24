@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con recursos online y offline disponibles.
-- Identificar herramientas de desarrollo integrado (IDE) y entornos virtuales útiles.
+- Familiarizarse con recursos de aprendizaje en línea y fuera de línea que pueden ayudar a profundizar en Python.
+- Identificar y utilizar herramientas de documentación y comunidad para resolver dudas y mejorar el código.
 
-La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de opciones para aprender y practicar Python. Se recomienda el uso de plataformas como Codecademy, Coursera y edX que ofrecen cursos interactivos y certificados. También se mencionan IDEs populares como PyCharm, Visual Studio Code y Jupyter Notebook, que facilitan la escritura y ejecución del código. Además, se sugiere la instalación de entornos virtuales con tools como virtualenv o conda para mantener proyectos limpios y evitar conflictos entre dependencias.
+En esta lección, se explorarán los recursos adicionales disponibles para aprender y perfeccionar el uso de Python. Es crucial entender que la autodidacta es una habilidad valiosa en el desarrollo de software, y existen numerosos recursos gratuitos y de pago que pueden ser muy útiles. Se recomienda a los estudiantes familiarizarse con plataformas como la documentación oficial de Python, tutoriales en YouTube, cursos en línea de plataformas como Coursera o Udemy, y grupos de discusión en foros como Stack Overflow y Reddit. Estos recursos proporcionan una amplia gama de información, desde conceptos básicos hasta técnicas avanzadas.
 
-Ejercicio: Investigue y seleccione tres recursos adicionales de su elección (una plataforma online, un IDE y una herramienta de gestión de paquetes) y prepare una breve descripción de cada uno, incluyendo sus ventajas y desventajas.
+Para practicar, los estudiantes deben seleccionar un recurso adicional (por ejemplo, un curso en línea o un libro) y realizar un mini-proyecto que aplique lo aprendido en la lección anterior. Deben documentar su proceso de aprendizaje, incluyendo cualquier desafío enfrentado y cómo lo resolvió.
 
-- Familiarizarse con diferentes plataformas de aprendizaje.
-- Comprender la importancia de IDEs y entornos virtuales en el desarrollo de Python.
+- Familiaridad con una variedad de recursos para aprender Python.
+- Capacidad para identificar y utilizar herramientas de documentación y comunidad.
