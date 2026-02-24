@@ -1,24 +1,30 @@
 # Conceptos clave
 
 ## Objetivos
-- Comprender los conceptos básicos de Python como sintaxis y tipos de datos.
-- Familiarizarse con las estructuras de control de flujo.
+- Comprender los conceptos básicos de Python.
+- Familiarizarse con la sintaxis y estructura fundamental del lenguaje.
 
 ## Contenido
-En esta lección, se introducirá a los estudiantes en la sintaxis básica de Python. Se explicará que Python es un lenguaje de programación interpretado, lo que significa que el código se ejecuta línea por línea sin necesidad de compilarlo previamente. Los tipos de datos fundamentales incluyen enteros (int), flotantes (float), cadenas de texto (str) y booleanos (bool). Además, se presentarán las estructuras de control de flujo básicas como if-else y los bucles for y while, que permiten al programa tomar decisiones y repetir tareas.
+En esta lección se presentarán los fundamentos esenciales de Python, un lenguaje de programación de alto nivel conocido por su simplicidad y claridad. Los conceptos clave incluyen variables y tipos de datos, control de flujo con estructuras condicionales y bucles, y la utilización de funciones para organizar el código. Estos elementos forman la base sobre la cual se construirán habilidades más avanzadas en futuras lecciones.
+
+Las variables y los tipos de datos son fundamentales ya que permiten almacenar y manipular información. Python soporta diversos tipos, como enteros (int), flotantes (float) y cadenas de texto (str). Las estructuras condicionales, como `if` y `elif`, permiten ejecutar código basado en condiciones lógicas, mientras que los bucles (`for` y `while`) se utilizan para repetir bloques de código. Finalmente, las funciones son un mecanismo para encapsular y reutilizar código.
 
 ## Ejercicio
-Escribe un programa en Python que solicite al usuario su edad y determine si es mayor de 18 años. Si la edad es mayor o igual a 18, imprime "Eres mayor de edad". En caso contrario, imprime "Eres menor de edad".
+Escribe un programa simple en Python que solicite al usuario su nombre y edad. Luego, imprime un mensaje saludándolo por su nombre e indicando cuántos años cumplirá el próximo año.
 
 ```python
-edad = int(input("Introduce tu edad: "))
-if edad >= 18:
-    print("Eres mayor de edad")
-else:
-    print("Eres menor de edad")
+# Solicitar al usuario su nombre y edad
+nombre = input("¿Cuál es tu nombre? ")
+edad = int(input("¿Cuál es tu edad? "))
+
+# Calcular la edad del próximo año
+edad_siguiente_anio = edad + 1
+
+# Imprimir el saludo personalizado
+print(f"Hola, {nombre}! El próximo año cumplirás {edad_siguiente_anio} años.")
 ```
 
 ## Resumen
-- Python es un lenguaje interpretado.
-- Los tipos de datos básicos incluyen int, float, str y bool.
-- Se utilizan estructuras de control de flujo como if-else para tomar decisiones.
+- Las variables y tipos de datos son esenciales para almacenar información.
+- Estructuras condicionales y bucles permiten controlar el flujo del programa.
+- Las funciones ayudan a organizar y reutilizar código.
