@@ -1,36 +1,13 @@
 # Temas intermedios
 
-## Objetivos
 - Comprender la utilización de las excepciones y manejo de errores en Python.
-- Familiarizarse con la programación orientada a objetos (POO) avanzada.
+- Implementar funciones recursivas y comprender su uso adecuado.
 
-## Contenido
-En esta lección, profundizaremos en el manejo de excepciones y la implementación de programación orientada a objetos (POO) en Python. Las excepciones son un mecanismo crucial para manejar errores de manera eficiente en el código. Podremos aprender cómo definir nuestras propias excepciones y utilizarlas para mejorar la robustez del software. Además, se explorarán conceptos avanzados de POO como herencia múltiple, polimorfismo y encapsulamiento, con ejemplos prácticos.
+Python es un lenguaje de programación versátil que ofrece herramientas poderosas para el manejo de excepciones, lo cual es crucial para desarrollar aplicaciones robustas. Las excepciones permiten gestionar errores de manera más eficiente y proporcionan una mejor experiencia al usuario final. Por ejemplo, puedes utilizar bloques `try`, `except` y `finally` para capturar y manejar diferentes tipos de errores que puedan surgir durante la ejecución del programa.
 
-## Ejercicio
-Escribe un programa que simule una calculadora básica (suma, resta, multiplicación y división) utilizando clases y métodos. Implementa la lógica de manejo de excepciones para tratar divisiones por cero y entradas inválidas.
+Además, las funciones recursivas son un concepto importante en programación avanzada. Una función recursiva se llama a sí misma en su interior, lo cual puede ser útil para resolver problemas que pueden dividirse en subproblemas similares. Sin embargo, es crucial entender cómo y cuándo usarlas correctamente para evitar bucles infinitos o sobrecargas de memoria.
 
-```python
-class Calculadora:
-    def __init__(self):
-        pass
+Para practicar estos conceptos, puedes implementar un programa que use excepciones para manejar divisiones por cero y otros errores numéricos comunes. Luego, diseña una función recursiva que calcule el factorial de un número.
 
-    def suma(self, a, b):
-        return a + b
-
-    def resta(self, a, b):
-        return a - b
-
-    def multiplicacion(self, a, b):
-        return a * b
-
-    def division(self, a, b):
-        try:
-            return a / b
-        except ZeroDivisionError:
-            print("No se puede dividir por cero.")
-```
-
-## Resumen
-- Se aprendió a definir y utilizar excepciones personalizadas en Python.
-- Se profundizó en la programación orientada a objetos, cubriendo temas como herencia múltiple y manejo de errores.
+- Dominar la gestión de excepciones en Python.
+- Aplicar correctamente las funciones recursivas en soluciones de problemas.
