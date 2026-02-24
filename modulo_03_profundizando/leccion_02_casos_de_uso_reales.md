@@ -1,11 +1,11 @@
 # Casos de uso reales
 
 - Entender cómo Python se aplica en soluciones reales de la industria.
-- Analizar casos de uso avanzados de Python en proyectos empresariales.
+- Analizar casos de uso específicos para mejorar la capacidad de resolución de problemas del estudiante.
 
-Python es una herramienta versátil que se ha consolidado como lenguaje preferido para desarrollar aplicaciones en diversas áreas. En este módulo, profundizaremos en su utilización a través de ejemplos prácticos y reales. Por ejemplo, en el sector financiero, Python se emplea para analizar grandes volúmenes de datos financieros, predecir tendencias del mercado e implementar algoritmos de trading automático. Además, en la industria de la salud, el lenguaje permite el procesamiento y análisis de datos genómicos, lo que es crucial para el desarrollo de terapias personalizadas.
+Python es ampliamente utilizado en diversas áreas debido a su simplicidad y versatilidad. En este módulo, exploraremos cómo Python se aplica en el desarrollo web con Django, una framework popular que permite crear aplicaciones web robustas y escalables. Además, veremos cómo Python se utiliza en la ciencia de datos para análisis estadísticos complejos utilizando bibliotecas como Pandas y NumPy. Estos casos de uso reales no solo ilustran las capacidades del lenguaje, sino que también proporcionan un marco para aplicar conocimientos teóricos a soluciones prácticas.
 
-Para ilustrar estos conceptos, los estudiantes deberán desarrollar un programa que utilice machine learning para predecir el precio de las acciones basado en datos históricos. El ejercicio consistirá en recopilar un conjunto de datos desde una fuente pública, prepararlo y luego entrenar un modelo utilizando bibliotecas como Pandas y Scikit-learn.
+Para practicar, los estudiantes deben desarrollar una pequeña aplicación web utilizando Django que permita a los usuarios ingresar y visualizar datos de ventas. La aplicación debe incluir funcionalidades como la creación de tablas de ventas, gráficos de barras para visualización y un sistema de búsqueda eficiente. Este ejercicio no solo refuerza el uso de Python en desarrollo web sino también fomenta la resolución de problemas prácticas.
 
-- Comprender la aplicación de Python en finanzas.
-- Desarrollar habilidades para el análisis predictivo con machine learning.
+- Comprender la implementación de Django para aplicaciones web.
+- Aplicar conocimientos de ciencia de datos con Pandas y NumPy en un proyecto real.
