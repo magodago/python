@@ -1,19 +1,36 @@
 # Temas intermedios
 
-- Comprender la utilización de funciones lambda y comprensión de listas para simplificar el código.
-- Familiarizarse con el manejo avanzado de excepciones y su gestión en Python.
+- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
+- Implementar y utilizar clases y objetos avanzados para resolver problemas complejos.
 
-Las funciones lambda y la comprensión de listas son herramientas poderosas que permiten escribir código más conciso y eficiente. Las funciones lambda, también conocidas como funciones anónimas, son útiles para crear pequeñas funciones sin nombre. Por otro lado, la comprensión de listas ofrece una forma compacta de generar listas basadas en secuencias existentes o concreto cálculos.
+Python nos permite mejorar la funcionalidad de nuestras funciones mediante el uso de decoradores, que son una forma elegante de modificar comportamientos de funciones o métodos. Un decorador es simplemente un patrón de diseño que permite a los programadores agregar nuevas capacidades a las funciones y clases existentes sin alterar su estructura.
 
-Para ilustrar su uso, consideremos un ejemplo donde necesitamos filtrar y transformar una lista de números para obtener solo los pares mayores que 10. Podríamos hacerlo utilizando funciones lambda junto con comprensión de listas:
+Por ejemplo, podemos crear un decorador para medir el tiempo de ejecución de una función:
 
 ```python
-numeros = [2, 5, 8, 9, 11, 13, 16, 17]
-pares_mayores_10 = [x for x in map(lambda n: n * 2 if n % 2 == 0 and n > 10 else None, numeros) if x is not None]
-print(pares_mayores_10)
+import time
+
+def timer_decorator(func):
+    def wrapper():
+        start_time = time.time()
+        func()
+        end_time = time.time()
+        print(f"Tiempo de ejecución: {end_time - start_time} segundos")
+    return wrapper
+
+@timer_decorator
+def mi_funcion():
+    # Código a medir
+    for _ in range(1000000):
+        pass
+
+mi_funcion()
 ```
 
-Este código primero aplica una función lambda a cada elemento de la lista `numeros`, duplicando solo los números pares mayores que 10 y convirtiendo el resto en `None`. Luego, la comprensión de listas filtra estos valores, eliminando `None` para dejar solo los resultados deseados.
+Este decorador `timer_decorator` mide el tiempo que tarda en ejecutarse la función `mi_funcion`. La sintaxis `@timer_decorator` antes de definir `mi_funcion` indica que queremos aplicar este decorador a dicha función.
 
-- Comprender cómo utilizar funciones lambda y comprensión de listas para optimizar el código.
-- Aplicar correctamente el manejo avanzado de excepciones en situaciones específicas.
+Para el ejercicio, implemente un decorador que registre las llamadas a una función y cuente cuántas veces se ha ejecutado. Luego, utilícelo en una función que genere números primos hasta cierto límite.
+
+## Resumen
+- Decoradores permiten extender funcionalidades de funciones o métodos sin modificar su estructura.
+- Las clases avanzadas y objetos pueden ser utilizados para resolver problemas complejos mediante la encapsulación, herencia y polimorfismo.
