@@ -1,19 +1,25 @@
 # Implementacion paso a paso
 
-- Comprender cómo estructurar un proyecto real en Python.
-- Implementar una solución práctica utilizando funciones y clases.
+### Objetivos
+- Comprender y aplicar los conceptos de programación orientada a objetos en Python.
+- Desarrollar un proyecto simple que integre diferentes módulos y funcionalidades.
 
-Para esta lección, se enfocará en la implementación paso a paso de un proyecto real que consiste en el desarrollo de una calculadora simple. Este proyecto servirá para aplicar conceptos básicos de programación orientada a objetos, incluyendo la definición de funciones y clases, lo cual es fundamental para cualquier desarrollador Python.
-
-El alumno aprenderá a crear una interfaz de línea de comandos (CLI) donde el usuario puede realizar operaciones matemáticas básicas como suma, resta, multiplicación y división. Esto involucrará la creación de una clase `Calculadora` con métodos para cada tipo de operación, así como un menú interactivo que permita al usuario seleccionar las operaciones deseadas.
+### Contenido
+En esta lección, continuaremos nuestro camino hacia la implementación práctica del conocimiento adquirido sobre Python. Vamos a desarrollar un pequeño sistema de gestión de tareas. Este proyecto nos permitirá aplicar los conceptos de programación orientada a objetos (POO) que hemos estudiado anteriormente. Nuestro objetivo es crear una clase `Tarea` con atributos como título, descripción y estado (por ejemplo, pendiente, en progreso, completada). Además, implementaremos métodos para agregar tareas, marcarlas como completadas y listar las tareas según su estado.
 
 ### Ejercicio
-Implemente una calculadora simple en Python siguiendo los siguientes pasos:
-1. Crea una clase llamada `Calculadora`.
-2. Dentro de la clase, define métodos para realizar sumas, restas, multiplicaciones y divisiones.
-3. Implementa un menú interactivo que permita al usuario seleccionar las operaciones deseadas y proporcionar los números a utilizar.
-4. Asegúrate de manejar correctamente los errores, como la división por cero.
+Implementa la clase `Tarea` con los siguientes atributos:
+- `titulo`: un string que representa el título de la tarea.
+- `descripcion`: una string que describe brevemente la tarea.
+- `estado`: un string que indica si la tarea está pendiente, en progreso o completada.
+
+Luego, desarrolla métodos para:
+1. Agregar una nueva tarea.
+2. Marcar una tarea como completada.
+3. Listar todas las tareas pendientes.
+4. Listar todas las tareas completadas.
 
 ### Resumen
-- Se aprendió a estructurar un proyecto real en Python utilizando funciones y clases.
-- Se implementó una calculadora simple con una interfaz CLI que permite realizar operaciones matemáticas básicas.
+- Implementación de la clase `Tarea` utilizando POO en Python.
+- Desarrollo de métodos para manipular y gestionar tareas.
+- Integración de diferentes módulos y funcionalidades en un proyecto real.
