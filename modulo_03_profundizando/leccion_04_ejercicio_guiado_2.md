@@ -1,18 +1,13 @@
 # Ejercicio guiado 2
 
-### Objetivos
-- Implementar funciones recursivas en Python.
-- Optimizar el uso de listas y diccionarios para resolver problemas complejos.
+- Comprender la utilización de listas y diccionarios para manejar datos complejos.
+- Implementar funciones personalizadas que manipulen estos datos estructurados.
 
-### Contenido
-En esta lección profundizaremos en la implementación de funciones recursivas, una técnica fundamental para resolver problemas que se pueden descomponer en subproblemas similares. A través del estudio de ejemplos prácticos, aprenderemos a definir y utilizar funciones recursivas de manera eficiente. Además, exploraremos cómo optimizar el uso de estructuras de datos como listas y diccionarios para mejorar la eficiencia de nuestro código.
+En esta lección profundizaremos en el uso de listas y diccionarios, dos estructuras de datos fundamentales en Python. A través del estudio de ejemplos prácticos, aprenderemos a almacenar, acceder y modificar información compleja en forma organizada. Además, trabajaremos en la creación de funciones que operen sobre estos tipos de datos, lo cual nos permitirá abordar problemas más complejos de manera eficiente.
 
-Para ilustrar estos conceptos, veremos un ejemplo donde se implementa una función recursiva para calcular el factorial de un número. Posteriormente, discutiremos cómo almacenar y recuperar información utilizando listas y diccionarios en contextos donde la recursividad es aplicable, lo que permitirá manejar datos complejos con mayor facilidad.
+Ejercicio: 
+Diseña un programa que simule una librería digital. La aplicación deberá permitir al usuario registrar libros (cada libro debe tener título, autor y género) en una lista y luego buscar un libro por su título o autor utilizando diccionarios para almacenar esta información de manera eficiente. Luego, implementa una función que muestre todos los libros del género especificado.
 
-### Ejercicio
-Implementa una función recursiva para calcular el factorial de un número. Luego, utiliza esta función para resolver el problema del "Cálculo de números triangulares", donde cada número triangular se obtiene sumando los números naturales consecutivos hasta ese punto (por ejemplo, 1, 3, 6, 10, ...). Almacena y recupera estos números en una lista y en un diccionario para comparar la eficiencia de ambas estructuras de datos.
-
-### Resumen
-- Se ha implementado una función recursiva para calcular el factorial de un número.
-- Se han utilizado listas y diccionarios para almacenar y recuperar información relacionada con los números triangulares.
-- Se ha optimizado el uso de estas estructuras de datos en contextos donde la recursividad es aplicable.
+Resumen:
+- Listas y diccionarios son herramientas esenciales para manejar datos complejos en Python.
+- Las funciones personalizadas permiten operaciones más específicas sobre estos tipos de datos, mejorando la legibilidad y reutilización del código.
