@@ -1,13 +1,11 @@
 # Puntos clave
 
-- Comprender la utilización avanzada de las estructuras de control en Python.
-- Implementar funciones y métodos más complejos para resolver problemas.
+- Entender la utilización avanzada de las estructuras de datos en Python.
+- Implementar funciones y métodos personalizados para optimizar el código.
 
-Python es un lenguaje de programación versátil que ofrece una gran variedad de características para desarrollar soluciones complejas. En esta lección, profundizaremos en la utilización avanzada de las estructuras de control, permitiendo manejar situaciones más dinámicas y eficientes. Además, exploraremos funciones y métodos más complejos, como la programación orientada a objetos y el manejo de excepciones, para mejorar la legibilidad y mantenibilidad del código.
+Las estructuras de datos avanzadas como diccionarios con vistas (dictviews) y colecciones como `collections.defaultdict`, `OrderedDict` y `Counter` son fundamentales para manejar datos complejos eficientemente. Por ejemplo, `defaultdict` permite asignar un valor predeterminado a una clave inexistente, lo que simplifica la lógica de manejo de errores en el código. Además, `Counter` es útil para contar elementos en una secuencia y proporciona métodos útiles como `most_common()`.
 
-Para ejemplificar estos conceptos, se desarrollará un programa que permita al usuario ingresar datos sobre diferentes productos en una tienda virtual. El programa utilizará estructuras de control condicionales y cíclicas para procesar la información y funciones para realizar operaciones como el cálculo del precio final considerando descuentos y impuestos.
+Para practicar, implementa una función que use `defaultdict` para contar la frecuencia de aparición de cada palabra en un texto dado, ignorando mayúsculas y minúsculas. La función debe devolver el diccionario con las palabras y sus respectivas frecuencias.
 
-**Ejercicio:** Implemente un módulo que permita al usuario ingresar datos de productos (nombre, precio base, cantidad) y calcule el precio total aplicando un descuento del 10% si la cantidad es mayor a 5 unidades. Utilice funciones para modularizar su código y maneje excepciones en caso de entrada no válida.
-
-- Dominar las estructuras de control avanzadas.
-- Implementar funciones y métodos complejos para resolver problemas prácticos.
+- Utilizar `defaultdict` para manejar contadores de elementos.
+- Implementar funciones personalizadas que optimicen la lógica del código.
