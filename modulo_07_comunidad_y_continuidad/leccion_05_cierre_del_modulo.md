@@ -1,16 +1,11 @@
 # Cierre del modulo
 
-## Objetivos
-- Consolidar los conocimientos adquiridos durante el módulo sobre Python.
-- Preparar a los estudiantes para aplicar sus habilidades en proyectos futuros.
+- Consolidar el conocimiento adquirido durante el módulo de Python.
+- Fomentar la continuidad del aprendizaje y el uso práctico de los conceptos estudiados.
 
-## Contenido
-En esta lección final del módulo, revisaremos los conceptos clave que se han cubierto hasta ahora. Hablaremos de la importancia de la continuidad en el aprendizaje y cómo Python puede ser una herramienta vital para diversos campos como la ciencia de datos, desarrollo web o inteligencia artificial. Discutiremos ejemplos prácticos de cómo los conocimientos adquiridos pueden ser aplicados en proyectos reales, y reflexionaremos sobre el camino que queda por recorrer en el aprendizaje de Python.
+En esta lección final, es importante reflexionar sobre todo lo que se ha aprendido en el módulo de Python. Se ha abordado desde las bases fundamentales hasta la programación orientada a objetos, pasando por la manipulación de datos y el desarrollo web con Django. Es crucial internalizar estos conceptos para poder aplicarlos en proyectos reales y continuar explorando nuevas áreas del lenguaje.
 
-## Ejercicio
-Implementa un pequeño proyecto que integre varios conceptos vistos durante el módulo. Por ejemplo, puedes crear una aplicación web simple con Flask que utilice pandas para manejar datos y matplotlib para visualizar información. Recuerda documentar tu proceso y reflexionar sobre cómo podrías mejorar tu código en futuras iteraciones.
+Para practicar lo aprendido, se solicita que los estudiantes desarrollen un pequeño proyecto personal que combine varios de los temas estudiados durante el módulo. Por ejemplo, podrían crear una aplicación web con Django que utilice bases de datos para almacenar y gestionar información de usuarios o productos. Este ejercicio permitirá integrar conocimientos en diferentes áreas y demostrar la comprensión del material.
 
-## Resumen
-- Recapitulación de los conceptos clave del módulo.
-- Importancia de la continuidad en el aprendizaje de Python.
-- Aplicación práctica de los conocimientos adquiridos a través de un proyecto integrador.
+- Integración de múltiples conceptos aprendidos.
+- Desarrollo práctico a través de un proyecto personal.
