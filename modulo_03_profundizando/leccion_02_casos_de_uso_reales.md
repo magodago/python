@@ -1,11 +1,11 @@
 # Casos de uso reales
 
-- Familiarizarse con la implementación de algoritmos de aprendizaje automático utilizando Python.
-- Aplicar conocimientos prácticos de programación orientada a objetos para resolver problemas complejos.
+- Comprender cómo Python se aplica en la automatización de tareas diarias.
+- Analizar ejemplos prácticos de cómo Python puede ser utilizado en proyectos reales.
 
-En esta lección, profundizaremos en el uso real de Python en proyectos de análisis de datos y desarrollo web. Veremos cómo se utiliza Python en la industria para automatizar tareas, procesar grandes volúmenes de datos y crear aplicaciones eficientes. Se explorará el uso de bibliotecas populares como Pandas y NumPy para manipulación de datos, así como Flask o Django para el desarrollo web.
+Python es una herramienta versátil que se utiliza en una amplia gama de aplicaciones. En este módulo, exploraremos casos de uso reales donde Python ha demostrado su eficacia y flexibilidad. Por ejemplo, en el ámbito del desarrollo web, frameworks como Django y Flask permiten construir aplicaciones web robustas y escalables con relativamente poco código. Además, en el análisis de datos, bibliotecas como Pandas y NumPy facilitan la manipulación y visualización de grandes conjuntos de datos, lo que es crucial para la toma de decisiones informadas.
 
-Ejercicio: Implementa un pequeño sistema en Python que utilice la biblioteca Flask para crear una API simple que permita al usuario ingresar datos de ventas y guarde estos en un archivo CSV. Posteriormente, utiliza Pandas para leer este archivo y generar un informe con estadísticas básicas sobre las ventas.
+Para practicar estos conceptos, los estudiantes deberán desarrollar una pequeña aplicación web utilizando Flask. La tarea consiste en crear un sistema simple que permita a los usuarios registrar y consultar información sobre libros. El sistema debe incluir funcionalidades básicas como la creación, lectura, actualización y eliminación (CRUD) de registros.
 
-- Familiarización con el uso de Flask y Pandas.
-- Aplicación práctica del aprendizaje automático a través de un ejemplo básico.
+- Comprender el uso de Python para desarrollar aplicaciones web con Flask.
+- Familiarizarse con el manejo de datos en Python utilizando Pandas.
