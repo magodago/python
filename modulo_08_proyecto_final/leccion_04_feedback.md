@@ -1,10 +1,11 @@
 # Feedback
 
-- El estudiante aprenderá a solicitar y recibir feedback constructivo sobre su proyecto final de Python.
-- Se profundizará en las técnicas para manejar críticas de manera efectiva y utilizarlas como herramienta de mejora personal.
+- Entender y aplicar el feedback constructivo recibido sobre su proyecto final de Python.
+- Mejorar la calidad del código y la documentación basándose en los comentarios proporcionados.
 
-Para esta lección, los estudiantes deben preparar una presentación breve (5-7 minutos) donde expliquen el propósito del proyecto final de Python, resalten los aspectos más destacados y soliciten feedback constructivo. Se recomienda que incluyan preguntas abiertas para fomentar la interacción con el público.
+Para esta lección, es crucial que reflexionen sobre el feedback recibido durante el desarrollo de su proyecto final. Analicen cada comentario con detenimiento, identificando aspectos a mejorar tanto en el código como en la estructura general del proyecto. Reflexionen también sobre cómo pueden aplicar estos comentarios para fortalecer sus habilidades en Python y en el proceso de programación en general.
 
-Los puntos clave a recordar son:
-- La importancia del feedback en el proceso de aprendizaje.
-- Cómo recibir críticas de manera positiva y utilizarlas para mejorar.
+Realicen una revisión minuciosa de su proyecto, implementando los cambios sugeridos. Si hay dudas o aspectos no claros en los comentarios, busquen a un compañero del curso o al instructor para obtener más orientación. Recuerden que el objetivo principal es aprender y mejorar continuamente.
+
+- Identificar y aplicar los comentarios constructivos sobre su código.
+- Mejorar la calidad de la documentación y la estructura del proyecto.
