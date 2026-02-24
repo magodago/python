@@ -1,22 +1,16 @@
 # Terminologia basica
 
-- Entender y utilizar correctamente la terminología básica de Python.
-- Desarrollar habilidades para leer y describir código Python utilizando la terminología adecuada.
+Objetivos
+- Comprender y utilizar correctamente la terminología básica de Python.
+- Identificar los componentes fundamentales del lenguaje.
 
-Python es un lenguaje de programación de alto nivel que se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta ciencia de datos. Algunas de las términos básicos incluyen: **variables**, que almacenan valores; **tipos de datos**, como enteros, cadenas y flotantes; **funciones**, que permiten agrupar una serie de instrucciones en un bloque de código reutilizable; y **bucles**, que se utilizan para repetir ciertas operaciones. Comprender estos conceptos es fundamental para el desarrollo y mantenimiento eficaz del código.
+Contenido
+En esta lección sobre terminología básica de Python, se explorarán conceptos esenciales que son necesarios para cualquier programador que comienza a aprender este lenguaje. Se abordarán términos como variables, tipos de datos y estructuras de control, que forman la base del código en Python. Las variables permiten almacenar valores, mientras que los tipos de datos (como enteros, cadenas o listas) definen el tipo específico de información que se almacena. Además, las estructuras de control como if-else y bucles for y while son fundamentales para la lógica del programa.
 
-Ejercicio: Escribe una breve descripción utilizando la terminología aprendida para el siguiente fragmento de código:
-```python
-def sumar(a, b):
-    resultado = a + b
-    return resultado
+Ejercicio
+Crea un programa simple en Python que solicite al usuario su nombre y edad, luego imprima un mensaje personalizado. Utiliza variables para almacenar estos valores e incluye una estructura condicional para determinar si la persona es mayor de 18 años o no.
 
-numero1 = 5
-numero2 = 7
-suma_total = sumar(numero1, numero2)
-print("La suma es:", suma_total)
-```
-- **Variables**: `numero1`, `numero2` y `resultado`.
-- **Función**: `sumar`.
-- **Bucle**: No presente en el código.
-- **Tipos de datos**: Enteros (`5`, `7`) y cadena (`"La suma es:"`).
+Resumen
+- Las variables son utilizadas para almacenar datos.
+- Los tipos de datos definen el tipo específico de información.
+- Estructuras de control permiten la lógica y flujo del programa.
