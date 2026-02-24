@@ -1,9 +1,9 @@
 # Donde seguir aprendiendo
 
-- Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
+- El estudiante comprenderá las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
 
-- Se explorarán comunidades en línea como Reddit, Stack Overflow, y Foros de Python donde los estudiantes pueden resolver dudas, compartir conocimientos y acceder a tutoriales y proyectos. También se destacará la importancia de seguir actualizándose con nuevas versiones y mejores prácticas del lenguaje.
+- Se explorarán comunidades de desarrollo como GitHub, Stack Overflow y Foros de Python, así como recursos educativos como Coursera, Udemy y la documentación oficial de Python. Estos recursos permiten al estudiante profundizar en temas específicos o resolver dudas a medida que avanza en su aprendizaje.
 
-- Los estudiantes realizarán una búsqueda en línea para identificar y evaluar tres plataformas o comunidades de Python que les resulten interesantes, justificando por qué las consideran útiles para su aprendizaje continuo.
+- El estudiante realizará una búsqueda en GitHub para encontrar un proyecto de Python relacionado con su interés personal o profesional, e identificará tres contribuciones potenciales al mismo.
 
-- Los estudiantes aprenderán sobre la importancia de participar activamente en comunidades de programación como una forma efectiva de mejorar sus habilidades y conocimientos.
+- Los estudiantes comprenderán la importancia de la comunidad y los recursos continuos en el desarrollo de habilidades en Python. Identificarán fuentes confiables para aprender y colaborar en proyectos.
