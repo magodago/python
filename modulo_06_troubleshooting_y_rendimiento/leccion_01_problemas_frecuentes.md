@@ -1,17 +1,19 @@
 # Problemas frecuentes
 
-## Objetivos
-- Identificar y corregir errores comunes en Python.
-- Analizar y optimizar el rendimiento de código Python.
-
 ## Contenido
-En esta lección, se abordarán problemas frecuentes que los programadores pueden encontrar al trabajar con Python. Uno de los errores más comunes es la incompatibilidad entre tipos de datos, lo cual puede causar excepciones no capturadas durante la ejecución del programa. Por ejemplo, intentar sumar una cadena y un número directamente generará un error de tipo. Para evitar esto, se recomienda siempre verificar el tipo de los datos antes de realizar operaciones.
+En esta lección sobre problemas frecuentes en Python, se abordarán errores comunes que pueden surgir durante la programación y cómo resolverlos de manera eficiente. Se aprenderá a identificar y corregir errores como `NameError`, `TypeError` y `SyntaxError`. Además, se discutirá el uso adecuado de las herramientas integradas en Python para depurar código, como el módulo `pdb`.
 
-Otro problema común es la ineficiencia en el rendimiento del código. Esto puede deberse a bucles innecesarios o al uso excesivo de funciones internas que no están optimizadas para el tamaño del conjunto de datos. Un ejemplo clásico es el uso de listas en lugar de diccionarios cuando se necesita un acceso rápido a elementos basado en una clave.
+Python es un lenguaje de programación flexible que ofrece una gran variedad de funcionalidades, pero también puede generar errores que pueden ser difíciles de resolver si no se tienen los conocimientos necesarios. Los errores más comunes incluyen:
+
+- **NameError**: Este error ocurre cuando se intenta usar una variable o función que no ha sido definida en el contexto actual.
+- **TypeError**: Se produce cuando se intenta realizar una operación con tipos de datos incompatibles, como sumar un número entero a una cadena.
+- **SyntaxError**: Aparece cuando el código no sigue las reglas gramaticales del lenguaje Python.
+
+Para prevenir y resolver estos problemas, es crucial entender la sintaxis correcta y utilizar correctamente los nombres de variables. Además, el uso del depurador `pdb` puede ser muy útil para identificar errores de forma más precisa.
 
 ## Ejercicio
-Escribe un programa en Python que calcule la suma de los primeros 1000 números pares y mide su tiempo de ejecución. Primero, utiliza una lista para almacenar los números pares y luego intenta optimizar el código reemplazando la lista por un diccionario. Mide nuevamente el tiempo de ejecución y compara ambos resultados.
+Implemente un programa que calcule el promedio de una lista de números enteros. Asegúrese de manejar posibles `TypeError` y `ValueError` al intentar convertir elementos no numéricos en enteros. Utilice el depurador `pdb` para identificar y corregir cualquier error que aparezca.
 
 ## Resumen
-- Identificar errores de incompatibilidad entre tipos de datos.
-- Optimizar el rendimiento mediante el uso adecuado de estructuras de datos.
+- Identificación y corrección de errores comunes como `NameError`, `TypeError` y `SyntaxError`.
+- Uso del depurador `pdb` para resolver problemas en el código.
