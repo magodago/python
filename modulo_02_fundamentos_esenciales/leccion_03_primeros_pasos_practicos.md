@@ -1,22 +1,17 @@
 # Primeros pasos practicos
 
-- Familiarizarse con la instalación y configuración de Python.
-- Comprender cómo iniciar un entorno de desarrollo e introducir los primeros comandos.
+- Entender la sintaxis básica de Python y cómo escribir un programa simple.
+- Familiarizarse con los primeros comandos en la consola de Python y ejecutar programas básicos.
 
-Para comenzar, es importante tener Python instalado en nuestro sistema. Existen varias distribuciones disponibles, pero la más común es Anaconda, que viene con una versión de Python preconfigurada y un entorno de desarrollo integrado llamado Jupyter Notebook, muy útil para principiantes. Una vez instalado, podemos abrir el terminal o línea de comandos y escribir `python` (o `python3` si tenemos múltiples versiones) para iniciar la consola interactiva de Python.
+Python es una potente herramienta para el desarrollo de software, gracias a su sintaxis clara y legible. En esta lección, aprenderemos a instalar Python en nuestro sistema, abrir la consola de Python y escribir nuestro primer programa: "¡Hola, Mundo!". Este simple ejemplo nos permitirá familiarizarnos con los conceptos básicos como la declaración de variables, la entrada de texto e impresión.
 
-En esta lección, practicaremos algunos comandos básicos en la consola. Intentemos imprimir un mensaje simple: `print("¡Hola, mundo!")`. También podemos definir variables y realizar operaciones matemáticas sencillas, como `x = 5; y = 10; print(x + y)`.
+Para practicar, ejecutaremos el siguiente código en la consola de Python:
 
-Ejercicio:
-1. Abre el terminal o línea de comandos.
-2. Escribe `python` (o `python3`) para iniciar la consola interactiva.
-3. Introduce los siguientes comandos en orden: 
-   - `print("¡Bienvenido a Python!")`
-   - `nombre = "Juan"`
-   - `edad = 25`
-   - `print(f"Mi nombre es {nombre} y tengo {edad} años")`
+```python
+print("¡Hola, Mundo!")
+```
 
-Resumen:
-- Se instaló correctamente Python.
-- Se inició la consola interactiva de Python.
-- Se practicaron comandos básicos como imprimir texto, definir variables y realizar operaciones matemáticas.
+Este ejercicio nos ayudará a entender cómo se estructuran y ejecutan las instrucciones en Python. Después de esto, podrás probar a cambiar el texto entre comillas para ver cómo se modifica la salida.
+
+- Familiarizarse con la consola de Python.
+- Escribe y ejecuta un programa simple: "¡Hola, Mundo!".
