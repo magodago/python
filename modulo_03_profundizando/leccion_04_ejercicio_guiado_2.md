@@ -1,21 +1,18 @@
 # Ejercicio guiado 2
 
 ## Objetivos
-- Aprender a utilizar la biblioteca `numpy` para realizar operaciones matemáticas avanzadas.
-- Familiarizarse con el uso de arrays multidimensionales y sus aplicaciones en Python.
+- Familiarizar al estudiante con la manipulación de archivos en Python.
+- Introducir el uso de la biblioteca `csv` para leer y escribir archivos CSV.
 
 ## Contenido
-En esta lección del módulo "Profundizando" sobre Python, profundizaremos en el manejo de datos utilizando la biblioteca `numpy`, una herramienta vital para el procesamiento numérico en Python. `numpy` nos permite trabajar con arrays multidimensionales y realizar operaciones matemáticas complejas con eficiencia. A través de ejemplos prácticos, aprenderemos a crear, manipular y operar sobre estos arrays.
-
-Para ilustrar la utilidad de `numpy`, veremos cómo se puede utilizar para resolver problemas que involucran cálculos numéricos intensivos, como la generación de matrices aleatorias, la realización de operaciones matriciales básicas (suma, resta, multiplicación) y el cálculo de estadísticas descriptivas.
+En esta lección, profundizaremos en la manipulación de archivos utilizando Python. Veremos cómo abrir, leer y escribir archivos utilizando métodos estándar de Python, así como cómo utilizar la biblioteca `csv` para manejar archivos CSV de manera más eficiente. Los archivos CSV son un formato comúnmente utilizado para intercambiar datos tabulares entre programas y sistemas. Aprender a trabajar con ellos es fundamental en el análisis de datos.
 
 ## Ejercicio
-Crea un array 3x3 con números enteros aleatorios entre 0 y 10 utilizando `numpy`. Luego, realiza las siguientes tareas:
-
-1. Calcula la suma de todos los elementos del array.
-2. Encuentra el valor máximo y mínimo en cada fila.
-3. Crea una copia del array original y cambia todos los valores pares a cero.
+Escribe un programa que:
+1. Lea un archivo CSV llamado `datos.csv` que contiene información sobre estudiantes (nombre, edad, curso).
+2. Muestra los nombres de todos los estudiantes.
+3. Escribe un nuevo archivo CSV llamado `estudiantes_mayores_de_18.csv` que contenga solo la información de los estudiantes mayores de 18 años.
 
 ## Resumen
-- `numpy` es una biblioteca fundamental para el procesamiento numérico en Python, permitiendo la manipulación de arrays multidimensionales.
-- Se puede utilizar `numpy` para realizar operaciones matemáticas complejas con eficiencia y precisión.
+- Se aprendió a manipular archivos en Python utilizando métodos estándar y la biblioteca `csv`.
+- Se practicó el manejo de archivos CSV, lo cual es una habilidad valiosa para el análisis de datos.
