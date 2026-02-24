@@ -1,15 +1,16 @@
 # Que vas a aprender
 
-Objetivos
-- Comprender la importancia y el contexto de Python en el desarrollo de software.
-- Identificar las características principales que hacen a Python un lenguaje versátil.
+## Objetivos
+- Comprender las características principales de Python y su importancia en la programación.
+- Familiarizarse con los fundamentos básicos del lenguaje.
 
-Contenido
-En esta lección, exploraremos por qué Python es una de las tecnologías más populares para el desarrollo de software. Este lenguaje de programación, desarrollado inicialmente en 1991 por Guido van Rossum, se ha convertido en un estándar debido a su simplicidad y versatilidad. Su sintaxis clara y legible facilita la lectura del código, lo que hace que sea ideal para principiantes y expertos. Además, Python es ampliamente utilizado en áreas como el análisis de datos, ciencia de la computación, desarrollo web, automatización y más, gracias a su gran comunidad y una vasta biblioteca estándar.
+## Contenido
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos que se ha convertido en una herramienta fundamental para desarrolladores debido a su simplicidad y versatilidad. Este curso te introducirá a Python, explorando sus características clave como sintaxis clara, facilidad de aprendizaje y amplia comunidad de usuarios. Aprenderás cómo instalar el entorno de desarrollo, entenderás la estructura básica del código en Python y verás ejemplos prácticos que ilustrarán cómo se utilizan variables, tipos de datos básicos y operadores.
 
-Ejercicio
-Implementa un programa simple que imprima "¡Hola, mundo!" utilizando Python. Luego, modifica el programa para que pida al usuario su nombre y lo salude personalmente.
+## Ejercicio
+Escribe un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica el programa para que pida al usuario su nombre e imprima una saludo personalizado.
 
-Resumen
-- Python es un lenguaje de programación versátil y fácil de aprender.
-- Se utiliza en diversas áreas del desarrollo de software debido a su simplicidad y potencia.
+## Resumen
+- Introducción a las características de Python.
+- Instalación y configuración del entorno de desarrollo.
+- Estructura básica y primeros pasos con variables y tipos de datos.
