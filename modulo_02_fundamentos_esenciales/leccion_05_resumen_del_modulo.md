@@ -1,16 +1,12 @@
 # Resumen del modulo
 
-Objetivos
-- Consolidar la comprensión de los conceptos fundamentales de Python.
-- Aplicar conocimientos adquiridos sobre sintaxis básica y estructuras de datos.
+- Familiarizarse con los conceptos fundamentales de Python.
+- Comprender la estructura básica y sintaxis del lenguaje.
 
-Contenido
-En esta lección final del módulo de Fundamentos esenciales, revisaremos los aspectos clave que se han cubierto hasta ahora. Se ha explorado la instalación y configuración de Python, así como su interpretador interactivo. Se ha presentado la sintaxis básica, incluyendo variables, tipos de datos primitivos y operadores aritméticos y lógicos. Además, se ha estudiado el manejo de listas, tuplas y diccionarios, fundamentales para la manipulación de datos en Python.
+Python es un lenguaje de programación de alto nivel que se caracteriza por su simplicidad y claridad en la escritura. En este módulo, se han explorado los fundamentos esenciales del lenguaje, incluyendo variables y tipos de datos, control de flujo con estructuras condicionales y bucles, así como funciones y modulación. Estos conceptos son cruciales para cualquier programador que desee dominar Python y construir una base sólida en el desarrollo de software.
 
-Ejercicio
-Implementa un programa que solicite al usuario ingresar tres números enteros y muestre el mayor de ellos utilizando condicionales. Posteriormente, crea una lista con estos números e imprime solo los elementos pares.
+Para practicar lo aprendido, los estudiantes deberán escribir un programa simple que solicite al usuario su nombre y edad, imprima un mensaje personalizado con esa información, y luego determine si la persona es mayor de edad o no. Este ejercicio permitirá a los alumnos aplicar los conocimientos adquiridos sobre variables, entrada/salida de datos, operadores lógicos y estructuras condicionales.
 
-Resumen
-- Se ha cubierto la configuración inicial de Python.
-- Se han presentado las bases de la sintaxis y tipos de datos.
-- Se han explorado listas, tuplas y diccionarios como estructuras de datos.
+- Variables y tipos de datos
+- Estructuras condicionales y bucles
+- Funciones y modulación
