@@ -1,11 +1,24 @@
 # Mantenimiento
 
-- Comprender los conceptos básicos de mantenimiento de software y su aplicación en proyectos Python.
-- Identificar y corregir errores comunes en código existente para mejorar la calidad del software.
+- Comprender los aspectos clave del mantenimiento de código Python existente.
+- Identificar y corregir problemas comunes en proyectos de Python.
 
-El mantenimiento de software es una parte crucial del ciclo de vida de cualquier proyecto, incluyendo aquellos desarrollados con Python. Involucra no solo la corrección de bugs, sino también la mejora de la eficiencia y la escalabilidad del código. En proyectos reales, el código puede estar en diferentes estados: nuevo, estable o obsoleto. El mantenimiento se realiza regularmente para asegurar que el software funcione correctamente y sea fácil de actualizar. Los desarrolladores deben tener en cuenta factores como la documentación clara, la estructura modular del código y las prácticas de codificación limpias.
+El mantenimiento es una etapa crucial en la vida de cualquier proyecto de software, incluyendo aquellos desarrollados con Python. En esta lección, se abordarán los aspectos más importantes del mantenimiento de código Python existente. Se discutirá cómo identificar problemas comunes como errores de sintaxis, bugs y problemas de rendimiento, así como técnicas para corregir estos problemas de manera eficiente.
 
-Para practicar estos conceptos, los estudiantes deberán revisar un proyecto Python existente con errores y bugs, identificarlos, corregirlos y mejorar el código para que sea más legible y eficiente. Este ejercicio les ayudará a entender la importancia del mantenimiento en proyectos de desarrollo real.
+Se explorará la importancia de documentación clara y actualizada, el uso de pruebas unitarias para asegurar que el código siga funcionando correctamente con las modificaciones realizadas, y la implementación de buenas prácticas de codificación para facilitar futuras mejoras. Se proporcionará un enfoque práctico sobre cómo mantener un proyecto Python saludable a lo largo del tiempo.
 
-- Identificar y corregir errores en el código.
-- Mejorar la calidad y legibilidad del software existente.
+Ejercicio: Analiza el siguiente código Python que calcula el factorial de un número y realiza las modificaciones necesarias para corregir los posibles errores encontrados, mejorar la documentación y añadir pruebas unitarias:
+
+```python
+def factorial(n):
+    resultado = 1
+    for i in range(1,n+1)
+        resultado *= i
+    return resultado
+
+print(factorial(5))
+```
+
+Resumen:
+- Identificar problemas comunes en el código.
+- Implementar mejoras en documentación y pruebas unitarias.
