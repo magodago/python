@@ -1,15 +1,14 @@
 # Entrega y revision
 
-Objetivos
-- Entender los criterios de evaluación del proyecto final.
-- Preparar y presentar el proyecto de manera efectiva.
+- Entender los criterios de evaluación y revisión del proyecto final.
+- Practicar la presentación clara y concisa del trabajo realizado.
 
-Contenido
-En esta lección, se abordará la entrega y revisión del proyecto final. Se explicarán los criterios de evaluación que se considerarán durante la revisión, incluyendo la funcionalidad del código, la claridad en la documentación y el uso eficiente de Python. Además, se discutirá cómo presentar el proyecto de manera efectiva ante un panel de evaluadores.
+El objetivo principal de esta lección es que los estudiantes comprendan completamente los criterios de evaluación y revisión para el proyecto final de Python. Durante la clase, se discutirán en detalle las expectativas sobre la estructura, el contenido y la calidad del código. Se proporcionará una hoja de puntuación detallada con ejemplos de cómo se aplican los criterios a un proyecto real.
 
-Ejercicio
-Los estudiantes deben preparar una presentación breve (5-7 minutos) que resuma su proyecto final. La presentación debe incluir los objetivos del proyecto, la metodología utilizada y los resultados obtenidos. Los estudiantes también deben preparar una hoja de respuestas a preguntas, donde se detallen aspectos técnicos o conceptuales relevantes.
+Además, se practicará la presentación oral del trabajo final. Los estudiantes aprenderán a resumir eficazmente sus logros y desafíos en el desarrollo del proyecto, así como a responder preguntas de evaluadores de manera clara y precisa. Se recomendará que preparen una breve introducción sobre su proyecto, un resumen de los aspectos técnicos más relevantes y conclusiones sobre lo aprendido.
 
-Resumen
-- Entender los criterios de evaluación para el proyecto final.
-- Preparar y presentar el proyecto de manera efectiva.
+Ejercicio: Cada estudiante presentará brevemente su proyecto final en clase (5-7 minutos cada uno). Después de la presentación, recibirán retroalimentación oral basada en los criterios de evaluación proporcionados. Los estudiantes también podrán preguntar y discutir con sus compañeros sobre el contenido del proyecto.
+
+Puntos clave:
+- Comprender los criterios de evaluación.
+- Practicar la presentación clara y concisa del trabajo realizado.
