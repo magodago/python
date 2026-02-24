@@ -1,9 +1,11 @@
 # Recursos de la comunidad
 
-- Familiarizarse con los recursos de la comunidad Python que son útiles para el desarrollo y aprendizaje continuo.
+- Los alumnos aprenderán a identificar y utilizar recursos de la comunidad Python para resolver problemas.
+- Los estudiantes comprenderán cómo participar activamente en foros y plataformas de la comunidad para mejorar sus habilidades.
 
-En esta lección se explorarán diversos recursos disponibles en línea que pueden ayudar a los estudiantes a profundizar su conocimiento sobre Python y mantenerse actualizados con las últimas tendencias y buenas prácticas. Se destacará la importancia de participar en foros de discusión, leer documentación oficial y seguir repositorios de código abierto para mejorar y expandir sus habilidades.
+La lección se centra en el valor de la comunidad Python como una fuente invaluable de conocimiento, apoyo y colaboración. Se explorará cómo los recursos disponibles en línea, como documentación oficial, tutoriales, bibliotecas y foros de discusión, pueden ser utilizados para resolver problemas comunes o avanzados en programación. También se destacará la importancia de contribuir al conocimiento colectivo a través del sharing de soluciones y experiencia.
 
-- Participar activamente en foros de Python como Stack Overflow o Reddit.
-- Leer documentación oficial y tutoriales en línea regulares.
-- Explorar proyectos de código abierto en GitHub para aprender de otros desarrolladores.
+Ejercicio: Los estudiantes deberán buscar y documentar tres recursos útiles (una biblioteca, un tutorial y un foro) que pueden ser utilizados para resolver problemas relacionados con el manejo de archivos en Python. Deben presentar una breve descripción de cada recurso y cómo podría aplicarse en proyectos prácticos.
+
+- Los alumnos aprenderán a encontrar y utilizar recursos de la comunidad.
+- La participación activa en la comunidad puede mejorar significativamente las habilidades de programación.
