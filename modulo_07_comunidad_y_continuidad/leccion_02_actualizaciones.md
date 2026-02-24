@@ -1,11 +1,11 @@
 # Actualizaciones
 
-- Los estudiantes aprenderán a seguir las actualizaciones de Python y sus implicaciones para el desarrollo.
-- Comprenderán cómo leer y analizar la documentación oficial de Python para estar al día con nuevas características.
+- Los alumnos aprenderán sobre las actualizaciones de Python y cómo mantenerse informado sobre ellas.
+- Comprenderán la importancia de seguir las actualizaciones para aprovechar nuevas funcionalidades y mejoras de rendimiento.
 
-Python es un lenguaje de programación dinámico que se actualiza regularmente, lo que permite a los desarrolladores aprovechar las últimas mejoras en funcionalidad. Es importante mantenerse informado sobre estas actualizaciones para poder incorporarlas en proyectos futuros y mantener el código actualizado. La documentación oficial de Python es una excelente fuente de información; al leerla regularmente, se pueden identificar nuevas características que podrían ser útiles en diversos escenarios de programación.
+Python es un lenguaje de programación dinámicamente tipado que se renueva constantemente con nuevas versiones. Estas actualizaciones pueden incluir mejoras en el rendimiento, corrección de errores, introducción de nuevas funciones y bibliotecas, así como cambios en la sintaxis o comportamiento del lenguaje. Mantenerse al día con estas actualizaciones es crucial para los programadores que desean aprovechar las últimas características y optimizar su código.
 
-Para practicar la habilidad de seguir las actualizaciones, los estudiantes deben visitar el sitio web oficial de Python (python.org) y revisar la sección "What's New" al menos una vez por semana. Deben identificar tres nuevas características o cambios importantes en la documentación y discutir cómo podrían implementarse en un proyecto de ejemplo.
+Para practicar, los alumnos deberán revisar el sitio web oficial de Python (https://www.python.org/) y buscar la sección dedicada a las actualizaciones. Deberán identificar al menos tres cambios significativos en una versión reciente del lenguaje y explicar cómo estos cambios podrían afectar el desarrollo de programas existentes o mejorar su eficiencia.
 
-- Los estudiantes comprenderán la importancia de mantenerse actualizados con las últimas versiones de Python.
-- Aprenderán a consultar la documentación oficial para conocer nuevas características.
+- Los alumnos entenderán la importancia de seguir las actualizaciones de Python.
+- Serán capaces de buscar información sobre las últimas versiones y mejoras en el sitio web oficial.
