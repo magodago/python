@@ -1,15 +1,18 @@
 # Optimizacion
 
-- Optimizar el rendimiento de los programas Python mediante la utilización eficiente de estructuras de datos.
-- Implementar técnicas de programación funcional para mejorar la eficiencia y legibilidad del código.
+### Objetivos
+- Comprender las técnicas de optimización en Python para mejorar la eficiencia y velocidad del código.
+- Aplicar métodos de profilaje para identificar y corregir los puntos críticos de rendimiento en programas.
 
-Python es una potente herramienta que, al ser interpretada, necesita optimizaciones específicas para mejorar su rendimiento. Para abordar esto, se pueden utilizar varias estrategias. Una de ellas implica el uso adecuado de estructuras de datos como listas, diccionarios y conjuntos, seleccionando la más apropiada según las necesidades del programa. Por ejemplo, si se necesita acceder a elementos por clave, un diccionario es preferible a una lista. Además, comprender cómo Python maneja el reciclaje de memoria para estas estructuras puede optimizar el uso de recursos.
+### Contenido
+En esta lección, se explorará cómo optimizar el código Python mediante diversas técnicas. Se abordarán conceptos como la selección adecuada de estructuras de datos, la utilización eficiente de bucles y funciones, así como la aplicación de métodos de profilaje para identificar posibles problemas de rendimiento. Se destacará la importancia de elegir algoritmos apropiados y considerar el uso de bibliotecas externas optimizadas, como NumPy y Pandas.
 
-El segundo objetivo es familiarizarse con técnicas de programación funcional que pueden mejorar la eficiencia del código. Esto incluye el uso de funciones lambda y map/reduce para procesar listas de manera más eficiente, así como comprender cómo Python maneja las funciones como objetos y su uso en combinación con otras estructuras de datos.
+Se explicará cómo utilizar herramientas como cProfile y timeit para analizar el tiempo de ejecución y las llamadas recursivas en funciones. Se proporcionará un ejemplo práctico donde se comparará la eficiencia de diferentes implementaciones de una función que calcula los números primos hasta un cierto límite.
 
 ### Ejercicio
-Escribe un programa que calcule la suma de los primeros 1000 números pares utilizando una lista comprehension y luego usando map/reduce. Compara el rendimiento de ambos métodos utilizando `timeit` para ver cuál es más eficiente en tu entorno local.
+Implementar una función que calcule los primeros 1000 números primos utilizando tres métodos distintos: un bucle simple, un bucle con optimización del algoritmo de criba de Eratóstenes y una implementación recursiva. Utilice la biblioteca cProfile para medir el tiempo de ejecución de cada método. Compare los resultados y discuta cuál es el más eficiente.
 
 ### Resumen
-- Seleccionar las estructuras de datos adecuadas según la necesidad del programa.
-- Utilizar técnicas de programación funcional como map/reduce y funciones lambda para mejorar la eficiencia.
+- Se aprendió a utilizar técnicas de optimización en Python, como la selección adecuada de estructuras de datos y algoritmos.
+- Se aplicaron herramientas de profilaje para identificar y corregir problemas de rendimiento.
+- Se realizó un ejercicio práctico comparando diferentes implementaciones de una función, lo que permitió apreciar el impacto en la eficiencia.
