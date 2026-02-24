@@ -1,11 +1,12 @@
 # Requisitos previos
 
-- Comprender los requisitos previos necesarios antes de comenzar a aprender Python.
-- Identificar las habilidades básicas y conocimientos que se deben poseer para iniciarse en el lenguaje.
+- Comprender los requisitos previos necesarios para comenzar a aprender Python.
+- Identificar las habilidades y conocimientos básicos que facilitarán el aprendizaje del lenguaje de programación.
 
-Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos. Para empezar a aprender Python, es importante tener ciertos requisitos previos. En primer lugar, es necesario contar con una comprensión básica de conceptos matemáticos y lógicos, ya que estos son fundamentales para la resolución de problemas mediante programación. Además, se recomienda familiarizarse con el uso básico del ordenador, incluyendo manejo de archivos, navegadores web e instalación de software. Estas habilidades permitirán al estudiante navegar y utilizar entornos de desarrollo integrado (IDE) como PyCharm o Visual Studio Code sin dificultades.
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Para iniciarse con Python, se recomienda tener ciertos requisitos previos que facilitarán la comprensión y el dominio del lenguaje. Es importante tener una base en matemáticas básicas para entender conceptos como variables, operadores y funciones matemáticas. Además, es beneficioso poseer conocimientos elementales de programación, aunque no sean necesarios, ya que Python tiene un aprendizaje más intuitivo gracias a su sintaxis clara y legible. También se recomienda tener acceso a un entorno de desarrollo integrado (IDE) o una interfaz de línea de comandos para ejecutar el código.
 
-Para practicar estos conceptos, el ejercicio consiste en crear un archivo simple en Python que imprima "¡Hola, mundo!" utilizando la función `print()`. Esto permitirá al estudiante verificar su entorno de desarrollo y asegurarse de que Python está correctamente instalado. También es una excelente manera de familiarizarse con la sintaxis básica del lenguaje.
+Ejercicio: Escriba un pequeño programa en Python que solicite al usuario ingresar dos números, los sume y muestre el resultado en pantalla. Asegúrese de manejar correctamente los tipos de datos para la entrada del usuario.
 
-- Familiaridad con conceptos matemáticos y lógicos.
-- Habilidad para navegar e instalar software en el ordenador.
+- Dominar las matemáticas básicas.
+- Tener conocimientos elementales de programación.
+- Acceso a un entorno de desarrollo integrado (IDE) o una interfaz de línea de comandos.
