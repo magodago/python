@@ -1,11 +1,23 @@
 # Ejercicio guiado 1
 
-- Entender la estructura básica de un programa Python.
-- Familiarizarse con la sintaxis y los comentarios.
+- Entender la sintaxis básica de Python.
+- Practicar la escritura y ejecución de un programa simple.
 
-En esta lección se abordarán los fundamentos esenciales del lenguaje de programación Python. Se comenzará con una introducción a la estructura básica de un programa, incluyendo cómo escribir y ejecutar un código simple. Los estudiantes aprenderán sobre las variables, tipos de datos básicos (como enteros, cadenas y flotantes) y cómo realizar operaciones sencillas. Además, se explicará el uso de comentarios en Python para mejorar la legibilidad del código.
+Para esta lección, exploraremos los fundamentos esenciales de Python, enfocándonos en la sintaxis básica. Veremos cómo escribir y ejecutar programas simples utilizando el entorno de desarrollo integrado (IDE) o una terminal de comandos. La sintaxis de Python es conocida por su claridad y simplicidad, lo que facilita a los principiantes aprender rápidamente.
 
-Para practicar estos conceptos, los alumnos deberán escribir un programa que solicite al usuario su nombre y edad, muestre un mensaje de bienvenida y calcule cuántos años tendrá el usuario en 10 años. El ejercicio debe incluir la declaración de variables, asignación de valores, operaciones aritméticas básicas y la utilización de comentarios para explicar cada paso del código.
+Como ejercicio práctico, los estudiantes deberán escribir un programa que solicite al usuario su nombre y luego imprima un mensaje personalizado diciendo "¡Hola [nombre]! ¿Cómo estás?".
 
-- Familiaridad con la estructura básica de un programa Python.
-- Uso de variables y tipos de datos básicos en el lenguaje.
+## Ejercicio
+1. Abre tu IDE de Python o abre una terminal de comandos.
+2. Escribe el siguiente código:
+```python
+nombre = input("Por favor, introduce tu nombre: ")
+print(f"¡Hola {nombre}! ¿Cómo estás?")
+```
+3. Guarda el archivo con un nombre apropiado, por ejemplo `bienvenida.py`.
+4. Ejecuta el programa y prueba ingresando diferentes nombres.
+
+Este ejercicio te ayudará a familiarizarte con la estructura básica de los programas en Python, incluyendo la declaración de variables, la función `input()` para solicitar datos al usuario y la función `print()` para mostrar información en pantalla.
+
+- Familiaridad con la sintaxis básica de Python.
+- Capacidad para escribir y ejecutar un programa simple.
