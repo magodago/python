@@ -1,43 +1,11 @@
 # Ejercicio guiado 2
 
-## Objetivos
-- Familiarizar al estudiante con la manipulación de archivos en Python.
-- Introducir el uso de la biblioteca `csv` para leer y escribir datos.
+- Familiarizarse con la manipulación de listas y diccionarios en Python.
+- Implementar funciones que operen sobre colecciones para resolver problemas complejos.
 
-## Contenido
-En esta lección profundizaremos en la manipulación de archivos utilizando Python. Veremos cómo abrir, leer y escribir archivos utilizando métodos estándar del lenguaje. Además, introduciremos el uso de la biblioteca `csv`, que facilita trabajar con archivos CSV (Comma-Separated Values), un formato común para intercambiar datos entre programas. A través de ejemplos prácticos, aprenderemos a leer y escribir datos en archivos CSV utilizando funciones como `read_csv` y `write_csv`.
+En esta lección profundizaremos en la manipulación de listas y diccionarios, dos estructuras de datos fundamentales en Python. Veremos cómo realizar operaciones avanzadas como filtrado, mapeo y reducción de datos utilizando estas estructuras. Además, aprenderemos a combinar funciones con estas colecciones para resolver problemas más complejos.
 
-## Ejercicio
-Dado el siguiente código base:
+Para practicar, los estudiantes deberán desarrollar una función que tome una lista de diccionarios donde cada diccionario representa un libro con las claves 'título', 'autor' y 'año'. La función deberá filtrar los libros publicados después del año 2000, ordenarlos por autor y por título en caso de empate. El resultado debe ser una lista de tuplas (título, autor) para cada libro que cumpla con la condición.
 
-```python
-import csv
-
-def cargar_datos(ruta_archivo):
-    with open(ruta_archivo, mode='r', newline='') as archivo:
-        lector = csv.reader(archivo)
-        datos = [fila for fila in lector]
-    return datos
-
-def guardar_datos(ruta_archivo, datos):
-    with open(ruta_archivo, mode='w', newline='') as archivo:
-        escritor = csv.writer(archivo)
-        escritor.writerows(datos)
-
-# Ejemplo de uso
-ruta = 'datos.csv'
-datos = cargar_datos(ruta)
-print("Datos cargados:", datos)
-
-nuevo_dato = ['Nombre', 'Edad', 'Ciudad']
-guardar_datos(ruta, [nuevo_dato] + datos)
-```
-
-1. Corrige el código para que funcione correctamente.
-2. Agrega una función `agregar_dato` que permita agregar un nuevo registro a la lista de datos y guarde estos cambios en el archivo CSV.
-3. Prueba tu implementación agregando un nuevo dato y verifica si se ha guardado correctamente.
-
-## Resumen
-- Se aprendió cómo manipular archivos utilizando métodos estándar de Python.
-- Se introdujo el uso de la biblioteca `csv` para trabajar con archivos CSV.
-- Se realizó un ejercicio práctico que involucró cargar, guardar y agregar datos en archivos CSV.
+- Comprender la manipulación avanzada de listas y diccionarios.
+- Desarrollar funciones que operen sobre colecciones de datos complejas.
