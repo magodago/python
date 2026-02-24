@@ -1,17 +1,15 @@
 # Revision
 
-## Objetivos
-- Comprender y aplicar técnicas avanzadas de programación en Python.
-- Mejorar la eficiencia y legibilidad del código mediante la optimización.
+- Dominar la optimización de código mediante técnicas avanzadas.
+- Aprender a utilizar módulos y bibliotecas externas para solucionar problemas complejos.
 
-## Contenido
-En esta lección, se revisará el uso de decoradores en Python, una técnica que permite modificar o extender las funcionalidades de funciones y métodos sin alterar su estructura original. Los decoradores son útiles para agregar comportamientos comunes a múltiples funciones de manera concisa y modular. Se explorará cómo crear y utilizar decoradores personalizados, así como sus aplicaciones en la resolución de problemas complejos.
+Python es un lenguaje de programación versátil que permite a los desarrolladores abordar problemas complejos con eficiencia. En esta lección, se revisará cómo optimizar el código mediante técnicas avanzadas como la utilización de decoradores, comprensión de listas y funciones lambda. Estas herramientas permiten mejorar no solo la legibilidad del código, sino también su rendimiento.
 
-Además, se abordará el tema de la optimización del código Python, enfocándose en estrategias para mejorar la velocidad y eficiencia del programa sin sacrificar su legibilidad. Se discutirá sobre el uso adecuado de listas comprensivas versus bucles for anidados, así como la importancia de elegir las estructuras de datos apropiadas según el contexto.
+Para ilustrar estos conceptos, se explorará un ejemplo práctico donde se utiliza una función decoradora para medir el tiempo de ejecución de diferentes métodos en un programa. Además, se verá cómo las funciones lambda y la comprensión de listas pueden simplificar el código al trabajar con datos complejos.
 
-## Ejercicio
-Escribe un decorador que mida el tiempo de ejecución de una función y lo imprima en consola. Luego, aplica este decorador a una función que genere números primos hasta un cierto límite, utilizando tanto un bucle for anidado como una lista comprensión. Observa cómo se comportan ambas implementaciones y analiza cuál es más eficiente.
+### Ejercicio
+Escribe un script que calcule el factorial de los primeros 20 números utilizando una función decoradora para medir el tiempo de ejecución del proceso. Luego, compara este resultado con otro script que utilice una función lambda y comprensión de listas para realizar la misma tarea.
 
-## Resumen
-- Decoradores en Python permiten modificar el comportamiento de funciones de manera modular.
-- La optimización del código implica elegir estructuras de datos adecuadas y evitar bucles innecesarios.
+### Resumen
+- Se revisaron técnicas avanzadas como decoradores, funciones lambda y comprensión de listas.
+- Se aprendió cómo estas herramientas pueden mejorar tanto la eficiencia como la legibilidad del código.
