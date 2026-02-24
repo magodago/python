@@ -1,18 +1,18 @@
 # Enunciado del proyecto
 
-## Objetivos
-- Comprender la importancia y requisitos del proyecto final.
-- Desarrollar una descripción clara y detallada del enunciado del proyecto.
+Objetivos
+- Entender la importancia y el enfoque del proyecto final en el curso de Python.
+- Formular claramente el enunciado del proyecto para que sea comprensible y desafiante.
 
-## Contenido
-El proyecto final de este curso es diseñar e implementar un programa Python que resuelva un problema real. Este ejercicio práctico permitirá integrar los conocimientos adquiridos durante el curso, desde la sintaxis básica hasta la programación orientada a objetos y la manipulación de datos. El enunciado del proyecto debe incluir una descripción clara del problema a resolver, las tecnologías o bibliotecas que se deben utilizar, y los criterios de evaluación para asegurar que el trabajo cumple con los requisitos del curso.
+Contenido
+El proyecto final es una oportunidad crucial para integrar los conocimientos adquiridos durante todo el curso. Este ejercicio permitirá a los estudiantes aplicar sus habilidades prácticas en Python, explorando conceptos avanzados y resolviendo problemas complejos de manera autónoma. El enunciado del proyecto debe ser detallado pero flexible lo suficiente para permitir diversas soluciones creativas. Es importante que el enunciado incluya criterios claros de evaluación y un plazo razonable.
 
-## Ejercicio
-Elija un problema real que pueda abordar utilizando Python. Por ejemplo, puede ser un sistema de gestión de inventario, una aplicación de análisis de datos financieros o un juego simple. Escriba un breve resumen de su proyecto, incluyendo:
-- **Problema a resolver**: ¿Qué problema pretende solucionar?
-- **Tecnologías utilizadas**: ¿Cuáles son las bibliotecas o tecnologías que planea usar en su proyecto?
-- **Criterios de evaluación**: ¿Cómo se evaluará el éxito del proyecto?
+Ejercicio
+Formule un enunciado de proyecto final basado en los siguientes requisitos:
+- Debe involucrar la manipulación de datos desde archivos CSV.
+- Incluya la implementación de al menos dos estructuras de datos avanzadas (por ejemplo, árboles binarios o grafos).
+- Proporcione un conjunto de pruebas unitarias para verificar el funcionamiento del código.
 
-## Resumen
-- El proyecto final es una oportunidad para aplicar los conocimientos adquiridos.
-- El enunciado debe ser claro y detallado, incluyendo el problema a resolver, las tecnologías utilizadas y los criterios de evaluación.
+Resumen
+- El enunciado del proyecto final debe ser claro y detallado.
+- Incluir elementos como la manipulación de datos, estructuras de datos avanzadas y pruebas unitarias es crucial.
