@@ -1,15 +1,26 @@
 # Implementacion paso a paso
 
-## Objetivos
-- Implementar un proyecto real utilizando Python que permita a los estudiantes aplicar conocimientos sobre estructuras de datos y algoritmos.
-- Desarrollar habilidades prácticas en la resolución de problemas complejos mediante el uso de programación orientada a objetos.
+- Comprender cómo estructurar un proyecto real utilizando Python.
+- Desarrollar habilidades para implementar soluciones prácticas a problemas de la vida real.
 
-## Contenido
-En esta lección, se profundizará en cómo implementar un proyecto real utilizando Python. Se comenzará por seleccionar un problema que requiera del uso de estructuras de datos y algoritmos, como la optimización de rutas para una empresa de entrega. Los estudiantes aprenderán a modelar el problema, diseñar la arquitectura del programa y escribir código eficiente. Se enfatizará la importancia de la modularidad en el diseño de software y cómo Python facilita esta práctica.
+Para esta lección, vamos a trabajar en la creación de una aplicación simple que registra y muestra el estado del clima local. Esta aplicación usará la biblioteca `requests` para obtener datos meteorológicos desde un API y `tkinter` para crear una interfaz gráfica de usuario.
 
-## Ejercicio
-Implemente un programa que use una estructura de datos adecuada para optimizar las rutas de entrega de una empresa, considerando los tiempos de viaje entre diferentes ubicaciones. El programa debe permitir agregar nuevas ubicaciones y calcular el mejor orden de entrega basado en la distancia total estimada.
+### Ejercicio
+1. Instala las librerías necesarias:
+   ```bash
+   pip install requests
+   ```
 
-## Resumen
-- Seleccionar un problema real que requiera del uso de estructuras de datos y algoritmos.
-- Diseñar y implementar un programa eficiente utilizando Python, enfatizando en la modularidad y la resolución de problemas complejos.
+2. Crea un archivo llamado `clima_app.py`. En este archivo, realiza lo siguiente:
+
+   - Importa las bibliotecas necesarias.
+   - Define una función que obtenga los datos del clima de una ciudad específica usando la API OpenWeatherMap (recuerda obtener tu propia clave API).
+   - Crea una interfaz gráfica con `tkinter` para mostrar la temperatura, humedad y descripción del clima.
+   - Asegúrate de manejar cualquier error que pueda ocurrir durante la solicitud a la API.
+
+3. Ejecuta el programa e inténtalo con diferentes ciudades para verificar su funcionamiento.
+
+### Resumen
+- Se aprendió cómo integrar bibliotecas externas en proyectos Python.
+- Se desarrolló una aplicación práctica utilizando `requests` y `tkinter`.
+- Se enfatizó la importancia de manejar errores durante las solicitudes a APIs.
