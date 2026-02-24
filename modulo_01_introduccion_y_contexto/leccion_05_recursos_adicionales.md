@@ -1,11 +1,11 @@
 # Recursos adicionales
 
-- Familiarizarse con la documentación oficial de Python.
-- Explorar recursos online gratuitos para mejorar habilidades en Python.
+- Familiarizarse con recursos de aprendizaje en línea y documentación oficial.
+- Identificar herramientas útiles para la resolución de problemas y colaboración.
 
-La lección sobre recursos adicionales se enfoca en proporcionar a los estudiantes una amplia gama de herramientas y plataformas que pueden utilizar para aprender y profundizar sus conocimientos en el lenguaje de programación Python. Se recomienda la documentación oficial de Python, ya que es un recurso invaluable con información detallada sobre sintaxis, bibliotecas y mejores prácticas. Además, se invita a los estudiantes a explorar plataformas como Codecademy, Coursera y edX, donde pueden encontrar cursos gratuitos o de pago que van desde principiantes hasta nivel avanzado.
+Python es un lenguaje de programación de alto nivel que ha ganado popularidad debido a su sintaxis clara y fácil de leer. Para profundizar en el aprendizaje de Python, existen varios recursos valiosos disponibles tanto en línea como en forma de documentación oficial. La documentación de Python (https://docs.python.org/es/stable/) es una excelente fuente para entender la sintaxis y las características del lenguaje. Además, plataformas como Codecademy (https://www.codecademy.com/learn/learn-python-3) ofrecen cursos interactivos que permiten practicar el código en tiempo real. Otro recurso útil es Stack Overflow (https://es.stackoverflow.com/), donde se pueden encontrar soluciones a problemas comunes y discutir dudas con la comunidad de programadores.
 
-Ejercicio: El estudiante debe buscar y leer la documentación oficial de Python para una función específica (por ejemplo, `list.append()`) y luego escribir un breve resumen explicando cómo funciona dicha función. Posteriormente, el estudiante deberá encontrar y compartir en un hilo de discusión del curso un recurso online que le haya sido útil para aprender Python.
+Ejercicio: Busca un problema simple en Stack Overflow relacionado con Python y resuelve el problema siguiendo las instrucciones del usuario. Documenta tu proceso y cualquier dificultad que hayas enfrentado, así como cómo lo solucionaste.
 
-- Familiarizarse con la documentación oficial de Python.
-- Explorar plataformas web gratuitas para mejorar las habilidades en Python.
+- Familiarizarse con recursos de aprendizaje adicionales.
+- Practicar la resolución de problemas utilizando estos recursos.
