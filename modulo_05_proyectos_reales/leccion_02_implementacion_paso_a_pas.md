@@ -1,16 +1,13 @@
 # Implementacion paso a paso
 
-## Objetivos
-- Implementar un proyecto real que permita a los estudiantes aplicar conceptos de programación orientada a objetos.
-- Familiarizar a los estudiantes con la integración de diferentes módulos y paquetes en Python.
+- Comprender la estructura básica de un proyecto real en Python.
+- Implementar una solución a un problema práctico utilizando Python.
 
-## Contenido
-En esta lección, se continuará el desarrollo de un sistema simple de gestión de biblioteca. Los estudiantes aprenderán cómo estructurar clases y métodos para representar libros, usuarios y prestamos. Se explorará la importancia del encapsulamiento y herencia en este contexto. Además, se integrarán módulos como `datetime` para gestionar fechas y horas, y se discutirá la utilización de archivos JSON para persistir datos.
+En esta lección, se profundizará en cómo aplicar los conocimientos adquiridos sobre Python para desarrollar proyectos reales. Se abordará el proceso desde la definición del problema hasta la implementación y prueba de la solución. Los estudiantes aprenderán a organizar su código de manera eficiente, utilizar buenas prácticas de programación y documentar sus proyectos.
 
-## Ejercicio
-Desarrolla una clase `Prestamo` que tenga los siguientes atributos: `id_prestamo`, `libro`, `usuario`, `fecha_prestamo`, `fecha_devolucion`. Implementa un método `generar_recibo` que devuelva un string con la información del préstamo en formato legible. Utiliza archivos JSON para almacenar y recuperar los datos de los préstamos realizados.
+Para ilustrar este concepto, se trabajará con un ejemplo práctico: el desarrollo de una aplicación que calcula el promedio de notas de los alumnos en una clase. Los estudiantes deberán definir las funciones necesarias para ingresar las calificaciones, calcular el promedio y mostrarlo por pantalla. Además, se les pedirá que implementen un menú interactiva para permitir la entrada de datos y visualización del resultado.
 
-## Resumen
-- Se ha desarrollado una clase `Prestamo` que maneja la información relacionada con el préstamo de libros.
-- Se ha integrado el uso de archivos JSON para persistir la información de los préstamos.
-- Se ha aplicado el concepto de encapsulamiento y se ha explorado la importación de módulos en Python.
+El ejercicio consiste en crear un programa Python que permita al usuario ingresar las notas de los alumnos de una clase, calcular su promedio y mostrar el resultado final. Se recomienda utilizar funciones separadas para cada tarea (ingreso de datos, cálculo del promedio y salida de resultados) para mantener el código claro y fácil de entender.
+
+- Comprender la importancia de organizar el código en funciones.
+- Implementar un menú interactivo para interactuar con el usuario.
