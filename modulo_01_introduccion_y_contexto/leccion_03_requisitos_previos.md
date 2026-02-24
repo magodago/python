@@ -1,18 +1,11 @@
 # Requisitos previos
 
-## Objetivos
-- Identificar los conocimientos previos necesarios para comenzar a aprender Python.
-- Comprender la relevancia de Python en el campo de la programación.
+- Comprender los requisitos previos necesarios antes de comenzar a aprender Python.
+- Identificar las habilidades y conocimientos básicos que se deben poseer para iniciarse en la programación con Python.
 
-## Contenido
-Antes de sumergirse en el mundo de Python, es importante conocer algunos requisitos previos que facilitarán su aprendizaje. Primero, se recomienda tener una comprensión básica de conceptos matemáticos y lógicos, ya que estos son fundamentales para entender la programación. Segundo, aunque no es estrictamente necesario, un conocimiento básico de algún otro lenguaje de programación puede ser útil, ya que le permitirá apreciar las similitudes y diferencias con Python. Finalmente, es recomendable tener acceso a una computadora o un entorno virtual donde poder ejecutar código en tiempo real.
+Python es un lenguaje de programación de alto nivel, interpretado y orientado a objetos, que ha ganado popularidad debido a su sintaxis clara y legible. Para comenzar a aprender Python, es importante tener ciertas habilidades previas en el ámbito de la programación, aunque no se requiere ser un experto. Es fundamental entender conceptos básicos como variables, tipos de datos, estructuras de control (condicionales y bucles) y funciones. Estas nociones forman parte del contexto general que permitirá al estudiante abordar con mayor facilidad los aspectos más avanzados de Python.
 
-La relevancia de Python radica en su versatilidad y facilidad de uso, lo que la hace popular tanto para principiantes como para desarrolladores avanzados. Es ampliamente utilizado en áreas como análisis de datos, desarrollo web, inteligencia artificial y ciencia de la computación, por lo que adquirir esta habilidad puede abrir múltiples oportunidades profesionales.
+Para practicar estos conceptos previos, el estudiante deberá desarrollar un pequeño programa que solicite al usuario su nombre y edad, muestre en pantalla un mensaje personalizado incluyendo dicha información, y finalmente calcule cuántos años tendrá la persona en 10 años. Este ejercicio servirá para aplicar conocimientos de entrada de datos, variables, operaciones aritméticas y salida de resultados.
 
-## Ejercicio
-Escribe un programa simple en Python que imprima "¡Hola, mundo!" en la consola. Luego, modifica el programa para que pregunte al usuario su nombre y luego le salude personalmente.
-
-## Resumen
-- Requisitos previos incluyen conocimientos básicos de matemáticas y lógica.
-- Python es un lenguaje versátil y fácil de aprender, ideal para principiantes.
-- Practicar con ejercicios simples como el que se ha propuesto puede ayudar a consolidar la comprensión inicial del lenguaje.
+- Familiaridad con conceptos básicos de programación.
+- Capacidad para implementar operaciones simples como cálculos matemáticos y manejo de texto.
