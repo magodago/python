@@ -1,9 +1,11 @@
 # Entrega y revision
 
-- Los alumnos deben entregar su proyecto final de Python cumpliendo con todos los requisitos establecidos.
+- Los estudiantes deben presentar su proyecto final de Python a la clase.
+- Se evaluarán las habilidades técnicas y el diseño del código, así como la capacidad de explicar los componentes del proyecto.
 
-- Se revisará la implementación de algoritmos y estructuras de datos, así como la eficiencia del código y el uso adecuado de las buenas prácticas de programación en Python. También se evaluará la documentación proporcionada por cada estudiante para asegurar que su proyecto es fácil de entender y mantener.
+Para esta lección, los alumnos deberán preparar una demostración breve de su proyecto final en Python. Esta demostración debe incluir una explicación clara de cómo funciona el programa y qué problemas o tareas resuelve. Además, se recomienda que los estudiantes preparen un documento de presentación que contenga los siguientes elementos: un resumen del propósito del proyecto, una descripción detallada de la funcionalidad principal, cualquier desafío técnico enfrentado durante el desarrollo y cómo fue solucionado, y finalmente, conclusiones o lecciones aprendidas. 
 
-- Los alumnos deben preparar una presentación breve (5 a 10 minutos) donde expliquen el problema que resuelve su proyecto, cómo lo diseñaron y cualquier desafío que enfrentaron durante la implementación. Además, deben entregar un repositorio en GitHub con todo el código fuente, documentación y pruebas unitarias.
+Los estudiantes deben estar preparados para responder preguntas sobre su proyecto y discutir posibles mejoras o alternativas al diseño original.
 
-- Los puntos clave son: cumplimiento de requisitos, eficiencia del código y presentación clara.
+- Los proyectos demostrados deben incluir una explicación clara de la funcionalidad.
+- Se valorará tanto el código como la capacidad del estudiante para comunicar sus ideas.
