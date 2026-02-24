@@ -1,10 +1,17 @@
 # Donde seguir aprendiendo
 
-- El estudiante comprenderá las diversas formas de continuar aprendiendo Python después de finalizar el curso.
+- Los estudiantes comprenderán las diversas plataformas y recursos disponibles para continuar aprendiendo Python.
+- Los estudiantes identificarán al menos tres comunidades de habla hispana especializadas en Python.
 
-- Se explorarán diferentes recursos y plataformas donde los estudiantes pueden profundizar sus conocimientos en Python. Estos incluyen foros de discusión como Stack Overflow, tutoriales en YouTube, documentación oficial de Python, y comunidades en línea como Reddit o GitHub. Además, se destacará la importancia de participar en proyectos personales o colaborativos para aplicar los conocimientos adquiridos.
+## Contenido
+En esta lección, exploraremos diferentes maneras de seguir creciendo como programadores Python. Existen numerosos recursos y plataformas que pueden ayudarte a mejorar tus habilidades, tanto si buscas profundizar en aspectos específicos del lenguaje como si deseas aplicarlos en proyectos reales o colaborativos. Entre los recursos más populares se encuentran tutoriales interactivos, documentación oficial, foros de discusión y grupos de estudio.
+
+Además, es fundamental estar involucrado en comunidades de habla hispana para recibir apoyo y compartir conocimientos con otros programadores Python. Algunas de estas comunidades ofrecen sesiones de preguntas y respuestas, talleres o simplemente un espacio para intercambiar ideas y proyectos.
 
 ## Ejercicio
-El estudiante debe buscar y registrar tres recursos diferentes (un foro, un tutorial y una comunidad) donde pueda continuar aprendiendo Python después del curso actual. Debe describir brevemente cada uno de estos recursos y cómo puede ser útil para su aprendizaje continuo en el lenguaje.
+Identifica tres comunidades de habla hispana dedicadas a Python. Explora sus recursos y participa en una discusión o foro durante la próxima semana. Anota lo que encontraste más útil y qué aspectos podrían mejorar.
 
-- Los estudiantes identificarán y catalogarán los recursos más útiles para su desarrollo personal como programadores, comprendiendo la importancia de la continuidad en el aprendizaje.
+## Resumen
+- Se destacan las diversas plataformas para continuar aprendiendo Python.
+- Se enfatiza la importancia de involucrarse en comunidades hispanohablantes para el crecimiento personal.
+- Se propone un ejercicio práctico para participar en una comunidad y documentar la experiencia.
