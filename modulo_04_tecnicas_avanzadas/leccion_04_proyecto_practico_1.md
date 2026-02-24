@@ -1,24 +1,12 @@
 # Proyecto practico 1
 
-## Objetivos
-- Desarrollar una aplicación que permita a los usuarios crear y gestionar un calendario personal.
-- Implementar la integración de múltiples formatos de archivos para la importación y exportación de eventos.
+- Implementar una clase de manejo de excepciones personalizadas para mejorar la robustez del código.
+- Diseñar un sistema que utilice decoradores para loggear y optimizar el rendimiento de funciones.
 
-## Contenido
-En esta lección, se enfocará en el desarrollo de una aplicación de línea de comandos (CLI) que permita a los usuarios crear, modificar y eliminar eventos en un calendario personal. La aplicación también incluirá la funcionalidad para importar y exportar eventos desde y hacia archivos CSV y JSON.
+Se introducirá a los estudiantes al concepto de excepciones personalizadas en Python, explicando cómo crear clases de excepción heredadas de `Exception` o sus subclases. Los alumnos aprenderán a utilizar estas excepciones para manejar errores específicos de su aplicación y mejorar la legibilidad del código.
 
-Para lograr esto, se utilizarán técnicas avanzadas como la gestión de excepciones, el uso de clases para estructurar la lógica del programa, y la manipulación de archivos. Se discutirá cómo manejar diferentes formatos de datos y convertirlos entre ellos utilizando librerías como `csv` y `json`.
+Además, se explorará el uso de decoradores para loggear información relevante sobre las funciones, como parámetros y resultados, lo que facilita el depurado y mejora la trazabilidad. Los estudiantes también aprenderán a implementar técnicas de optimización en los decoradores para mejorar el rendimiento general del código.
 
-Además, se explorará cómo implementar un menú interactivo que permita a los usuarios navegar fácilmente por las funcionalidades del programa.
+Para este ejercicio práctico, los alumnos deberán crear una aplicación simple que administre excepciones personalizadas para un sistema de gestión de inventario. Deberán definir al menos tres tipos de excepciones personalizadas y utilizarlos en diferentes partes del programa. Además, deben implementar dos decoradores para loggear las operaciones realizadas sobre el inventario.
 
-## Ejercicio
-Implemente una función que permita al usuario exportar la lista de eventos actual en el calendario personal a un archivo CSV. La función debe recibir como argumento el nombre del archivo y escribir en él los datos de cada evento en formato CSV, incluyendo el título, la fecha y la hora.
-
-```python
-def exportar_a_csv(nombre_archivo: str):
-    # Implemente aquí su código
-```
-
-## Resumen
-- Se desarrollará una aplicación CLI para gestionar un calendario personal.
-- La implementación incluirá la funcionalidad de importación y exportación de eventos en formato CSV y JSON.
+Los puntos clave a resumir incluyen la importancia del manejo de excepciones personalizadas para mejorar la robustez del software y cómo los decoradores pueden ser utilizados no solo para loggear, sino también para aplicar funcionalidades adicionales como validación o control de acceso.
