@@ -1,12 +1,11 @@
 # Checklist final
 
-- Mejorar la eficiencia del código escrito por los estudiantes.
-- Identificar y corregir posibles errores o problemas de rendimiento en programas Python.
+- Familiarizarse con los pasos finales de depuración y optimización del rendimiento en Python.
+- Implementar un checklist final para asegurar la eficiencia y solidez del código.
 
-Después de revisar todo lo aprendido durante el curso, es importante asegurarse de que el código final esté libre de errores y optimizado para mejorar su rendimiento. Para ello, se recomienda utilizar un checklist que aborde diferentes aspectos como la sintaxis correcta, la eficiencia del algoritmo, la utilización adecuada de estructuras de datos y la gestión de recursos.
+Python es una herramienta versátil, pero como cualquier lenguaje de programación, puede presentar problemas que requieren atención al detallar. Para garantizar el funcionamiento óptimo y robusto de los programas en Python, es crucial realizar un chequeo final exhaustivo. Este proceso implica revisar la funcionalidad, eficiencia y estabilidad del código. Un checklist final debe incluir verificaciones como la comprobación de errores semánticos y sintácticos, la optimización de algoritmos y la gestión adecuada de recursos.
 
-Para practicar, el estudiante debe seleccionar un programa previamente escrito sobre un tema de su elección (por ejemplo, un juego simple o una aplicación de cálculo matemático) y aplicar el checklist para identificar posibles problemas. Deben documentar los pasos realizados y las correcciones implementadas.
+Para practicar, los estudiantes deben implementar un programa que calcule el factorial de un número utilizando recursividad y luego realizar una revisión final utilizando el checklist proporcionado. El checklist debe incluir preguntas como: ¿El código maneja correctamente todos los casos de entrada? ¿Se han optimizado las operaciones recursivas para evitar sobrecarga? ¿Se ha liberado adecuadamente la memoria utilizada?
 
-- Implementar el checklist en un programa existente.
-- Identificar y corregir errores de rendimiento.
-- Optimizar el código siguiendo mejores prácticas de programación.
+- Familiarizarse con un proceso de revisión final.
+- Implementar técnicas de optimización y depuración en Python.
