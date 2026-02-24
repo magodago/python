@@ -1,15 +1,11 @@
 # Pruebas y validacion
 
-Objetivos
-- Comprender la importancia de pruebas y validación en proyectos de Python.
-- Aprender a implementar métodos de prueba básicos utilizando la biblioteca unittest.
+- Comprender la importancia de las pruebas y validación en el desarrollo de software con Python.
+- Implementar técnicas básicas de pruebas unitarias utilizando la biblioteca unittest.
 
-Contenido
-En el desarrollo de software, las pruebas y la validación son elementos cruciales para asegurar que el código funcione correctamente. En Python, se puede utilizar la biblioteca `unittest` para escribir pruebas unitarias. Estas pruebas ayudan a detectar errores temprano en el ciclo de desarrollo, lo cual reduce el tiempo de depuración y mejora la calidad del software. La estructura básica de una prueba con `unittest` incluye la definición de un caso de prueba, la ejecución de acciones y la verificación de resultados esperados.
+Las pruebas y la validación son fundamentales para garantizar que el código funcione correctamente y cumpla con los requisitos definidos. En este módulo, se explorará cómo utilizar las herramientas de pruebas integradas en Python, específicamente la biblioteca unittest, para verificar que diferentes partes del programa funcionen como se espera. A través de ejemplos prácticos, se aprenderá a escribir y ejecutar pruebas unitarias que ayudarán a detectar errores temprano en el proceso de desarrollo.
 
-Ejercicio
-Implementa un programa simple que calcule el área de un círculo dado su radio. Luego, escribe pruebas unitarias utilizando `unittest` para verificar que el programa funcione correctamente con diferentes valores de radio.
+Para practicar, los estudiantes deberán desarrollar un pequeño programa que calcule la suma de dos números enteros. Luego, implementarán pruebas utilizando unittest para verificar que las sumas se realicen correctamente en diferentes escenarios, incluyendo casos con números negativos y cero.
 
-Resumen
-- Las pruebas y validación son fundamentales en el desarrollo de software.
-- Se puede utilizar la biblioteca `unittest` en Python para escribir y ejecutar pruebas unitarias.
+- Dominar el uso de unittest para escribir pruebas unitarias.
+- Identificar errores temprano en el desarrollo a través del proceso de prueba.
