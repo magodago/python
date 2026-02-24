@@ -1,27 +1,30 @@
 # Optimizacion
 
 ### Objetivos
-- Comprender y aplicar técnicas de optimización para mejorar la eficiencia del código Python.
-- Identificar y corregir posibles problemas de rendimiento en programas Python.
+- Comprender las técnicas de optimización en Python para mejorar la eficiencia del código.
+- Implementar algoritmos de optimización en proyectos prácticos.
 
 ### Contenido
-La optimización es fundamental para mejorar el rendimiento de los programas escritos en Python. Una técnica común es la utilización de listas comprensivas en lugar de bucles `for` explícitos, ya que pueden ser más eficientes y legibles. Además, la gestión adecuada de memoria y la selección del tipo correcto de estructuras de datos también son cruciales para optimizar el código.
+Las técnicas de optimización son cruciales para mejorar el rendimiento y la eficiencia del código Python. Una de las técnicas más utilizadas es la minimización del uso innecesario de recursos, como la memoria y los ciclos de CPU. Por ejemplo, en lugar de usar listas internas que pueden ser lentas para operaciones grandes, se puede optar por utilizar estructuras de datos más eficientes como NumPy arrays, que ofrecen un rendimiento significativamente mejorado.
 
-Por ejemplo, si se necesita realizar operaciones matemáticas complejas con grandes conjuntos de datos, es recomendable utilizar bibliotecas como NumPy que están optimizadas para ese propósito. Estas bibliotecas utilizan representaciones eficientes de datos y algoritmos implementados en C o Fortran, lo que resulta en un rendimiento significativamente mejorado.
-
-### Ejercicio
-Optimice el siguiente código Python que calcula la suma de los primeros 1000 números pares:
+Otra técnica es la memoización y la caché de funciones, especialmente útil en algoritmos recursivos o con muchos cálculos repetitivos. Python proporciona el módulo `functools` que ofrece decoradores para facilitar esta práctica. Por ejemplo:
 
 ```python
-suma = 0
-for i in range(2, 2001, 2):
-    suma += i
-print(suma)
+from functools import lru_cache
+
+@lru_cache(maxsize=32)
+def fib(n):
+    if n < 2:
+        return n
+    return fib(n-1) + fib(n-2)
 ```
 
-Sugerencia: Utilice listas comprensivas y la función `sum()` para mejorar el rendimiento.
+Este código calcula la secuencia de Fibonacci de manera eficiente, evitando cálculos repetidos a través del uso de caché.
+
+### Ejercicio
+Implemente una función que calcule el número de Fibonacci utilizando memoización. Luego, compare su rendimiento con una implementación recursiva sin optimización para n = 30 y n = 50. Mida el tiempo de ejecución en cada caso y explique los resultados obtenidos.
 
 ### Resumen
-- La optimización en Python se puede lograr mediante técnicas como el uso de listas comprensivas.
-- Bibliotecas especializadas como NumPy pueden proporcionar un mayor rendimiento al manejar grandes conjuntos de datos.
-- Es crucial elegir el tipo correcto de estructuras de datos y evitar bucles innecesarios para mejorar la eficiencia del código.
+- La optimización en Python mejora significativamente la eficiencia del código.
+- Se pueden utilizar estructuras de datos más eficientes como NumPy arrays para mejorar el rendimiento.
+- La memoización es una técnica efectiva para evitar cálculos repetidos, especialmente en algoritmos recursivos.
