@@ -1,12 +1,11 @@
 # Conclusiones
 
-- Comprender los conceptos fundamentales de programación aplicados en el proyecto final utilizando Python.
-- Evaluar la implementación efectiva de estructuras de datos y algoritmos en el desarrollo del proyecto.
+- Conocer las aplicaciones prácticas de Python y cómo se pueden implementar en proyectos reales.
+- Analizar la estructura y funcionalidades del proyecto final desarrollado durante el curso.
 
-En esta lección, se enfocará en reflexionar sobre las experiencias adquiridas durante el desarrollo del proyecto final. Se discutirán los aspectos técnicos y conceptuales que se aplicaron, como la utilización de listas, diccionarios y funciones para resolver problemas complejos. Además, se analizará cómo el uso de bucles y condicionales permitió automatizar tareas y mejorar la eficiencia del código.
+Después de completar el proyecto final, es crucial reflexionar sobre lo aprendido. En esta lección, se explorará las conclusiones generadas a partir del desarrollo del proyecto, identificando los aspectos técnicos y conceptuales que se han mejorado o necesitan fortalecimiento. Se discutirá también cómo Python puede ser utilizado en diversas aplicaciones reales, desde el análisis de datos hasta la creación de interfaces gráficas de usuario, pasando por la automatización de tareas.
 
-Para practicar, los estudiantes deberán revisar su proyecto final e identificar tres áreas donde consideran que pudieron aplicar mejor sus conocimientos de Python. Deben documentar brevemente cada área seleccionada, explicando cómo se implementó y cuáles fueron los resultados obtenidos.
+Para practicar estos conceptos, los estudiantes deberán presentar un informe que incluya una evaluación del proyecto final. El informe debe abordar aspectos como las herramientas y librerías utilizadas, los desafíos enfrentados durante el desarrollo y cómo se resolvieron, así como las lecciones aprendidas sobre la aplicación práctica de Python.
 
-- Identificar áreas de mejora en el uso de estructuras de datos.
-- Evaluar la eficiencia del código desarrollado.
-- Documentar claramente las aplicaciones de conceptos teóricos a prácticas.
+- Comprender las aplicaciones prácticas de Python.
+- Reflexionar sobre los avances y áreas de mejora en el proyecto final.
