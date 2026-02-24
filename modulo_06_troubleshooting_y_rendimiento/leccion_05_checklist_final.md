@@ -1,11 +1,11 @@
 # Checklist final
 
-- Mejorar la eficiencia del código escrito por los alumnos.
-- Identificar y corregir posibles errores o problemas de rendimiento en programas Python.
+- Mejorar la eficiencia y optimización del código escrito en Python.
+- Identificar y solucionar posibles errores o problemas de rendimiento que puedan surgir durante la ejecución del programa.
 
-En esta lección final sobre troubleshooting y rendimiento, se revisará un conjunto de pautas y herramientas que ayudarán a los estudiantes a identificar y solucionar problemas comunes en sus programas Python. Se abordarán aspectos como la optimización del código, el uso eficiente de estructuras de datos, la gestión adecuada de recursos y la utilización de bibliotecas para mejorar el rendimiento.
+Python es una poderosa herramienta para el desarrollo de software, pero como cualquier lenguaje de programación, puede enfrentarse a diversos problemas de rendimiento y errores. Para garantizar un código eficiente y sin fallos, es crucial realizar un chequeo final exhaustivo. Este proceso implica revisar aspectos como la estructura del código, la utilización adecuada de las funciones integradas, el manejo de excepciones, y la optimización de bucles y listas.
 
-Para practicar estos conceptos, los estudiantes deberán analizar un programa Python que realiza operaciones matemáticas complejas. Deberán identificar posibles áreas de mejora en términos de eficiencia y rendimiento, y aplicar las técnicas aprendidas para optimizar el código. El objetivo es que comprendan cómo evaluar la calidad del rendimiento de sus programas y cómo implementar soluciones prácticas.
+Para practicar estos conceptos, los estudiantes deberán implementar un programa que calcule la suma de todos los números primos menores a 1000. Posteriormente, deben realizar un chequeo final donde identifiquen posibles áreas de mejora en rendimiento y eficiencia, y propongan soluciones para optimizar el código.
 
-- Mejorar la eficiencia y rendimiento del código.
-- Aplicar un checklist para identificar problemas comunes en Python.
+- Identificar áreas de mejora en el código.
+- Aplicar técnicas de optimización y mejoras de rendimiento.
