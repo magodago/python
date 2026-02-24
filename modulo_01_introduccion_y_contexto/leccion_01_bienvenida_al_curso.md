@@ -1,11 +1,19 @@
 # Bienvenida al curso
 
-- Familiarizar a los estudiantes con la plataforma y herramientas de aprendizaje.
-- Motivarles para que se comprometan con su aprendizaje de Python.
+- Comprender los fundamentos de Python y su importancia en la programación.
+- Familiarizarse con el entorno de desarrollo y la sintaxis básica del lenguaje.
 
-En este primer módulo, introduciremos al curso y a la potente lenguaje de programación Python. Este lenguaje es ampliamente utilizado en diversas áreas como desarrollo web, análisis de datos, inteligencia artificial y más debido a su simplicidad y versatilidad. Durante esta lección, aprenderán sobre los beneficios del uso de Python, sus aplicaciones prácticas y cómo este curso les ayudará a dominar las habilidades necesarias para ser programadores eficientes.
+Python es un lenguaje de programación de alto nivel que se caracteriza por su simplicidad y claridad, lo que lo hace accesible tanto para principiantes como para expertos. Este curso te guiará a través de los fundamentos de Python, desde la instalación del entorno de desarrollo hasta la comprensión de sus características principales. Aprenderás sobre variables, tipos de datos, estructuras de control y funciones básicas.
 
-Ejercicio: Cada estudiante debe crear una cuenta en un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code. Luego, escribirán su primera línea de código Python que imprima "¡Bienvenido al curso de Python!" en la consola.
+Para comenzar, ejecuta el siguiente código en tu editor de texto favorito y luego corréelo en un intérprete de Python:
 
-- Familiarización con el IDE.
-- Creación del primer programa en Python.
+```python
+print("¡Bienvenido al curso de Python!")
+nombre = input("¿Cuál es tu nombre? ")
+print(f"Mucho gusto, {nombre}!")
+```
+
+Este ejercicio te permitirá familiarizarte con la sintaxis básica y las funciones de entrada/salida en Python.
+
+- Familiaridad con el entorno de desarrollo.
+- Comprender la importancia y simplicidad de Python.
