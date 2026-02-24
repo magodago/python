@@ -2,17 +2,16 @@
 
 ### Objetivos
 - Comprender y aplicar técnicas avanzadas de programación orientada a objetos en Python.
-- Implementar patrones de diseño para mejorar la estructura y mantenibilidad del código.
+- Implementar algoritmos eficientes utilizando estructuras de datos complejas.
 
 ### Contenido
-En esta lección, profundizaremos en las técnicas más avanzadas de programación orientada a objetos (POO) utilizando Python. Se abordará el uso de metaclasses, un mecanismo que permite manipular clases como objetos, lo cual es útil para crear patrones de diseño complejos y flexibles. También se explorarán los decoradores de clase y método avanzados, que permiten modificar o extender la funcionalidad de las clases y métodos sin alterar su código original. Estas técnicas son fundamentales para desarrollar software de alta calidad y mantenible.
+En esta lección, profundizaremos en las técnicas más avanzadas del lenguaje Python, centrándonos en la programación orientada a objetos (POO) y el uso de estructuras de datos complejas. La POO nos permitirá modelar problemas reales con mayor precisión y flexibilidad, mediante la creación de clases y objetos que encapsulan comportamientos y datos relacionados. Además, exploraremos cómo utilizar listas enlazadas, árboles binarios y grafos para resolver problemas complejos de manera eficiente.
 
-Además, se discutirá cómo utilizar metaprogramación para automatizar tareas repetitivas y mejorar la eficiencia del desarrollo. Se proporcionará un ejemplo práctico donde se creará una metaclsase que registra automáticamente los métodos de una clase, lo cual puede ser útil en aplicaciones de depuración o análisis.
+Las estructuras de datos complejas son fundamentales para manejar grandes volúmenes de datos y realizar operaciones rápidamente. Por ejemplo, los árboles binarios nos permiten buscar, insertar y eliminar elementos con una complejidad temporal logarítmica, lo que es crucial en aplicaciones donde la eficiencia es un factor importante.
 
 ### Ejercicio
-Implementa una metaclass que registre todos los métodos públicos de las clases hijas. Luego, crea una clase hija y verifica que el registro funcione correctamente al imprimir los métodos registrados.
+Implementa una clase `ArbolBinario` que permita el almacenamiento de datos numéricos. La clase debe incluir los métodos `insertar`, `buscar` y `eliminar`. Además, crea una función `recorrido_inorden` para recorrer el árbol en orden.
 
 ### Resumen
-- Metaclasses permiten manipular y extender la funcionalidad de las clases.
-- Decoradores avanzados pueden mejorar la estructura del código sin modificarlo.
-- La metaprogramación es una técnica poderosa para automatizar tareas repetitivas.
+- Se profundiza en la programación orientada a objetos y su aplicación práctica.
+- Se explora el uso de estructuras de datos complejas como listas enlazadas y árboles binarios.
