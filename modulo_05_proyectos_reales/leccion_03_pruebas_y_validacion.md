@@ -1,11 +1,13 @@
 # Pruebas y validacion
 
-- Comprender los conceptos básicos de pruebas y validación en Python.
-- Implementar pruebas unitarias utilizando la biblioteca `unittest` para asegurar la integridad del código.
+- Comprender la importancia de pruebas y validación en el desarrollo de software.
+- Implementar técnicas básicas de pruebas unitarias utilizando la biblioteca `unittest` de Python.
 
-En esta lección se explorará el proceso de pruebas y validación en proyectos de Python, enfocándose en la implementación de pruebas unitarias con la biblioteca `unittest`. Las pruebas son esenciales para garantizar que el código funcione correctamente y que las modificaciones no afecten a otros aspectos del programa. A través del uso de pruebas unitarias, se puede asegurar que cada parte del software cumple con sus requisitos funcionales.
+Python es un lenguaje de programación versátil que se utiliza en una amplia gama de aplicaciones, desde desarrollo web hasta ciencia de datos. Sin embargo, para garantizar que el código sea funcional y libre de errores, es crucial implementar pruebas y validación. Las pruebas permiten detectar problemas temprano en el proceso de desarrollo, lo que resulta en un producto más robusto y confiable.
 
-El ejercicio práctico consistirá en escribir pruebas unitarias para una función que calcula el área de un círculo dado su radio. Los estudiantes deberán definir la función `calcular_area_circulo` y luego crear pruebas utilizando `unittest` para verificar que esta función funcione correctamente con diferentes valores de entrada.
+En esta lección, se explorará la biblioteca `unittest` de Python, una herramienta integral para escribir y ejecutar pruebas unitarias. Se aprenderá cómo definir casos de prueba, usar assertions para verificar el comportamiento esperado del código y organizar pruebas en clases y métodos. Además, se practicará la implementación de estas técnicas a través de ejemplos prácticos, lo que permitirá a los estudiantes aplicar sus conocimientos inmediatamente.
 
-- Dominar la implementación de pruebas unitarias con `unittest`.
-- Asegurar el funcionamiento correcto del código mediante pruebas.
+Ejercicio: Implementa un conjunto de pruebas unitarias para una función que calcula el factorial de un número utilizando la biblioteca `unittest`. Crea al menos tres casos de prueba que cubran diferentes escenarios, incluyendo números positivos, cero y negativos. Asegúrate de usar assertions adecuadas para verificar los resultados.
+
+- Comprender la utilidad de pruebas unitarias en el desarrollo de software.
+- Practicar la implementación de pruebas utilizando la biblioteca `unittest` de Python.
