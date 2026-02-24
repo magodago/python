@@ -1,11 +1,13 @@
 # Puntos clave
 
-- Entender la implementación de decoradores en Python y sus aplicaciones prácticas.
-- Familiarizarse con la gestión de excepciones avanzada y su uso en soluciones robustas.
+- Comprender la utilización avanzada de decoradores en Python.
+- Implementar y aplicar context managers para mejorar la gestión de recursos.
 
-Python es un lenguaje de programación versátil que ofrece diversas características para mejorar el desarrollo de software. En esta lección, profundizaremos en dos aspectos cruciales: los decoradores y la gestión de excepciones avanzada. Los decoradores son una herramienta poderosa para modificar o extender las funcionalidades de funciones y métodos sin alterar su estructura original. Por ejemplo, puedes usarlos para agregar loggging, validación de datos o control de acceso a recursos. La gestión de excepciones avanzada nos permite manejar errores de manera más eficiente y robusta, permitiendo que el programa continue ejecutándose incluso en presencia de errores inesperados.
+La lección se centrará en el uso avanzado de decoradores y la implementación de context managers, herramientas fundamentales que permiten mejorar la funcionalidad y eficiencia del código. Los decoradores son una forma elegante de modificar o extender las funciones existentes sin alterar su estructura original. En esta lección se explorará cómo crear y aplicar decoradores personalizados para tareas como el control de acceso, el registro de actividad o la medición de tiempo de ejecución.
 
-Para practicar, desarrolla un decorador que registre los argumentos y el resultado de una función cuando se llama. Luego, crea un script que use este decorador para registrar la información de algunas funciones matemáticas básicas como suma, resta y multiplicación.
+Los context managers son clases que implementan los métodos `__enter__` y `__exit__`, lo que permite manejar recursos en un bloque de código de manera eficiente. Esta lección enseñará cómo crear y usar context managers para gestionar recursos como archivos o conexiones a bases de datos, asegurando su correcto cierre al finalizar el bloque.
 
-- Decoradores permiten modificar funcionalidades sin alterar la estructura original.
-- La gestión avanzada de excepciones mejora la robustez del código al manejar errores de manera más controlada.
+Para practicar, los estudiantes deberán desarrollar un decorador que mida el tiempo de ejecución de una función y otro que registre las llamadas a otra función. Además, se les pedirá que implementen un context manager para gestionar la apertura y cierre de archivos, asegurándose de que el archivo se cierra correctamente incluso si ocurren errores durante su uso.
+
+- Crear y aplicar decoradores personalizados.
+- Implementar y usar context managers para la gestión de recursos.
