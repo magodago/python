@@ -1,11 +1,16 @@
 # Requisitos previos
 
+Objetivos
 - Comprender los requisitos previos necesarios para comenzar a aprender Python.
-- Identificar las habilidades básicas y conocimientos que facilitarán la adquisición de nuevas técnicas en programación con Python.
+- Identificar las habilidades básicas que facilitan la adquisición del lenguaje de programación.
 
-En esta lección, se abordarán los requisitos previos fundamentales para iniciarse en el aprendizaje de Python. Es importante tener un entendimiento básico de conceptos como variables, tipos de datos y estructuras de control (bucles y condicionales) antes de comenzar a programar con Python. Estas nociones son cruciales ya que facilitan la comprensión de la sintaxis y lógica del lenguaje, permitiendo al estudiante centrarse en los aspectos más avanzados y específicos de Python sin tener que lidiar simultáneamente con conceptos nuevos.
+Contenido
+Antes de sumergirse en el mundo de Python, es importante conocer algunos requisitos previos que pueden simplificar y acelerar el proceso de aprendizaje. En primer lugar, se recomienda tener una comprensión básica de conceptos matemáticos, ya que estos son fundamentales para la programación en general y para Python en particular. Además, es beneficioso poseer un conocimiento elemental sobre estructuras de datos como listas, diccionarios o conjuntos, ya que son ampliamente utilizadas en el lenguaje. Finalmente, aunque no es estrictamente necesario, tener experiencia con otro lenguaje de programación puede ayudar a entender la sintaxis y los conceptos básicos más rápidamente.
 
-Para practicar estos conceptos básicos, el estudiante deberá escribir un programa simple que solicite al usuario su nombre y edad, muestre un mensaje personalizado y calcule cuántos años tendrá en 10 años. Este ejercicio ayudará a consolidar la comprensión de los tipos de datos (como cadenas y enteros) y las operaciones básicas como la entrada del usuario y la impresión.
+Ejercicio
+Escribe un pequeño programa que solicite al usuario su nombre y edad, e imprima en pantalla una frase que indique cuántos años tendrá el usuario en 10 años. Utiliza variables para almacenar el nombre y la edad actual del usuario, realiza el cálculo de la edad futura y muestra el resultado.
 
-- Dominio básico de conceptos de programación.
-- Familiaridad con variables, tipos de datos y estructuras de control.
+Resumen
+- Requisitos previos incluyen conocimientos básicos matemáticos.
+- Habilidad con estructuras de datos es útil pero no esencial.
+- Experiencia con otros lenguajes puede facilitar el aprendizaje.
