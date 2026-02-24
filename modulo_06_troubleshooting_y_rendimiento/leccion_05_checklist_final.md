@@ -1,16 +1,11 @@
 # Checklist final
 
-- **Objetivos**
-  - Identificar y corregir problemas comunes en el código de Python.
-  - Mejorar la eficiencia y rendimiento del código mediante técnicas de optimización.
+- Mejorar la capacidad del estudiante para identificar y resolver problemas comunes en Python.
+- Optimizar el rendimiento de programas Python mediante técnicas y herramientas adecuadas.
 
-- **Contenido**
-  En esta lección, se revisará un checklist final para ayudar a los estudiantes a identificar y resolver problemas frecuentes en su código de Python. Se abordarán temas como la detección de errores comunes, la mejora del rendimiento mediante el uso eficiente de estructuras de datos y algoritmos, y la optimización de recursos del sistema. Los estudiantes aprenderán cómo utilizar herramientas de depuración y análisis de rendimiento para diagnosticar problemas y implementar soluciones efectivas.
+La lección final de este módulo se enfoca en revisar y consolidar los conocimientos adquiridos sobre troubleshooting y optimización de rendimiento. Se recomienda a los estudiantes revisar sus notas, ejercicios resueltos y proyectos realizados durante el curso para identificar áreas que requieren mejora. Es importante recordar la importancia de utilizar herramientas como `timeit` y `cProfile` para medir el tiempo de ejecución y analizar el rendimiento del código.
 
-- **Ejercicio**
-  Aplicando lo aprendido en esta lección, los estudiantes deben revisar un código Python proporcionado que realiza la tarea de procesamiento de una lista grande de números. El objetivo es identificar posibles errores o áreas de mejora en el rendimiento y aplicar las técnicas aprendidas para optimizar el código. Los estudiantes deberán presentar su checklist con las correcciones propuestas y explicar cómo se implementaron estas mejoras.
+El ejercicio propuesto consiste en evaluar un programa Python proporcionado por el instructor, identificar posibles problemas y optimizaciones. Los estudiantes deben documentar sus observaciones, aplicar las mejoras sugeridas y comparar los resultados antes y después de la optimización.
 
-- **Resumen**
-  - Se ha revisado un conjunto de prácticas recomendadas para detectar y corregir errores en Python.
-  - Se han discutido estrategias para optimizar el rendimiento del código, incluyendo la selección adecuada de estructuras de datos y algoritmos.
-  - Los estudiantes deben aplicar estos conocimientos a un ejercicio práctico para mejorar su habilidad en depuración y optimización.
+- Identificación de problemas comunes mediante `timeit` y `cProfile`.
+- Aplicación de técnicas de optimización para mejorar el rendimiento del código Python.
