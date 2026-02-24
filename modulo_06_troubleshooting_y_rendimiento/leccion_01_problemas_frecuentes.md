@@ -1,13 +1,12 @@
 # Problemas frecuentes
 
 ## Contenido
-En esta lección se abordarán problemas frecuentes que pueden surgir durante la implementación de código Python y cómo resolverlos. Se discutirá la importancia de comprender los errores y mensajes de depuración, así como técnicas para mejorar el rendimiento del código.
-
-Se explorará cómo leer y analizar correctamente los errores utilizando `sys.exc_info()`, y se proporcionarán ejemplos prácticos de comunes problemas de sintaxis y lógica. Además, se explicarán conceptos clave para optimizar el rendimiento, como la gestión eficiente de memoria y la utilización de listas comprehensives en lugar de bucles for.
+En esta lección sobre problemas frecuentes en Python, se abordarán errores comunes que los desarrolladores suelen enfrentar y cómo resolverlos. Se discutirá la importancia de entender el flujo del programa y leer los mensajes de error para solucionar problemas eficientemente. Además, se explorará la optimización del rendimiento mediante técnicas como la gestión de memoria y la selección adecuada de bibliotecas.
 
 ## Ejercicio
-Implementa una función que calcule la suma de los primeros 100 números pares. Incluye un bloque `try-except` para manejar posibles errores en la lógica del código y utiliza `sys.exc_info()` para imprimir cualquier error que pueda ocurrir.
+Implementa una función que calcule la suma de dos números enteros. Luego, introduce deliberadamente un error en el código para simular un problema común (por ejemplo, intentar sumar un entero con un string). Analiza el mensaje de error que se genera y corrige el error. Muestra cómo tu corrección mejora el funcionamiento del programa.
 
 ## Resumen
-- Se aprende a leer y analizar correctamente los errores mediante el uso de `sys.exc_info()`.
-- Se discuten técnicas para mejorar el rendimiento del código, como la gestión eficiente de memoria.
+- Se destacará la importancia de leer y entender los mensajes de error.
+- Se explicará cómo optimizar el rendimiento de Python mediante técnicas específicas.
+- El ejercicio práctico ayudará a los estudiantes a aplicar estos conceptos en un contexto real.
