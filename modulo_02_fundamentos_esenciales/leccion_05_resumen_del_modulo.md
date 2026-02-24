@@ -1,16 +1,16 @@
 # Resumen del modulo
 
 Objetivos
-- Consolidar el entendimiento de los conceptos fundamentales de Python.
-- Aplicar conocimientos adquiridos sobre sintaxis básica y estructuras de datos.
+- Consolidar la comprensión de los conceptos fundamentales de Python.
+- Aplicar conocimientos adquiridos para resolver problemas básicos.
 
 Contenido
-En esta lección final del módulo de Fundamentos esenciales, revisaremos los aspectos clave que han sido cubiertos hasta ahora. Hemos explorado la instalación y configuración de Python, introducido la sintaxis básica y aprendido a trabajar con diferentes tipos de datos como enteros, cadenas y flotantes. También hemos profundizado en el uso de listas, tuplas y diccionarios, así como en las estructuras condicionales y cíclicas que son esenciales para la programación orientada al problema.
+En esta lección final del módulo sobre Fundamentos esenciales, se resumirán los aspectos más importantes que se han cubierto hasta ahora. Se revisará la sintaxis básica y estructura de Python, incluyendo variables, tipos de datos, operadores aritméticos y lógicos, así como las estructuras de control condicional y cíclica. Además, se explorarán funciones y cómo organizar el código de manera eficiente.
 
 Ejercicio
-Implementa un programa que solicite al usuario ingresar una lista de números separados por comas. El programa debe procesar esta entrada, convertir los números a enteros y luego calcular e imprimir el promedio de estos números.
+Diseña un programa en Python que solicite al usuario su nombre y edad. Luego, imprime un mensaje que indique cuántos años tendrá el usuario en 10 años. Utiliza variables para almacenar la información ingresada por el usuario y operaciones aritméticas para calcular la edad futura.
 
 Resumen
-- Se ha revisado la configuración inicial de Python.
-- Se han resumido las estructuras de datos básicas y sus operaciones.
-- Se ha enfatizado en el uso de condicionales y cíclicas para resolver problemas.
+- Se ha revisado la sintaxis básica de Python.
+- Se han aplicado conceptos como variables, tipos de datos y estructuras de control.
+- Se ha practicado la organización del código a través de funciones.
