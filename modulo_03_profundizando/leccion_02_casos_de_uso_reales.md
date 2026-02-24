@@ -1,12 +1,11 @@
 # Casos de uso reales
 
-- Familiarizarse con la implementación de algoritmos de aprendizaje automático usando Python.
-- Comprender cómo aplicar Python en proyectos reales de análisis de datos.
+- Entender cómo Python se aplica en proyectos reales para resolver problemas complejos.
+- Analizar casos de uso específicos que demuestren la versatilidad y eficacia del lenguaje.
 
-En esta lección, profundizaremos en casos de uso reales de Python, centrándonos en su aplicación en el campo del análisis de datos y el aprendizaje automático. Veremos ejemplos prácticos como la predicción de precios inmobiliarios usando regresión lineal, el análisis de sentimientos en redes sociales con técnicas de procesamiento de lenguaje natural (NLP) y la clasificación de imágenes mediante redes neuronales convolucionales. Estos casos ilustrarán cómo Python es una herramienta versátil para resolver problemas complejos en diversas industrias.
+Python es un lenguaje de programación ampliamente utilizado en diversos campos gracias a su sintaxis clara y estructura modular. En este módulo, exploraremos algunos casos de uso reales para profundizar en cómo Python se aplica en la resolución de problemas complejos. Un caso de uso relevante es el procesamiento de datos con Pandas, un marco de datos potente que facilita la manipulación y análisis de datos. Otro ejemplo es el desarrollo de aplicaciones web con Django, una framework robusto que permite crear sitios web dinámicos con facilidad.
 
-Para practicar, desarrolla un modelo de regresión lineal simple utilizando el conjunto de datos "California Housing" disponible en Scikit-learn. Tu tarea consiste en predecir los precios de las casas basándote en características como la ubicación y el tamaño del terreno. Utiliza técnicas de validación cruzada para evaluar el rendimiento de tu modelo.
+Para practicar estos conceptos, los alumnos deberán desarrollar un proyecto simple utilizando Pandas para analizar un conjunto de datos real. El objetivo es importar datos desde un archivo CSV, realizar operaciones básicas de análisis y visualización, y presentar los resultados en un informe breve. Este ejercicio permitirá a los estudiantes experimentar con la manipulación de datos y entender cómo Python se integra en el flujo de trabajo de un analista de datos.
 
-Puntos clave:
-- Python es ampliamente utilizado en el análisis de datos y aprendizaje automático.
-- Se pueden implementar modelos complejos usando librerías especializadas como Scikit-learn y TensorFlow.
+- Familiaridad con Pandas para el procesamiento de datos.
+- Comprensión del uso de Django para desarrollo web dinámico.
