@@ -1,13 +1,9 @@
 # Recursos de la comunidad
 
-- Familiarizarse con los recursos de la comunidad Python disponibles.
-- Identificar y evaluar herramientas y plataformas para colaborar y aprender.
+- Los estudiantes aprenderán a identificar y utilizar recursos de la comunidad Python para resolver problemas y mejorar su programación.
 
-La lección se centrará en explorar los diversos recursos que ofrece la comunidad Python, desde foros y listas de correo hasta repositorios de código abierto. Se destacará cómo estas herramientas facilitan el aprendizaje continuo y la colaboración entre desarrolladores, permitiendo a los estudiantes acceder a soluciones, consejos y proyectos de otros miembros de la comunidad.
+- En esta lección se explorarán los diferentes recursos disponibles en línea que pueden ser valiosos para los desarrolladores de Python, incluyendo foros de discusión como Stack Overflow, documentación oficial, repositorios de código en GitHub y grupos de Facebook o Reddit. Se destacará la importancia de participar activamente en estas comunidades para aprender de otros y contribuir con sus propias soluciones.
 
-Los recursos clave incluyen plataformas como Stack Overflow para resolver problemas técnicos, GitHub para colaborar en proyectos de código abierto, y el sitio oficial de Python.org para obtener documentación y noticias. Además, se discutirá cómo participar activamente en estas comunidades puede mejorar las habilidades de programación y fomentar la continuidad del aprendizaje.
+- Los estudiantes deberán buscar y presentar una solución a un problema técnico utilizando recursos de la comunidad Python, documentando el proceso y las fuentes utilizadas.
 
-**Ejercicio:** Buscar y evaluar tres recursos de la comunidad Python que puedan ser útiles para un proyecto actual o futuro. Escribir una breve reseña sobre cada uno, explicando cómo podría utilizarse en el desarrollo de software.
-
-- Familiarizarse con los recursos disponibles.
-- Identificar herramientas prácticas para colaborar y aprender.
+- Los estudiantes comprenderán la importancia de la colaboración y el intercambio de conocimientos en la comunidad Python. Sabrán cómo encontrar y utilizar eficazmente los recursos disponibles para mejorar sus habilidades y resolver problemas.
