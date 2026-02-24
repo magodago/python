@@ -1,14 +1,17 @@
 # Soluciones
 
-## Contenido
-En esta lección sobre soluciones a problemas y optimización del rendimiento de Python, se abordarán técnicas para identificar y corregir errores comunes en el código. Se explorará cómo utilizar herramientas como `pdb` (Python Debugger) y `logging` para depurar eficazmente. Además, se discutirá la importancia de la optimización del código mediante la utilización de estructuras de datos adecuadas, algoritmos eficientes y la minimización de operaciones innecesarias.
+- Comprender y aplicar técnicas de depuración avanzadas para solucionar problemas comunes en Python.
+- Mejorar la eficiencia del código mediante la optimización de rendimiento.
 
-Se analizarán ejemplos prácticos donde el rendimiento puede verse afectado por malas prácticas comunes en Python, como bucles ineficientes o el uso excesivo de funciones internas. Se proporcionarán soluciones que optimizan estos aspectos para mejorar significativamente la velocidad y eficiencia del código.
+Python es un lenguaje de programación versátil, pero como en cualquier otro lenguaje, puede presentar problemas que requieren solución. Uno de los primeros pasos para resolver estos problemas es utilizar técnicas de depuración efectivas. Existen varias herramientas y métodos que pueden ayudarte a identificar y corregir errores en tu código Python, tales como la utilización del depurador integrado `pdb`, la impresión de variables clave o el uso de logs.
 
-## Ejercicio
-Implementa un programa simple que calcule la suma de los primeros 1000 números naturales utilizando dos métodos: uno con un bucle `for` tradicional y otro utilizando una comprensión de lista. Mide el tiempo de ejecución de cada método y explica tus resultados en términos de rendimiento.
+Para optimizar el rendimiento de tu código, es importante considerar factores como la complejidad algorítmica, la gestión eficiente de recursos y la selección adecuada de estructuras de datos. Algunas prácticas recomendadas incluyen minimizar el uso innecesario de bucles y listas, utilizar comprensiones de lista cuando sea apropiado, y considerar la utilización de bibliotecas o módulos que proporcionen optimizaciones predefinidas.
 
-## Resumen
-- Se aprende a utilizar herramientas de depuración como `pdb` y `logging`.
-- Se entiende la importancia de optimizar el código para mejorar su rendimiento.
-- Se practica la implementación de soluciones eficientes mediante ejercicios prácticos.
+### Ejercicio
+
+Escribe un programa en Python que calcule la suma de los primeros 1000 números enteros. Asegúrate de utilizar técnicas de depuración para identificar y corregir cualquier error potencial. Luego, realiza una optimización del código para mejorar su rendimiento y compara el tiempo de ejecución antes y después de la optimización.
+
+### Resumen
+
+- Utilizar herramientas de depuración como `pdb` para identificar errores en el código.
+- Optimizar el rendimiento mediante técnicas algorítmicas y estrategias de programación eficiente.
