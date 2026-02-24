@@ -1,11 +1,13 @@
 # Temas intermedios
 
-- Comprender la utilización de decoradores en Python y sus aplicaciones prácticas.
-- Aprender a trabajar con módulos y paquetes externos, incluyendo su instalación y uso.
+- Entender la utilización de decoradores en Python y su aplicación práctica.
+- Aprender a implementar y utilizar clases y objetos para crear estructuras de datos personalizadas.
 
-Python es un lenguaje de programación versátil que ofrece una amplia gama de características para desarrollar software eficiente. En esta lección, profundizaremos en dos temas intermedios cruciales: decoradores y el manejo de módulos y paquetes externos. Los decoradores son una forma elegante de modificar funcionalidades de funciones existentes sin alterar su estructura original. Por ejemplo, puedes usar un decorador para agregar loggear a las llamadas a una función o para medir el tiempo que tarda en ejecutarse. Para trabajar con módulos y paquetes externos, es fundamental conocer cómo instalar y utilizar bibliotecas como NumPy, Pandas o Matplotlib, lo cual no solo amplía la funcionalidad de tu código sino que también te permite acceder a una gran cantidad de recursos y herramientas predefinidas.
+En esta lección profundizaremos en temas intermedios de Python, centrándonos en dos conceptos fundamentales: los decoradores y la programación orientada a objetos. Los decoradores son una característica poderosa que permite modificar o extender el comportamiento de funciones o métodos sin alterar su estructura original. Esto es especialmente útil para agregar funcionalidades comunes, como controles de acceso, métricas o logueo, de manera reutilizable y elegante.
 
-Para practicar, crea un programa que utilice el decorador `@timer` para medir el tiempo de ejecución de diferentes funciones matemáticas. Luego, instala la biblioteca NumPy usando pip e implementa un script que genere un array de números aleatorios y calcule su promedio.
+Además, exploraremos en profundidad la programación orientada a objetos (POO) en Python, incluyendo cómo definir clases, instanciar objetos y utilizar herencia. Aprenderemos a crear estructuras de datos personalizadas utilizando clases y métodos para manipularlos eficientemente. Esto nos permitirá abordar problemas complejos de manera modular y organizada.
 
-- Decoradores son una forma poderosa de modificar funcionalidades sin cambiar la estructura original.
-- La instalación y uso de módulos externos amplían significativamente las capacidades del código Python.
+Para practicar estos conceptos, realiza el siguiente ejercicio: Crea un decorador que mida el tiempo de ejecución de una función y luego aplica este decorador a una función que implemente una estructura de datos personalizada (por ejemplo, una cola o una pila). Documenta los resultados obtenidos.
+
+- Decoradores para modificar el comportamiento de funciones.
+- Programación orientada a objetos para crear estructuras de datos personalizadas.
