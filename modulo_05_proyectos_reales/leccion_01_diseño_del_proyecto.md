@@ -1,18 +1,15 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos fundamentales para diseñar un proyecto de Python.
-- Identificar y planificar las necesidades técnicas y funcionales del proyecto.
+- Comprender los pasos iniciales para diseñar un proyecto de Python.
+- Identificar y documentar las necesidades del cliente o problema a resolver.
 
 Contenido
-En esta lección se abordará el proceso de diseño de proyectos en Python, enfocándose en la planificación inicial. El primer paso es definir claramente los objetivos del proyecto, identificando tanto las necesidades técnicas como las funcionales. Las necesidades técnicas incluyen requisitos sobre lenguaje y entorno de desarrollo, mientras que las funcionales se refieren a lo que el programa debe hacer para satisfacer las expectativas del usuario final. Es crucial realizar una investigación exhaustiva en este etapa para asegurar que el proyecto sea viable y tenga un propósito claro.
+El diseño inicial es crucial en cualquier proyecto de desarrollo de software, incluyendo aquellos basados en Python. En esta lección, aprenderás cómo abordar la fase de diseño para proyectos reales. Primero, se enfatizará la importancia de comprender las necesidades del cliente o el problema que se desea resolver. Esto implica realizar una investigación exhaustiva y documentar los requisitos funcionales e no funcionales del proyecto. A continuación, se presentará un método estructurado para diseñar la arquitectura del software, eligiendo las bibliotecas y frameworks apropiados, y planificando el flujo de trabajo. Se discutirá también cómo crear diagramas de flujo o esquemas conceptuales para visualizar los procesos y flujos de datos.
 
 Ejercicio
-El estudiante deberá diseñar un proyecto simple de Python, describiendo brevemente:
-- El problema o necesidad que se pretende resolver.
-- Las funcionalidades principales del programa.
-- Los requerimientos técnicos mínimos para su implementación (por ejemplo, versiones de software, bibliotecas a utilizar).
+Diseña un proyecto simple en Python que automatice la creación de informes financieros a partir de datos CSV. Documenta las necesidades del cliente, incluyendo qué tipo de informes se requieren y cuáles son los requisitos funcionales e no funcionales. Posteriormente, crea un diagrama de flujo para representar el proceso desde la lectura de los datos hasta la generación del informe.
 
 Resumen
-- Se enfatiza la importancia de definir claramente los objetivos y necesidades tanto técnicas como funcionales en el diseño inicial.
-- Se practica la planificación y descripción del proyecto mediante un ejercicio práctico.
+- Identificar claramente las necesidades del cliente o problema a resolver.
+- Desarrollar una planificación detallada con diagramas de flujo y documentación.
