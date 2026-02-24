@@ -1,13 +1,15 @@
 # Entrega y revision
 
-- Los estudiantes deben presentar su proyecto final de Python con una demostración práctica.
-- Se evaluarán la implementación técnica del código y la documentación detallada del mismo.
+### Objetivos
+- Entender los pasos necesarios para la entrega del proyecto final de Python.
+- Aplicar técnicas de revisión y retroalimentación constructiva para mejorar el trabajo del grupo.
 
-Para esta lección, los alumnos deberán preparar una presentación breve que incluya:
-- Una introducción al proyecto
-- Explicaciones sobre el código escrito
-- Resultados obtenidos
+### Contenido
+En esta lección, se enfocará en el proceso de entrega y revisión del proyecto final de Python. Es crucial que cada estudiante comprenda cómo presentar su trabajo de manera profesional y coherente. Se discutirá la importancia de documentar claramente el código, asegurarse de que las instrucciones de entrega se cumplan y presentar el trabajo en un formato adecuado. También se abordará cómo proporcionar y recibir retroalimentación constructiva durante la revisión del proyecto.
 
-Además, cada grupo realizará una demostración de su proyecto ante la clase y recibirán retroalimentación constructiva.
+### Ejercicio
+Los estudiantes deben formar grupos y realizar una simulación de entrega y revisión del proyecto final. Cada grupo presenta su proyecto a otro, recibiendo críticas constructivas y ofreciéndolas en return. Se evaluará si el trabajo se presentó de manera clara, si las instrucciones fueron seguidas y si la documentación del código fue adecuada.
 
-Se recomienda revisar cuidadosamente las pautas del proyecto final antes de presentarlo.
+### Resumen
+- El proceso de entrega debe ser profesional y cumplir con todas las instrucciones.
+- La retroalimentación constructiva es crucial para mejorar el proyecto final.
