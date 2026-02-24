@@ -1,15 +1,16 @@
 # Diseño del proyecto
 
 Objetivos
-- Comprender los pasos iniciales para diseñar un proyecto de Python.
-- Identificar y documentar las necesidades del cliente o problema a resolver.
+- Comprender los pasos fundamentales para diseñar un proyecto de Python.
+- Identificar y planificar las necesidades técnicas del proyecto.
 
 Contenido
-El diseño inicial es crucial en cualquier proyecto de desarrollo de software, incluyendo aquellos basados en Python. En esta lección, aprenderás cómo abordar la fase de diseño para proyectos reales. Primero, se enfatizará la importancia de comprender las necesidades del cliente o el problema que se desea resolver. Esto implica realizar una investigación exhaustiva y documentar los requisitos funcionales e no funcionales del proyecto. A continuación, se presentará un método estructurado para diseñar la arquitectura del software, eligiendo las bibliotecas y frameworks apropiados, y planificando el flujo de trabajo. Se discutirá también cómo crear diagramas de flujo o esquemas conceptuales para visualizar los procesos y flujos de datos.
+En esta lección, se abordará el proceso de diseño para proyectos en Python. Se tratará la importancia de definir claramente las metas del proyecto desde el principio, así como la identificación de las tecnologías y bibliotecas que podrían ser necesarias para su implementación. Se discutirá cómo crear un esquema de flujo de trabajo que permita abordar el proyecto de manera estructurada, asegurando que cada componente esté bien planificado y coordinado.
 
 Ejercicio
-Diseña un proyecto simple en Python que automatice la creación de informes financieros a partir de datos CSV. Documenta las necesidades del cliente, incluyendo qué tipo de informes se requieren y cuáles son los requisitos funcionales e no funcionales. Posteriormente, crea un diagrama de flujo para representar el proceso desde la lectura de los datos hasta la generación del informe.
+El estudiante deberá diseñar un pequeño proyecto personal en Python, identificando las metas del proyecto, seleccionando las tecnologías apropiadas y creando un esquema básico para el flujo de trabajo. El proyecto puede ser cualquier cosa que el estudiante desee, como una aplicación de consola simple o una pequeña herramienta web.
 
 Resumen
-- Identificar claramente las necesidades del cliente o problema a resolver.
-- Desarrollar una planificación detallada con diagramas de flujo y documentación.
+- Definir claramente las metas del proyecto.
+- Identificar tecnologías y bibliotecas necesarias.
+- Crear un esquema básico para el flujo de trabajo.
